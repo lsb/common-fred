@@ -1,0 +1,1 @@
+One such method involves sampling a continuous signal at discrete time intervals.

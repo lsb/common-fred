@@ -1,0 +1,1 @@
+The amplifiers or repeaters derive their power from the potential difference drop across them.

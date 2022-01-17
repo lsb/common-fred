@@ -1,0 +1,1 @@
+It can be built as either a closed top bus or an open-top bus.

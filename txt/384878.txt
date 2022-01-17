@@ -1,0 +1,1 @@
+It is an application of edge computing.

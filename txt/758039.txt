@@ -1,0 +1,1 @@
+Two arbitration modes are supported - Round Robin and Prioritized.

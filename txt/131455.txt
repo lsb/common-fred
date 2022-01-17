@@ -1,0 +1,1 @@
+A mezzanine connector connects two parallel printed circuit boards in a stacking configuration.

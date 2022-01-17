@@ -1,0 +1,1 @@
+The Potts model has applications in signal reconstruction.

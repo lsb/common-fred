@@ -1,0 +1,1 @@
+If a user-space driver crashes, it will not crash the kernel.

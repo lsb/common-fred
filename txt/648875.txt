@@ -1,0 +1,1 @@
+The player collects five boxes and drops each one into a processor.

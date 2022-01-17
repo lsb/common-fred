@@ -1,0 +1,1 @@
+Aminet also illustrates practical use of metadata schema by software repositories.

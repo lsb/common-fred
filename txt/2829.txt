@@ -1,0 +1,1 @@
+"""Ground Control"" was the first such game to replace individual units with ""squads""."

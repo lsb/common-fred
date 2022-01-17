@@ -1,0 +1,1 @@
+Some Condorcet methods, such as Minimax, also fail the Smith criterion.

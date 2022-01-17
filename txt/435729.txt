@@ -1,0 +1,1 @@
+Likewise, currents are mapped to voltages.

@@ -1,0 +1,1 @@
+First, the strong completeness theorem and compactness fail.

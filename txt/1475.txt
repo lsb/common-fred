@@ -1,0 +1,1 @@
+"""Cold"" means ""relatively"" cold compared with rocket engine exhaust."

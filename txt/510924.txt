@@ -1,0 +1,1 @@
+Sample and hold circuits are used in linear systems.

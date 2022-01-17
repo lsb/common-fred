@@ -1,0 +1,1 @@
+Complete controllability implies state-to-state controllability.

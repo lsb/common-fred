@@ -1,0 +1,1 @@
+As interrupt servicing can disable other interrupts, the whole system could suffer.

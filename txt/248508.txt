@@ -1,0 +1,1 @@
+For infinite trees, simple algorithms often fail this.

@@ -1,0 +1,1 @@
+"Therefore, real-world applications of Lloyd's algorithm typically stop once the distribution is good enough."

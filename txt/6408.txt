@@ -1,0 +1,1 @@
+"""RuneScape"" can be run with varying levels of graphical detail."

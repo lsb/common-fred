@@ -1,0 +1,1 @@
+Both focusing and proximity-focusing detectors are in use.

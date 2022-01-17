@@ -1,0 +1,1 @@
+This rules out certain orientational combinations when two neighbor molecules are considered.

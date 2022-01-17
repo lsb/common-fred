@@ -1,0 +1,1 @@
+"Another way of eliminating quantified variables is Quine's predicate functor logic."

@@ -1,0 +1,1 @@
+Curves with that number of components are called M-curves.

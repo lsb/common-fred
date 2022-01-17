@@ -1,0 +1,1 @@
+DirectSetup is part of the DirectX application programming interface.

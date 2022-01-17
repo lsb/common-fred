@@ -1,0 +1,1 @@
+Usually, sessions will be filmed and the software will log interaction details.

@@ -1,0 +1,1 @@
+While physical effects cannot propagate from inside to outside, coordinate effects could.

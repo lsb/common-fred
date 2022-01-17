@@ -1,0 +1,1 @@
+The virial theorem can be extended to include electric and magnetic fields.

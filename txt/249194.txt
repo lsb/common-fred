@@ -1,0 +1,1 @@
+For performance reasons, only metadata integrity is ensured.

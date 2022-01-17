@@ -1,0 +1,1 @@
+"""See Historical Figures in Scrooge McDuck stories""."

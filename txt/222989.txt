@@ -1,0 +1,1 @@
+Discs are composed of multiple data layers joined by a fluorescent material.

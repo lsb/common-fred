@@ -1,0 +1,1 @@
+Variables may be lexical and grammatical, but are most often phonological.

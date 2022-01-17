@@ -1,0 +1,1 @@
+"A ""filterspec"" typically selects a subset of all the packets processed by a node."

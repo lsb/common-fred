@@ -1,0 +1,1 @@
+Each square had either a positive or negative number on it.

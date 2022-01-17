@@ -1,0 +1,1 @@
+At present the doors may be opened automatically or manually.

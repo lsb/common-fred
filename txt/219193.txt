@@ -1,0 +1,1 @@
+Defensive design in software engineering is called defensive programming.

@@ -1,0 +1,1 @@
+Contrast with Java where a class is always necessary.

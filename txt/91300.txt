@@ -1,0 +1,1 @@
+"The disjunctive version of ""modus ponens"" is the constructive dilemma."

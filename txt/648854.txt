@@ -1,0 +1,1 @@
+The player can only use one weapon at a time.

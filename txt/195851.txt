@@ -1,0 +1,1 @@
+Bullets and numbering can be applied directly to paragraphs and convert them to lists.

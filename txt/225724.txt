@@ -1,0 +1,1 @@
+Driver support is also a problem, because the adapter electronics varied so widely.

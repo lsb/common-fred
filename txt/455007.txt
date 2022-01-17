@@ -1,0 +1,1 @@
+More complex structures may also be used to store strings such as the rope.

@@ -1,0 +1,1 @@
+This is because the feedback signal will reinforce the input signal.

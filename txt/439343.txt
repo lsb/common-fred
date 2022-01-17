@@ -1,0 +1,1 @@
+Lucid uses a demand-driven model for data computation.

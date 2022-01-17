@@ -1,0 +1,1 @@
+Height- and weight-based restrictions were often ignored.

@@ -1,0 +1,1 @@
+Each operating system front-end is built using native widget toolkits.

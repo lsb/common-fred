@@ -1,0 +1,1 @@
+Game over takes the player back to the start of the current level.

@@ -1,0 +1,1 @@
+This minimum sampling frequency is called the Nyquist rate.

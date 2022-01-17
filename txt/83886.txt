@@ -1,0 +1,1 @@
+"The ""point of perspective"" for the orthographic projection is at infinite distance."

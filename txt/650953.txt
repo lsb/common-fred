@@ -1,0 +1,1 @@
+The primary behaves as an inductor, storing energy in the associated magnetic field.

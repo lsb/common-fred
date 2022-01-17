@@ -1,0 +1,1 @@
+"All data was seen as a long ""stream"" of text broken into several pages."

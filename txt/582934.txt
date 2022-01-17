@@ -1,0 +1,1 @@
+The augmentation ideal plays a basic role in group cohomology, amongst other applications.

@@ -1,0 +1,1 @@
+Our languages allow constant, function and relation symbols.

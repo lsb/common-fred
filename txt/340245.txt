@@ -1,0 +1,1 @@
+However, there could be countably many homoclinic orbits connecting one fixed point.

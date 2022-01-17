@@ -1,0 +1,1 @@
+Suppose we have a complete graph on vertices.

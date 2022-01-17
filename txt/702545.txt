@@ -1,0 +1,1 @@
+Therefore, given the stroke, the length of the crank arm can be determined.

@@ -1,0 +1,1 @@
+Where a junction spans several hundred metres, both start and end locations are given.

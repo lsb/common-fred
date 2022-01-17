@@ -1,0 +1,1 @@
+If the tailhook catches a cable, the aircraft will stop in short order regardless.

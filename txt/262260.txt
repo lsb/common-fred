@@ -1,0 +1,1 @@
+Groups that cannot be linearly ordered, such as the finite groups, are not Archimedean.

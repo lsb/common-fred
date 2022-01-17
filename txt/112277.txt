@@ -1,0 +1,1 @@
+"This standard uses 'bit' as the symbol for bit, as opposed to 'b'."

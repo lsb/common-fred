@@ -1,0 +1,1 @@
+Most server features and roles can be kept running with little to no downtime.

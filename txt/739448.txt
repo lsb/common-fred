@@ -1,0 +1,1 @@
+This release added support for version control systems other than Subversion by external plugins.

@@ -1,0 +1,1 @@
+"""Cowpens"" was the first American carrier to enter Tokyo Harbor."

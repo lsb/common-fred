@@ -1,0 +1,1 @@
+The Schottky problem asks which principally polarized abelian varieties are the Jacobians of curves.

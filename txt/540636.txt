@@ -1,0 +1,1 @@
+Some optical power is lost into clad due to these modes.

@@ -1,0 +1,1 @@
+The skeleton has either a mesh or honeycomb structure.

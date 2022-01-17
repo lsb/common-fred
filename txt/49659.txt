@@ -1,0 +1,1 @@
+"In implementations these are called ""views"" or ""queries""."

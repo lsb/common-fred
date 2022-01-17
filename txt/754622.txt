@@ -1,0 +1,1 @@
+Top scorer shown in bold when he was also top scorer for the division.

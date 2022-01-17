@@ -1,0 +1,1 @@
+For example, a processor may optionally ignore external entities.

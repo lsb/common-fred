@@ -1,0 +1,1 @@
+Audio mixing in the receiver then blends them back together.

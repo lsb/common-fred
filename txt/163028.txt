@@ -1,0 +1,1 @@
+An object is the resource that a user or process wants to access.

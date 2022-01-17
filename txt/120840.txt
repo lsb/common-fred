@@ -1,0 +1,1 @@
+A Customer Life Time Value is the output of a model, not an input.

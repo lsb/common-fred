@@ -1,0 +1,1 @@
+Members upload and download news stories by logging into the Asiavision file transfer website.

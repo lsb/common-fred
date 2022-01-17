@@ -1,0 +1,1 @@
+"It provides integrated, context-sensitive access to an extensive hyper-linked help system named ""Help Desk""."

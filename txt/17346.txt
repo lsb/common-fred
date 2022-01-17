@@ -1,0 +1,1 @@
+"As before, suppose that ""E"" is a fibre bundle with structure group ""G""."

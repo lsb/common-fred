@@ -1,0 +1,1 @@
+The mass of water vapor per unit volume of air containing the water vapor.

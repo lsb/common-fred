@@ -1,0 +1,1 @@
+A disassembler may be stand-alone or interactive.

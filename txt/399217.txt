@@ -1,0 +1,1 @@
+It is used as a measure of accuracy in numeric calculations.

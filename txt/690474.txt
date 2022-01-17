@@ -1,0 +1,1 @@
+Then, a topological sort gives an order in which to perform the jobs.

@@ -1,0 +1,1 @@
+"Additionally, the ""braid length"" is the longest dimension of a braid."

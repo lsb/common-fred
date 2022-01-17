@@ -1,0 +1,1 @@
+Humidity depends on water vaporization and condensation, which, in turn, mainly depends on temperature.

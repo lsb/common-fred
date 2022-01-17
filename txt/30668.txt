@@ -1,0 +1,1 @@
+"For instance, if ""g"" generates ""G"", then so does ""h""."

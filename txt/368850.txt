@@ -1,0 +1,1 @@
+Instead, the two-part address scheme was implemented by the hardware.

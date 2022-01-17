@@ -1,0 +1,1 @@
+Account holders could create albums that were viewable by unregistered users.

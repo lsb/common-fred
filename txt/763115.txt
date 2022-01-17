@@ -1,0 +1,1 @@
+Unlike data access, no standard exists for transaction logs.

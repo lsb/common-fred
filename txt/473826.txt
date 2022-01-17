@@ -1,0 +1,1 @@
+Often, an auxiliary toolbar program will allow access to iconified windows.

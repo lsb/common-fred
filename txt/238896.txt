@@ -1,0 +1,1 @@
+Every diffeomorphism is a homeomorphism, but not every homeomorphism is a diffeomorphism.

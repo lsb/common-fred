@@ -1,0 +1,1 @@
+Asymmetric lambda measures the percentage improvement in predicting the dependent variable.

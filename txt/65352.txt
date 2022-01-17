@@ -1,0 +1,1 @@
+"MoonEdit was originally written by Tom Dobrowolski under the name ""Multi-Editoro""."

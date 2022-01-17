@@ -1,0 +1,1 @@
+This allows any other signal to be tracked as just another change in amplitude.

@@ -1,0 +1,1 @@
+It is also unital, but it is not a unital subalgebra.

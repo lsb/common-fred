@@ -1,0 +1,1 @@
+Each skill has a governing attribute, which may apply a bonus or penalty.

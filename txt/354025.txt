@@ -1,0 +1,1 @@
+In addition to the traditional soft packet, a hard packet was also introduced.

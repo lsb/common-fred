@@ -1,0 +1,1 @@
+The Push Access Protocol is not intended for use over the air.

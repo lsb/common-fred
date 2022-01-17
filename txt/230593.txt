@@ -1,0 +1,1 @@
+Each combination of a single level selected from every factor is present once.

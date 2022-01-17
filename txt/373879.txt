@@ -1,0 +1,1 @@
+It can be propagated by either offset or seed.

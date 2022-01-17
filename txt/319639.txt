@@ -1,0 +1,1 @@
+Here, a thermal gradient is produced across a solid instead of an electric field.

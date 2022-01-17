@@ -1,0 +1,1 @@
+This table refers to the most recent language specification of each language.

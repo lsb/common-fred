@@ -1,0 +1,1 @@
+The index and stack registers allowed advanced addressing modes.

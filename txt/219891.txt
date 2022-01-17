@@ -1,0 +1,1 @@
+Depending on the data type, various additional functions are offered.

@@ -1,0 +1,1 @@
+However, if a kernel-space driver crashes it will crash the kernel.

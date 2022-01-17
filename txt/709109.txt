@@ -1,0 +1,1 @@
+These two model attributes conflict with each other.

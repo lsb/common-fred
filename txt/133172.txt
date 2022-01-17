@@ -1,0 +1,1 @@
+A peripheral vertex would be perfect, but is often hard to calculate.

@@ -1,0 +1,1 @@
+"However it defines ""Character Array"" as an array of elements of type char."

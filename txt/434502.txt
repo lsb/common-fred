@@ -1,0 +1,1 @@
+Libraries may provide assertion features as well.

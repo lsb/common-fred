@@ -1,0 +1,1 @@
+It is missing some letters and letter-diacritic combinations used in other Latin-alphabet languages.

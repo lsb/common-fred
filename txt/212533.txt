@@ -1,0 +1,1 @@
+Contact between the mouse and a cat costs the player one life.

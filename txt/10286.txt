@@ -1,0 +1,1 @@
+"A common abbreviation for ""homomorphism between algebras"" is ""algebra homomorphism"" or ""algebra map""."

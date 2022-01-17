@@ -1,0 +1,1 @@
+"These conditions require that ""d"" and ""D"" be dominant."

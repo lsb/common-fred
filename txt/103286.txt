@@ -1,0 +1,1 @@
+"The text to search for is specified as a regular expression ""pattern""."

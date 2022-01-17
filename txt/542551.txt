@@ -1,0 +1,1 @@
+Sometimes the tap will include frame lines and burned in timecode and keykode.

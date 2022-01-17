@@ -1,0 +1,1 @@
+In this mode, dithering was employed to simulate extra colors.

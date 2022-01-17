@@ -1,0 +1,1 @@
+Before approving payment, Bidpay reviewed payments via automated fraud checks.

@@ -1,0 +1,1 @@
+"""To sin"" has been defined from a Greek concordance as ""to miss the mark""."

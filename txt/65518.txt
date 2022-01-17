@@ -1,0 +1,1 @@
+"Moreover, the elements of ""P"" are pairwise disjoint and their union is ""X""."

@@ -1,0 +1,1 @@
+Hence the magnitude response of the comb filter is periodic.

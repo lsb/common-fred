@@ -1,0 +1,1 @@
+"""All lyrics written by Michael Cretu and David Fairstein, music by Cretu."

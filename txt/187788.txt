@@ -1,0 +1,1 @@
+Bistro is object oriented, dynamically typed, and reflective.

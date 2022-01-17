@@ -1,0 +1,1 @@
+Thus, the beam rider acceleration command is modified to include an extra term.

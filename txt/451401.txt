@@ -1,0 +1,1 @@
+Metamorphic code also usually outputs machine code and not its own source code.

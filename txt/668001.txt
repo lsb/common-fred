@@ -1,0 +1,1 @@
+The spirogram will identify two different types of abnormal ventilation patterns, obstructive and restrictive.

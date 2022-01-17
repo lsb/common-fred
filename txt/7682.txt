@@ -1,0 +1,1 @@
+"""The Green Bag"" is the senior class annual at the Baltimore City College."

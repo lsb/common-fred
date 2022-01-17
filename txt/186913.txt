@@ -1,0 +1,1 @@
+Bi-directional communication was possible through an interface to a computer.

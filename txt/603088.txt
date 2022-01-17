@@ -1,0 +1,1 @@
+The degree of risk is dependent on the mode of failure.

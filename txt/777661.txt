@@ -1,0 +1,1 @@
+When this happens, nearby nodes must then compensate for the failed component.

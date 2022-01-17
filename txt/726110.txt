@@ -1,0 +1,1 @@
+This can allow very long-distance broadcasting, but can also interfere with distant local stations.

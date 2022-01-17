@@ -1,0 +1,1 @@
+They are labeled end systems because they sit at the edge of the network.

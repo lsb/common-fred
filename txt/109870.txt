@@ -1,0 +1,1 @@
+"This allows contested scrums to continue during the player's suspension."

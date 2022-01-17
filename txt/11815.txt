@@ -1,0 +1,1 @@
+"A wizard which packages distribution files and creates the special ""manifest"" file is provided."

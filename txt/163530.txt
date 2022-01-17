@@ -1,0 +1,1 @@
+Analog prevention distorts the video signal to prevent high quality copying from the output.

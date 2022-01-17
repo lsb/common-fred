@@ -1,0 +1,1 @@
+The regularizer encourages the model to learn similar functions for similar tasks.

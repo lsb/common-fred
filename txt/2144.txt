@@ -1,0 +1,1 @@
+"""Enterprise"" is forced to disable a Klingon cruiser when it tries to board."

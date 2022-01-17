@@ -1,0 +1,1 @@
+In these symbioses the bacteria are never released from the infection thread.

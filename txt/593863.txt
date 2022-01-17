@@ -1,0 +1,1 @@
+The client receives the ticket and submits it to the appropriate server.

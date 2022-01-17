@@ -1,0 +1,1 @@
+In locales with telephone connection charges, each connection incurs an incremental cost.

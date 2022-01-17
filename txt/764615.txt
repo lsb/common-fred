@@ -1,0 +1,1 @@
+Usage of the card involves passing it over a card reader.

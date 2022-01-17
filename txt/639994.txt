@@ -1,0 +1,1 @@
+The new version introduces a cloud connection option using a subscription-based pricing model.

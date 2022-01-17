@@ -1,0 +1,1 @@
+A feudal lord which passes the promotion square cannot promote anymore.

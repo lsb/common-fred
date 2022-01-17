@@ -1,0 +1,1 @@
+"Self-oscillation is manifested as a linear instability of a dynamical system's static equilibrium."

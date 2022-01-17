@@ -1,0 +1,1 @@
+Users input text and watch the characters read it.

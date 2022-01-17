@@ -1,0 +1,1 @@
+To model the minimum value, use the negative of the original values.

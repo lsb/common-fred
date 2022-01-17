@@ -1,0 +1,1 @@
+All its services should be narrowly aligned with that responsibility.

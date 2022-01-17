@@ -1,0 +1,1 @@
+"Designed to produce film-quality images, Gelato uses a shading language very similar to RenderMan's."

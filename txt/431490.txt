@@ -1,0 +1,1 @@
+Later versions of some Kermit implementations also support network as well as serial connections.

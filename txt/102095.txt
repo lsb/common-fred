@@ -1,0 +1,1 @@
+"The station's advertised channel number follows the call letters."

@@ -1,0 +1,1 @@
+"""Guernica"" was on display in New York's Museum of Modern Art for many years."

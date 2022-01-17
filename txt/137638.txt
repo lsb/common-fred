@@ -1,0 +1,1 @@
+A tilt is a camera move in which the camera tilts up or down.

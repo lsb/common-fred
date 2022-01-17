@@ -1,0 +1,1 @@
+"Previously known as ""frames"", ""states"" are used for animation purposes."

@@ -1,0 +1,1 @@
+Reed-Solomon codes are specifically useful in combating mixtures of random and burst errors.

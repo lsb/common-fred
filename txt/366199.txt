@@ -1,0 +1,1 @@
+In two-member elections this is calculated by dividing the number of votes by two.

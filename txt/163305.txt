@@ -1,0 +1,1 @@
+An optimal prefix code is a prefix code with minimal average length.

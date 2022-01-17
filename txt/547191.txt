@@ -1,0 +1,1 @@
+Stochastic geometry emphasises the random geometrical objects themselves.

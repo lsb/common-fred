@@ -1,0 +1,1 @@
+Unicode as a general rule does not include accented Cyrillic letters.

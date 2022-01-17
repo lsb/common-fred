@@ -1,0 +1,1 @@
+Internally, the machine slowly weakens over time.

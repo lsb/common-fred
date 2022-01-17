@@ -1,0 +1,1 @@
+Plug-in filters are available to deal with many other formats, notably WordPerfect documents.

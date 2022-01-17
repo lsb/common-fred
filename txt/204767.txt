@@ -1,0 +1,1 @@
+Changes involved incorporating the gyro adjusted reticle into a more standard reflector sight system.

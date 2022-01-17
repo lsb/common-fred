@@ -1,0 +1,1 @@
+It provides all necessary data and calculations for accurate long range firing.

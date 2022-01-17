@@ -1,0 +1,1 @@
+Highly skewed data are often transformed by taking logarithms.

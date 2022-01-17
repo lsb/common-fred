@@ -1,0 +1,1 @@
+"If the resulting number is less than unity, an ""insertion loss"" is indicated."

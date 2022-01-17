@@ -1,0 +1,1 @@
+"These implicitly-declared classes are derived directly from ""object""."

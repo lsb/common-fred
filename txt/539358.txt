@@ -1,0 +1,1 @@
+Some larger installations utilize combined cycle generation.

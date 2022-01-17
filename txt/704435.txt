@@ -1,0 +1,1 @@
+These capabilities included an event model, random distribution generators, simulation visualization, and more.

@@ -1,0 +1,1 @@
+The getter continually removes this residual gas as it is produced.

@@ -1,0 +1,1 @@
+Divide-and-choose might produce inefficient allocations.

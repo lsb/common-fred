@@ -1,0 +1,1 @@
+"""Mairu"" means ""moor"" in Basque."

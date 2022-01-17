@@ -1,0 +1,1 @@
+"We shall show that the algebraic function is analytic in a neighborhood of ""x""."

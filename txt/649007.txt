@@ -1,0 +1,1 @@
+The player with the fewest blocks remaining wins.

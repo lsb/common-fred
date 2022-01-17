@@ -1,0 +1,1 @@
+"A semi-field of subsets of ""X"" is a semi-ring that contains ""X""."

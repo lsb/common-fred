@@ -1,0 +1,1 @@
+The innovation vector contains, at most, four non-zero pulses.

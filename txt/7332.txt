@@ -1,0 +1,1 @@
+"""Tender"" is a piano-driven ballad, with guitar, bass and drums."

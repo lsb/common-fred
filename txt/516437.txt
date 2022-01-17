@@ -1,0 +1,1 @@
+Several different representations of bi-quinary coded decimal have been used by different machines.

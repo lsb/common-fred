@@ -1,0 +1,1 @@
+After this process, the image is hosted on the server.

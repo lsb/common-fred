@@ -1,0 +1,1 @@
+Embedded systems within medical equipment are often powered by industrial computers.

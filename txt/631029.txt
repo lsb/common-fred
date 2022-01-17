@@ -1,0 +1,1 @@
+The magnetic variation at Mount Magnet is zero: magnetic north equals true north.

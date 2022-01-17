@@ -1,0 +1,1 @@
+A totally positive matrix also has all nonnegative eigenvalues.

@@ -1,0 +1,1 @@
+"""Interceptor"", constitutes a hybrid of a strategy game and a space combat flight simulator."

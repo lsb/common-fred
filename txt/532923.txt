@@ -1,0 +1,1 @@
+Simple clients can script the mpc program to issue commands to the server.

@@ -1,0 +1,1 @@
+Parks now have opening and closing times, and the time of day is displayed.

@@ -1,0 +1,1 @@
+At very high frequencies the skin depth for good conductors becomes tiny.

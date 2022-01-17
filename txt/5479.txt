@@ -1,0 +1,1 @@
+"""Omnibus"" is derived from Latin and means ""for everything""."

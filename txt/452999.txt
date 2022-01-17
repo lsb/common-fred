@@ -1,0 +1,1 @@
+Minimum excluded values are also used in graph theory, in greedy coloring algorithms.

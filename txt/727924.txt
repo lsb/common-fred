@@ -1,0 +1,1 @@
+This definition treats propositions as syntactic objects, as opposed to semantic or mental objects.

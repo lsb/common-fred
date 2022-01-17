@@ -1,0 +1,1 @@
+However, the converse is true: any normal form is also a head normal form.

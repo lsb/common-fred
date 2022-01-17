@@ -1,0 +1,1 @@
+Each business listed may have multiple brands connected to it.

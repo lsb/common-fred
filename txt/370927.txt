@@ -1,0 +1,1 @@
+It allows applications to run in remote nodes as if they run locally.

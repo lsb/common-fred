@@ -1,0 +1,1 @@
+Trilinear interpolation is frequently used in numerical analysis, data analysis, and computer graphics.

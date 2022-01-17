@@ -1,0 +1,1 @@
+Inversions are of two types: paracentric and pericentric.

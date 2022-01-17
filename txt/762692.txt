@@ -1,0 +1,1 @@
+Uniform spaces generalize metric spaces and topological groups and therefore underlie most of analysis.

@@ -1,0 +1,1 @@
+All repdigits are palindromic numbers and are multiples of repunits.

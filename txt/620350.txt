@@ -1,0 +1,1 @@
+The group operation on these elements multiplies any two sequences componentwise.

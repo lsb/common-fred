@@ -1,0 +1,1 @@
+"""Nitrosococcus"" belongs to the nitrifying bacteria."

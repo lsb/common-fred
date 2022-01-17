@@ -1,0 +1,1 @@
+"""Hartley's Jam"" is still on the market though no longer linked to Colne."

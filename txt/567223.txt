@@ -1,0 +1,1 @@
+The Laplace transform does the same thing, but more generally.

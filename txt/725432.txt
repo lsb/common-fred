@@ -1,0 +1,1 @@
+This attack is much more powerful than a classical collision attack.

@@ -1,0 +1,1 @@
+In an object pipeline, processing elements output objects instead of text.

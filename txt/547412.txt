@@ -1,0 +1,1 @@
+Stop-codons and hidden stops together are collectively referred as stop-signals.

@@ -1,0 +1,1 @@
+Its syntax is similar to the one used by MediaWiki.

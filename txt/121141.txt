@@ -1,0 +1,1 @@
+A Nim Playing Machine has been described made from TinkerToy.

@@ -1,0 +1,1 @@
+To finish a level, the player has to get to the finish line marked by a star.

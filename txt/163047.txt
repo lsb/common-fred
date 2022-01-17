@@ -1,0 +1,1 @@
+An odd minor restricts this definition by adding parity conditions to these subtrees.

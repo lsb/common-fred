@@ -1,0 +1,1 @@
+Cars in Arcade differ less in performance than they do in Simulation or Strict.

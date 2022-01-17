@@ -1,0 +1,1 @@
+"""Saw Red"" is a cover of a Barrington Levy song, ""She's Mine""."

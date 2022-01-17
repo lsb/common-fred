@@ -1,0 +1,1 @@
+"This particular function is considered a scaffold's most basic function."

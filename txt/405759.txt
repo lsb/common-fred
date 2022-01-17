@@ -1,0 +1,1 @@
+It uses the Paasche Index Formula.

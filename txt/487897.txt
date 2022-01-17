@@ -1,0 +1,1 @@
+Parcel-centroid geocoding allowed for a lot of precision in geocoding an address.

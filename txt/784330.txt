@@ -1,0 +1,1 @@
+Without loss of generality, we can consider only centered profiles, which peak at zero.

@@ -1,0 +1,1 @@
+Like a structure, all of the members of a union are by default public.

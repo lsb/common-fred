@@ -1,0 +1,1 @@
+That is, it has more information, or a higher entropy, per character.

@@ -1,0 +1,1 @@
+The colour of the lights, controlled by a computer, continually and randomly changes.

@@ -1,0 +1,1 @@
+"HipCrime's Newsagent software is a free and open source Usenet control client."

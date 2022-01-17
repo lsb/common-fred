@@ -1,0 +1,1 @@
+If the circuit has logarithmic depth, the branching program has polynomial length.

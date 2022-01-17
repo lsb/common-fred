@@ -1,0 +1,1 @@
+Its ambition is to redevelop logic from a game-theoretic semantics.

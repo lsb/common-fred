@@ -1,0 +1,1 @@
+Applications of the theory of empirical processes arise in non-parametric statistics.

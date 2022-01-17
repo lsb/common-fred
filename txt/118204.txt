@@ -1,0 +1,1 @@
+"While Alexandrescu didn't invent the technique, he has popularized it among programmers."

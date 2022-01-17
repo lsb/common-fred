@@ -1,0 +1,1 @@
+"""Petasites"" is closely related to the genera ""Tussilago"" and ""Senecio""."

@@ -1,0 +1,1 @@
+Mailslots function as a server-client interface.

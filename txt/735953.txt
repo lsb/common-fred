@@ -1,0 +1,1 @@
+This makes it particularly useful in testing launch and control systems.

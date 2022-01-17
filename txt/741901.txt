@@ -1,0 +1,1 @@
+This temperature is not the physical temperature of the antenna.

@@ -1,0 +1,1 @@
+Thus it illustrates why the harmonic mean works in this case.

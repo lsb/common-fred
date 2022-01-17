@@ -1,0 +1,1 @@
+"In the industry, ambient occlusion is often referred to as ""sky light""."

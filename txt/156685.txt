@@ -1,0 +1,1 @@
+Allegro comes with extensive documentation and many examples.

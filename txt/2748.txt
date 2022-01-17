@@ -1,0 +1,1 @@
+"""Goniochromism"" is derived from the Greek words ""gonia"", meaning ""angle"", and ""chroma"", meaning ""colour""."

@@ -1,0 +1,1 @@
+There are also several new protocols and components introduced with this type of architecture.

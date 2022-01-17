@@ -1,0 +1,1 @@
+The list excludes helicopters because they are assumed to have this capability.

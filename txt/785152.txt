@@ -1,0 +1,1 @@
+Word-processing software usually use a different kind of justification when dealing with Arabic texts.

@@ -1,0 +1,1 @@
+The divisions were implemented by repeated subtractions of the divisor.

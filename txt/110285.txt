@@ -1,0 +1,1 @@
+"This defines an associative algebra over ""K""."

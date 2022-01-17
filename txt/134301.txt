@@ -1,0 +1,1 @@
+A random variable is said to be stable if its distribution is stable.

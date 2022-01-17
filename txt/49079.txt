@@ -1,0 +1,1 @@
+"In addition to the obstacles, the adventurers are vulnerable to the player's shots."

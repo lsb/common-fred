@@ -1,0 +1,1 @@
+"""Dexter Community Schools"" is the public school district that serves Dexter residents."

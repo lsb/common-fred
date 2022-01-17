@@ -1,0 +1,1 @@
+Hardware acceleration is suitable for any repetitive, intensive key algorithm.

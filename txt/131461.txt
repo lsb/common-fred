@@ -1,0 +1,1 @@
+A microkernel-based system may boot via multiboot compatible boot loader.

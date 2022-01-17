@@ -1,0 +1,1 @@
+"""Absente"" is a French word that translates as ""absent"" in English."

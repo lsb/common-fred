@@ -1,0 +1,1 @@
+This explains why, typically, languages that natively support closures also use garbage collection.

@@ -1,0 +1,1 @@
+Only managers who have won at least one trophy are listed.

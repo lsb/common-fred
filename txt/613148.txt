@@ -1,0 +1,1 @@
+The first factor has four significant figures and the second has two significant figures.

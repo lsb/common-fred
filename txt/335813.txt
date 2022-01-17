@@ -1,0 +1,1 @@
+However, bitrate will not vary as much as in variable bitrate encoding.

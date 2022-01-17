@@ -1,0 +1,1 @@
+Each cell shares the information with its neighbors immediately after processing.

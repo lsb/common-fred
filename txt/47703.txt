@@ -1,0 +1,1 @@
+"If ""Y"" tends to decrease when ""X"" increases, the Spearman correlation coefficient is negative."

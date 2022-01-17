@@ -1,0 +1,1 @@
+"""Wabi"" represents the inner, or spiritual, experiences of human lives."

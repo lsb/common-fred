@@ -1,0 +1,1 @@
+The terminology is somewhat confusing: inverse limits are limits, while direct limits are colimits.

@@ -1,0 +1,1 @@
+A word without hyphens can be made wrappable by having soft hyphens in it.

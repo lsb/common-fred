@@ -1,0 +1,1 @@
+System calls provide an essential interface between a process and the operating system.

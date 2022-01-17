@@ -1,0 +1,1 @@
+An assumption underlying these expressions is that the molecular vibration follows simple harmonic motion.

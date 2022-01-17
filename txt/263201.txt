@@ -1,0 +1,1 @@
+Hadamard code is a special case of Reed-Muller code.

@@ -1,0 +1,1 @@
+Special configuration is required to force such downloads to continue and be cached.

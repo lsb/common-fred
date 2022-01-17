@@ -1,0 +1,1 @@
+For your first installation, I highly recommend using their prepackaged version of Python to avoid trouble.

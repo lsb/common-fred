@@ -1,0 +1,1 @@
+Sketchy style is a rendering form that mimic hand-drawn graph primitive.

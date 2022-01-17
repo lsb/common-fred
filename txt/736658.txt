@@ -1,0 +1,1 @@
+This method is commonly used in the path integral formulation of quantum field theory.

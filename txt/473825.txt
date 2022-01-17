@@ -1,0 +1,1 @@
+Often, an anti-aliasing filter is a low-pass filter; however, this is not a requirement.

@@ -1,0 +1,1 @@
+The height is often greater than or equal to the width.

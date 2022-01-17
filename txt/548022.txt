@@ -1,0 +1,1 @@
+Structures can only be removed with self-destruction.

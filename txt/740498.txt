@@ -1,0 +1,1 @@
+This servo system kept the stable member fixed with respect to inertial space.

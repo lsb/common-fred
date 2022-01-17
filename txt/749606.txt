@@ -1,0 +1,1 @@
+Thus, left rules can be seen as a sort of inverted elimination rule.

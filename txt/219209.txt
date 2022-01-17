@@ -1,0 +1,1 @@
+Define a standard auction format to be one in which the high bidder wins.

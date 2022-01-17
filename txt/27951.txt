@@ -1,0 +1,1 @@
+"Each original program had complete access to a ""virtual machine"" provided by the manager."

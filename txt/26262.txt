@@ -1,0 +1,1 @@
+"Direct-sequence spread-spectrum transmissions multiply the data being transmitted by a ""noise"" signal."

@@ -1,0 +1,1 @@
+Slice knots are known to have zero signature.

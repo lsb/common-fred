@@ -1,0 +1,1 @@
+Ingestion with food does not alter its absorption rate.

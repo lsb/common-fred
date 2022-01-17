@@ -1,0 +1,1 @@
+"""Always"" is an early version of ""Beautiful Day""."

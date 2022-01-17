@@ -1,0 +1,1 @@
+The four corner hexagons each belong to both adjacent sides.

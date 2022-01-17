@@ -1,0 +1,1 @@
+It may then discard the data, and request retransmission of the faulty frame.

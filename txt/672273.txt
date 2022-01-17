@@ -1,0 +1,1 @@
+The system is also able to serve as a captive-portal-based hotspot system.

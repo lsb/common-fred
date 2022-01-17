@@ -1,0 +1,1 @@
+The set of all such strings form a sigma algebra, specifically, a Borel algebra.

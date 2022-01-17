@@ -1,0 +1,1 @@
+However they have more phase noise and poorer frequency stability than linear oscillators.

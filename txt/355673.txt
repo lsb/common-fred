@@ -1,0 +1,1 @@
+In cases where the links are unidirectional, the reverse path approach can fail altogether.

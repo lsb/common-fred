@@ -1,0 +1,1 @@
+"Rocks, like most materials, are subject to Poisson's effect while under stress."

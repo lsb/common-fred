@@ -1,0 +1,1 @@
+"""Barber surgeons"" in Rome also performed teeth extraction, cupping, leeching, bloodletting, surgery and enemas."

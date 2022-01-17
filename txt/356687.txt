@@ -1,0 +1,1 @@
+In fictitious play strict Nash equilibria are absorbing states.

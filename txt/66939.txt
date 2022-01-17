@@ -1,0 +1,1 @@
+"Newton's and Gauss's law are mathematically equivalent, and are related by the divergence theorem."

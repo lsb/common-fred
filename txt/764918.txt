@@ -1,0 +1,1 @@
+Using modern predicate calculus, we quickly discover that the statement is ambiguous.

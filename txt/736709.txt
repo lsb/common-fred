@@ -1,0 +1,1 @@
+This method would charge users a cash fee to send emails.

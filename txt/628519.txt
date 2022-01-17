@@ -1,0 +1,1 @@
+The left-turbo function is removed, and the speed is significantly slower.

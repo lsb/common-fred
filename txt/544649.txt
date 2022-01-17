@@ -1,0 +1,1 @@
+Speech recognition engines are available for the English, Japanese, and Simplified Chinese languages.

@@ -1,0 +1,1 @@
+It also changes the amplitude envelope of the sound by increasing the sustain.

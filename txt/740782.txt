@@ -1,0 +1,1 @@
+This slope component is itself updated via exponential smoothing.

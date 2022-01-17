@@ -1,0 +1,1 @@
+However, support for ClearVideo quietly disappeared in the next version of RealVideo.

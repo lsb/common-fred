@@ -1,0 +1,1 @@
+Like many functional languages, it implements functions as first-class objects, which may be composed.

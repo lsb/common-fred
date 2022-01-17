@@ -1,0 +1,1 @@
+"""Survival of the fittest"" is sometimes claimed to be a tautology."

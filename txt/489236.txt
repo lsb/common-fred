@@ -1,0 +1,1 @@
+Pathfinding for all units is also considerably improved.

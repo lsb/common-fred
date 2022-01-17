@@ -1,0 +1,1 @@
+Where values are combined, they are delimited by colons.

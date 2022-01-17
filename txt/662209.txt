@@ -1,0 +1,1 @@
+The second version simply prints a string to the screen, as the programmer intended.

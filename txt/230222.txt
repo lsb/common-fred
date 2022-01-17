@@ -1,0 +1,1 @@
+Dynamic linking needs no linker.

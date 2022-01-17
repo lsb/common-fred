@@ -1,0 +1,1 @@
+This model is popular because it models the Poisson heterogeneity with a gamma distribution.

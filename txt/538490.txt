@@ -1,0 +1,1 @@
+Some compiled languages explicitly permit self-modifying code.

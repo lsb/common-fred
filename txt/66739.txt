@@ -1,0 +1,1 @@
+"NetSprockets was a subset of Apple's now obsolete Game Sprockets."

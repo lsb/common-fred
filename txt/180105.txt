@@ -1,0 +1,1 @@
+Available hardware included a floppy disk controller and a backplane for expansion.

@@ -1,0 +1,1 @@
+To get dynamic dispatch the programmer must declare a method as virtual.

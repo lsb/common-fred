@@ -1,0 +1,1 @@
+It generally works at higher bitrates.

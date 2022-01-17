@@ -1,0 +1,1 @@
+Assume T and S are formal theories.

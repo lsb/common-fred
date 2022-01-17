@@ -1,0 +1,1 @@
+"""Time"" magazine wonders if it evolved from the handshake and the high-five."

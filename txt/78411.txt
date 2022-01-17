@@ -1,0 +1,1 @@
+"Similarly, for ""Customer"", natural aggregations may arrange customers according to geographic location or industry."

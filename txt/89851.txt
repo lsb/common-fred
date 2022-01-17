@@ -1,0 +1,1 @@
+"The classical method of multiplying two ""n""-digit numbers requires ""n"" simple multiplications."

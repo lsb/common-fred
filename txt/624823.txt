@@ -1,0 +1,1 @@
+The intermediate value theorem says that every continuous function is a Darboux function.

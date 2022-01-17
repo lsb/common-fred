@@ -1,0 +1,1 @@
+Nevertheless, linear probing using these hash functions takes constant expected time per operation.

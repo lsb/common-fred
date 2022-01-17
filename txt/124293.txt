@@ -1,0 +1,1 @@
+A database is a model of some aspect of the reality of an organisation.

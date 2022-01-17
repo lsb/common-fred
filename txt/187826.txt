@@ -1,0 +1,1 @@
+Bitzi calls the combination of standard hash functions used by its system bitprints.

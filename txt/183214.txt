@@ -1,0 +1,1 @@
+Because most room correction filters are acausal, there is some delay.

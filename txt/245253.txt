@@ -1,0 +1,1 @@
+Fixed spaces include a hair space, thin space, wordspace, en-space, and em-space.

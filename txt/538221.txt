@@ -1,0 +1,1 @@
+Some bots may also feature logging facilities.

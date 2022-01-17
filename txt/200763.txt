@@ -1,0 +1,1 @@
+Calculating the derivatives of a polynomial is straightforward.

@@ -1,0 +1,1 @@
+"The terms ""scatternet"" and ""piconet"" are typically applied to Bluetooth wireless technology."

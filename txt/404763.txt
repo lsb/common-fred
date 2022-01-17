@@ -1,0 +1,1 @@
+It starts the main engine to propel when the torpedo hits the water.

@@ -1,0 +1,1 @@
+Besides encryption, it can also be used for authentication.

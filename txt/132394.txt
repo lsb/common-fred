@@ -1,0 +1,1 @@
+A nonlinear curve that consists of linear curves is called piece-wise linear.

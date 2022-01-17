@@ -1,0 +1,1 @@
+"Bateman is also author of ""Hydrodynamics"" and ""Numerical integration of differential equations""."

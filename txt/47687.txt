@@ -1,0 +1,1 @@
+"If ""A"" is a π-group then ""H"" is a Hall π subgroup of ""G""."

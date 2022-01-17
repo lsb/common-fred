@@ -1,0 +1,1 @@
+When blending is activated, the alpha channel is used to encode the opacity of a texture.

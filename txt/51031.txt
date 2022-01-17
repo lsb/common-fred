@@ -1,0 +1,1 @@
+"In this mode of play, a single hit will destroy the player's ship."

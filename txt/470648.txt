@@ -1,0 +1,1 @@
+Note that each type of troops has a different cost in points.

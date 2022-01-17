@@ -1,0 +1,1 @@
+A router on that network has a private address in that address space.

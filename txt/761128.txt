@@ -1,0 +1,1 @@
+Typical real-world application of this is in, e.g., financial applications or business software.

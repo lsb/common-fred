@@ -1,0 +1,1 @@
+A pretopological space is a topological space when its closure operator is idempotent.

@@ -1,0 +1,1 @@
+Each segment could contain data or capabilities, but not both.

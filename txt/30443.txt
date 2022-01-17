@@ -1,0 +1,1 @@
+"For any ""k"", the stars ""K"" are uniquely ""k""-edge-colorable graphs."

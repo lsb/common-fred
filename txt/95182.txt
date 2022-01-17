@@ -1,0 +1,1 @@
+"The low pressure turbine 'sees' the variation in flow capacity of the primary nozzle."

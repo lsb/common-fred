@@ -1,0 +1,1 @@
+R allows arbitrary whitespace, including newlines, in strings.

@@ -1,0 +1,1 @@
+Researchers have proposed and demonstrated quantum cryptography in order to create a secure channel.

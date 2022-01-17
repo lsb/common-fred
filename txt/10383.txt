@@ -1,0 +1,1 @@
+"A dataserver consists of system databases and user's databases."

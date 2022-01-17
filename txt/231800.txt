@@ -1,0 +1,1 @@
+Each state has a probability distribution over the possible output tokens.

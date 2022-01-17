@@ -1,0 +1,1 @@
+The match ends when a player reaches the player who called the names.

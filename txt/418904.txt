@@ -1,0 +1,1 @@
+Its purpose is to provide a site-independent, machine readable date and time.

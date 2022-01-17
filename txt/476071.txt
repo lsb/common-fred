@@ -1,0 +1,1 @@
+On the other hand, discriminative algorithms generally give better performance in classification tasks.

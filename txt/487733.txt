@@ -1,0 +1,1 @@
+PaperClip does not use word wrap to display text on the screen, which Ahoy!

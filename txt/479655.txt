@@ -1,0 +1,1 @@
+One-liners are also used to show off the differential expressive power of programming languages.

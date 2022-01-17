@@ -1,0 +1,1 @@
+The return value only belongs to the register domain.

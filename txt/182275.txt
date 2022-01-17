@@ -1,0 +1,1 @@
+Based on feedback information about the channel conditions, adaptive user-to-subcarrier assignment can be achieved.

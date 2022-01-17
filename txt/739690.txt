@@ -1,0 +1,1 @@
+This result is referred to as the Autonne-Takagi factorization.

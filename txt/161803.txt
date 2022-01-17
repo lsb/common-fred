@@ -1,0 +1,1 @@
+An application must assure that it uses proper transmission characteristics.

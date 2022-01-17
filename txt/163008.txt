@@ -1,0 +1,1 @@
+An isochronic fork is a concept in asynchronous digital design.

@@ -1,0 +1,1 @@
+Each part deals with a specific type of activity.

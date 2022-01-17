@@ -1,0 +1,1 @@
+Smaller objects will spin up or down much more quickly.

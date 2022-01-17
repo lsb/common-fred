@@ -1,0 +1,1 @@
+Facade objects are often Singletons because only one Facade object is required.

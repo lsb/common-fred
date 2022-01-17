@@ -1,0 +1,1 @@
+Each field is then treated as a separate virtual document within the tree.

@@ -1,0 +1,1 @@
+"Finally it reaches ""K"", whereupon fast fracture ensues and the component fails."

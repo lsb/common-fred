@@ -1,0 +1,1 @@
+Thin-walled beams are ultimately limited by local buckling and lateral-torsional buckling.

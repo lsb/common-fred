@@ -1,0 +1,1 @@
+"""Appalachia"" gets its name from its proximity to the Appalachian Trail."

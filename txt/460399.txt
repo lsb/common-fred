@@ -1,0 +1,1 @@
+Muddy can also dig into soft ground to find underground paths around obstacles.

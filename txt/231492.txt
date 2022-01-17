@@ -1,0 +1,1 @@
+Each peak is replaced by a trough and vice versa.

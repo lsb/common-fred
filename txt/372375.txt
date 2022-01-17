@@ -1,0 +1,1 @@
+It also provides libraries for software applications to use the tools.

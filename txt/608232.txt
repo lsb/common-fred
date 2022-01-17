@@ -1,0 +1,1 @@
+The essential spectrum is always closed, and it is a subset of the spectrum.

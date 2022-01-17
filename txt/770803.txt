@@ -1,0 +1,1 @@
+We define throughput T as the average number of blocks communicated per transmitted block.

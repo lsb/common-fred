@@ -1,0 +1,1 @@
+Nessus provides additional functionality beyond testing for known network vulnerabilities.

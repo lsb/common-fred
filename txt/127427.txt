@@ -1,0 +1,1 @@
+A header flit can be forwarded to a buffer if this buffer is idle.

@@ -1,0 +1,1 @@
+These integral curves are called the characteristic curves of the original partial differential equation.

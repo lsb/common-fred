@@ -1,0 +1,1 @@
+When congestion returns to a normal level, a lower-compression, higher-quality bitrate is restored.

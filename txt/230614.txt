@@ -1,0 +1,1 @@
+Each completed run increments the scores of both the team and the striker.

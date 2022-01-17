@@ -1,0 +1,1 @@
+Both techniques can work across browsers.

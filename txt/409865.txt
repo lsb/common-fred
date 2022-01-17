@@ -1,0 +1,1 @@
+It was left for future standardization, so any sequence containing it should be ignored.

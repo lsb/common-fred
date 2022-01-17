@@ -1,0 +1,1 @@
+It is a real-time strategy game using an original game engine.

@@ -1,0 +1,1 @@
+"But a hyperplane of an ""n""-dimensional projective space does not have this property."

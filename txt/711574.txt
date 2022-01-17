@@ -1,0 +1,1 @@
+They are considered two different nodes as they have their own routing addresses.

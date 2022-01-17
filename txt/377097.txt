@@ -1,0 +1,1 @@
+It follows a hypergeometric series used in the high-precision calculation of the pi digits.

@@ -1,0 +1,1 @@
+"It is bounded by ""n"" ""m""-gonal prisms and ""m"" ""n""-gonal prisms."

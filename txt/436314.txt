@@ -1,0 +1,1 @@
+Liouville field theory is associated to the A Cartan matrix.

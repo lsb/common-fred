@@ -1,0 +1,1 @@
+"""Mount Kilpatrick"" is an alternate name for this mountain."

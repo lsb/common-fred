@@ -1,0 +1,1 @@
+One technique is simply to convert sinusoids into equivalent expressions in terms of exponentials.

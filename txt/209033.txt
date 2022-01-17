@@ -1,0 +1,1 @@
+CodedColor contains different tools for image editing and viewing.

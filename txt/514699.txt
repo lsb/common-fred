@@ -1,0 +1,1 @@
+Selectable markers are used to easily differentiate transformed from untransformed cells.

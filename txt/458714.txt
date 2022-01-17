@@ -1,0 +1,1 @@
+Most systems use server side caching to improve performance.

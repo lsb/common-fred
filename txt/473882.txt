@@ -1,0 +1,1 @@
+Often, the interface to quad-edge topologies is through directed edges.

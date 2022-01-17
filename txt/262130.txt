@@ -1,0 +1,1 @@
+Ground bounce can also occur when the circuit board has poorly designed ground paths.

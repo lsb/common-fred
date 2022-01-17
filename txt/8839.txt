@@ -1,0 +1,1 @@
+"""Walking on the Moon"" has a ""sparse"" arrangement, centred around a three-note bass riff."

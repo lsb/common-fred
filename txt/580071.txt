@@ -1,0 +1,1 @@
+The algorithm is named after Hugo Steinhaus, Selmer M. Johnson and Hale F. Trotter.

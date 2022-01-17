@@ -1,0 +1,1 @@
+A sound-powered phone circuit can have two or more stations on the same circuit.

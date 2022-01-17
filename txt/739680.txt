@@ -1,0 +1,1 @@
+This result applies only to convergence to a steady state.

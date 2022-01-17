@@ -1,0 +1,1 @@
+Some additional definitions were added to more precisely define the terms with less ambiguity.

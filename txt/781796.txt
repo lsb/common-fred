@@ -1,0 +1,1 @@
+Willy is controlled using only left, right and jump.

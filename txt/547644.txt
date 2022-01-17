@@ -1,0 +1,1 @@
+Strangulated graphs are the graphs in which every peripheral cycle is a triangle.

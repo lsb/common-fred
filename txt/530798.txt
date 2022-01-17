@@ -1,0 +1,1 @@
+Shift registers can also be used as pulse extenders.

@@ -1,0 +1,1 @@
+A deterministic control problem is not subject to external random shocks.

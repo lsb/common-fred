@@ -1,0 +1,1 @@
+Each member club holds one or more racing events each year.

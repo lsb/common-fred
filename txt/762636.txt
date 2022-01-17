@@ -1,0 +1,1 @@
+Unfortunately, this behavior is inconsistent between various browsers and browser versions.

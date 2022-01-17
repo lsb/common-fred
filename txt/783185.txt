@@ -1,0 +1,1 @@
+With so many nodes, component failures were inevitable.

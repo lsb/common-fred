@@ -1,0 +1,1 @@
+Monadic Boolean algebras have an important connection to topology.

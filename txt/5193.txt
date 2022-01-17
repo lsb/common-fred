@@ -1,0 +1,1 @@
+"""Nintendo Puzzle Collection"" was co-developed by Nintendo and Intelligent Systems."

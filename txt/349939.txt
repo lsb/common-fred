@@ -1,0 +1,1 @@
+If the tests are all false, then the polygons must be split.

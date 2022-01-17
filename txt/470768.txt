@@ -1,0 +1,1 @@
+Note the value of r will be slightly different in the two equations.

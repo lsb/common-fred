@@ -1,0 +1,1 @@
+Because each password is only used once, they are useless to password sniffers.

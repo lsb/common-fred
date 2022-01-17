@@ -1,0 +1,1 @@
+Embedded Coder creates code efficient enough for use in embedded systems.

@@ -1,0 +1,1 @@
+If used for time, it can also show how long the action lasted.

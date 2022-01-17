@@ -1,0 +1,1 @@
+Adding the Hausdorff condition can make several properties become equivalent for a manifold.

@@ -1,0 +1,1 @@
+It is an octagonal number and a Harshad number.

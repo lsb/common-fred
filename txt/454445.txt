@@ -1,0 +1,1 @@
+Monolithic domes are a form of monolithic architecture.

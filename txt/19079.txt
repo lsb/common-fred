@@ -1,0 +1,1 @@
+"Bayesian theorem is worth learning if you're studying algorithms."

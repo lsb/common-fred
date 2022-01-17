@@ -1,0 +1,1 @@
+"This is the number which fully identifies a subscriber's home network."

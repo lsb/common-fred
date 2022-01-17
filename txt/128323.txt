@@ -1,0 +1,1 @@
+A library is similar to a folder in Windows.

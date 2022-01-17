@@ -1,0 +1,1 @@
+This pruning of connections occurs through the elimination of the unnecessary collaterals.

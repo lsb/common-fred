@@ -1,0 +1,1 @@
+"White square means the actor doesn't appear in that season at all."

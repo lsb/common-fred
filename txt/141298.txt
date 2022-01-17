@@ -1,0 +1,1 @@
+Access control also uses authentication to verify the identity of consumers.

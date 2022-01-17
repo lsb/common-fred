@@ -1,0 +1,1 @@
+The reporter should help the vendor reproduce the bug and work out a fix.

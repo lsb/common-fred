@@ -1,0 +1,1 @@
+There are rush-hour, midday, evening, weekend and late night service patterns.

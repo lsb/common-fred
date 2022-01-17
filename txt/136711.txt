@@ -1,0 +1,1 @@
+A square pentagonal number is a pentagonal number that is also a perfect square.

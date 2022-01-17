@@ -1,0 +1,1 @@
+When a function is called, a stack frame is created.

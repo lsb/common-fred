@@ -1,0 +1,1 @@
+For a noncommutative ring, the usual determinant is not defined.

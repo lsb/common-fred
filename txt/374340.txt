@@ -1,0 +1,1 @@
+It communicated using the Microsoft Notification Protocol, a proprietary instant messaging protocol.

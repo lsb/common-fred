@@ -1,0 +1,1 @@
+This more generalized version extends the aforementioned definition to encompass transfinite listings.

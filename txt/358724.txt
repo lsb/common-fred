@@ -1,0 +1,1 @@
+In newer systems, these protocols are often used in conjunction with ethernet.

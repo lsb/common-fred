@@ -1,0 +1,1 @@
+"Unlike other adventure games of the period, ""Labyrinth"" does not feature a command-line interface."

@@ -1,0 +1,1 @@
+No distortion occurs at the tangent point, but distortion increases rapidly away from it.

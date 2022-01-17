@@ -1,0 +1,1 @@
+This approach has also been used in document summarization, considered below.

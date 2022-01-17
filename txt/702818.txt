@@ -1,0 +1,1 @@
+Therefore, the secant method may occasionally be faster in practice.

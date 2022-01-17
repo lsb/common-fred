@@ -1,0 +1,1 @@
+The index of dissimilarity can be used as a measure of segregation.

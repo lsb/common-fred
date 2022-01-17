@@ -1,0 +1,1 @@
+Instead, floating point formats were retained, allowing Fortran code to port directly.

@@ -1,0 +1,1 @@
+In the above example, time is still represented by reading left-to-right.

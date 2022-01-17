@@ -1,0 +1,1 @@
+ScriptBasic also has an open interface for preprocessor developers.

@@ -1,0 +1,1 @@
+This halves the number of address bus signals required to connect to the memory.

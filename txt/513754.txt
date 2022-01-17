@@ -1,0 +1,1 @@
+See Gibbs paradox for a derivation of the Sackur-Tetrode equation.

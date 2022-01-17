@@ -1,0 +1,1 @@
+"A ""dimension"" is what describes these ""labels""; it provides information about the ""measure""."

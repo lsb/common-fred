@@ -1,0 +1,1 @@
+Both stations use directional antennas to reduce their signals toward each other.

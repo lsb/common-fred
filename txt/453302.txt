@@ -1,0 +1,1 @@
+Misordered packets may be either reordered or dropped and interpolated.

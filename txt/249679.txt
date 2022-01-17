@@ -1,0 +1,1 @@
+For the generation of uniform random variates, see Random number generation.

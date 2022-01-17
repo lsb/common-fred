@@ -1,0 +1,1 @@
+Only spacetimes which model an isolated object are asymptotically flat.

@@ -1,0 +1,1 @@
+This bolt is now protecting the climber in the event of a fall.

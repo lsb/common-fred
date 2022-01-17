@@ -1,0 +1,1 @@
+However, the clustering mode must be enabled manually after a failure.

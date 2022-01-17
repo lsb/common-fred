@@ -1,0 +1,1 @@
+No version of Linux has ever supported this traditional behavior.

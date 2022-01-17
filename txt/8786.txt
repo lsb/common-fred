@@ -1,0 +1,1 @@
+"""Virtual Light"" is a science-fiction novel set in a postmodern, dystopian, cyberpunk future."

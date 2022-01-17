@@ -1,0 +1,1 @@
+The player is required to complete each level with a specific character.

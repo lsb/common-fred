@@ -1,0 +1,1 @@
+If two characters are tied, the winner is decided by a rock-paper-scissors.

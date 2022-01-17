@@ -1,0 +1,1 @@
+Soft updates require periodic flushing of the metadata to nonvolatile storage.

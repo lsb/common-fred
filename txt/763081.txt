@@ -1,0 +1,1 @@
+Unlike a harvester, it did not delimb the tree after felling it.

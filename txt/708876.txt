@@ -1,0 +1,1 @@
+These three seconds are a result of the autonegotiation behavior.

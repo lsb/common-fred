@@ -1,0 +1,1 @@
+The harmonic normal-mode bath leads to a physically consistent picture of quantum dissipation.

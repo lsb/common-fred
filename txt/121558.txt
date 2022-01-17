@@ -1,0 +1,1 @@
+A base abstracts the hydrogen atom alpha to the aromatic ketone, forming an enolate.

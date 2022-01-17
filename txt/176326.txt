@@ -1,0 +1,1 @@
+At low screen resolutions, hinting is critical for producing clear, legible text.

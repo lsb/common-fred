@@ -1,0 +1,1 @@
+Integers of this form are referred to as Blum primes.

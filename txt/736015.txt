@@ -1,0 +1,1 @@
+This makes the radar future proof in case of evolving requirements.

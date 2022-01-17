@@ -1,0 +1,1 @@
+No uninstaller is provided.

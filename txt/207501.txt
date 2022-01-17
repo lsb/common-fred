@@ -1,0 +1,1 @@
+CityDesk ran on Microsoft Windows, and used the Microsoft Jet Database Engine.

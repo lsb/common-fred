@@ -1,0 +1,1 @@
+Assist characters receive extra damage if struck by the opponent.

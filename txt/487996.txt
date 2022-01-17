@@ -1,0 +1,1 @@
+Parity is a method of detecting errors in transmission.

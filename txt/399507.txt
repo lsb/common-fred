@@ -1,0 +1,1 @@
+It is used, for instance, by spell-checking programs.

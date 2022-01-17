@@ -1,0 +1,1 @@
+Upon resumption, the computer is exactly as it was before entering hibernation.

@@ -1,0 +1,1 @@
+Default theories can be translated into theories in other logics and vice versa.

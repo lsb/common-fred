@@ -1,0 +1,1 @@
+The S-boxes accept a four-bit input and produce a four-bit output.

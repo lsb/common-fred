@@ -1,0 +1,1 @@
+With this definition, both the following calls are valid.

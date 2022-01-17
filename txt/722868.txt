@@ -1,0 +1,1 @@
+They were replaced by a single standard InstallShield wizard installer.

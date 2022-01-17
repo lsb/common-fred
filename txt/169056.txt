@@ -1,0 +1,1 @@
+Architecture is a degree higher in both abstraction and granularity.

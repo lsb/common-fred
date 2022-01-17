@@ -1,0 +1,1 @@
+A linkage occurs whenever one activity affects other activities in the chain.

@@ -1,0 +1,1 @@
+They correspond to Dynkin diagrams and affine Dynkin diagrams.

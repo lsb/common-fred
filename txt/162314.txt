@@ -1,0 +1,1 @@
+An error raised within such a block will undo these changes.

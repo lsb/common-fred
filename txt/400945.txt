@@ -1,0 +1,1 @@
+It makes no assumptions on the delay of wires or gates.

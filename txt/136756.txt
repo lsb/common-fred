@@ -1,0 +1,1 @@
+A starting business process delivers different inputs to different functions.

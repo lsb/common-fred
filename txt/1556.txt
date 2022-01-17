@@ -1,0 +1,1 @@
+"""Cooter's Place"" currently has locations in Tennessee and Virginia."

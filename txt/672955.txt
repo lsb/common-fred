@@ -1,0 +1,1 @@
+The team implemented a hint system to lead players in the right direction.

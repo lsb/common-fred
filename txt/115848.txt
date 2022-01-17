@@ -1,0 +1,1 @@
+"Using higher ""n"" will yield a family with a root approaching the plastic number."

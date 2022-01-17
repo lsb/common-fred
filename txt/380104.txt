@@ -1,0 +1,1 @@
+It has the same vertices and edges as the regular octahedron.

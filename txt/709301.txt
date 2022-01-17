@@ -1,0 +1,1 @@
+These verbs attribute one object to the other.

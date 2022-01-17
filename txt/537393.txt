@@ -1,0 +1,1 @@
+Software verifies activation every time it starts up, and sometimes while it is running.

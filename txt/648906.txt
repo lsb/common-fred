@@ -1,0 +1,1 @@
+The player flies the copter by rapidly pressing the fire button on the joystick.

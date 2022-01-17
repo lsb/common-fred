@@ -1,0 +1,1 @@
+This helps separate raining and non-raining pixels and decreases the need for radar screening.

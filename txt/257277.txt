@@ -1,0 +1,1 @@
+Generally, a simulation consists of three parts: the initialization, explicit time-stepping, and post-processing.

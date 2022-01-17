@@ -1,0 +1,1 @@
+Window size and location could be controlled.

@@ -1,0 +1,1 @@
+Equivalently, an evolute is the envelope of the normals to a curve.

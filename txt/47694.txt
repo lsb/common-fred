@@ -1,0 +1,1 @@
+"If ""N"" is a substructure of ""M"", one often needs a stronger condition."

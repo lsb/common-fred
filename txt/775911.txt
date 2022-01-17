@@ -1,0 +1,1 @@
+When an inductor is used this way it is often called a choke.

@@ -1,0 +1,1 @@
+"It is also sum of absolute value of the coefficients of Conway's polynomial."

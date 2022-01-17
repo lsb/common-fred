@@ -1,0 +1,1 @@
+The sound hardware was not changed at all.

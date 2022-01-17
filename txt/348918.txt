@@ -1,0 +1,1 @@
+Ideally, the primary and secondary currents of a current transformer should be in phase.

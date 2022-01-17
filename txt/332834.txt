@@ -1,0 +1,1 @@
+Horizontal training is done by mechanically rotating the entire array.

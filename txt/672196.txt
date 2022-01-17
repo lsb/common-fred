@@ -1,0 +1,1 @@
+The syntax and meaning of these strings is given by client libraries and applications.

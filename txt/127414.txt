@@ -1,0 +1,1 @@
+A hash table is merely an implementation detail and not the only possible approach.

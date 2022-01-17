@@ -1,0 +1,1 @@
+This is a fundamental parameter in thermodynamics, and is the conjugate variable of the chemical potential.

@@ -1,0 +1,1 @@
+Helicopter rotors are designed to operate at a specific rotational speed.

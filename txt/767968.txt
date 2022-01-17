@@ -1,0 +1,1 @@
+Visually, this style of representation provides a back-and-forth chat-like history for each individual contact.

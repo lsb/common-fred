@@ -1,0 +1,1 @@
+This program is focused on distributing small loans to beggars.

@@ -1,0 +1,1 @@
+This is used by automatic photo-finishing machines to correctly process the exposed film.

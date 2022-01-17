@@ -1,0 +1,1 @@
+In both cases, this depends on the programmer to supply the correct information.

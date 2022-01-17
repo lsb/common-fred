@@ -1,0 +1,1 @@
+In auctions the ask price is the reservation price.

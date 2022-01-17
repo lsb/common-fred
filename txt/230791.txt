@@ -1,0 +1,1 @@
+Each entry refers to the Win-Loss-Half record of the player.

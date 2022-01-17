@@ -1,0 +1,1 @@
+Phosphors are available with persistences ranging from less than one microsecond to several seconds.

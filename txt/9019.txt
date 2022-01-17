@@ -1,0 +1,1 @@
+"""Wetu"" is the Wampanoag term for a wigwam dwelling."

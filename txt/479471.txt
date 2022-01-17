@@ -1,0 +1,1 @@
+One variation assigns a point based on the pair rolled, rather than the singleton.

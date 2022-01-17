@@ -1,0 +1,1 @@
+Thus the determinant of a square matrix is the product of the eigenvalues.

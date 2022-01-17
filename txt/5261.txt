@@ -1,0 +1,1 @@
+"""Nomadic"" is of steel construction, with steel frames, beams, bulkheads and riveted hull plating."

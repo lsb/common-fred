@@ -1,0 +1,1 @@
+"Note that the satellite ""P"" orbits around the planet which is at position ""F""."

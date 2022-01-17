@@ -1,0 +1,1 @@
+The linear interpolation in such cases will produce a plausible single heptagon.

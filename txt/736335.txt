@@ -1,0 +1,1 @@
+This may result in interlaced artifacts being noticeable on colored objects.

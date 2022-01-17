@@ -1,0 +1,1 @@
+Rank of an abelian group is analogous to the dimension of a vector space.

@@ -1,0 +1,1 @@
+Each combat vehicle type represents a tradeoff between speed, anti-air, ground-attack, and cost.

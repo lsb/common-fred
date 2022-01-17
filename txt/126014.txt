@@ -1,0 +1,1 @@
+A full image is divided into fields.

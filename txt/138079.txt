@@ -1,0 +1,1 @@
+A valid page is one that currently resides in main memory.

@@ -1,0 +1,1 @@
+Hundreds or even thousands of baited hooks can hang from a single line.

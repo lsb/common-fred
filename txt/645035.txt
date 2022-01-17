@@ -1,0 +1,1 @@
+The owl uses various waves of echo-location which the player fires at the enemies.

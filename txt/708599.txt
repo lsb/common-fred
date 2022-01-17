@@ -1,0 +1,1 @@
+These sub-bands are subsampled by a factor of N, so they are critically sampled.

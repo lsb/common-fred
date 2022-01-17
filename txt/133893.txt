@@ -1,0 +1,1 @@
+A practical form of blocking, in widespread use, is run-length encoding.

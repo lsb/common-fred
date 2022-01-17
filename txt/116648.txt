@@ -1,0 +1,1 @@
+"We can derive the payoff of a variance swap using Ito's Lemma."

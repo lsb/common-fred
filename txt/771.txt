@@ -1,0 +1,1 @@
+"""Bebe"" Anderson was born and raised in Birmingham, Alabama."

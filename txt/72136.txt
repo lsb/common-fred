@@ -1,0 +1,1 @@
+"Previously, the Cartesian labels x, y, z were just labels and ""not"" indices."

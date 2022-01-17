@@ -1,0 +1,1 @@
+Its main goals were that it should be fully asynchronous, simple and fast.

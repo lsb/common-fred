@@ -1,0 +1,1 @@
+Instead it becomes increasingly structured and heterogeneous as it fragments into subsystems.

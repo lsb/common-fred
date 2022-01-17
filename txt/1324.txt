@@ -1,0 +1,1 @@
+"""Checkmate"" and other appearances have ignored this."

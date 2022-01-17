@@ -1,0 +1,1 @@
+When several municipalities were merged, the code for the biggest municipality was kept.

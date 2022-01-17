@@ -1,0 +1,1 @@
+A directed edge can be reversed to generate the edge in the opposite direction.

@@ -1,0 +1,1 @@
+In this case, calling generic library routines every time is unacceptably slow.

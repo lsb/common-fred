@@ -1,0 +1,1 @@
+This system uses only wins and losses with no reference to the victory margin.

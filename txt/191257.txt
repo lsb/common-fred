@@ -1,0 +1,1 @@
+Both examples above have these extra properties.

@@ -1,0 +1,1 @@
+"Closed operators are more general than bounded operators but still ""well-behaved"" in many ways."

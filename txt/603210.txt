@@ -1,0 +1,1 @@
+The density of enemies increases as the player approaches the destination.

@@ -1,0 +1,1 @@
+This group generalises the ideal class group.

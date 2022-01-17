@@ -1,0 +1,1 @@
+"""Tical"" was well received by most music critics."

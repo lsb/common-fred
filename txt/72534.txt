@@ -1,0 +1,1 @@
+"Pure salvage claims are divided into ""high-order"" and ""low-order"" salvage."

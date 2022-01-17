@@ -1,0 +1,1 @@
+There are six lines; to each line students can assign one class.

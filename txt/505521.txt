@@ -1,0 +1,1 @@
+Resources are an abstract notion and they cannot be manipulated directly.

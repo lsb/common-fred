@@ -1,0 +1,1 @@
+"""Gastonia"" is among the most common dinosaur fossils in the Cedar Mountain Formation."

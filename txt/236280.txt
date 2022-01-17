@@ -1,0 +1,1 @@
+Enterprise models differ in having Capacity on Demand capabilities.

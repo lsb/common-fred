@@ -1,0 +1,1 @@
+"""Trout Fishing In America"" is an abstract book without a clear central storyline."

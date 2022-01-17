@@ -1,0 +1,1 @@
+Typical options, such as enabling or disabling sound effects and full-screen mode are available.

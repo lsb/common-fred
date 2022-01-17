@@ -1,0 +1,1 @@
+"""Groklaw"" was cited by the attorneys for several firms in law journal articles."

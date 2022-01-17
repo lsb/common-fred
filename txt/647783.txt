@@ -1,0 +1,1 @@
+The phrase is a compound of yield and spread.

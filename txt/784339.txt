@@ -1,0 +1,1 @@
+Without options, ls displays files in a bare format.

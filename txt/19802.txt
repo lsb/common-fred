@@ -1,0 +1,1 @@
+"Bidding systems can be classified into two broad categories: ""natural"" systems and ""artificial"" systems."

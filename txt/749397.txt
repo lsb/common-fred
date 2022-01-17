@@ -1,0 +1,1 @@
+Thus, Minimax fails the Reversal symmetry criterion.

@@ -1,0 +1,1 @@
+A more efficient method would never repeat the same distance calculation.

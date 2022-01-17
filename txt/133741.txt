@@ -1,0 +1,1 @@
+A poor performance will eventually cause the game to end.

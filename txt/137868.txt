@@ -1,0 +1,1 @@
+A trapdoor one-way function or trapdoor permutation is a special kind of one-way function.

@@ -1,0 +1,1 @@
+If a complete circuit is established between the test-leads, the indicator is activated.

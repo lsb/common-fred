@@ -1,0 +1,1 @@
+If a partial order is also total, it is a total order.

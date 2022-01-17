@@ -1,0 +1,1 @@
+This controller is similar in design to the Zipper controller.

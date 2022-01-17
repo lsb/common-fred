@@ -1,0 +1,1 @@
+These keys then allow access to parts of other stages, even earlier ones.

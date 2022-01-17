@@ -1,0 +1,1 @@
+As encoding is often difficult, security encoding libraries are usually easier to use.

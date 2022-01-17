@@ -1,0 +1,1 @@
+Notice that this generalizes the classification of simple artinian rings given by Artin-Wedderburn theory.

@@ -1,0 +1,1 @@
+This line must be followed by one line per pixel on the Y-axis.

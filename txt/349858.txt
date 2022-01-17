@@ -1,0 +1,1 @@
+If the player tries to go beyond the battlefield, it will flash blue.

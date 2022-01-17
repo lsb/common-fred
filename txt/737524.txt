@@ -1,0 +1,1 @@
+This operation is often computationally cheaper than the explicit computation of the coordinates.

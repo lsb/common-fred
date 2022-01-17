@@ -1,0 +1,1 @@
+In this approach, the synthesis is planned backwards from the product, using standard rules.

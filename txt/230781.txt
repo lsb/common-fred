@@ -1,0 +1,1 @@
+Each engineer then sends his or her results to a central database.

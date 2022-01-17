@@ -1,0 +1,1 @@
+It can also be shown that the eigenfunctions are infinitely differentiable functions.

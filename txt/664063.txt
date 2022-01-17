@@ -1,0 +1,1 @@
+The shots tested the symmetry of the X-ray drive during the first three nanoseconds.

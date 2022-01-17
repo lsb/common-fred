@@ -1,0 +1,1 @@
+A cut scene is usually played if the right item is used.

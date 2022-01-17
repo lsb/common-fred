@@ -1,0 +1,1 @@
+It allows a panel to be programmed to implement fairly complex inputs.

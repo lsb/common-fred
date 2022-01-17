@@ -1,0 +1,1 @@
+Various methods are used to predict the winners in a bracket.

@@ -1,0 +1,1 @@
+"""Staff"" is more common in American English, ""stave"" in British English."

@@ -1,0 +1,1 @@
+"""Cho Aniki"" is the first game in the ""Cho Aniki"" series."

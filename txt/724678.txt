@@ -1,0 +1,1 @@
+This allows the most fish to be harvested while still maintaining maximum population growth.

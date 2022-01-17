@@ -1,0 +1,1 @@
+Scrollbars have also been enhanced to encode information about list entries.

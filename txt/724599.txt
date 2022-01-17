@@ -1,0 +1,1 @@
+This allows increased volume in the fuselage, a one-piece wing, and simplified wing-fuselage connections.

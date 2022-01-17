@@ -1,0 +1,1 @@
+There are many techniques for hidden surface determination.

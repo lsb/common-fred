@@ -1,0 +1,1 @@
+"""Battlemaniacs"" just has shades."

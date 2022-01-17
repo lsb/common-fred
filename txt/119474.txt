@@ -1,0 +1,1 @@
+"Wordshape's version includes alternate swash designs."

@@ -1,0 +1,1 @@
+To accomplish that goal, synchronizers are used.

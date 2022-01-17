@@ -1,0 +1,1 @@
+For example, a similar result holds for non-singular quasi-projective varieties.

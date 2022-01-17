@@ -1,0 +1,1 @@
+As with all transmission lines, it depends on the attenuation and signal-to-noise ratio.

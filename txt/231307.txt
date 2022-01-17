@@ -1,0 +1,1 @@
+Each of the physical masks generated from this data is called a photomask.

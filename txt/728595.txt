@@ -1,0 +1,1 @@
+This eliminates the need for a parallel clock to synchronize the data.

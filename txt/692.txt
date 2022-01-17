@@ -1,0 +1,1 @@
+"""Bagaceratops"", like all ceratopsians, was a herbivore."

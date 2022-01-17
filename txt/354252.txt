@@ -1,0 +1,1 @@
+In addition, a three-position non-resonant highpass filter is provided to thin out lower frequencies.

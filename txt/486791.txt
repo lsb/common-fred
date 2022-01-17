@@ -1,0 +1,1 @@
+Overworld areas consist of simple rightward travel and platform hopping.

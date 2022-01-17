@@ -1,0 +1,1 @@
+Similarly, any material conditional with a true consequent is true.

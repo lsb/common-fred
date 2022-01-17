@@ -1,0 +1,1 @@
+There is a single player, and a local multiplayer mode.

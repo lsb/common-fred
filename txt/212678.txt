@@ -1,0 +1,1 @@
+Context-aware mobile agents are a best suited host implementing any context-aware applications.

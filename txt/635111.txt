@@ -1,0 +1,1 @@
+The modulation parameters were such that the independence of the samples was preserved.

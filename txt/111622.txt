@@ -1,0 +1,1 @@
+"This model links a disability diagnosis to an individual's physical body."

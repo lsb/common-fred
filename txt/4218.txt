@@ -1,0 +1,1 @@
+"""L"" can be viewed as a vector space over ""K""."

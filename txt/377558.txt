@@ -1,0 +1,1 @@
+It had a segmented virtual memory architecture, somewhat similar to Multics.

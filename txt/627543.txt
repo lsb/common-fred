@@ -1,0 +1,1 @@
+The latency function relates to the forgetting curve.

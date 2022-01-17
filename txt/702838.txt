@@ -1,0 +1,1 @@
+Therefore, the unused characters can be used to detect errors in the data stream.

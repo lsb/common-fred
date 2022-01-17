@@ -1,0 +1,1 @@
+Hierarchies are typically depicted as a tree structures.

@@ -1,0 +1,1 @@
+Knocking on the lower left part of the wall makes it disappear.

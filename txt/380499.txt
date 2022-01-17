@@ -1,0 +1,1 @@
+It implements a combination of code obfuscation, optimization, shrinking, and hardening technologies.

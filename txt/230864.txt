@@ -1,0 +1,1 @@
+Each field in the specification has a regular expression associated with it.

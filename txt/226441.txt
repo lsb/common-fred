@@ -1,0 +1,1 @@
+Due to the structure of binomial trees, they can be merged trivially.

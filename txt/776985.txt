@@ -1,0 +1,1 @@
+When successful, the inter-satellite handoff may be noticeable by a quarter-second interruption.

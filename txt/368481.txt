@@ -1,0 +1,1 @@
+Instead of storing values into variables, one passes them as arguments to functions.

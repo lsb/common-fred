@@ -1,0 +1,1 @@
+The lowest surge margin working line occurs at static conditions.

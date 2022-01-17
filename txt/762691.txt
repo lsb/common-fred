@@ -1,0 +1,1 @@
+Uniform scoring is performed so the systems can be fairly evaluated.

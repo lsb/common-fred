@@ -1,0 +1,1 @@
+The responsibility is carried over the operating system and its synchronization.

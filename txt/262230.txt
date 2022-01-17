@@ -1,0 +1,1 @@
+Groupoids are generalizations of groups, group actions and equivalence relations.

@@ -1,0 +1,1 @@
+The applications may, but need not, impose a record structure.

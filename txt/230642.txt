@@ -1,0 +1,1 @@
+Each core is a barrel processor, meaning it switches between available threads each cycle.

@@ -1,0 +1,1 @@
+Reactive systems must therefore react to stimuli from the environment within strict time bounds.

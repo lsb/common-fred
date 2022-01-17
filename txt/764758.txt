@@ -1,0 +1,1 @@
+User classes that follow these interfaces may also take advantage of these features.

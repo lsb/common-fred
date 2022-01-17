@@ -1,0 +1,1 @@
+Other obstacles include function calls and short iteration counts.

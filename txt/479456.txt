@@ -1,0 +1,1 @@
+One type of substitution cipher, the one-time pad, is quite special.

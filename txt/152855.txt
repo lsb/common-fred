@@ -1,0 +1,1 @@
+All eigenvalues of the normalized Laplacian are real and non-negative.

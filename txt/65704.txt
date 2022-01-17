@@ -1,0 +1,1 @@
+"Most modern shells produce an error message similar to ""foo: command not found""."

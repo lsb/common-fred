@@ -1,0 +1,1 @@
+Historically, the main reason for purchasing hubs rather than switches was their price.

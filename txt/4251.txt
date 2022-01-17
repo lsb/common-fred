@@ -1,0 +1,1 @@
+"""Landser"" is an old-fashioned German colloquialism for a low-ranking soldier."

@@ -1,0 +1,1 @@
+With two opposite Borels one may intersect the Bruhat cells for each of them.

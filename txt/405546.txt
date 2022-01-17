@@ -1,0 +1,1 @@
+It traverses the midsection of both cities and ends at Kingston Road.

@@ -1,0 +1,1 @@
+Genetic draft generates a different allele frequency spectrum to genetic drift.

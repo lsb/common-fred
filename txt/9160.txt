@@ -1,0 +1,1 @@
+"""Wisborg"" was derived from Visborg, castle ruins in Oscar's former Duchy of Gotland."

@@ -1,0 +1,1 @@
+It is different from the distance vector routing and link state routing.

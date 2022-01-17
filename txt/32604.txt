@@ -1,0 +1,1 @@
+"Goldman's equation seeks to determine the voltage ""E"" across a membrane."

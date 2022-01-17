@@ -1,0 +1,1 @@
+Each vertex has five octahedra and two icosahedra.

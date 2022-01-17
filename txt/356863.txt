@@ -1,0 +1,1 @@
+In general, auxiliary parameters are designed to try to transmit even fewer coefficients.

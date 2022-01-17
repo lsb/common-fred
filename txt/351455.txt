@@ -1,0 +1,1 @@
+In Common Lisp, the ampersand is the prefix for lambda list keywords.

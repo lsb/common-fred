@@ -1,0 +1,1 @@
+It encodes the main Indic scripts and a Roman transliteration.

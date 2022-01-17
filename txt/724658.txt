@@ -1,0 +1,1 @@
+This allows the clock to be recovered from the signal.

@@ -1,0 +1,1 @@
+Some models could search and count gaps between songs.

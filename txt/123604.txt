@@ -1,0 +1,1 @@
+A compact Seifert fiber space has only a finite number of exceptional fibers.

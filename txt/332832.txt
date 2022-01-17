@@ -1,0 +1,1 @@
+Horizontal lines represent axons of input neurons while vertical lines represent output neurons.

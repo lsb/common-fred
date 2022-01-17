@@ -1,0 +1,1 @@
+Any later changes in the specification are minor updates.

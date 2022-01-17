@@ -1,0 +1,1 @@
+The same-origin policy helps protect sites that use authenticated sessions.

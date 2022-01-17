@@ -1,0 +1,1 @@
+A test harness may be part of a project deliverable.

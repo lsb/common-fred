@@ -1,0 +1,1 @@
+This detects bad blocks before use.

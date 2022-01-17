@@ -1,0 +1,1 @@
+It requires detailed planning and development of testing criteria prior to writing the contract.

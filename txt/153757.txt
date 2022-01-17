@@ -1,0 +1,1 @@
+All of the levels in the game are randomly generated when you access them.

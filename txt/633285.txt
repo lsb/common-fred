@@ -1,0 +1,1 @@
+The master periodically broadcasts the current time as a message to the other clocks.

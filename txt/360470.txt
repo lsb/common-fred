@@ -1,0 +1,1 @@
+In some cases a complete loss of signal can happen.

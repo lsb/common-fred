@@ -1,0 +1,1 @@
+A limited TeX-like syntax provides common mathematical symbols.

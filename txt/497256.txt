@@ -1,0 +1,1 @@
+Pressure and position are controlled through a load cell and an encoder.

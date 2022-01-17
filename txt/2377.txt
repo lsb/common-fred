@@ -1,0 +1,1 @@
+"""Fired Up"" features a multiplayer mode which supports up to eight players, through ad-hoc."

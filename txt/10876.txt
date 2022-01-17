@@ -1,0 +1,1 @@
+"A message sent for publication on a newsgroup is called a ""post""."

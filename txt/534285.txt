@@ -1,0 +1,1 @@
+Sinusoids are the building block of analog signal processing.

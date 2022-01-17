@@ -1,0 +1,1 @@
+At first start, WinShell recognizes the distribution and sets the command-line arguments automatically.

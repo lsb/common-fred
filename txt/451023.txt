@@ -1,0 +1,1 @@
+Menus and preferences can be changed without restarting.

@@ -1,0 +1,1 @@
+As this example shows, C is neither a memory-safe nor a type-safe language.

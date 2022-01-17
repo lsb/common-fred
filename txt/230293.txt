@@ -1,0 +1,1 @@
+Each Artifact Node initially contains two Artifacts.

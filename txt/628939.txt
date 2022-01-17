@@ -1,0 +1,1 @@
+The library provided by The Sendmail Consortium is pthread-based.

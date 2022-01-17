@@ -1,0 +1,1 @@
+The LaTeX system is a markup language that also handles typesetting and rendering.

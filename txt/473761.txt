@@ -1,0 +1,1 @@
+Often the space is a complex manifold and the group is a discrete group.

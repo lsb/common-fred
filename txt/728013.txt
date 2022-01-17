@@ -1,0 +1,1 @@
+This design pattern applies to any class in any object oriented language.

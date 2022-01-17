@@ -1,0 +1,1 @@
+"Zolotarev's lemma can be deduced easily from Gauss's lemma and ""vice versa""."

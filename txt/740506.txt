@@ -1,0 +1,1 @@
+This set forms the hypercube that is the subject of the theorem.

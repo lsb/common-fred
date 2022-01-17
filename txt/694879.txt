@@ -1,0 +1,1 @@
+There are three special cases for multi-byte codes.

@@ -1,0 +1,1 @@
+In practice it is useful to make an even stronger assumption.

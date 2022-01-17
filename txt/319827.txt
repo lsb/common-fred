@@ -1,0 +1,1 @@
+Hermitian matrices are also called self-adjoint.

@@ -1,0 +1,1 @@
+Minimization of both coverage and overlap is crucial to the performance of R-trees.

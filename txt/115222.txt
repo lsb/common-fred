@@ -1,0 +1,1 @@
+"Typically, complex ladder logic is 'read' left to right and top to bottom."

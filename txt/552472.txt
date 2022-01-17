@@ -1,0 +1,1 @@
+Take the simple example of a barotropic, inviscid vorticity-free fluid.

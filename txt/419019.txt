@@ -1,0 +1,1 @@
+Its role is to spread the load evenly over the subgrade.

@@ -1,0 +1,1 @@
+Distributing objects among processing units is often referred to as sort last rendering.

@@ -1,0 +1,1 @@
+A variant of peg solitaire, it takes place on an infinite checkerboard.

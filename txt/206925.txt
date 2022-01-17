@@ -1,0 +1,1 @@
+Christmas tree packets can be easily detected by intrusion-detection systems or more advanced firewalls.

@@ -1,0 +1,1 @@
+These can then act as prototypes for even newer objects.

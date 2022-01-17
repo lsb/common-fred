@@ -1,0 +1,1 @@
+"The Windows' Remote Desktop Connection client can be used to connect to a server."

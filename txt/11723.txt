@@ -1,0 +1,1 @@
+"A value that holds true given particular constraints is a ""marginal"" value."

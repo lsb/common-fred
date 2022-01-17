@@ -1,0 +1,1 @@
+Fluxbox also has several features Blackbox lacks, including tabbed windows and a configurable titlebar.

@@ -1,0 +1,1 @@
+The game ends when there are only two letter piles left on the table.

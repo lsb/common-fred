@@ -1,0 +1,1 @@
+In particular for spin groups it implies the known Smith-Minkowski-Siegel mass formula.

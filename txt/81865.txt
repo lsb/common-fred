@@ -1,0 +1,1 @@
+"Text modes often assign ""attributes"" to the displayed characters."

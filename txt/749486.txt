@@ -1,0 +1,1 @@
+Thus, data with lower sequence numbers generally go before those with higher values.

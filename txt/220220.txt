@@ -1,0 +1,1 @@
+Designers of secure systems often forget to take information leakage into account.

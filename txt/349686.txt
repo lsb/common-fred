@@ -1,0 +1,1 @@
+If the ball passes out of bounds, the clock will also stop.

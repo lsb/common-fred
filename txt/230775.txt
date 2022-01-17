@@ -1,0 +1,1 @@
+Each end of the cable can be connected to only one device.

@@ -1,0 +1,1 @@
+The set of states a system can occupy is known as its state space.

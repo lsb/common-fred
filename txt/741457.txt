@@ -1,0 +1,1 @@
+This structure is often compared to thread wrapped around a spool.

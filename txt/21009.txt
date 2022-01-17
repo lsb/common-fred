@@ -1,0 +1,1 @@
+"Broadcasts can be classified as ""recorded"" or ""live""."

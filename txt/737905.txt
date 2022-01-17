@@ -1,0 +1,1 @@
+This permits signal processing using digital circuits such as microprocessors and computers.

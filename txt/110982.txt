@@ -1,0 +1,1 @@
+"This is done by announcing the server's score first."

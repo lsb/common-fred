@@ -1,0 +1,1 @@
+The boomerang attack is based on differential cryptanalysis.

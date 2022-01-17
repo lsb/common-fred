@@ -1,0 +1,1 @@
+Criterion validation checks how meaningful the scale criteria are relative to other possible criteria.

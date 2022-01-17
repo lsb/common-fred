@@ -1,0 +1,1 @@
+Checkpoint has players race against others on pre-defined tracks around the city.

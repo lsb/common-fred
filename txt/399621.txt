@@ -1,0 +1,1 @@
+It is usually stored cold under argon.

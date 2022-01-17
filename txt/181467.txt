@@ -1,0 +1,1 @@
+Bandwidth-limited pulses have a constant phase across all frequencies making up the pulse.

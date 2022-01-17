@@ -1,0 +1,1 @@
+Logo is a multi-paradigm adaptation and dialect of Lisp, a functional programming language.

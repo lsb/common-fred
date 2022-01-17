@@ -1,0 +1,1 @@
+This determines the maximum operating speed of a synchronous circuit.

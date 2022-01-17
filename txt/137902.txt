@@ -1,0 +1,1 @@
+A tricycle-gear model was produced, but is unsuitable for unprepared rough terrain.

@@ -1,0 +1,1 @@
+Boosting algorithms can be based on convex or non-convex optimization algorithms.

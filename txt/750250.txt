@@ -1,0 +1,1 @@
+Time averaged Elo or Elo-like scores are routinely used to compare chess player strengths.

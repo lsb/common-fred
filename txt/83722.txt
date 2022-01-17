@@ -1,0 +1,1 @@
+"The ""degree"" is the number of intervals which generate a genus."

@@ -1,0 +1,1 @@
+Lower numbers mean faster transitions and therefore fewer visible image artifacts.

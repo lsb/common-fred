@@ -1,0 +1,1 @@
+Armour penetration depends on the model.

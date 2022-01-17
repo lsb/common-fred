@@ -1,0 +1,1 @@
+It is required that Ruby be installed prior to BioRuby installation.

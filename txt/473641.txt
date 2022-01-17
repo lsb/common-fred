@@ -1,0 +1,1 @@
+Often all domain controllers are also global catalog servers.

@@ -1,0 +1,1 @@
+In the first method, the client simply sends the cookie when requested to authenticate.

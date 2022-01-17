@@ -1,0 +1,1 @@
+The unit also features a rudimentary sequencer.

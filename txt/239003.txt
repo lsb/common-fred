@@ -1,0 +1,1 @@
+Every neighborly polytope in four or more dimensions also has a complete skeleton.

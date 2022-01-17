@@ -1,0 +1,1 @@
+Non-hero spellcasting units were given proper spell selections.

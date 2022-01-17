@@ -1,0 +1,1 @@
+"""Pianoteq"" is a software synthesizer which share some characteristics to a piano module."

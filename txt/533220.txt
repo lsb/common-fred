@@ -1,0 +1,1 @@
+Since it is a proper, non-identity subgroup, the group is not simple.

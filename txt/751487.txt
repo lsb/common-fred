@@ -1,0 +1,1 @@
+To re-balance a tree, there are a few approaches.

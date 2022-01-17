@@ -1,0 +1,1 @@
+The SkyTrain and SeaBus fare structure is based on a zone system.

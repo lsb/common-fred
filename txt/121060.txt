@@ -1,0 +1,1 @@
+A Lucas probable prime test can be used alone.

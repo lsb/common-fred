@@ -1,0 +1,1 @@
+In general, when the operation converges it does so in at most seven iterations.

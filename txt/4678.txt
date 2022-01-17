@@ -1,0 +1,1 @@
+"""Mastera"" is classified by Lloyd's Register of Shipping."

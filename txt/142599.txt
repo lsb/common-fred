@@ -1,0 +1,1 @@
+Active processes are placed in an array called a run queue, or runqueue.

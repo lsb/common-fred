@@ -1,0 +1,1 @@
+Decryption works the same way, but in reverse.

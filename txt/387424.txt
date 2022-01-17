@@ -1,0 +1,1 @@
+It is equipped to inflate and deflate itself as it runs.

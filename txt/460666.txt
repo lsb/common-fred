@@ -1,0 +1,1 @@
+Multiplication required successive shifting and conditional adding.

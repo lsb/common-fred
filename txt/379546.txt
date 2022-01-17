@@ -1,0 +1,1 @@
+It has ninety-nine steps of fully merged program and ten memory registers.

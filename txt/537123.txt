@@ -1,0 +1,1 @@
+Sobolev spaces can be defined by some growth conditions on the Fourier transform.

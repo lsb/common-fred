@@ -1,0 +1,1 @@
+A counter increments the score while the car is moving and on the road.

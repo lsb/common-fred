@@ -1,0 +1,1 @@
+This setup produces three different voltages.

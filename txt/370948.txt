@@ -1,0 +1,1 @@
+It allows vendor lock-in as it increases the switching cost.

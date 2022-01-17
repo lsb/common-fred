@@ -1,0 +1,1 @@
+Note: the main article about B-splines and the classic publications use a different notation.

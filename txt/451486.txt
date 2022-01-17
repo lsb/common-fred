@@ -1,0 +1,1 @@
+Methods of this object can be specified in the object literal using function literals.

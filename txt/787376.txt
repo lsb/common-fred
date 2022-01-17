@@ -1,0 +1,1 @@
+You can reduce the quality of the anisotropic filter to gain some performance.

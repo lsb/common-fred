@@ -1,0 +1,1 @@
+Equations exist for calculating the thrust of a motor.

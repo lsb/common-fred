@@ -1,0 +1,1 @@
+Dual subgradient methods are subgradient methods applied to a dual problem.

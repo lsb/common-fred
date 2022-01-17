@@ -1,0 +1,1 @@
+"""Kosminen"" is a Finnish adjective meaning ""cosmic""."

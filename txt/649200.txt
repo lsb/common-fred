@@ -1,0 +1,1 @@
+The pocket shape defined the final pellet shape.

@@ -1,0 +1,1 @@
+"This yields a contravariant exact functor from the category of ""k""-vector spaces to itself."

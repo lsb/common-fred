@@ -1,0 +1,1 @@
+This module contains living quarters and a new control room.

@@ -1,0 +1,1 @@
+This creates a triangle with endpoints at the two fixed points and the mobile.

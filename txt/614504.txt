@@ -1,0 +1,1 @@
+The floor has the same albedo as the surrounding terrain.

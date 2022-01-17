@@ -1,0 +1,1 @@
+If the assignment satisfies all clauses, the algorithm terminates, returning the assignment.

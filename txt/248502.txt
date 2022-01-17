@@ -1,0 +1,1 @@
+For improving the accuracy of Gnumeric, the developers are cooperating with the R Project.

@@ -1,0 +1,1 @@
+Rooms have two beds and two rooms share a kitchen and a bathroom.

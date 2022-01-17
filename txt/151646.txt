@@ -1,0 +1,1 @@
+Alcon is a standard boot sector virus that spreads via floppies.

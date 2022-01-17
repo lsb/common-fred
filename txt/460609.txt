@@ -1,0 +1,1 @@
+Multiple homing may use a single directory number.

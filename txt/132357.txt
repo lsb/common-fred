@@ -1,0 +1,1 @@
+A nilpotent element in a nonzero ring is necessarily a zero divisor.

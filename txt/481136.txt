@@ -1,0 +1,1 @@
+Operations upon shared states are critical sections that must be mutually exclusive.

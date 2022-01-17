@@ -1,0 +1,1 @@
+Only one of each car and car part can be obtained.

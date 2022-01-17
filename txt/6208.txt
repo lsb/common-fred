@@ -1,0 +1,1 @@
+"""Relations downgraded due to the Church's interference in Maltese politics"""

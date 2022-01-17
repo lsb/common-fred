@@ -1,0 +1,1 @@
+For this purpose the Message Broker forwards incoming messages to this machine.

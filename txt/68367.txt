@@ -1,0 +1,1 @@
+"Often in computational theory, the term ""algorithm"" refers to a deterministic algorithm."

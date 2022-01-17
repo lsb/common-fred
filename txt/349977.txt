@@ -1,0 +1,1 @@
+If there are very many weights, the answer is clearly yes.

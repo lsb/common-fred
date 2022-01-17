@@ -1,0 +1,1 @@
+Another method can be applied when the predictors are measured on a continuous scale.

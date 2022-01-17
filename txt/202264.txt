@@ -1,0 +1,1 @@
+Captured pieces are removed from the game.

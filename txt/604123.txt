@@ -1,0 +1,1 @@
+The dihedral angle contributes to the total dihedral effect of the aircraft.

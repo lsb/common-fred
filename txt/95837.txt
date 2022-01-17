@@ -1,0 +1,1 @@
+"The more modern networks are bi-directional, also enabling ""control"" of sensor activity."

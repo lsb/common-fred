@@ -1,0 +1,1 @@
+Energy-momentum is typically expressed with the aid of a stress-energy-momentum pseudotensor.

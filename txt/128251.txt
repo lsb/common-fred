@@ -1,0 +1,1 @@
+A leaf block always precedes internal block of same weight, thus maintaining the invariant.

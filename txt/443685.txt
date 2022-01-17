@@ -1,0 +1,1 @@
+Many languages use the semicolon as a statement terminator.

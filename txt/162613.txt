@@ -1,0 +1,1 @@
+An external control voltage generator permits control of analog modular synthesizers.

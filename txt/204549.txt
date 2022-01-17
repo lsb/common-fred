@@ -1,0 +1,1 @@
+Challenges include software bugs, design flaws, and human errors.

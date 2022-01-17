@@ -1,0 +1,1 @@
+Having duplicate instances of services may cause data corruption on the shared storage.

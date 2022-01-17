@@ -1,0 +1,1 @@
+But the key advantage we can exploit is that you generally want to jump to the boundaries of symbols and words.

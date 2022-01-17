@@ -1,0 +1,1 @@
+Using a Linux distribution a series of open source Radeon drivers are available.

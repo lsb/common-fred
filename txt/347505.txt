@@ -1,0 +1,1 @@
+I use the directions North, South, West, and East to move to the top or bottom of a file and left or right within a line.

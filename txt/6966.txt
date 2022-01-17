@@ -1,0 +1,1 @@
+"""South Jersey"" and ""Philadelphia Magazine"" are monthly, covering the entire metropolitan area."

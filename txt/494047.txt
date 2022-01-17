@@ -1,0 +1,1 @@
+Players control their squadrons with the help of a paddle.

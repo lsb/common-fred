@@ -1,0 +1,1 @@
+A homogeneous space-time with a Cauchy horizon is anti-de Sitter space.

@@ -1,0 +1,1 @@
+To find an acceleration we need to consider the forces affecting each individual mass.

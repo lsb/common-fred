@@ -1,0 +1,1 @@
+A quasi-finite proper morphism locally of finite presentation is finite.

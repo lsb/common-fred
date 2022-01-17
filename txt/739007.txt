@@ -1,0 +1,1 @@
+This provides for faster creation and negotiation with the director.

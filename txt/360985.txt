@@ -1,0 +1,1 @@
+In star topology, every host is connected to a central hub.

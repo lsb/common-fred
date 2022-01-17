@@ -1,0 +1,1 @@
+"In this case, the desired number ""c"" can be constructed."

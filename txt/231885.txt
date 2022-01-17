@@ -1,0 +1,1 @@
+Each switch may have many neighbors.

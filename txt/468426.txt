@@ -1,0 +1,1 @@
+Noise shaping works by putting the quantization error in a feedback loop.

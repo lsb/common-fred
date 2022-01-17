@@ -1,0 +1,1 @@
+It is more concise but not quite as flexible.

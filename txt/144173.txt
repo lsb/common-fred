@@ -1,0 +1,1 @@
+Administrators may configure any of the numerous third-party Windows X servers.

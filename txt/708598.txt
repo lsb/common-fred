@@ -1,0 +1,1 @@
+These stylesheets can be sophisticated enough to generate tables of contents, glossaries, and indexes.

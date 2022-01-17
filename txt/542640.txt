@@ -1,0 +1,1 @@
+Sometimes, a set comes equipped with a natural hierarchical structure.

@@ -1,0 +1,1 @@
+It balances performance and power requirements across system workloads to represent real-world power usage.

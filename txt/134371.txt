@@ -1,0 +1,1 @@
+A rebound can be grabbed by either an offensive player or a defensive player.

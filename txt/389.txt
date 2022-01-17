@@ -1,0 +1,1 @@
+"""Ament"" is from the Latin ""amentum"", meaning ""thong"" or ""strap""."

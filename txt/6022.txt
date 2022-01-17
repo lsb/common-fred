@@ -1,0 +1,1 @@
+"""Promise"" contained some lyrics, written by Masaki and Jen Hollingsworth."

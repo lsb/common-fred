@@ -1,0 +1,1 @@
+"Within a given ""n"", lower values of ""m"" obtain lower ""j""."

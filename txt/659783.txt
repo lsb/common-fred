@@ -1,0 +1,1 @@
+The same definition applies to any topological space which has a finitely generated homology.

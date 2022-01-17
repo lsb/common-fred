@@ -1,0 +1,1 @@
+"Generally the ""asset"" being managed is collected and stored in a digital format."

@@ -1,0 +1,1 @@
+These emission lines correspond to much rarer atomic events such as hyperfine transitions.

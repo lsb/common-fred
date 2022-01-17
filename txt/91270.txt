@@ -1,0 +1,1 @@
+"The direct children of the root window are called ""top-level windows""."

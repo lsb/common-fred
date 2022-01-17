@@ -1,0 +1,1 @@
+Not every root is used in all voices.

@@ -1,0 +1,1 @@
+The satellite terminal has two levels, one for arrivals and the other for departures.

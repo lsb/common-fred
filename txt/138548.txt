@@ -1,0 +1,1 @@
+A well-behaved application should handle this situation gracefully; however, many do not.

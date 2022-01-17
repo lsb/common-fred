@@ -1,0 +1,1 @@
+Using a synonym Ontology created from WordNet Kuropka shows good results for document similarity.

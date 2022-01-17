@@ -1,0 +1,1 @@
+Under the no-teleportation theorem, a quantum state cannot be precisely converted into classical bits.

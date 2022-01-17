@@ -1,0 +1,1 @@
+A solution was to adopt Unicode as the encoding for filenames.

@@ -1,0 +1,1 @@
+Pace knew exactly which bags contained the highest denomination and non-sequential bills.

@@ -1,0 +1,1 @@
+The general syntax includes assembler directives and a method for commenting.

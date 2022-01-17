@@ -1,0 +1,1 @@
+This bilinear form is called the Frobenius form of the algebra.

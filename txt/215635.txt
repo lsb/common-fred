@@ -1,0 +1,1 @@
+Cryptographers developed statistical techniques for attacking ciphertext, such as frequency analysis.

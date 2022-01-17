@@ -1,0 +1,1 @@
+HyperCard stacks can be run, but externals will only run on Macs.

@@ -1,0 +1,1 @@
+While all expired certificates are considered invalid, not all unexpired certificates should be valid.

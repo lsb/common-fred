@@ -1,0 +1,1 @@
+One way to specify a sequence is to list the elements.

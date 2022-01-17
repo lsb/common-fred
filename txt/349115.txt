@@ -1,0 +1,1 @@
+If a player fires at and hits a small asteroid, it disappears.

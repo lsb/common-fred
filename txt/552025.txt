@@ -1,0 +1,1 @@
+Syntactically correct, verified email addresses do not guarantee email box existence.

@@ -1,0 +1,1 @@
+It even becomes infinite for the bi-parabolic transfer limiting case.

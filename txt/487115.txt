@@ -1,0 +1,1 @@
+Packages may be installed using the command line via mingw-get.

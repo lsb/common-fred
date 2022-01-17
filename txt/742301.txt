@@ -1,0 +1,1 @@
+This tool observes your actions and generates an expect script using heuristics.

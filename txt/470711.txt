@@ -1,0 +1,1 @@
+Note that the solution changes rapidly near the origin.

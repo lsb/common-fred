@@ -1,0 +1,1 @@
+When invoked with no option, the current permission is printed.

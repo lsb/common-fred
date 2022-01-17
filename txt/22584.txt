@@ -1,0 +1,1 @@
+"Cards that are ""hit"" no longer take further part in the game."

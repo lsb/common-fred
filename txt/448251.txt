@@ -1,0 +1,1 @@
+Maximum download speed can be attained when shared files are cached.

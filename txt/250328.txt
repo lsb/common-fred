@@ -1,0 +1,1 @@
+For two-dimensional potential flow, streamlines are perpendicular to equipotential lines.

@@ -1,0 +1,1 @@
+Inductors block high-frequency signals and conduct low-frequency signals, while capacitors do the reverse.

@@ -1,0 +1,1 @@
+Mealy machines provide a rudimentary mathematical model for cipher machines.

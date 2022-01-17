@@ -1,0 +1,1 @@
+"To avoid ambiguity, hexagonal numbers are sometimes called ""cornered hexagonal numbers""."

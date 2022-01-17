@@ -1,0 +1,1 @@
+Each stanza adds a gift and enumerates all the received ones in the preceding stanzas.

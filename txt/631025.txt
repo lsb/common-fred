@@ -1,0 +1,1 @@
+The magnetic forces between the tip and sample are sensed.

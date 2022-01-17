@@ -1,0 +1,1 @@
+Single-cores and dual-cores have different indications, despite sometimes having the same clock frequency.

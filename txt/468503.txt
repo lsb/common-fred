@@ -1,0 +1,1 @@
+Non-Latin European characters, such as Cyrillic and Greek, are not included in the standard.

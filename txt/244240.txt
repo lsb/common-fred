@@ -1,0 +1,1 @@
+Fireplane used for smaller servers and workstations is optimised for their single domain performance.

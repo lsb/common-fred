@@ -1,0 +1,1 @@
+There are provided facilities to arrange one-to-many and many-to-many relationships between classes.

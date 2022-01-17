@@ -1,0 +1,1 @@
+"""Outrageous"" received mixed reviews from critics."

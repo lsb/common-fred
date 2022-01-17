@@ -1,0 +1,1 @@
+Examples for non-strict languages are Haskell, Miranda, and Clean.

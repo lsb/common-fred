@@ -1,0 +1,1 @@
+In these cases most local concurrency control techniques do not scale well.

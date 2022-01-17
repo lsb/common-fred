@@ -1,0 +1,1 @@
+"""Empire of the Petal Throne"" introduced the concept of critical hits."

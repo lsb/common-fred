@@ -1,0 +1,1 @@
+This allows renovations inside, but preserves the major structure and exterior.

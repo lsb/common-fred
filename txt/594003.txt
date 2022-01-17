@@ -1,0 +1,1 @@
+The climbers could be set for horizontal or vertical ribbons.

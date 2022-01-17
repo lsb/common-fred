@@ -1,0 +1,1 @@
+Discrete differential geometry is the study of discrete counterparts of notions in differential geometry.

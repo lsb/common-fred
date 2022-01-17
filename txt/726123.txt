@@ -1,0 +1,1 @@
+This can also take place in a hosts file.

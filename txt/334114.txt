@@ -1,0 +1,1 @@
+However Motorola did not publish a software development kit for native applications.

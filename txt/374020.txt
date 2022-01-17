@@ -1,0 +1,1 @@
+It can handle raster, topological vector, image processing, and graphic data.

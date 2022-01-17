@@ -1,0 +1,1 @@
+Apple distributes root certificates belonging to members of its own root program.

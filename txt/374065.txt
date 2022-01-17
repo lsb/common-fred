@@ -1,0 +1,1 @@
+It can renumber lines, change variable names, and append additional programs.

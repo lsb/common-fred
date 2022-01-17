@@ -1,0 +1,1 @@
+It is capable of displaying text messages, animations, logos, scores and statistics.

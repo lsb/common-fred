@@ -1,0 +1,1 @@
+Many remote automatic weather stations report via Argos.

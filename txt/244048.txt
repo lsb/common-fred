@@ -1,0 +1,1 @@
+Finite locally constant sheaves are constructible, and constructible sheaves are torsion.

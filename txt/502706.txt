@@ -1,0 +1,1 @@
+Real-time earthquake reports are calculated automatically from measurements of ground acceleration.

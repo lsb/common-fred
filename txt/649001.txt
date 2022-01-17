@@ -1,0 +1,1 @@
+The player who takes the last trick or multi-trick becomes the next banker.

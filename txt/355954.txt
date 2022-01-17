@@ -1,0 +1,1 @@
+In contrast, cron allows non-admin users to configure scheduled tasks.

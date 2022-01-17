@@ -1,0 +1,1 @@
+When multiple positions are validated, they usually have much common ground.

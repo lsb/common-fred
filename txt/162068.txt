@@ -1,0 +1,1 @@
+An edgeless graph with two or more vertices is disconnected.

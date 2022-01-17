@@ -1,0 +1,1 @@
+Threading bases structural modeling on fold similarities rather than sequence identity.

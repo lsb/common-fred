@@ -1,0 +1,1 @@
+Also included are the possibility for very sophisticated feature and functionality discovery and enumeration.

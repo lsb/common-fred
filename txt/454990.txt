@@ -1,0 +1,1 @@
+More commonly, each fiber leaving the central office is actually shared by many customers.

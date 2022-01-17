@@ -1,0 +1,1 @@
+"""Mods"" is the final Thought Industry release to include co-founder Dustin Donaldson."

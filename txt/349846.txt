@@ -1,0 +1,1 @@
+If the player accidentally self-kills, they lose points.

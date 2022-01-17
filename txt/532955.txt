@@ -1,0 +1,1 @@
+Simpler algorithms are possible for monotone polygons, star-shaped polygons, convex polygons and triangles.

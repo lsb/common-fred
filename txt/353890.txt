@@ -1,0 +1,1 @@
+In addition to non-destructive testing, acoustic emission monitoring has applications in process monitoring.

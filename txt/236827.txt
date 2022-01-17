@@ -1,0 +1,1 @@
+Errors in construction resulted in a set of rebuilt sails that rotated clockwise.

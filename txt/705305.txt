@@ -1,0 +1,1 @@
+These elements can represent for example product components, organization teams, or project activities.

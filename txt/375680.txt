@@ -1,0 +1,1 @@
+It describes distances on a logarithmic scale based on the astronomical magnitude system.

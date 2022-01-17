@@ -1,0 +1,1 @@
+"For example, a thick texture contains many ""layers"" of instruments."

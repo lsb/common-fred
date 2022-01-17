@@ -1,0 +1,1 @@
+Bermudan swaptions are examples of swaption extensions that qualify as exotic variants.

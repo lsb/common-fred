@@ -1,0 +1,1 @@
+For testability and calibration purposes, a charge injector with adjustable pulse height is implemented.

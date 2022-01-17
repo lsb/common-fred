@@ -1,0 +1,1 @@
+In most respects, it is a case of pure functional programming.

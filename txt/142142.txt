@@ -1,0 +1,1 @@
+According to this principle, the distribution with maximal information entropy is the proper one.

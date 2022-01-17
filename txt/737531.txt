@@ -1,0 +1,1 @@
+This operator also has a continuous spectrum consisting of the Hurwitz zeta function.

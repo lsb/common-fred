@@ -1,0 +1,1 @@
+Airline systems pass record locators between themselves as part of the confirmation process.

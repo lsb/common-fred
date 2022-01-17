@@ -1,0 +1,1 @@
+All other information such as the username, authorization, accounting are transmitted in clear text.

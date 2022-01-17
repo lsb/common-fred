@@ -1,0 +1,1 @@
+This is because parallel computers can be simulated on a sequential machine.

@@ -1,0 +1,1 @@
+"The input signal is applied to the amplifier with open-loop gain ""A"" and amplified."

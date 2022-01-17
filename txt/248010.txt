@@ -1,0 +1,1 @@
+For example, in highly cohesive systems functionality is strongly related.

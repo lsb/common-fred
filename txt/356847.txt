@@ -1,0 +1,1 @@
+In general, Join Java programs are more concise than their Java equivalents.

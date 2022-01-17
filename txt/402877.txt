@@ -1,0 +1,1 @@
+It provides most of the features of the original and adds a few improvements.

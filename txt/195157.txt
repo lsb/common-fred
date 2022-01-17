@@ -1,0 +1,1 @@
+Brownian motion deflects the bead from the resting position.

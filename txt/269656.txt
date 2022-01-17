@@ -1,0 +1,1 @@
+He and Luca Cardelli invented the ambient calculus for reasoning about mobile code.

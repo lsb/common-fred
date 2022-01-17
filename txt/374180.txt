@@ -1,0 +1,1 @@
+It causes most warning and diagnostic messages to be suppressed.

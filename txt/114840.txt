@@ -1,0 +1,1 @@
+"Turing's oracle machines are mathematical abstractions, and are not physically realizable."

@@ -1,0 +1,1 @@
+Charts include all orbital launches from Kourou; sounding rockets are excluded.

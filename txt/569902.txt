@@ -1,0 +1,1 @@
+The NumPy stack is also sometimes referred to as the SciPy stack.

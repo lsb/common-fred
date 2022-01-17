@@ -1,0 +1,1 @@
+Transmission lines are a common example of the use of the distributed model.

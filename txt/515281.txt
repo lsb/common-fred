@@ -1,0 +1,1 @@
+Sensor dryers can automatically sense that clothes are dry and switch off.

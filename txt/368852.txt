@@ -1,0 +1,1 @@
+Instead, the user was given a command line window.

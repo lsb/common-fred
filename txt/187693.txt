@@ -1,0 +1,1 @@
+Bisectored cells are also implemented.

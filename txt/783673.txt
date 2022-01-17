@@ -1,0 +1,1 @@
+With this change, Cover Flow is no longer available within the application.

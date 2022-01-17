@@ -1,0 +1,1 @@
+Equivalent results can also be achieved by the use of a look-up table.

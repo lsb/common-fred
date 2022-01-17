@@ -1,0 +1,1 @@
+Managing the data state of idempotent services is the only complexity.

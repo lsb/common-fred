@@ -1,0 +1,1 @@
+This is because enthalpy is a state function.

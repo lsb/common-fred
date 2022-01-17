@@ -1,0 +1,1 @@
+The above holds true only for non-viscous fluids.

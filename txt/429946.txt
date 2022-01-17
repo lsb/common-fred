@@ -1,0 +1,1 @@
+Large loops could be stepped on or caught on something.

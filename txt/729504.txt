@@ -1,0 +1,1 @@
+This forces some input states or sequences to become illegal.

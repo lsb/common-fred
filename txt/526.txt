@@ -1,0 +1,1 @@
+"""Appalachian"" was the lead ship of the ""Appalachian"" class."

@@ -1,0 +1,1 @@
+The bleep censor is a software module, manually operated by a broadcast technician.

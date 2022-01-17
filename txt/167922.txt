@@ -1,0 +1,1 @@
+Any file shared on the workspace are automatically shared among all participants.

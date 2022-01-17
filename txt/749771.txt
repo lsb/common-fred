@@ -1,0 +1,1 @@
+Thus, the maximum fundamental frequency is reduced to one fourth of the baud rate.

@@ -1,0 +1,1 @@
+Mail exchanged across networks is passed between mail servers that run specially designed software.

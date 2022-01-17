@@ -1,0 +1,1 @@
+Crystals with an inversion center cannot display certain properties, such as the piezoelectric effect.

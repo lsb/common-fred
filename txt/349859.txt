@@ -1,0 +1,1 @@
+If the player was correct, they won money for that puzzle.

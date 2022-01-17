@@ -1,0 +1,1 @@
+The amount of bias varies based on the received signal strength.

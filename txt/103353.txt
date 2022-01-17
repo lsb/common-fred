@@ -1,0 +1,1 @@
+"The thermometer displays the internal temperature of the phone's battery."

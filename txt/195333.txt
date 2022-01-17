@@ -1,0 +1,1 @@
+Brutes dealt increasing damage as they attacked or were themselves attacked.

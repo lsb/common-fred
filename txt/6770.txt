@@ -1,0 +1,1 @@
+"""Sica"" here comes from the root ""secor"", ""to slice""."

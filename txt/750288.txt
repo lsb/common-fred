@@ -1,0 +1,1 @@
+Time slicing technology is employed to reduce power consumption for small handheld terminals.

@@ -1,0 +1,1 @@
+Several large organizations use SpiderMonkey to manage their JavaScript for front-end applications.

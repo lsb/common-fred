@@ -1,0 +1,1 @@
+The task included minimizing acoustic feedback, unwanted resonances, wow and flutter and speed errors.

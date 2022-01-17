@@ -1,0 +1,1 @@
+This section refers to classic Sudoku, disregarding jigsaw, hyper, and other variants.

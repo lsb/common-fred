@@ -1,0 +1,1 @@
+Commanding DirectShow to play a file is a relatively simple task.

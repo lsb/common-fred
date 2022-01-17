@@ -1,0 +1,1 @@
+Any complete market is also dynamically complete.

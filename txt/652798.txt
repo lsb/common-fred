@@ -1,0 +1,1 @@
+The proprietary software uses multi-threading for some intermediate steps.

@@ -1,0 +1,1 @@
+During startup, the graphics of the splash screen show a Valknut.

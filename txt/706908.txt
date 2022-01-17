@@ -1,0 +1,1 @@
+These minimization problems arise especially in least squares curve fitting.

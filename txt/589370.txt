@@ -1,0 +1,1 @@
+The capsule signals are then converted to B-format with a matrix operation.

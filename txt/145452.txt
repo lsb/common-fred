@@ -1,0 +1,1 @@
+After applying a matrix to the vertex, it is scaled by its corresponding weight.

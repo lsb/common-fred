@@ -1,0 +1,1 @@
+"Codimension is a ""relative"" concept: it is only defined for one object ""inside"" another."

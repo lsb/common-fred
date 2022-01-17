@@ -1,0 +1,1 @@
+Pivot tables and Visual Basic for Applications macros are not yet supported.

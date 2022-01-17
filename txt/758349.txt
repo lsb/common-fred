@@ -1,0 +1,1 @@
+Two computers or applications can communicate through an emulated serial port link.

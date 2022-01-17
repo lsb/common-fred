@@ -1,0 +1,1 @@
+Graphics Virtualization Technology was introduced with Intel Iris Pro.

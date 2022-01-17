@@ -1,0 +1,1 @@
+The theory of nil ideals is of major importance in noncommutative ring theory.

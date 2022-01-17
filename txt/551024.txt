@@ -1,0 +1,1 @@
+Suppose a dictionary for each class has already been built.

@@ -1,0 +1,1 @@
+A unital algebra homomorphism is a ring homomorphism.

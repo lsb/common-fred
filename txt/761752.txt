@@ -1,0 +1,1 @@
+Unary is used as part of some data compression algorithms such as Golomb coding.

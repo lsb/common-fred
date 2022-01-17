@@ -1,0 +1,1 @@
+In successive rounds more monsters appear on each screen, and they move quicker.

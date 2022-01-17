@@ -1,0 +1,1 @@
+If the student has a microphone, the software can attempt to evaluate word pronunciation.

@@ -1,0 +1,1 @@
+Tromelin has facilities for scientific expeditions and a weather station.

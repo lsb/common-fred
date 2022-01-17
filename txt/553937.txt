@@ -1,0 +1,1 @@
+Telnet is a client-server protocol, based on a reliable connection-oriented transport.

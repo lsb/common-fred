@@ -1,0 +1,1 @@
+His proof for higher-order logic uses a variant of the standard semantics.

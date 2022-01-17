@@ -1,0 +1,1 @@
+Nodes may have subnodes, which appear as nested boxes.

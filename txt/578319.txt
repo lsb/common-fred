@@ -1,0 +1,1 @@
+The affixes only mark for person, not for number of the object.

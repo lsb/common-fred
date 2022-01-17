@@ -1,0 +1,1 @@
+In response to user actions, an applet can change the provided graphic content.

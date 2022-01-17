@@ -1,0 +1,1 @@
+Using the compactness theorem, the resulting theory is easily seen to be consistent.

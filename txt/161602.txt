@@ -1,0 +1,1 @@
+An algebraic subgroup of an algebraic group is a Zariski-closed subgroup.

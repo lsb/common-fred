@@ -1,0 +1,1 @@
+Iris recognition works with clear contact lenses, eyeglasses, and non-mirrored sunglasses.

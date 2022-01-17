@@ -1,0 +1,1 @@
+"""Remark:"" Steiner's generation is available for ellipses and hyperbolas, too."

@@ -1,0 +1,1 @@
+In general the scenarios should be mastered with maximum autonomy, although teleoperation is allowed.

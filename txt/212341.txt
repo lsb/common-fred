@@ -1,0 +1,1 @@
+Construct validation checks what underlying construct is being measured.

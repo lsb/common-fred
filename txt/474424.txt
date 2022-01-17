@@ -1,0 +1,1 @@
+Old code sometimes casts such function calls to void to suppress this warning.

@@ -1,0 +1,1 @@
+"These ""tightly squeezed"" text characters are not full characters."

@@ -1,0 +1,1 @@
+"""Script"" shorthands are based on the motions of ordinary handwriting."

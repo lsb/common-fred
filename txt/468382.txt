@@ -1,0 +1,1 @@
+Node is a complex, logical concept that is represented with more concrete concepts.

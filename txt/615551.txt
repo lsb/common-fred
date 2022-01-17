@@ -1,0 +1,1 @@
+The following structures include generalizations and other algebraic objects similar to rings.

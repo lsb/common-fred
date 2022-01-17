@@ -1,0 +1,1 @@
+"Players' names were not displayed on the jerseys."

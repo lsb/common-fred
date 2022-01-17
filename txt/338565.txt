@@ -1,0 +1,1 @@
+However, strong authentication is not necessarily multi-factor authentication.

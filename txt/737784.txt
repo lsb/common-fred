@@ -1,0 +1,1 @@
+This pass may also be omitted if the executable is a position independent executable.

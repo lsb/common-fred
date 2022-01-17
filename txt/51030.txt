@@ -1,0 +1,1 @@
+"In this method a network is created to determine whether team ""k"" is eliminated."

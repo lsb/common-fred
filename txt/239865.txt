@@ -1,0 +1,1 @@
+Examples of paper-and-pencil games are Tic-tac-toe, Sprouts, and Dots and Boxes.

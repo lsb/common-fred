@@ -1,0 +1,1 @@
+"The conditioning of textual responses using 'extrinsic' reinforcers."

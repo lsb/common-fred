@@ -1,0 +1,1 @@
+Its transfer function weights are calculated and threshold value are predetermined.

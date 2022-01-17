@@ -1,0 +1,1 @@
+This can be foiled by not permitting an email-program to load images.

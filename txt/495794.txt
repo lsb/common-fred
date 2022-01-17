@@ -1,0 +1,1 @@
+Port prioritization solves this problem as it prioritizes certain ports for certain applications.

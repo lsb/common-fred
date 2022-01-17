@@ -1,0 +1,1 @@
+"""Akamba"" carvers use the logs for carving wood sculptures."

@@ -1,0 +1,1 @@
+The headword is used to locate the entry, and dictates its alphabetical position.

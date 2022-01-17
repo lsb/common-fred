@@ -1,0 +1,1 @@
+"Mono consists of two dialects, ""Eastern"" and ""Western""."

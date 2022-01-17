@@ -1,0 +1,1 @@
+In major operating systems, the standard executable format has a single entry point.

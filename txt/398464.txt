@@ -1,0 +1,1 @@
+It is the sum of the totient function for the first twelve integers.

@@ -1,0 +1,1 @@
+Activation typically spreads to all the other units connected to it.

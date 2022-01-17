@@ -1,0 +1,1 @@
+These intervals are then arranged in ascending order.

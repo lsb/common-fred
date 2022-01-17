@@ -1,0 +1,1 @@
+The area element may be used to calculate the area of the sphere.

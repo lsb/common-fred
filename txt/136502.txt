@@ -1,0 +1,1 @@
+A soft edge is a wider, smoother change from light to dark.

@@ -1,0 +1,1 @@
+The voltage gradient in the material will point against the temperature gradient.

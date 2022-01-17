@@ -1,0 +1,1 @@
+The book on cryptography is largely based on earlier works by Johannes Trithemius.

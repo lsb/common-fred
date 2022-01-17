@@ -1,0 +1,1 @@
+Firewalls can be used to protect a network against intruders.

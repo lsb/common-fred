@@ -1,0 +1,1 @@
+It is the same construction used for quotient groups and quotient rings.

@@ -1,0 +1,1 @@
+The Open Firmware environment can be entered by holding the key combination while booting.

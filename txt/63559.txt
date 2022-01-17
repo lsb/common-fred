@@ -1,0 +1,1 @@
+"Many of today's X window managers now include virtual desktop capabilities."

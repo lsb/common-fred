@@ -1,0 +1,1 @@
+Inpatient days are calculated by subtracting day of admission from day of discharge.

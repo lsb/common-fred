@@ -1,0 +1,1 @@
+"As shown in the image, a Professor 'has a' class to teach."

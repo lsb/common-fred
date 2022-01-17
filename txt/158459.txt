@@ -1,0 +1,1 @@
+Also, it should be changed whenever new subclass of Shape are created.

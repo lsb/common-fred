@@ -1,0 +1,1 @@
+Fine distance measurements are made by comparing frequency shifts of the link.

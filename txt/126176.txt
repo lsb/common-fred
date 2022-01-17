@@ -1,0 +1,1 @@
+A generic replica cockpit with working instruments was mounted on the motion platform.

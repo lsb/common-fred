@@ -1,0 +1,1 @@
+I bind commands for moving across an entire symbol and across a single subword.

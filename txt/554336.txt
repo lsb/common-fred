@@ -1,0 +1,1 @@
+Terminals can be attacked and disabled, but not destroyed.

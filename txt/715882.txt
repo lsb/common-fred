@@ -1,0 +1,1 @@
+They generate different amplifier sounds based on digital models of various popular amplifiers.

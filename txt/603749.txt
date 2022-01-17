@@ -1,0 +1,1 @@
+The development of Imaris is tightly linked to the development of the confocal microscope.

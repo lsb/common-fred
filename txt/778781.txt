@@ -1,0 +1,1 @@
+While editing a line pressing Ctrl-C cancels any changes.

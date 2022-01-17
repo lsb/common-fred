@@ -1,0 +1,1 @@
+This workaround blocks a common attack vector but does not eliminate the vulnerability.

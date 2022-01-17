@@ -1,0 +1,1 @@
+"In ""Legacy"" control of the game's characters, camera, and frame-rate were streamlined."

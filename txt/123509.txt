@@ -1,0 +1,1 @@
+A common application of this is in the Hartley oscillator.

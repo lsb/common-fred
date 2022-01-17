@@ -1,0 +1,1 @@
+The requirement for addresses to be given in Chinese characters was also dropped.

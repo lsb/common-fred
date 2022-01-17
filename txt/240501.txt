@@ -1,0 +1,1 @@
+Extended memory managers usually provide this functionality.

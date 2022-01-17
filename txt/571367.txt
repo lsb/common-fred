@@ -1,0 +1,1 @@
+The Professional version includes the Flex Charting Components library.

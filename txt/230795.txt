@@ -1,0 +1,1 @@
+Each enzyme split the molecule at location points for specific nucleotides.

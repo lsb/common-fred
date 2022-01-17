@@ -1,0 +1,1 @@
+Reinforcements determine the number of times players on a team can respawn.

@@ -1,0 +1,1 @@
+Canceling a neighbor deal would incur a penalty.

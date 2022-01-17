@@ -1,0 +1,1 @@
+There is an optional component video cable that can be added to this interface.

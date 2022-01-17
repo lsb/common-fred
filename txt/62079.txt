@@ -1,0 +1,1 @@
+"Likewise, a 'cmatrix', is continuous in both indices."

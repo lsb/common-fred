@@ -1,0 +1,1 @@
+Other renderers included color and image fills, gradients, tiles and blends.

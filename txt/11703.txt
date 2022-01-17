@@ -1,0 +1,1 @@
+"A triangle's semiperimeter equals the perimeter of its medial triangle."

@@ -1,0 +1,1 @@
+It supports a variety of executable formats for different processors and operating systems.

@@ -1,0 +1,1 @@
+More sophisticated methods use various ways of reducing the correlation between successive samples.

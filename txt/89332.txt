@@ -1,0 +1,1 @@
+"The categories are seen if the user use ""Details"" view."

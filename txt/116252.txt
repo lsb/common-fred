@@ -1,0 +1,1 @@
+"Visa and MasterCard don't license merchants for sending requests to their servers."

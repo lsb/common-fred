@@ -1,0 +1,1 @@
+The main view screen shows the terrain vehicle in relation to its immediate surroundings.

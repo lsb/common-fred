@@ -1,0 +1,1 @@
+If there is no trump suit, all suits are of equal rank.

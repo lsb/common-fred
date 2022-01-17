@@ -1,0 +1,1 @@
+Total energy and binding energy are calculated.

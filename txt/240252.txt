@@ -1,0 +1,1 @@
+Existing partitions can be resized without loss of data.

@@ -1,0 +1,1 @@
+On top of the core subsystem various applications are built.

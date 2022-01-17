@@ -1,0 +1,1 @@
+The zero game has a Sprague-Grundy value of zero.

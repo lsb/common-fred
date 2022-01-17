@@ -1,0 +1,1 @@
+"The utility graph ""K"" is a circulant graph."

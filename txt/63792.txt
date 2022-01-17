@@ -1,0 +1,1 @@
+"Mario cannot jump because of the hammer's weight."

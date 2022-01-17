@@ -1,0 +1,1 @@
+The sign convention used above corresponds to the signs obtained by multiplying two quaternions.

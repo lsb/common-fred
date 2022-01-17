@@ -1,0 +1,1 @@
+"""Insight's"" reporting sometimes resulted in journalistic controversy."

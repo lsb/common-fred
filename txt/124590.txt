@@ -1,0 +1,1 @@
+A distinctive feature of Jaguar is its use of the pseudospectral approximation.

@@ -1,0 +1,1 @@
+In practice, the image is summarized with functions of a few lower order moments.

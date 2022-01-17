@@ -1,0 +1,1 @@
+It follows that every such space is completely normal as well as paracompact.

@@ -1,0 +1,1 @@
+The last player who is able to move a stack wins.

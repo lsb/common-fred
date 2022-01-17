@@ -1,0 +1,1 @@
+Some types of robots, such as robotic arms, can be articulated or non-articulated.

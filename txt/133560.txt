@@ -1,0 +1,1 @@
+A pixel is a dot that represents the smallest graphical measurement on a screen.

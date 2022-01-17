@@ -1,0 +1,1 @@
+It is an extension of the Rademacher system of orthogonal functions.

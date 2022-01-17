@@ -1,0 +1,1 @@
+"Conversely, let ""D"" be a dominating set for ""G""."

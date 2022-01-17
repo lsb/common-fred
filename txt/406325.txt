@@ -1,0 +1,1 @@
+It was a relatively clean design and made use of a simple, weight-saving structure.

@@ -1,0 +1,1 @@
+Affine arithmetic can be viewed in matrix form as follows.

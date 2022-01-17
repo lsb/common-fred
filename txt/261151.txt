@@ -1,0 +1,1 @@
+Graph coloring allocators produce efficient code, but their allocation time is high.

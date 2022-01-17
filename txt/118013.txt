@@ -1,0 +1,1 @@
+"When the crank is turned, it plays a melody, often ""Pop Goes the Weasel""."

@@ -1,0 +1,1 @@
+The vertices of the polygon are the most saturated colors the system can produce.

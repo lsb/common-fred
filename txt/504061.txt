@@ -1,0 +1,1 @@
+Regression tests can be broadly categorized as functional tests or unit tests.

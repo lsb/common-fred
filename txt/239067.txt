@@ -1,0 +1,1 @@
+Every regular grammar describes a regular language.

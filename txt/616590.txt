@@ -1,0 +1,1 @@
+The formulation above can be easily extended to a spheroid.

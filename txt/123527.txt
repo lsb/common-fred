@@ -1,0 +1,1 @@
+A common error in thermocouple construction is related to cold junction compensation.

@@ -1,0 +1,1 @@
+On Linux, Beagle efficiently indexes documents using inotify without the need for frequent reindexing.

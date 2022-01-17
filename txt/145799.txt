@@ -1,0 +1,1 @@
+After downloading the Drivewise app and enabling location services, Drivewise will automatically detect trips.

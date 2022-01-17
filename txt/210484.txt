@@ -1,0 +1,1 @@
+Common privileges include viewing and editing files, or modifying system files.

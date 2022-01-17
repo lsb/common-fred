@@ -1,0 +1,1 @@
+A similar mechanism can be use on the Gnutella network with magnet links.

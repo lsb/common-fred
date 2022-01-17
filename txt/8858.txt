@@ -1,0 +1,1 @@
+"""Warrior"" displaced as built and fully loaded."

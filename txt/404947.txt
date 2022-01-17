@@ -1,0 +1,1 @@
+It supports a notched double free-standing bridge.

@@ -1,0 +1,1 @@
+"At the end of each stage, a ""stage-ending animation"" is displayed."

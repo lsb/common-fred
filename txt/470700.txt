@@ -1,0 +1,1 @@
+Note that the function does not know the number of arguments or their types.

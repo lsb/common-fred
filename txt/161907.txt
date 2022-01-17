@@ -1,0 +1,1 @@
+An associative data container of key-value pairs with unique keys.

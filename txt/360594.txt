@@ -1,0 +1,1 @@
+In some cases, the page number appears before the text.

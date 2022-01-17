@@ -1,0 +1,1 @@
+Adding properties to a packet does not affect existing properties.

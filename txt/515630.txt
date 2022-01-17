@@ -1,0 +1,1 @@
+Services are specified by a Java interface.

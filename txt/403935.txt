@@ -1,0 +1,1 @@
+It separates syllables, as it indicates the start of a new one.

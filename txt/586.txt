@@ -1,0 +1,1 @@
+"""Artifact"" is the spelling in North American English; ""artefact"" is usually preferred elsewhere."

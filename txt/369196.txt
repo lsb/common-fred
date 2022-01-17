@@ -1,0 +1,1 @@
+Interface bloat is an example of an anti-pattern.

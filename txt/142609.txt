@@ -1,0 +1,1 @@
+ActiveArmor also has a high probability of causing corruption of file downloads.

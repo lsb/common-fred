@@ -1,0 +1,1 @@
+This proof is based on the one given by Garey and Johnson.

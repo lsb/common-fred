@@ -1,0 +1,1 @@
+"Duddell's ""singing arc"" did not generate frequencies above the audio range."

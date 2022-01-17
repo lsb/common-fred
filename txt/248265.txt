@@ -1,0 +1,1 @@
+For finitely generated modules over a Noetherian ring, flatness and projectivity are equivalent.

@@ -1,0 +1,1 @@
+Any two polar circles of two triangles in an orthocentric system are orthogonal.

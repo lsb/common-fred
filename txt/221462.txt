@@ -1,0 +1,1 @@
+Development is typically done on a host computer running Windows or Linux.

@@ -1,0 +1,1 @@
+Not all Flame implementations use density estimation.

@@ -1,0 +1,1 @@
+When logic gates toggle, some transistors inside may change states.

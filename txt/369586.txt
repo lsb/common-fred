@@ -1,0 +1,1 @@
+Introduces the real-time exchange of air picture and commands between the Hawk units.

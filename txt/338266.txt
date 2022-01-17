@@ -1,0 +1,1 @@
+However, servers implemented accNavigate in unpredictable ways and often not at all.

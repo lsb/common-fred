@@ -1,0 +1,1 @@
+Jambase is usually compiled into the executable file itself.

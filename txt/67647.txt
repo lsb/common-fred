@@ -1,0 +1,1 @@
+"Note that the ""Show all"" button is helpful for expanding ellipses in commands."

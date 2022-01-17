@@ -1,0 +1,1 @@
+Developers contributing to the code base should read and be familiar with Subversion.

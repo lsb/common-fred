@@ -1,0 +1,1 @@
+"This sound generation hardware is used on only one Famicom title: ""Gimmick!""."

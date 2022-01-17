@@ -1,0 +1,1 @@
+"""Daytime"" is the period of time each day when daylight occurs."

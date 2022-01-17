@@ -1,0 +1,1 @@
+"""Duration"" - The timeframe of the Lease-Purchase Agreement."

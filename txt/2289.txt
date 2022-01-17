@@ -1,0 +1,1 @@
+"""Fagerstrand"" in English means ""beautiful beach"" or ""fair beach""."

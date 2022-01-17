@@ -1,0 +1,1 @@
+This algorithm calculates the cost function at each possible location in the search window.

@@ -1,0 +1,1 @@
+Microscope image processing specializes in the processing of images obtained by microscope.

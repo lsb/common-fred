@@ -1,0 +1,1 @@
+This effect becomes more noticeable as the number of processors increases.

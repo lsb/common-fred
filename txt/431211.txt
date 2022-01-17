@@ -1,0 +1,1 @@
+Later that month, another hack was done to add support for high-res select screens.

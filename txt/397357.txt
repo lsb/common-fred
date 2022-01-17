@@ -1,0 +1,1 @@
+It is the largest Fibonacci number to also be a triangular number.

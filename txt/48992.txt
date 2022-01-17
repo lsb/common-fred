@@ -1,0 +1,1 @@
+"In a discriminative approach to the problem, ""f"" is estimated directly."

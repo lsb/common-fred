@@ -1,0 +1,1 @@
+Walls may have a bounce, wrap-around, or no effect, as may the ceiling.

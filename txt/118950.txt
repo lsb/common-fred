@@ -1,0 +1,1 @@
+"Wirth describes Lola from a user's perspective in his book ""Digital Circuit Design""."

@@ -1,0 +1,1 @@
+It measures the length of the response in those patients who responded.

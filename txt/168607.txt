@@ -1,0 +1,1 @@
+Applications would be created by composing an appropriate set of modules.

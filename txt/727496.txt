@@ -1,0 +1,1 @@
+This corresponds to the step-like Fermi-Dirac distribution at absolute zero.

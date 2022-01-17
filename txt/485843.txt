@@ -1,0 +1,1 @@
+Outliers may be plotted as individual points.

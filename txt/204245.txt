@@ -1,0 +1,1 @@
+Certain combinations of rotor order, stepping and initial key were fundamentally weaker than others.

@@ -1,0 +1,1 @@
+"The ""k""-Helly property is the property of being a Helly family of order ""k""."

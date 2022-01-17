@@ -1,0 +1,1 @@
+"""A Capital"" had a populist stance."

@@ -1,0 +1,1 @@
+Additional bus gates are available in each concourse.

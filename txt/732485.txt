@@ -1,0 +1,1 @@
+This is because, with additive valuations, every envy-free division is also proportional.

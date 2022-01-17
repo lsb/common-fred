@@ -1,0 +1,1 @@
+The next step in the construction is to generalize the multiplication and conjugation operations.

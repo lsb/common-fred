@@ -1,0 +1,1 @@
+Gradient-index lenses may have a refraction gradient that is spherical, axial, or radial.

@@ -1,0 +1,1 @@
+It was the first database management system included with a business-class minicomputer.

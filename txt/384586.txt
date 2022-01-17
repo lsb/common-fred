@@ -1,0 +1,1 @@
+It is also used as the owner for files created by that process.

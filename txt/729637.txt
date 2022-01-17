@@ -1,0 +1,1 @@
+This framework involves the coordination between individuals, artifacts and the environment.

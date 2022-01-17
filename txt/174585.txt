@@ -1,0 +1,1 @@
+As with noetherian rings, the concept is named after Emmy Noether.

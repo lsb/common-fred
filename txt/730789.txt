@@ -1,0 +1,1 @@
+This idea is generalized and made precise in the Sobolev embedding theorem.

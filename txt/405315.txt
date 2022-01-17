@@ -1,0 +1,1 @@
+It therefore provides an external analog mixing interface for the computer.

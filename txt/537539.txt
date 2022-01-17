@@ -1,0 +1,1 @@
+Solid lines denote children and dashed lines marriages.

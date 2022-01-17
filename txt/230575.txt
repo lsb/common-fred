@@ -1,0 +1,1 @@
+Each club is composed of a shaft with a grip and a club head.

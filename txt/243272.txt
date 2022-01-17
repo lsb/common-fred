@@ -1,0 +1,1 @@
+Files and other persistent objects are recorded in a repository called the Catalogue.

@@ -1,0 +1,1 @@
+A rotation accomplishes in a single cycle a movement of the register window.

@@ -1,0 +1,1 @@
+A formula is used to produce a score based on the three categories.

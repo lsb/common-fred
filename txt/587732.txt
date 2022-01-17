@@ -1,0 +1,1 @@
+The broker may set the requirement higher, but may not set it lower.

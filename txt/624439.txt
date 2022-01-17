@@ -1,0 +1,1 @@
+The instrument works by pulling a section of magnetic tape across a head.

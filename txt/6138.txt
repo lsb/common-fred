@@ -1,0 +1,1 @@
+"""Ramacharitham"" mainly consists of stories from the Yuddha Kanda of the ""Ramayana""."

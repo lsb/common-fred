@@ -1,0 +1,1 @@
+Destination may be either a physical or group address.

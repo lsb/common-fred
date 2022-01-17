@@ -1,0 +1,1 @@
+"The field windings are connected to the ""incoming"" machine."

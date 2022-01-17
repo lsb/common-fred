@@ -1,0 +1,1 @@
+It is a tool that allows easy configuration of Mandriva.

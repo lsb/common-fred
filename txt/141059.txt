@@ -1,0 +1,1 @@
+Above this limit the transponder avoids overload by limiting the sensitivity of the receiver.

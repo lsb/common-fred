@@ -1,0 +1,1 @@
+"Often the methods are divided into two main types ""Bottom Up"" and ""Top Down."

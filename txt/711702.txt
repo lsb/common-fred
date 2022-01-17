@@ -1,0 +1,1 @@
+They are easier to calculate than the more general divided differences.

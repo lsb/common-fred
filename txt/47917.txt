@@ -1,0 +1,1 @@
+"If we can fix ""R"" then we obtain an algorithm that is deterministic."

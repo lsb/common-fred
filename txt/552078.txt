@@ -1,0 +1,1 @@
+System Profiler can be extremely useful if attempting to diagnose a hardware problem.

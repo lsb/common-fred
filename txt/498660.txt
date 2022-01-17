@@ -1,0 +1,1 @@
+Procedures for launch have been changed to prevent future malfunctions of this kind.

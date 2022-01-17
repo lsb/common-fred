@@ -1,0 +1,1 @@
+In this approach, it is assumed that a deadlock will never occur.

@@ -1,0 +1,1 @@
+Any distribution can be arbitrarily well approximated by a phase type distribution.

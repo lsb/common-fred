@@ -1,0 +1,1 @@
+It can be seen as truncated tetrahedra and truncated cubes augmented together.

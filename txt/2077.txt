@@ -1,0 +1,1 @@
+"""Ekwok"" means ""end of the bluff"" in Yupik."

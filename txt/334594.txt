@@ -1,0 +1,1 @@
+However the variants are not interoperable, nor are the frame formats.

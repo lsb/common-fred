@@ -1,0 +1,1 @@
+To free a region, one would just link it to the free list.

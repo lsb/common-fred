@@ -1,0 +1,1 @@
+It generalizes the polar decomposition or singular value decomposition of matrices.

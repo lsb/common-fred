@@ -1,0 +1,1 @@
+A simplex may be defined as the smallest convex set containing the given vertices.

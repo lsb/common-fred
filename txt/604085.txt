@@ -1,0 +1,1 @@
+The difficulty increases for each level completed.

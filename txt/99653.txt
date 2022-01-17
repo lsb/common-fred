@@ -1,0 +1,1 @@
+"The result can alternatively be proved using Jensen's inequality or log sum inequality."

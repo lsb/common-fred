@@ -1,0 +1,1 @@
+"""Mauna Kea"" was the oldest active ship in the Navy prior to being decommissioned."

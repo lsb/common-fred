@@ -1,0 +1,1 @@
+This is the maximum price at which generators can bid into the market.

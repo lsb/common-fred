@@ -1,0 +1,1 @@
+This hierarchy allows for a fault tolerant behavior.

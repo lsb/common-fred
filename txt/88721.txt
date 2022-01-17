@@ -1,0 +1,1 @@
+"The bitap algorithm is an application of Baeza–Yates' approach."

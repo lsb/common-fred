@@ -1,0 +1,1 @@
+This capability allows modeling of regular or irregular sea states.

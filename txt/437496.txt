@@ -1,0 +1,1 @@
+Local solutions should be preferred to cloud solutions in many cases.

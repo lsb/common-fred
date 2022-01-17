@@ -1,0 +1,1 @@
+However, unlike the Hamiltonian, the position operator lacks proper eigenfunctions.

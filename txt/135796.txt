@@ -1,0 +1,1 @@
+A simple example of the discrete uniform distribution is throwing a fair die.

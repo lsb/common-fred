@@ -1,0 +1,1 @@
+Databases can also be encrypted.

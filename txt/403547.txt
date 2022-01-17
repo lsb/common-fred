@@ -1,0 +1,1 @@
+It resembles the Casimir invariants for Lie algebra irreducible representations.

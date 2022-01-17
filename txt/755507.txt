@@ -1,0 +1,1 @@
+Traditional evaluation metrics, designed for Boolean retrieval or top-k retrieval, include precision and recall.

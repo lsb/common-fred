@@ -1,0 +1,1 @@
+Handy developed several methods in quantum chemistry and theoretical spectroscopy.

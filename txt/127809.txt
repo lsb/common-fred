@@ -1,0 +1,1 @@
+A knowledge of the Simon effect is useful in the design of man-machine interfaces.

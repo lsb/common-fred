@@ -1,0 +1,1 @@
+These algorithms can give quite accurate results for highly periodic signals.

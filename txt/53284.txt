@@ -1,0 +1,1 @@
+"It is also known as Prim's algorithm or the Prim-Dikstra algorithm."

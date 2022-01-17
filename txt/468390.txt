@@ -1,0 +1,1 @@
+Nodes that are within range communicate directly with one another.

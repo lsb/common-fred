@@ -1,0 +1,1 @@
+The signal to noise ratio of the point sources increases with stronger selection.

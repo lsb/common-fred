@@ -1,0 +1,1 @@
+Fractal image compression has many similarities to vector quantization image compression.

@@ -1,0 +1,1 @@
+Closure is obtained from currying and application, as usual.

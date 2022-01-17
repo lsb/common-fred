@@ -1,0 +1,1 @@
+The densitometer is basically a light source aimed at a photoelectric cell.

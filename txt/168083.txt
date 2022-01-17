@@ -1,0 +1,1 @@
+Any view serializable schedule that is not conflict serializable must contain a blind write.

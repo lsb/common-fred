@@ -1,0 +1,1 @@
+Batch reactors are generally considered expensive to run, as well as variable product reliability.

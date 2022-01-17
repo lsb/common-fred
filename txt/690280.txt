@@ -1,0 +1,1 @@
+Then the ray is sampled at regular or adaptive intervals throughout the volume.

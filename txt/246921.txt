@@ -1,0 +1,1 @@
+Fonts are represented as PostScript font names.

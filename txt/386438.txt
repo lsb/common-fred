@@ -1,0 +1,1 @@
+It is conjectured that it always equals the chromatic index.

@@ -1,0 +1,1 @@
+Proximity measures, in a way, the accessibility of a node in the network.

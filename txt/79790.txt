@@ -1,0 +1,1 @@
+"Some systems use ""lossy"" digital audio compression to minimize the first two factors."

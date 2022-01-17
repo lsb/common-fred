@@ -1,0 +1,1 @@
+"The ""chaos game"" method plots points in random order all over the attractor."

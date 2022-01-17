@@ -1,0 +1,1 @@
+This halving depends on an arbitrary choice, called a polarization.

@@ -1,0 +1,1 @@
+For an even number of digits, the approach in the second example is used.

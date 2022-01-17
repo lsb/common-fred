@@ -1,0 +1,1 @@
+Rotations and reflections are represented as elements.

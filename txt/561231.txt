@@ -1,0 +1,1 @@
+The Connection Number identifies an individual client station connection on the server.

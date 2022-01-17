@@ -1,0 +1,1 @@
+The key-dependent bit permutation is implemented efficiently in software.

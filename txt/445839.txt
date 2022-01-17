@@ -1,0 +1,1 @@
+Many vehicle manufacturers use dynamic compositing to let the visitor visualize their customizations.

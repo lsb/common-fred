@@ -1,0 +1,1 @@
+"""Jam of the Year"" is the opening song on the album."

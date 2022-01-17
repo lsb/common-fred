@@ -1,0 +1,1 @@
+If only closed subspaces must share the property we call it weakly hereditary.

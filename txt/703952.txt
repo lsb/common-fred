@@ -1,0 +1,1 @@
+These are two different operating systems with different kernels and different userlands.

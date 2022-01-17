@@ -1,0 +1,1 @@
+Both formats contain the matched sources in the report of the interactive browser.

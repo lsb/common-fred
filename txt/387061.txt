@@ -1,0 +1,1 @@
+It is designed to be a mid to high performance racer.

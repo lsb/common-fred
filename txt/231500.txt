@@ -1,0 +1,1 @@
+Each period has its own map screen, which is divided into various levels.

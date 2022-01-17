@@ -1,0 +1,1 @@
+All subdirectories of that path are also searched.

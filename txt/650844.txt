@@ -1,0 +1,1 @@
+The previous example is a two-pass sort: first sort, then merge.

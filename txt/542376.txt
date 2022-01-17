@@ -1,0 +1,1 @@
+Sometimes both pressure sources are combined in a single probe, a pitot-static tube.

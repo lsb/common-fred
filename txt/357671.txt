@@ -1,0 +1,1 @@
+In ill-conditioned problems, significant error may accumulate.

@@ -1,0 +1,1 @@
+"All integers are of the form for and ""k"" an integer."

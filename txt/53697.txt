@@ -1,0 +1,1 @@
+"It is generally less error-prone than using the built-in ""switch to"" command."

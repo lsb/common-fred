@@ -1,0 +1,1 @@
+Explosive velocities are always faster than the local speed of sound in the material.

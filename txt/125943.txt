@@ -1,0 +1,1 @@
+A frame synchronizer stores at least a full frame of video.

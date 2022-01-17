@@ -1,0 +1,1 @@
+The following languages have letter-diacritic combinations that are not considered independent letters.

@@ -1,0 +1,1 @@
+A tuned mass damper counteracts wind effects on the structure.

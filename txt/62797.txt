@@ -1,0 +1,1 @@
+"Lynx is also used to test web sites' performance."

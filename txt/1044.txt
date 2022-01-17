@@ -1,0 +1,1 @@
+"""Brownson"" was designed by Gibbs and Cox, Naval Architects, New York office."

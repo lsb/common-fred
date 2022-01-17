@@ -1,0 +1,1 @@
+This structure is the core which is used in real-time computer graphics applications.

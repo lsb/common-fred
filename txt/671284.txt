@@ -1,0 +1,1 @@
+The subtraction function can be written based on the predecessor function.

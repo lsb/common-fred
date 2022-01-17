@@ -1,0 +1,1 @@
+The public one is used for encryption, and the private for decryption.

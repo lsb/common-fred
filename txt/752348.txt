@@ -1,0 +1,1 @@
+To understand the difference, consider two interacting programs, one feeding a file to another.

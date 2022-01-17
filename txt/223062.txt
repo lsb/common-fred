@@ -1,0 +1,1 @@
+Disk drives are typical block devices.

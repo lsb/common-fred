@@ -1,0 +1,1 @@
+Load capacity is the amount of weight a wheel will carry.

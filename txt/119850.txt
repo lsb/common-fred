@@ -1,0 +1,1 @@
+"You can even require a second confirmation when turning the microphone on, but I haven't needed that."

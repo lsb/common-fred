@@ -1,0 +1,1 @@
+This facilitates an approximate analytical solution to the eigenvalue problem for the Hamiltonian operator.

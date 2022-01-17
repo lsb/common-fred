@@ -1,0 +1,1 @@
+This conduit can be transient or persistent.

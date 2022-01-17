@@ -1,0 +1,1 @@
+They are often mapped to Dublin Core elements such as Creator, Author, Language.

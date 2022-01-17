@@ -1,0 +1,1 @@
+The game ends when both players have passed consecutively.

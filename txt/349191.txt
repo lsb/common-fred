@@ -1,0 +1,1 @@
+If applicable, high dynamic range merging is done along with motion compensation and deghosting.

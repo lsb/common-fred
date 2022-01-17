@@ -1,0 +1,1 @@
+This is analogous to a text system console.

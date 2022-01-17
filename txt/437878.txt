@@ -1,0 +1,1 @@
+Logarithmic derivatives can simplify the computation of derivatives requiring the product rule.

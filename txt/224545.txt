@@ -1,0 +1,1 @@
+Domains in these zones are registered through the delegated manager, rather than through Neustar.

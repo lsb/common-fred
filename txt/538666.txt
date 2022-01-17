@@ -1,0 +1,1 @@
+Some designs relocate the switch into the body of the microphone itself.

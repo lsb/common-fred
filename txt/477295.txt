@@ -1,0 +1,1 @@
+One can allow more than one basic polygon.

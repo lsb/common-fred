@@ -1,0 +1,1 @@
+It has inherent support for run-time cast validation.

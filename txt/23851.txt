@@ -1,0 +1,1 @@
+"Collision with a falling alien or its explosion destroys the player's ship."

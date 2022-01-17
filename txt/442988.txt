@@ -1,0 +1,1 @@
+Many codes and nomenclatural systems originate within a small namespace.

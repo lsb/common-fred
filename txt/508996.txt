@@ -1,0 +1,1 @@
+Routing tables are updated and updates are propagated across the network.

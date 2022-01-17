@@ -1,0 +1,1 @@
+Study of these higher order derivatives can improve approximations of the original displacement function.

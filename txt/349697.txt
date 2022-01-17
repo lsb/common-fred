@@ -1,0 +1,1 @@
+If the camera is panned with a moving subject, the background will appear blurred.

@@ -1,0 +1,1 @@
+Any permutation of the corners is possible, including odd permutations.

@@ -1,0 +1,1 @@
+Not all games prone to bugs have ppf patches written for them.

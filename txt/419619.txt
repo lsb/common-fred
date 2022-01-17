@@ -1,0 +1,1 @@
+Its touchscreen supports zoom in and out, look up in dictionary and adding notes.

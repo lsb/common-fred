@@ -1,0 +1,1 @@
+The leakage current increased with temperature.

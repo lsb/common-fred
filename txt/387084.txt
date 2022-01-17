@@ -1,0 +1,1 @@
+It is determined per the syntax of the respective programming language during their declaration.

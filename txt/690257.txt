@@ -1,0 +1,1 @@
+Then the marginal rate of substitution can be computed via partial differentiation, as follows.

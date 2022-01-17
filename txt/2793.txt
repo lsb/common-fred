@@ -1,0 +1,1 @@
+"""Graphic Novel Review for Libraries"" was Markstein's periodical guide for librarians."

@@ -1,0 +1,1 @@
+A multi-threaded process which selects events from the Event Server and processes them.

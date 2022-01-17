@@ -1,0 +1,1 @@
+Global clusters can be built using built-in auto-configuration capabilities from the centralized management system.

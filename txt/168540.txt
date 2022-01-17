@@ -1,0 +1,1 @@
+Applets in an open platform environment should provide secure interactions between different applications.

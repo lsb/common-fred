@@ -1,0 +1,1 @@
+These matrices all have a determinant whose absolute value is unity.

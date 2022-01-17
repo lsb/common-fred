@@ -1,0 +1,1 @@
+"Configurations differ for each type of rigging, between ""fore-and-aft rigged"" vessels and ""square-rigged"" vessels."

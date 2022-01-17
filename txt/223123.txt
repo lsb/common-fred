@@ -1,0 +1,1 @@
+Display the system time and waits for the user to enter a new time.

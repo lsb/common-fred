@@ -1,0 +1,1 @@
+Equivalently, a perfect set is a closed set with no isolated points.

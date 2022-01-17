@@ -1,0 +1,1 @@
+Superheterodyne receivers allow use one or more fixed intermediate frequency tuned circuits for selectivity.

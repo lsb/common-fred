@@ -1,0 +1,1 @@
+"""Skeptical Inquirer"" magazine criticized the lack of falsifiability and testability of these claims."

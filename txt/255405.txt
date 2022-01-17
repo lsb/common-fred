@@ -1,0 +1,1 @@
+Further, business logic is procedural whereas business rules are declarative.

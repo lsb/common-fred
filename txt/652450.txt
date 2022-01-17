@@ -1,0 +1,1 @@
+The project structure at the Eclipse Foundation is a hierarchical structure.

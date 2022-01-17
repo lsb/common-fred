@@ -1,0 +1,1 @@
+The Magma system is used extensively within pure mathematics.

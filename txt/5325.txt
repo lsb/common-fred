@@ -1,0 +1,1 @@
+"""Note:"" A micro-mainframe link usually requires terminal emulation software on the microcomputer."

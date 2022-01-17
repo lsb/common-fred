@@ -1,0 +1,1 @@
+In rebreathers the scrubber is a part of the breathing loop.

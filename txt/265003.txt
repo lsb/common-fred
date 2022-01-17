@@ -1,0 +1,1 @@
+Haskell is a declarative language, there are statements, but declarations within a Haskell script.

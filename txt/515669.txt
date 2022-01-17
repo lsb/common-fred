@@ -1,0 +1,1 @@
+Services such as Read-Property and Write-Property are used for data sharing.

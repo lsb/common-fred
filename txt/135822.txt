@@ -1,0 +1,1 @@
+A simplicial polytope is a polytope whose facets are all simplices.

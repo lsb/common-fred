@@ -1,0 +1,1 @@
+Wavetable synthesis is fundamentally based on periodic reproduction of an arbitrary, single-cycle waveform.

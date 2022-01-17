@@ -1,0 +1,1 @@
+Properties include temperature, salinity, chemical - isotopic ratios, and other physical quantities.

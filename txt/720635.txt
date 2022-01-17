@@ -1,0 +1,1 @@
+They should never retrace an already effected cut.

@@ -1,0 +1,1 @@
+An on-gimbal inertial navigation sensor establishes line-of-sight and automatic boresighting capability.

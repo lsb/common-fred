@@ -1,0 +1,1 @@
+Any linear operator defined on a finite-dimensional normed space is bounded.

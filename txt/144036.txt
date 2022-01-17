@@ -1,0 +1,1 @@
+Adherence to the basic cycle time is monitored by the Managing Node.

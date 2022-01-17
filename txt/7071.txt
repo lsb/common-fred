@@ -1,0 +1,1 @@
+"""Start-up"" is the time spent fine tuning the equipment after it has been restarted."

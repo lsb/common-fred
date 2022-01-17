@@ -1,0 +1,1 @@
+Control frames facilitate in the exchange of data frames between stations.

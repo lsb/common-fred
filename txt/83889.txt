@@ -1,0 +1,1 @@
+"The ""polygon count"" refers to the number of polygons being rendered per frame."

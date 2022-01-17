@@ -1,0 +1,1 @@
+It is used for data coordination among government registries.

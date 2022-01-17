@@ -1,0 +1,1 @@
+In each cycle, all enabled transitions are assumed to be taken.

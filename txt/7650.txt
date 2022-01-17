@@ -1,0 +1,1 @@
+"""The Gallery"" is often referred to as a masterpiece from the era."

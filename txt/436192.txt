@@ -1,0 +1,1 @@
+Lining figures are the default, and are shown on the sample image.

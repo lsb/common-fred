@@ -1,0 +1,1 @@
+A turning point is a point at which the derivative changes sign.

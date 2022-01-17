@@ -1,0 +1,1 @@
+The ones and zeros are interchangeable without loss of generality.

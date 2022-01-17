@@ -1,0 +1,1 @@
+Companding algorithms reduce the dynamic range of an audio signal.

@@ -1,0 +1,1 @@
+"""Coopetition"" is a word coined from cooperation and competition."

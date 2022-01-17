@@ -1,0 +1,1 @@
+If we examine the data, we find errors were logged on consecutive days.

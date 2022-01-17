@@ -1,0 +1,1 @@
+"""Polarium Advance"" was developed by Mitchell Corporation for the Game Boy Advance."

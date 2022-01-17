@@ -1,0 +1,1 @@
+A client, such as a web browser, can also store web content for reuse.

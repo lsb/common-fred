@@ -1,0 +1,1 @@
+MapReduce programs are not guaranteed to be fast.

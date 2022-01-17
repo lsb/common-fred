@@ -1,0 +1,1 @@
+These lines are typically used when defining the cutting pattern seam-lines.

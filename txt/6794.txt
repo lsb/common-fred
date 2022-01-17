@@ -1,0 +1,1 @@
+"""Simple"", said the boy, ""first I shoot the arrow, then I draw the target""."

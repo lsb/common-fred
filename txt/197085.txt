@@ -1,0 +1,1 @@
+But circuit-level firewalls do not clean entity packets.

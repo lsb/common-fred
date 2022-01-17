@@ -1,0 +1,1 @@
+However, receivers can implement various strategies that limit this influence.

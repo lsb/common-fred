@@ -1,0 +1,1 @@
+Interpolation of periodic functions by harmonic functions is accomplished by Fourier transform.

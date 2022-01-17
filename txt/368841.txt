@@ -1,0 +1,1 @@
+Instead, the signal is distributed using beam splitters.

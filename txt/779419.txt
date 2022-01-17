@@ -1,0 +1,1 @@
+While the architectures are very different, the macro and conditional assembly facilities are similar.

@@ -1,0 +1,1 @@
+The player wins the game if he kills the Wumpus.

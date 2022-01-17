@@ -1,0 +1,1 @@
+Accelerometers are used to monitor structures for earthquake response.

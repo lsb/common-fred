@@ -1,0 +1,1 @@
+The above is the continuous mode, where the host initiates the protocol.

@@ -1,0 +1,1 @@
+These color transitions can be applied to large regions or smaller custom path selections.

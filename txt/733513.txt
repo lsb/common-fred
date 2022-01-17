@@ -1,0 +1,1 @@
+This is only possible if a neighborhood relation is defined on the search space.

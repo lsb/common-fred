@@ -1,0 +1,1 @@
+A Laplacian vector field in the plane satisfies the Cauchy-Riemann equations: it is holomorphic.

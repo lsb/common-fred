@@ -1,0 +1,1 @@
+It never saturates even if the input voltage reaches the positive rail.

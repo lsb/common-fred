@@ -1,0 +1,1 @@
+Each activity is designed to promote creative problem-solving in novice programmers.

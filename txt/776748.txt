@@ -1,0 +1,1 @@
+When partially ordered by set inclusion, this family is a lattice.

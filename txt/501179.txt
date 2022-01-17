@@ -1,0 +1,1 @@
+Radar pulses spread out as they move away from the radar station.

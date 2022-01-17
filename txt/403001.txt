@@ -1,0 +1,1 @@
+It ran faster and generated better code and incorporated many useful language extensions.

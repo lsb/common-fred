@@ -1,0 +1,1 @@
+Sometimes several balls of a smaller radius can also cover the set.

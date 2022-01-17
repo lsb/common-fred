@@ -1,0 +1,1 @@
+Therefore, the topology is determined by its neighbourhood system at the origin.

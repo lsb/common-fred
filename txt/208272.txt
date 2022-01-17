@@ -1,0 +1,1 @@
+ClickOnce applications cannot be installed from a password-protected Web directory.

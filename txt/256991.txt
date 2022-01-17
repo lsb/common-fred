@@ -1,0 +1,1 @@
+Gene loss during diploidization is not completely random, but heavily selected.

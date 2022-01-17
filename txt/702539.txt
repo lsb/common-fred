@@ -1,0 +1,1 @@
+Therefore, faster transistor models oriented toward circuit parameters are used for circuit design.

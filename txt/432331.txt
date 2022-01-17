@@ -1,0 +1,1 @@
+Lava flow is considered an anti-pattern, a commonly encountered phenomenon leading to poor design.

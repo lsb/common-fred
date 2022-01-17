@@ -1,0 +1,1 @@
+The fretboard is continuously scanned and sends signals to synthesizers which produce the sound.

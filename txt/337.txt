@@ -1,0 +1,1 @@
+"""Alleyway""s ball cannot be locked in an infinite loop of ricochets."

@@ -1,0 +1,1 @@
+What follows is a formal definition for first-order languages.

@@ -1,0 +1,1 @@
+Teradata offers a Business support for the users of Presto.

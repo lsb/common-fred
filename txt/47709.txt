@@ -1,0 +1,1 @@
+"If ""m"" is an odd almost perfect number then is a Descartes number."

@@ -1,0 +1,1 @@
+In chess, for example, there would be a bitboard for black knights.

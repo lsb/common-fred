@@ -1,0 +1,1 @@
+A generalization to any graph is the Edmonds-Gallai decomposition, using the Blossom algorithm.

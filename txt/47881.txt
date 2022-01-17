@@ -1,0 +1,1 @@
+"If the vowel following is ""i"", only one ""i"" appears."

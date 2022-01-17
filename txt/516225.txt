@@ -1,0 +1,1 @@
+Several authors have investigated algorithms for testing whether a given matroid is graphic.

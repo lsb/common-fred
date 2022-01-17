@@ -1,0 +1,1 @@
+Paraffin can also exclude files by extension or regular expression.

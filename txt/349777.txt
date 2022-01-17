@@ -1,0 +1,1 @@
+If the generating ellipse is a circle, the result is a sphere.

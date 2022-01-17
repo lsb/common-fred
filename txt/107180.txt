@@ -1,0 +1,1 @@
+"Therefore, ""brown"" counts as one word, but ""accounted"" counts as two."

@@ -1,0 +1,1 @@
+Most planning functions are used in both Distribution and Manufacturing.

@@ -1,0 +1,1 @@
+"A suitcase packed into the data-fork-only format has the extension ""dfont""."

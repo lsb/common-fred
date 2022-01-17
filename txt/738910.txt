@@ -1,0 +1,1 @@
+This protocol supports Windows Messenger-to-Windows Messenger webcam and voice capabilities.

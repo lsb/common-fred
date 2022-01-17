@@ -1,0 +1,1 @@
+Doorways are provided allowing the player to move between rooms.

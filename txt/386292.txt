@@ -1,0 +1,1 @@
+It is common to compare the kurtosis of a distribution to this value.

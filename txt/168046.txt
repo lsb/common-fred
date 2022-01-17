@@ -1,0 +1,1 @@
+Any square diagonal matrix is also a symmetric matrix.

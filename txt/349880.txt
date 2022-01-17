@@ -1,0 +1,1 @@
+If the rail car is below the set speed, the device offers no resistance.

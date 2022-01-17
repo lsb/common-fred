@@ -1,0 +1,1 @@
+"The trouble with using this for all onscreen movement is that recognition accuracy isn't always perfect."

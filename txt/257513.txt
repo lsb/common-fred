@@ -1,0 +1,1 @@
+Geocoding and reverse geocoding can be used to convert between locations and addresses.

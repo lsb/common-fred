@@ -1,0 +1,1 @@
+All characters should be able to resist the pressure during printing.

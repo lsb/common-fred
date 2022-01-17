@@ -1,0 +1,1 @@
+Some generalizations to Banach spaces and more general topological vector spaces are possible.

@@ -1,0 +1,1 @@
+At playback time the picture may be placed at new coordinates or scaled.

@@ -1,0 +1,1 @@
+Some mail filters are able to edit messages during processing.

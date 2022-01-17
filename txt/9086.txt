@@ -1,0 +1,1 @@
+"""Whites"" were defined as Europeans."

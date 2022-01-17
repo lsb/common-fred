@@ -1,0 +1,1 @@
+Rather, it contains many perceptrons that are organized into layers.

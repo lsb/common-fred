@@ -1,0 +1,1 @@
+"""Primal Fear"" received positive reviews from critics."

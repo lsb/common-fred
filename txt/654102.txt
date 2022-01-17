@@ -1,0 +1,1 @@
+The randomness of these sequences has been examined by diehard tests.

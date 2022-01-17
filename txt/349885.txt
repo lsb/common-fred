@@ -1,0 +1,1 @@
+If the red and green lights are on together, the wall will look yellow.

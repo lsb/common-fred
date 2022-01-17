@@ -1,0 +1,1 @@
+Corner stakes are placed so that a rectangle is formed.

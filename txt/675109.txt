@@ -1,0 +1,1 @@
+The three types of moves are capping, mining, and splitting.

@@ -1,0 +1,1 @@
+Equivalently, they are birationally equivalent if their function fields are isomorphic.

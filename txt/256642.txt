@@ -1,0 +1,1 @@
+Gas-generator cycles tend to have lower specific impulse than staged combustion cycles.

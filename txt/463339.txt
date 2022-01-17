@@ -1,0 +1,1 @@
+Nearby high values of opposite sign within velocity data are how they are detected.

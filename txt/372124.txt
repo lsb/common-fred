@@ -1,0 +1,1 @@
+It also monitors its own operation during normal use and indicates any failures.

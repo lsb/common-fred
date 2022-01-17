@@ -1,0 +1,1 @@
+Our collision detection only works for rigid bodies.

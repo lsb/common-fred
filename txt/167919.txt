@@ -1,0 +1,1 @@
+Any facial feature changes in the database will invalidate the matching process.

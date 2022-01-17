@@ -1,0 +1,1 @@
+These waypoints are used to help define invisible routing paths for navigation.

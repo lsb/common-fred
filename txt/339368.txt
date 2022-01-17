@@ -1,0 +1,1 @@
+However, the lack of multicast support prevents the use of automatic Router Discovery.

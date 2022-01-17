@@ -1,0 +1,1 @@
+Write Once Read Many functionality, useful for archive keeping.

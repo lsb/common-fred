@@ -1,0 +1,1 @@
+In other words, if A requires B, it requires any true statement.

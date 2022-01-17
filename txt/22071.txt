@@ -1,0 +1,1 @@
+"By geometry, the length of the diagonal is ""a""."

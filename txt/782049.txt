@@ -1,0 +1,1 @@
+Windows Media Center allows synchronization with certain portable devices.

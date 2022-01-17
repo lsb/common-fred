@@ -1,0 +1,1 @@
+"""Nightline"" was previously presented by Kellie Sloane."

@@ -1,0 +1,1 @@
+A growler is used to check the armature for shorts, opens and grounds.

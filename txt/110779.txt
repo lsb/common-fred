@@ -1,0 +1,1 @@
+"This instruction ""chain"" is particularly common in many supercomputer applications."

@@ -1,0 +1,1 @@
+A configure script configures a software package for installation on a particular target system.

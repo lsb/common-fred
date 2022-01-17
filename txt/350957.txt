@@ -1,0 +1,1 @@
+In Alice, a promise is not a read-only view, and promise pipelining is unsupported.

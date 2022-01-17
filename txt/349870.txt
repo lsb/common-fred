@@ -1,0 +1,1 @@
+If the problem is a variable or function with multiple misrecognized words, add the whole phrase to your vocabulary.

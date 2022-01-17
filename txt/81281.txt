@@ -1,0 +1,1 @@
+"Suppose these ""X""s are conditionally independent given ""p""."

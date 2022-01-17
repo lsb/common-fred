@@ -1,0 +1,1 @@
+"These battle programs are written in an abstract assembly language called ""Redcode""."

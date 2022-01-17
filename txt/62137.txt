@@ -1,0 +1,1 @@
+"Line drawing algorithms such as Bresenham's or Wu's are preferred instead."

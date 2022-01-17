@@ -1,0 +1,1 @@
+Suppose we integrate the inhomogeneous wave equation over this region.

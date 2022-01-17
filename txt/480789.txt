@@ -1,0 +1,1 @@
+Only two matching tiles can be removed at a time.

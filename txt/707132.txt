@@ -1,0 +1,1 @@
+These objects behave somewhat like functions in a functional programming language.

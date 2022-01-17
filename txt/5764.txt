@@ -1,0 +1,1 @@
+"""Pets"" also follows a rather traditional sitcom technique by using a ""reset button""."

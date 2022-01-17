@@ -1,0 +1,1 @@
+The contents of the panels can be moved, removed, or configured in other ways.

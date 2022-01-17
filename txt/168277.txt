@@ -1,0 +1,1 @@
+Apart from stable releases as published, nightly builds are also publicly available.

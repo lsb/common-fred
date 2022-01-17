@@ -1,0 +1,1 @@
+Each is directly related to a second order differential of a thermodynamic potential.

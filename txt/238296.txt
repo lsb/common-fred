@@ -1,0 +1,1 @@
+Eventually players respawn rather than the game crashing.

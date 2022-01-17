@@ -1,0 +1,1 @@
+Indeed, the area of any hyperbolic sector is invariant under squeezing.

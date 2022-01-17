@@ -1,0 +1,1 @@
+Going one step ahead of universal algebra, most algebraic structures are F-algebras.

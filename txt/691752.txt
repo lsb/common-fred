@@ -1,0 +1,1 @@
+There are also three different kinds of Team modes: Single, Simul, and Turns.

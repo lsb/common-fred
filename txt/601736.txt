@@ -1,0 +1,1 @@
+The current key was also needed in order to use the codebook.

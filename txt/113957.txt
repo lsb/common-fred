@@ -1,0 +1,1 @@
+"To counter this problem, cryptographers proposed the notion of ""randomized"" or probabilistic encryption."

@@ -1,0 +1,1 @@
+Every monad arises from some adjunction, in fact typically from many adjunctions.

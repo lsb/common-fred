@@ -1,0 +1,1 @@
+Raw devices simply open block devices as if the flag would have been specified.

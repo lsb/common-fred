@@ -1,0 +1,1 @@
+Modifications include commentating on objects the player manipulates or obstacles they have overcome.

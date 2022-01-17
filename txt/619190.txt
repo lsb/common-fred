@@ -1,0 +1,1 @@
+The goal of library binding is long-term preservation.

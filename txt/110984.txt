@@ -1,0 +1,1 @@
+"This is done by using traditional polymorphism while also casting the argument to ""dynamic""."

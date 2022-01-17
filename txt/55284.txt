@@ -1,0 +1,1 @@
+"It spawns all other processes directly or indirectly, which inherit their parents' privileges."

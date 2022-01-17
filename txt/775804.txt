@@ -1,0 +1,1 @@
+When a first call arrives on the line, the phone rings and is answered.

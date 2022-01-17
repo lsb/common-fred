@@ -1,0 +1,1 @@
+Further code numbers told whether the car had an automatic or manual transmission.

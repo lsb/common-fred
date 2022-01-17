@@ -1,0 +1,1 @@
+Lftp was initially developed as part of the ftpclass package.

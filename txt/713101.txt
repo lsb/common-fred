@@ -1,0 +1,1 @@
+They are sometimes useful for constructing the base case of an induction argument.

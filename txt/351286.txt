@@ -1,0 +1,1 @@
+In C, two null pointers of any type are guaranteed to compare equal.

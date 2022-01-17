@@ -1,0 +1,1 @@
+For example, digit zero for the weight represents medium weight.

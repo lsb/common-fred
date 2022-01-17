@@ -1,0 +1,1 @@
+For simplified transformer analysis, admittance from shunt elements can be neglected.

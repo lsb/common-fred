@@ -1,0 +1,1 @@
+In order to obtain the fundamental state, we can apply the down stairs operator.

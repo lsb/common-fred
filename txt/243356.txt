@@ -1,0 +1,1 @@
+Film speed and exposure compensation settings were moved to beneath the rewind knob.

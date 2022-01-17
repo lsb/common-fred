@@ -1,0 +1,1 @@
+Does not include votes that were spoiled because no second choice was indicated.

@@ -1,0 +1,1 @@
+Some classes of traps can be detected automatically, but new, unrecognized traps arise quickly.

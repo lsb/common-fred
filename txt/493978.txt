@@ -1,0 +1,1 @@
+Player units set to offensive maneuvers prefer to attack with ranged weapons.

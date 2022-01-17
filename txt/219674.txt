@@ -1,0 +1,1 @@
+Denemo includes scripts to run music tests and practice exercises for educational purposes.

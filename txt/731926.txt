@@ -1,0 +1,1 @@
+This is a protocol requirement and has nothing to do with link synchronisation.

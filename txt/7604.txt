@@ -1,0 +1,1 @@
+"""The Economic Journal"" has been edited by some influential British Economists."

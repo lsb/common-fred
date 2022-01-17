@@ -1,0 +1,1 @@
+Unlike Lightning, Sunbird does not receive updates to its time zones database anymore.

@@ -1,0 +1,1 @@
+"It doesn't come with too many built-in commands, but it's extremely easy to extend."

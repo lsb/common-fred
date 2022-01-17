@@ -1,0 +1,1 @@
+This distributivity law defines the class of distributive lattices.

@@ -1,0 +1,1 @@
+These localized files are used by install makers to customize install packages.

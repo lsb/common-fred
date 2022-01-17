@@ -1,0 +1,1 @@
+We use the fact that the transmission to different children are independent.

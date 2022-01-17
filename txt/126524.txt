@@ -1,0 +1,1 @@
+A good kanban system calculates just enough kanban cards for each product.

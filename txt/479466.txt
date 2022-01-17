@@ -1,0 +1,1 @@
+One use is as a unit of deadweight to compute shipping charges.

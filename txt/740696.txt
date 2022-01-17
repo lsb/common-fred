@@ -1,0 +1,1 @@
+This simulates a fault by creating an imbalance in the sense coil.

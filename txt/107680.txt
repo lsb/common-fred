@@ -1,0 +1,1 @@
+"These identifiers are shared with the ""Mendocino"" Celeron processors."

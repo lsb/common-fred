@@ -1,0 +1,1 @@
+"""According to the plan, people can't talk in Chinese inside the walled-city""."

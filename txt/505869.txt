@@ -1,0 +1,1 @@
+Reverend uses their own custom pickups on each model.

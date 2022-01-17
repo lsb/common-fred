@@ -1,0 +1,1 @@
+Every maximal outerplanar graph is the visibility graph of a simple polygon.

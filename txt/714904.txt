@@ -1,0 +1,1 @@
+They depart from the terminal only when a sufficient number of passengers have boarded.

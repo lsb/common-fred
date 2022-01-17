@@ -1,0 +1,1 @@
+"""Urban Tulsa"", another large publication, is a weekly newspaper covering entertainment and cultural events."

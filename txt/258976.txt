@@ -1,0 +1,1 @@
+Given An equilateral triangle inscribed on a circle and a point on the circle.

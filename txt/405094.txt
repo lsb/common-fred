@@ -1,0 +1,1 @@
+It takes the approach of assigning a text file to describe each print queue.

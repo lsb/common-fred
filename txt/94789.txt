@@ -1,0 +1,1 @@
+"The latter refers to processes which are allowed to violate the system's access-control rules."

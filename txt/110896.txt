@@ -1,0 +1,1 @@
+"This is analogous to a ""page level lock"" in a database."

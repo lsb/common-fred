@@ -1,0 +1,1 @@
+How this is handled depends on the program using the image.

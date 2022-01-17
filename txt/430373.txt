@@ -1,0 +1,1 @@
+Late static binding is a variant of binding somewhere between static and dynamic binding.

@@ -1,0 +1,1 @@
+Quark flavor tagging identifies the flavor of quark a jet comes from.

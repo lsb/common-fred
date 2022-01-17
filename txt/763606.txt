@@ -1,0 +1,1 @@
+Until a module becomes implemented it remains an abstraction.

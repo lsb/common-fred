@@ -1,0 +1,1 @@
+At first glance the equations seem to be using primitive recursion.

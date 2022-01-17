@@ -1,0 +1,1 @@
+When the roll-call is held, Macro is declared missing, presumed dead.

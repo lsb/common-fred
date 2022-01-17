@@ -1,0 +1,1 @@
+"Metcalfe's law assumes that the value of each node n is of equal benefit."

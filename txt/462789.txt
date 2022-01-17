@@ -1,0 +1,1 @@
+Native launchers can be created on most platforms.

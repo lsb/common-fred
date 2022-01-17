@@ -1,0 +1,1 @@
+The upper stage is storable and restartable, powered by a single Aestus engine.

@@ -1,0 +1,1 @@
+When using composite blades, the blades can also flex to provide a flapping motion.

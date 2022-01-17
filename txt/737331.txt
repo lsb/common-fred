@@ -1,0 +1,1 @@
+This number is equal to the horizontal distance to the target.

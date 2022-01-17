@@ -1,0 +1,1 @@
+The indicator function of any open set is lower semicontinuous.

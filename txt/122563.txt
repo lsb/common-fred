@@ -1,0 +1,1 @@
+A built-in game recorder records battles for subsequent replay.

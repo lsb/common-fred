@@ -1,0 +1,1 @@
+In coarse geometry, the integer lattice is coarsely equivalent to Euclidean space.

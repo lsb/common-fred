@@ -1,0 +1,1 @@
+It operates a series of thrift stores to raise money for its operations.

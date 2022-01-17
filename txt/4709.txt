@@ -1,0 +1,1 @@
+"""Mazeppa""'s libretto was based on ""Poltava"", a narrative poem by Alexander Pushkin."

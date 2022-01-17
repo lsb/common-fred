@@ -1,0 +1,1 @@
+Racing line markers were added to the corners all around the track as well.

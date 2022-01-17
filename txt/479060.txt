@@ -1,0 +1,1 @@
+One player must be Pac-Man, and at least one more must be a Ghost.

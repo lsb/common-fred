@@ -1,0 +1,1 @@
+"""Kid Icarus"" is an action platformer with role-playing elements."

@@ -1,0 +1,1 @@
+Each player independently estimates the value of the item before bidding.

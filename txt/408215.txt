@@ -1,0 +1,1 @@
+It was devised to handle grammatical attributes conveniently.

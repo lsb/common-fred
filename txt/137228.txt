@@ -1,0 +1,1 @@
+A symbolic link is a reference to another file.

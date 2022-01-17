@@ -1,0 +1,1 @@
+"Otherwise, a simple ""-s"" ending is usual."

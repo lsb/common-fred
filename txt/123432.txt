@@ -1,0 +1,1 @@
+A collision with any enemy costs the player one life.

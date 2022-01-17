@@ -1,0 +1,1 @@
+Since the true distribution is unknown, cross-entropy cannot be directly calculated.

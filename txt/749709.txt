@@ -1,0 +1,1 @@
+Thus, the Rademacher system is a subsystem of the Walsh system.

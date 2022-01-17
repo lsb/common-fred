@@ -1,0 +1,1 @@
+The same message body appearing many times is therefore bulk email.

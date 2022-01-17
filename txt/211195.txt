@@ -1,0 +1,1 @@
+Computer vision techniques are usually employed for quality control.

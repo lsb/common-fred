@@ -1,0 +1,1 @@
+"A star schema that has many dimensions is sometimes called a ""centipede schema""."

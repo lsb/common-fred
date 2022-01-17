@@ -1,0 +1,1 @@
+Color cycling can be used to animate tiles quickly on the whole screen.

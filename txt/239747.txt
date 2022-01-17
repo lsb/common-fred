@@ -1,0 +1,1 @@
+Examples include analysis paralysis, cargo cult programming, death march, groupthink and vendor lock-in.

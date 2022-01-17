@@ -1,0 +1,1 @@
+In most object-oriented languages, objects can be referred to using references.

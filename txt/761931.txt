@@ -1,0 +1,1 @@
+Under both reigns all four segment registers contain one and the same value.

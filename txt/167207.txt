@@ -1,0 +1,1 @@
+Another solution requires a smarter linker.

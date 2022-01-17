@@ -1,0 +1,1 @@
+Lives are pooled between players in a team.

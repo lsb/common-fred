@@ -1,0 +1,1 @@
+Preliminaries that have not occurred yet have a colored background.

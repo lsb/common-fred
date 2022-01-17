@@ -1,0 +1,1 @@
+Geometric optics describes how rays propagate through an optical system.

@@ -1,0 +1,1 @@
+"A finitely generated ""Z""-module is free if and only if it is flat."

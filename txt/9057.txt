@@ -1,0 +1,1 @@
+"""Wheel of Fortune"" was used as a Formula Nippon theme song on Fuji Television."

@@ -1,0 +1,1 @@
+Using the distance function is very attractive because its computation is relatively fast.

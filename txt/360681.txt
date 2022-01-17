@@ -1,0 +1,1 @@
+In some degenerate configurations, the horopter reduces to a line plus a circle.

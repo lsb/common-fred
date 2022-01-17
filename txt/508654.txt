@@ -1,0 +1,1 @@
+Rose-Hulman uses Scheme in its more advanced Programming Language Concepts course.

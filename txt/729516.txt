@@ -1,0 +1,1 @@
+This form is a special case of the Jordan canonical form for matrices.

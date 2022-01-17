@@ -1,0 +1,1 @@
+Therefore, minimum vertex covers can be found using a bipartite matching algorithm.

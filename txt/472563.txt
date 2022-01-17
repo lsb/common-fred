@@ -1,0 +1,1 @@
+Object files are segmented into various memory segments types.

@@ -1,0 +1,1 @@
+A probability distribution can either be univariate or multivariate.

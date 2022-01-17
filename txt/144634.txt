@@ -1,0 +1,1 @@
+Affine texture mapping is cheapest to linearly interpolate texture coordinates across a surface.

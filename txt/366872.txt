@@ -1,0 +1,1 @@
+Indexed grammars have been used to model parallel rewriting systems, particularly in biological applications.

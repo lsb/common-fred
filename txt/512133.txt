@@ -1,0 +1,1 @@
+Scheduling-algorithm implementations vary in adherence to processor affinity.

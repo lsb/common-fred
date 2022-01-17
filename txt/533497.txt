@@ -1,0 +1,1 @@
+Since the entire folder hierarchy is not accessed, the search is completed much faster.

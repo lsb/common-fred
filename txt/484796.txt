@@ -1,0 +1,1 @@
+Other variants of edit distance are obtained by restricting the set of operations.

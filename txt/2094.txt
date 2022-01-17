@@ -1,0 +1,1 @@
+"""Elements"" features the addition of a third guitarist, Frank Emmi."

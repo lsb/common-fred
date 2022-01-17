@@ -1,0 +1,1 @@
+This factor multiplies the sampling interval or, equivalently, divides the sampling rate.

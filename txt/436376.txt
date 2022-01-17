@@ -1,0 +1,1 @@
+Liquids are encapsulated using a rotating extrusion head containing concentric nozzles.

@@ -1,0 +1,1 @@
+Inner models are transitive, transitive models are standard, and standard models are well-founded.

@@ -1,0 +1,1 @@
+Each character starts at the corresponding coloured space.

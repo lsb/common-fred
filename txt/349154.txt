@@ -1,0 +1,1 @@
+If all eigenvalues have negative real part, the equilibrium is a stable equation.

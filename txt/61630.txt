@@ -1,0 +1,1 @@
+"Let ""q"" be the number of elements in a finite field."

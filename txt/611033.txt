@@ -1,0 +1,1 @@
+The field strength is usually measured in volts per meter.

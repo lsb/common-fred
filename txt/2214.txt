@@ -1,0 +1,1 @@
+"""Euryalus"" was built by Scotts Shipbuilders of Greenock."

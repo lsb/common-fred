@@ -1,0 +1,1 @@
+Subdivision surfaces and T-Splines are competing technologies.

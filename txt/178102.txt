@@ -1,0 +1,1 @@
+At the start of the animation, a beam size value is set.

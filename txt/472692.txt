@@ -1,0 +1,1 @@
+Obviously, the difference in execution time could significantly improve performance in repetitive code.

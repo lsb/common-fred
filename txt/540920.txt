@@ -1,0 +1,1 @@
+Some ports of the game include a split-screen two player mode.

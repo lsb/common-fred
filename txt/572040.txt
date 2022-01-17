@@ -1,0 +1,1 @@
+The Risch algorithm is used to integrate elementary functions.

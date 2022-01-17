@@ -1,0 +1,1 @@
+Automata-based programming is widely used in lexical and syntactic analyses.

@@ -1,0 +1,1 @@
+Left and right make the arms swivel counter-clockwise and clockwise.

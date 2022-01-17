@@ -1,0 +1,1 @@
+Sometimes automatic test pattern generation is used to help design the series of tests.

@@ -1,0 +1,1 @@
+This motivates the definition of geodesic normal coordinates on a Riemannian manifold.

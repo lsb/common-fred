@@ -1,0 +1,1 @@
+It defines how locally executable scripts may be used in a web page.

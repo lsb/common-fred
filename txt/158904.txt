@@ -1,0 +1,1 @@
+Alternatively, they can be notified by the server when they have new messages.

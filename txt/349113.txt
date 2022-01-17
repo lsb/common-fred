@@ -1,0 +1,1 @@
+If a picture has a bar, the magnification can be easily calculated.

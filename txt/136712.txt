@@ -1,0 +1,1 @@
+A square polystick is a connected subset of a regular square grid.

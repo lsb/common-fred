@@ -1,0 +1,1 @@
+It is used primarily to increase port density and decrease fiber usage per port.

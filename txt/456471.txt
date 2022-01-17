@@ -1,0 +1,1 @@
+Most authentication protocols are more complicated in order to be resilient against these attacks.

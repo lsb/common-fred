@@ -1,0 +1,1 @@
+"See the articles on Green's functions and on Fredholm integral equations."

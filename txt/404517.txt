@@ -1,0 +1,1 @@
+It specifies two completely independent layers of cryptography to protect data.

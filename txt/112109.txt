@@ -1,0 +1,1 @@
+"This search request is then passed on to another search engine's database."

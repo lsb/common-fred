@@ -1,0 +1,1 @@
+It features sixteen input channels, four output sub-groups, and a user-replaceable fuse.

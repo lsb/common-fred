@@ -1,0 +1,1 @@
+This means that surface area is invariant under the group of Euclidean motions.

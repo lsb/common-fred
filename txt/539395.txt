@@ -1,0 +1,1 @@
+Some line cards are capable of terminating more than one type of service.

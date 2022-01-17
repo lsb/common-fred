@@ -1,0 +1,1 @@
+It facilitates the development of applications that demand safety, security, or business integrity.

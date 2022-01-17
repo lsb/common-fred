@@ -1,0 +1,1 @@
+Binary data represents the outcomes of Bernoulli trials-statistical experiments with only two possible outcomes.

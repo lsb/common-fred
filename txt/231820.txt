@@ -1,0 +1,1 @@
+Each station will exchange information with other participating stations.

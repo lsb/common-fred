@@ -1,0 +1,1 @@
+A detailed justification of the design of Trivium is given in.

@@ -1,0 +1,1 @@
+Daemons such as cron may also perform defined tasks at scheduled times.

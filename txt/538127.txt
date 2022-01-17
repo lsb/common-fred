@@ -1,0 +1,1 @@
+Some authors include the empty set in this definition.

@@ -1,0 +1,1 @@
+"To estimate Rent's exponent, one can use top-down partitioning, as used in min-cut placement."

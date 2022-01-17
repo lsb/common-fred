@@ -1,0 +1,1 @@
+Gopher menus use tab-separated values to indicate selectors.

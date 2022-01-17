@@ -1,0 +1,1 @@
+Structural alignments can compare two sequences or multiple sequences.

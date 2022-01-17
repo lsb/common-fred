@@ -1,0 +1,1 @@
+Replicated color palettes are used for training machine learning classifiers.

@@ -1,0 +1,1 @@
+All the methods involve processing the part to be stress relieved as a whole.

@@ -1,0 +1,1 @@
+Under convexity, these conditions are also sufficient.

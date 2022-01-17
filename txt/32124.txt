@@ -1,0 +1,1 @@
+"Generally ""run-length"" is the number of bits for which signal remains unchanged."

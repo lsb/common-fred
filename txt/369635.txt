@@ -1,0 +1,1 @@
+Inverse limits can be defined in any category.

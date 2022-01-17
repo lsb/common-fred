@@ -1,0 +1,1 @@
+It includes the classes Hydrozoa, Scyphozoa, Staurozoa and Cubozoa.

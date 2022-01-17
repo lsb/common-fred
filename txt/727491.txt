@@ -1,0 +1,1 @@
+This corresponds to our graph above with the straight line real-terms accumulation.

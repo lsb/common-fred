@@ -1,0 +1,1 @@
+It was never intended for use as a stand alone module.

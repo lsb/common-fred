@@ -1,0 +1,1 @@
+"""Hidden Place"" has received positive reviews from music critics."

@@ -1,0 +1,1 @@
+"For interrupts, only the ""interrupt-fielding processor"" needs to contain the complex timing logic."

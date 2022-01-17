@@ -1,0 +1,1 @@
+Arrays could have one or two dimensions.

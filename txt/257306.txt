@@ -1,0 +1,1 @@
+Generally, neither work nor heat is a state function.

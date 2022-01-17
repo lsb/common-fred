@@ -1,0 +1,1 @@
+True wind needs to be calculated or stop the boat.

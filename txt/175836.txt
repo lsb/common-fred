@@ -1,0 +1,1 @@
+At first glance, double dispatch appears to be a natural result of function overloading.

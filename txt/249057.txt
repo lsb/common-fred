@@ -1,0 +1,1 @@
+For multiple targets, each target should receive a double tap.

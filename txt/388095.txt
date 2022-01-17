@@ -1,0 +1,1 @@
+It is grouped by processor family, processor model, and then chronologically by Macintosh model.

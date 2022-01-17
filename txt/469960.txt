@@ -1,0 +1,1 @@
+Not all languages have the same numbers of reserved words.

@@ -1,0 +1,1 @@
+Averaging over longer times, can also improve accuracy.

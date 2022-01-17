@@ -1,0 +1,1 @@
+Bus stops and buses themselves contain stop information in Korean and in English.

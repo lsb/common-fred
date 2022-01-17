@@ -1,0 +1,1 @@
+Each species has a distinct number of rings.

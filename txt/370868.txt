@@ -1,0 +1,1 @@
+It aims to manage windows in the most flexible and attractive manner possible.

@@ -1,0 +1,1 @@
+Jumpman defuses a bomb by touching it.

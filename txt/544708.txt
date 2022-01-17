@@ -1,0 +1,1 @@
+Spell, its algorithms and data structures inspired the Unix ispell program.

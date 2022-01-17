@@ -1,0 +1,1 @@
+Some samples use a biased statistical design which nevertheless allows the estimation of parameters.

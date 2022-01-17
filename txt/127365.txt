@@ -1,0 +1,1 @@
+A half-space in a one-dimensional space is called a ray.

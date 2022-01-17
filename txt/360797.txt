@@ -1,0 +1,1 @@
+In some programming languages, an attempt to divide by zero results in undefined behavior.

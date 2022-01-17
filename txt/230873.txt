@@ -1,0 +1,1 @@
+Each finite initial segment is a node of the tree of finite sequences.

@@ -1,0 +1,1 @@
+The light output is measured just in this center area.

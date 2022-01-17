@@ -1,0 +1,1 @@
+"An ""X""-saturating matching is a matching which covers every vertex in ""X""."

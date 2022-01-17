@@ -1,0 +1,1 @@
+See the full wavefront file format reference for more details.

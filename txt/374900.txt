@@ -1,0 +1,1 @@
+It contains a glyph for every character in the Unicode Basic Multilingual Plane.

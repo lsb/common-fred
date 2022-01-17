@@ -1,0 +1,1 @@
+It is designed to prevent combinatorial explosion in fuzzy logic rules.

@@ -1,0 +1,1 @@
+"""Shulgin Ratings"" typically include three components."

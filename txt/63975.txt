@@ -1,0 +1,1 @@
+"Marzullo's algorithm is efficient in both space and time."

@@ -1,0 +1,1 @@
+Mini-options contracts trade under a different trading symbol than standard-sized options contracts.

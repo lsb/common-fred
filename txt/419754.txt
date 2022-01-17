@@ -1,0 +1,1 @@
+Its user interface relies heavily on palettes.

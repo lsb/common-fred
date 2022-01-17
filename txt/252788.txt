@@ -1,0 +1,1 @@
+Fredholm kernels are named in honour of Erik Ivar Fredholm.

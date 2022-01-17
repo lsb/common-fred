@@ -1,0 +1,1 @@
+More generally, the underlying topological space of any scheme is a sober space.

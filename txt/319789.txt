@@ -1,0 +1,1 @@
+Hermack deploys troops to all nearby Beacons to prevent another robbery.

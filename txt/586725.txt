@@ -1,0 +1,1 @@
+The border between these is sometimes defined using a circle of confusion criterion.

@@ -1,0 +1,1 @@
+For these reasons, single-mode fibers can have a higher bandwidth than multi-mode fibers.

@@ -1,0 +1,1 @@
+Z-transform methods can be applied to study the properties of the filter cascade.

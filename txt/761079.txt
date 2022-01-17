@@ -1,0 +1,1 @@
+Typical cases of capacitive loads are unloaded lines and capacitor banks.

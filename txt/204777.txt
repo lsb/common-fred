@@ -1,0 +1,1 @@
+Changes to its elements change the original variables, and additions create new variables.

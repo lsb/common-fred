@@ -1,0 +1,1 @@
+In this two-player game, each player controls units which battle in the arenas.

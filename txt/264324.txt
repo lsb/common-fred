@@ -1,0 +1,1 @@
+Hardware can be accessed through system calls or over their device nodes.

@@ -1,0 +1,1 @@
+"""Rurouni Kenshin"" is subtitled ""Wandering Samurai"" in some English releases."

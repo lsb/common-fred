@@ -1,0 +1,1 @@
+Sensitivity is the ability to recover the signal from the background noise.

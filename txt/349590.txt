@@ -1,0 +1,1 @@
+If snooping is possible, this leaves the system vulnerable to attack.

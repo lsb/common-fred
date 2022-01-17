@@ -1,0 +1,1 @@
+Inherited features are transmitted to the leaves from parent knots.

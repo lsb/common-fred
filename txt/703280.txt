@@ -1,0 +1,1 @@
+These appliances do not have their chassis connected to electrical earth.

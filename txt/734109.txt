@@ -1,0 +1,1 @@
+This is the main difference as to design with respect to other file-based container formats.

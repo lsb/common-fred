@@ -1,0 +1,1 @@
+Some websites use different subdomains to point to different server clusters.

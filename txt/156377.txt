@@ -1,0 +1,1 @@
+All types can be assigned to named variables.

@@ -1,0 +1,1 @@
+Method of steepest descent employs a partition of unity to construct asymptotics of integrals.

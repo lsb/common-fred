@@ -1,0 +1,1 @@
+"""Kizilsu"" in the Kyrgyz language means ""red water""."

@@ -1,0 +1,1 @@
+Memory interleaving is a way to distribute individual addresses over memory modules.

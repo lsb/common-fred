@@ -1,0 +1,1 @@
+Data movement is typically from one place in memory to another.

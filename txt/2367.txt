@@ -1,0 +1,1 @@
+"""Finish Line"" is about the band's friendship with another band, The Starting Line."

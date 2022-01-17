@@ -1,0 +1,1 @@
+If the value is negative, the surface is facing the sun.

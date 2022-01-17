@@ -1,0 +1,1 @@
+Major authentication algorithms include passwords, Kerberos, and public key encryption.

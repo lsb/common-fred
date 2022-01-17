@@ -1,0 +1,1 @@
+Most desktop computers are now shipped with multiprocessing architectures.

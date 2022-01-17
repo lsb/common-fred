@@ -1,0 +1,1 @@
+"Instead it relies on multicast addressing - a conceptually similar ""one-to-many"" routing methodology."

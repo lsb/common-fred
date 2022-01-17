@@ -1,0 +1,1 @@
+Virtual inheritance can help to solve this problem.

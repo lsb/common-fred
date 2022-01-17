@@ -1,0 +1,1 @@
+The player is unable to leave because the track is not yet rotated.

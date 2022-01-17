@@ -1,0 +1,1 @@
+"This assumption is called Kerckhoffs's principle."

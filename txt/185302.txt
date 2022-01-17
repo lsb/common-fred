@@ -1,0 +1,1 @@
+Below is an example with dihedral hexagonal symmetry.

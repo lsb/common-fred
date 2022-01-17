@@ -1,0 +1,1 @@
+Hits are highlighted in context windows that can be expanded up or down.

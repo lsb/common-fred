@@ -1,0 +1,1 @@
+"""Maisonneuve"" is a culturally literate bimonthly general-interest English-language magazine published in Montreal."

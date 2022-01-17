@@ -1,0 +1,1 @@
+The precise value depends only on the wall thickness and the internal pressure.

@@ -1,0 +1,1 @@
+"""One"" was the first Metallica song for which a music video was created."

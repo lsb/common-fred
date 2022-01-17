@@ -1,0 +1,1 @@
+The game is played via a point-and-click, icon-driven interface in combination with keyboard shortcuts.

@@ -1,0 +1,1 @@
+Smaller ellipses create fewer reflections.

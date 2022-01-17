@@ -1,0 +1,1 @@
+This class lists the occurrences of a word in a text.

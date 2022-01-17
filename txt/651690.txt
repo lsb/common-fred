@@ -1,0 +1,1 @@
+The process of compositing motions may be desirable for two reasons.

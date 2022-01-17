@@ -1,0 +1,1 @@
+Symmetric ciphers are commonly used to achieve other cryptographic primitives than just encryption.

@@ -1,0 +1,1 @@
+If a class is called C, its complement is conventionally labelled co-C.

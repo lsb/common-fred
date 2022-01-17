@@ -1,0 +1,1 @@
+"""G"" acts on ""F"" by restriction of action of ""S""."

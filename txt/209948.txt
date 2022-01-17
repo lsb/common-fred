@@ -1,0 +1,1 @@
+Combining a stack of these gives the system of equations for the whole column.

@@ -1,0 +1,1 @@
+Three of the basic arithmetic operations occur exactly once each: addition, multiplication, and exponentiation.

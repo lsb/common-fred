@@ -1,0 +1,1 @@
+Mercury-wetted reed relays are sometimes used, especially in high-speed counting circuits.

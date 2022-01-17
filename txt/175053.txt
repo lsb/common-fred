@@ -1,0 +1,1 @@
+Assembly code in the Linux kernel had to be adapted manually.

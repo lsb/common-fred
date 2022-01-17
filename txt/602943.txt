@@ -1,0 +1,1 @@
+The default Swing version of these widgets do not animate.

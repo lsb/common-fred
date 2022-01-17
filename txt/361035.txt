@@ -1,0 +1,1 @@
+In such a role, Bitzi serves to ameliorate some common attacks on peer-to-peer networks.

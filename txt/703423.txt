@@ -1,0 +1,1 @@
+These are called wide-sense cyclostationary signals, and are analogous to wide-sense stationary processes.

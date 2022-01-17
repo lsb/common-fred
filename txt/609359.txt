@@ -1,0 +1,1 @@
+The extension is dependent on some club options and performance triggers.

@@ -1,0 +1,1 @@
+"Bistro Smalltalk runs atop any Java virtual machine conforming to Sun Microsystems' Java specification."

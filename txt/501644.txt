@@ -1,0 +1,1 @@
+Rake receivers are also used in radio astronomy.

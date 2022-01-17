@@ -1,0 +1,1 @@
+Cyclic loads on a structure can lead to fatigue damage, cumulative damage, or failure.

@@ -1,0 +1,1 @@
+A transition map provides a way of comparing two charts of an atlas.

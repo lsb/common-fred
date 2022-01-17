@@ -1,0 +1,1 @@
+"""You have been a soldier,"" observes Sir Leicester, ""and a faithful one."""

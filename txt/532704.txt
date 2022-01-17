@@ -1,0 +1,1 @@
+Similarly, during start-up or shutdown of a process unit, many alarms are not meaningful.

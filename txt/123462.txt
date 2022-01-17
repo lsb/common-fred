@@ -1,0 +1,1 @@
+A combining diacritic character precedes the spacing character on which it should be superimposed.

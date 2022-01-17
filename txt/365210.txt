@@ -1,0 +1,1 @@
+In this case, one needs to introduce a local double point.

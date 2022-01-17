@@ -1,0 +1,1 @@
+All fields are stored in big-endian format, including the sample data.

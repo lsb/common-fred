@@ -1,0 +1,1 @@
+In the case of regular, locally compact spaces the group multiplication is then continuous.

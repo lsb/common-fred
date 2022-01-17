@@ -1,0 +1,1 @@
+Helical and turnstile antennas are used for satellite communication since they employ circular polarization.

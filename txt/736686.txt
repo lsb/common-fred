@@ -1,0 +1,1 @@
+This method of reset and overflow is repeated for each digit of significance.

@@ -1,0 +1,1 @@
+"The agent may become privately informed ""after"" the contract is written."

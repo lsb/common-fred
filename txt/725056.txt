@@ -1,0 +1,1 @@
+This approach works in general, as illustrated in the adjacent picture.

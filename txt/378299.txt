@@ -1,0 +1,1 @@
+It has a three-cycle latency for all instructions.

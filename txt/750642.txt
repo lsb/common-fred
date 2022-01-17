@@ -1,0 +1,1 @@
+To achieve backward compatibility, each subsequent version is purely additive.

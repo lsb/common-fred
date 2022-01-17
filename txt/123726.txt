@@ -1,0 +1,1 @@
+A conic section has one Dandelin sphere for each focus.

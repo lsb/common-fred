@@ -1,0 +1,1 @@
+It has support for the previewing and playback of generated audio.

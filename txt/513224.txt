@@ -1,0 +1,1 @@
+Searches of this kind can be computationally very expensive.

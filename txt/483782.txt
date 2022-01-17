@@ -1,0 +1,1 @@
+Other namespaces can be created at any time.

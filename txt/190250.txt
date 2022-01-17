@@ -1,0 +1,1 @@
+Boshiamy supports Unicode.

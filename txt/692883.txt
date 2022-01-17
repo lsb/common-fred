@@ -1,0 +1,1 @@
+There are many methods of modelling and solving inverse kinematics problems.

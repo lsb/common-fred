@@ -1,0 +1,1 @@
+The source of bias in algorithms is usually the data it was trained on.

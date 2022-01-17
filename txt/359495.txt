@@ -1,0 +1,1 @@
+In practice, actions in the latter system are added and executed via a queue.

@@ -1,0 +1,1 @@
+Since its conception, Harmony grew in its ability to execute non-trivial Java applications.

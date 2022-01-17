@@ -1,0 +1,1 @@
+A number of otherwise secure schemes can be defeated under chosen-ciphertext attack.

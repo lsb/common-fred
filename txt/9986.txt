@@ -1,0 +1,1 @@
+"A ""negative spread"" is where a deposit rate is higher than the lending rate."

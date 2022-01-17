@@ -1,0 +1,1 @@
+In this composition, higher-level components depend directly upon lower-level components to achieve some task.

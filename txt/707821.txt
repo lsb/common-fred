@@ -1,0 +1,1 @@
+These references are not capabilities, and must be validated before they can be used.

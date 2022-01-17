@@ -1,0 +1,1 @@
+"""N""-terminal glutamic acid and glutamine residues can spontaneously cyclize to become pyroglutamate."

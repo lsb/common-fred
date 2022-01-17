@@ -1,0 +1,1 @@
+Symmetry given assumes all faces are the same color.

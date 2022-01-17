@@ -1,0 +1,1 @@
+Geometric dimensions and tolerances can also be extracted directly from the point cloud.

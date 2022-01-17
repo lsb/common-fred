@@ -1,0 +1,1 @@
+Constant delay, and shorter delay, can be achieved.

@@ -1,0 +1,1 @@
+It is designed according to a variant of the wide-trail strategy.

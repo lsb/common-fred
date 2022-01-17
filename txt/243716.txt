@@ -1,0 +1,1 @@
+Finally, the distribution of the magnetisation can be read out, reproducing the original signal.

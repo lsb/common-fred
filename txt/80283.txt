@@ -1,0 +1,1 @@
+"Specifically, Noether's theorem connects some conservation laws to certain symmetries."

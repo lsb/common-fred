@@ -1,0 +1,1 @@
+By convention, a clockwise path that is non-self-intersecting is considered inclusive.

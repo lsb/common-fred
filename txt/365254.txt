@@ -1,0 +1,1 @@
+In this case, the vacant spaces will be assigned to those following in the order of preference.

@@ -1,0 +1,1 @@
+In this style of fan control, the fan is either on or off.

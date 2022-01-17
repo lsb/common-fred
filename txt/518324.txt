@@ -1,0 +1,1 @@
+Sharply outlined forms are often treated as if transparent.

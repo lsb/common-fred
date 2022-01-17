@@ -1,0 +1,1 @@
+"Positive homogeneous functions are characterized by Euler's homogeneous function theorem."

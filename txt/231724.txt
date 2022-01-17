@@ -1,0 +1,1 @@
+Each service exposes its contract via one or more endpoints.

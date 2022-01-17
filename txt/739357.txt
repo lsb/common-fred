@@ -1,0 +1,1 @@
+This reflects the fact that the Euler class is unstable, as discussed below.

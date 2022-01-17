@@ -1,0 +1,1 @@
+An example of such a language is the set of prime numbers.

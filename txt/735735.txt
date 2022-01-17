@@ -1,0 +1,1 @@
+This loyalty can be tracked by a database.

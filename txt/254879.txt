@@ -1,0 +1,1 @@
+Fuller pointed out that some of these numbers are palindromic by groups of digits.

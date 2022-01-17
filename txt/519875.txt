@@ -1,0 +1,1 @@
+She can now send her result to Bob through a classical channel.

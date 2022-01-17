@@ -1,0 +1,1 @@
+The design later changed into its own one-design class.

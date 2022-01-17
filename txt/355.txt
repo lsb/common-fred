@@ -1,0 +1,1 @@
+"""Alpha Columbae"" is the star's Bayer designation."

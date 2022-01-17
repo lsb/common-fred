@@ -1,0 +1,1 @@
+"Nominally, the external potential contains the electrons' interaction with the nuclei of the system."

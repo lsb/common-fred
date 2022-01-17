@@ -1,0 +1,1 @@
+When done properly, it provides the most functionality using the simplest idioms.

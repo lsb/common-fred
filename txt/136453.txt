@@ -1,0 +1,1 @@
+A smooth function on a real differentiable manifold is a -form.

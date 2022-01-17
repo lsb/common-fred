@@ -1,0 +1,1 @@
+Forcibly ejecting a stuck disk could destroy both drive and disk.

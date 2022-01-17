@@ -1,0 +1,1 @@
+Each of these services represents a server role.

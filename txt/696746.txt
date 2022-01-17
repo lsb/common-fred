@@ -1,0 +1,1 @@
+There is a formal derivation of a generic Langevin equation from classical mechanics.

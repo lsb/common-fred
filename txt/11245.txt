@@ -1,0 +1,1 @@
+"A push-pull amplifier is more efficient than a single-ended ""class-A"" amplifier."

@@ -1,0 +1,1 @@
+These constructions have been proven optimal for up to seven points.

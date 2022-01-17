@@ -1,0 +1,1 @@
+A network emulator emulates the network which connects end-systems, not the end-systems themselves.

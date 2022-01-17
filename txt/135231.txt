@@ -1,0 +1,1 @@
+A self prime is a self number that is prime.

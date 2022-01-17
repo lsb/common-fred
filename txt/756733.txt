@@ -1,0 +1,1 @@
+Trilinear filtering, though somewhat more complex, can make this transition smooth throughout.

@@ -1,0 +1,1 @@
+Solaris Trusted Extensions is an OpenSolaris project.

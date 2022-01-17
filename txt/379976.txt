@@ -1,0 +1,1 @@
+It has six banks of memory cores.

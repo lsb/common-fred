@@ -1,0 +1,1 @@
+Hoard is designed to be efficient when used by multithreaded applications on multiprocessor computers.

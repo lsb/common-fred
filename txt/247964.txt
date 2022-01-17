@@ -1,0 +1,1 @@
+For example, every symplectic manifold is even-dimensional and orientable.

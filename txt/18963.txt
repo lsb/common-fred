@@ -1,0 +1,1 @@
+"Bartlett's test is sensitive to departures from normality."

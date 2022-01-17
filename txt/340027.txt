@@ -1,0 +1,1 @@
+However, the truncated bits can be used for interpolation.

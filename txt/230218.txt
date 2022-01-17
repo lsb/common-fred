@@ -1,0 +1,1 @@
+Dynamic Link Libraries are reusable modules of windows software applications.

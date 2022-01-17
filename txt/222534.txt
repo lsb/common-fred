@@ -1,0 +1,1 @@
+Digital watermarking is distinctly different from data hashing.

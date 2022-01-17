@@ -1,0 +1,1 @@
+The processor validates the signature and integrity of the signed module before executing it.

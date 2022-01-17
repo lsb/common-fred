@@ -1,0 +1,1 @@
+Both the games and the game save states are saved on the memory card.

@@ -1,0 +1,1 @@
+"""Lorenzo"" is based on an original idea by Disney artist and writer, Joe Grant."

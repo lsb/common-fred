@@ -1,0 +1,1 @@
+The combat and adventure systems are redesigned.

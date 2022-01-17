@@ -1,0 +1,1 @@
+For speed reasons, the Electron release has only four on-screen colours.

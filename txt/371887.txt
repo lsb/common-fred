@@ -1,0 +1,1 @@
+It also identified and removed unused code and data.

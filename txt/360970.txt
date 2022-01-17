@@ -1,0 +1,1 @@
+In spread-spectrum systems, the receiver correlates a locally generated signal with the received signal.

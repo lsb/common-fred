@@ -1,0 +1,1 @@
+New kernel features included record and file locking, demand paging, and copy on write.

@@ -1,0 +1,1 @@
+"""Emerald"" includes several other new features and changes."

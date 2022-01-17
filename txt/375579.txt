@@ -1,0 +1,1 @@
+It decides which mimicry behavior would be most appropriate and acts upon it.

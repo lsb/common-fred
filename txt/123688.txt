@@ -1,0 +1,1 @@
+A computer program uses memory addresses to execute machine code, store and retrieve data.

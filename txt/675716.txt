@@ -1,0 +1,1 @@
+The toolbar uninstaller does not function, instead re-installing the add-on if manually removed.

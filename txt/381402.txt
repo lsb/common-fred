@@ -1,0 +1,1 @@
+It is a derivation of HyperTalk, the scripting language for HyperCard.

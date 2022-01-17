@@ -1,0 +1,1 @@
+When stored, historical market data is also called time-series data.

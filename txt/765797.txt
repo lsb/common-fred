@@ -1,0 +1,1 @@
+Variables, private and public, may be single elements or complete multi-dimensional arrays.

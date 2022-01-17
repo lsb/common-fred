@@ -1,0 +1,1 @@
+Note that n dots above a vector indicates its nth time derivative.

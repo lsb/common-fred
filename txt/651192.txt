@@ -1,0 +1,1 @@
+The principal directions are the corresponding eigenvectors.

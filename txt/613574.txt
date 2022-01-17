@@ -1,0 +1,1 @@
+The first player to land and guess correctly at the finish wins.

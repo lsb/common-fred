@@ -1,0 +1,1 @@
+It decreases and increases its interval at regular times during a week.

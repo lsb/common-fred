@@ -1,0 +1,1 @@
+Angles and ratios of distances are invariant under scalings, rotations, translations and reflections.

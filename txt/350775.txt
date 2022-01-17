@@ -1,0 +1,1 @@
+Implementation usually follows a simple random sample.

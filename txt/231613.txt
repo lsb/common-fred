@@ -1,0 +1,1 @@
+Each reader assigns a grade of Satisfactory or Unsatisfactory to each essay question.

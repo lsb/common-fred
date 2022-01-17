@@ -1,0 +1,1 @@
+"Let ""v"" be the vertex of ""G"" closest to ""x""."

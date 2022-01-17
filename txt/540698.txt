@@ -1,0 +1,1 @@
+Some other types of outcome are point estimates and decisions.

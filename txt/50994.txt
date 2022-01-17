@@ -1,0 +1,1 @@
+"In this configuration, the circuit behaves as a ""high-pass filter""."

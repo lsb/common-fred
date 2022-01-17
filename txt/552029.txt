@@ -1,0 +1,1 @@
+Synthesis creates a normalized database design based on a known set of dependencies.

@@ -1,0 +1,1 @@
+It consists of steps that combine the data with portions of the key.

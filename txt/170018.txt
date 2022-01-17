@@ -1,0 +1,1 @@
+Array names were restricted to A to Z only.

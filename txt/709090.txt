@@ -1,0 +1,1 @@
+These two implementations use different physical media and communication speeds.

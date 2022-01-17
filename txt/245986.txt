@@ -1,0 +1,1 @@
+Focusing correction on root causes has the goal of entirely preventing problem recurrence.

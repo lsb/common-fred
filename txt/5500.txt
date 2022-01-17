@@ -1,0 +1,1 @@
+"""Onchocerca volvulus"" has four chromosome pairs, which includes a single pair of sex chromosomes."

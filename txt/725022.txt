@@ -1,0 +1,1 @@
+This approach is also called dynamic linking or late linking.

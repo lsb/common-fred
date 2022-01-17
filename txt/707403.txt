@@ -1,0 +1,1 @@
+These pictures are separated into albums, which the user can specify.

@@ -1,0 +1,1 @@
+In other words, on-line techniques do searching without an index.

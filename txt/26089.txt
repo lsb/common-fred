@@ -1,0 +1,1 @@
+"Diagrams whose line segments are all joined at vertices are called ""closed spin networks""."

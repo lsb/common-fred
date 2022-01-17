@@ -1,0 +1,1 @@
+Multiplex throws are generally grouped into different categories: Stack, Split, Cut, and Slice.

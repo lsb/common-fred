@@ -1,0 +1,1 @@
+These placeholders are then targeted with new content which flows in from the database.

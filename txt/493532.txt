@@ -1,0 +1,1 @@
+Planes were developed to represent hardware overlays supported by the scanout engine.

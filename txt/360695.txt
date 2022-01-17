@@ -1,0 +1,1 @@
+In some environments, users can access a task manager by pressing the buttons Control-Alt-Delete.

@@ -1,0 +1,1 @@
+In this case, the norm is also called the maximum norm.

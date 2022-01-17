@@ -1,0 +1,1 @@
+For example, it does not contain paragraph or headline tagging.

@@ -1,0 +1,1 @@
+Signal leakage paths can occur in the receiver.

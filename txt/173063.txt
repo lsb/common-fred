@@ -1,0 +1,1 @@
+As mentioned above, the units for k are inverse time.

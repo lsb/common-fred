@@ -1,0 +1,1 @@
+"""Dan For Mayor"" was written by Mark Farrell, Paul Mather, and Kevin White."

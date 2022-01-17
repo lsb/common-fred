@@ -1,0 +1,1 @@
+Similarly in English, ligatures should not cross morpheme boundaries.

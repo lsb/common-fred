@@ -1,0 +1,1 @@
+Domain analysis is the first phase of domain engineering.

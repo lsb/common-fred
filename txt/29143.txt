@@ -1,0 +1,1 @@
+"Every function of ""S"" can be written as a product of primitive functions."

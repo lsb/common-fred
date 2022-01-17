@@ -1,0 +1,1 @@
+Canadian railcars show weight figures in both imperial and metric.

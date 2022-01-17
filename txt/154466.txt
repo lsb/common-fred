@@ -1,0 +1,1 @@
+All routes serve the railway station.

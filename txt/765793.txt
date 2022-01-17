@@ -1,0 +1,1 @@
+Variables are local to rules.

@@ -1,0 +1,1 @@
+"""Precision"" is a synonym for reliability and ""variable error""."

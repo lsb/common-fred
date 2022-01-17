@@ -1,0 +1,1 @@
+A battery under continuous float voltage charging is said to be under float-charging.

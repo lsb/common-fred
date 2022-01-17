@@ -1,0 +1,1 @@
+The amount of scattering is inversely proportional to the fourth power of the wavelength.

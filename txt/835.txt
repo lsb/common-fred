@@ -1,0 +1,1 @@
+"""Beyond"" was printed in English, French, German, Spanish, Japanese and Korean."

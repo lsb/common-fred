@@ -1,0 +1,1 @@
+It contains one or two initial letters and Arabic numbers, treated as a decimal.

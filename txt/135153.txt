@@ -1,0 +1,1 @@
+A second use case would be multiple threads accumulating information into a global variable.

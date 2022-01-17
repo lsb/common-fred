@@ -1,0 +1,1 @@
+As the player clears screens, he receives a new title.

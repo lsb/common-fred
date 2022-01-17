@@ -1,0 +1,1 @@
+See decimal and binary for a discussion of these properties.

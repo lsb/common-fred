@@ -1,0 +1,1 @@
+Elliptic cones are sometimes considered to be degenerate quadric surfaces as well.

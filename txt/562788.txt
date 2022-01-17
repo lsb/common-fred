@@ -1,0 +1,1 @@
+The Edmonds-Gallai decomposition theorem describes finite graphs from the point of view of matchings.

@@ -1,0 +1,1 @@
+Vehicles are charged a flat toll rate based on class.

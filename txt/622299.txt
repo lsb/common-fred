@@ -1,0 +1,1 @@
+The homotopy colimit generalizes the notion of a cofibration.

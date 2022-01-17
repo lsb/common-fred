@@ -1,0 +1,1 @@
+It combined a calculator, a monophonic synthesizer, and sequencer.

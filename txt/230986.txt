@@ -1,0 +1,1 @@
+Each image consists of the same number of pixels.

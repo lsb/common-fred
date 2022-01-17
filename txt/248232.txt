@@ -1,0 +1,1 @@
+For example, when computing the binary method requires multiplications and squarings.

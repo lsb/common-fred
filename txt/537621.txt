@@ -1,0 +1,1 @@
+Solving the field equations actually gives a Lorentz manifold.

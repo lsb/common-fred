@@ -1,0 +1,1 @@
+"The ""strong components"" are the maximal strongly connected subgraphs."

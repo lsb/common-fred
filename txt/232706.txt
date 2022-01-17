@@ -1,0 +1,1 @@
+Early versions were based on Slackware, but it is now an independently developed distribution.

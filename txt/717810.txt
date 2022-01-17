@@ -1,0 +1,1 @@
+They help developers submit patches of code in an organized fashion.

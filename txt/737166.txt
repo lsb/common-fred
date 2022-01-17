@@ -1,0 +1,1 @@
+This new architecture was a significant leap from the old Xscale architecture.

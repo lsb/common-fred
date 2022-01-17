@@ -1,0 +1,1 @@
+For example, Michaelis-Menten kinetics can be derived assuming equilibrium instead of steady state.

@@ -1,0 +1,1 @@
+"""Shang Di"" is the pinyin romanization of two Chinese characters."

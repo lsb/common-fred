@@ -1,0 +1,1 @@
+Implementation of the allocator is commonly done using the heap, or data segment.

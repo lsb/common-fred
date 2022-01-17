@@ -1,0 +1,1 @@
+Meals are selected of an array of international and Cypriot foods.

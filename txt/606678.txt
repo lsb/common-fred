@@ -1,0 +1,1 @@
+The effect is independent of the orientation of the boundary.

@@ -1,0 +1,1 @@
+This is purely convention because wavelength and frequency communicate the same information.

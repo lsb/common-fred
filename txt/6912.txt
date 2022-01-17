@@ -1,0 +1,1 @@
+"""Solitaire"" is character-driven science fiction set in a near-future corporate state."

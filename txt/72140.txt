@@ -1,0 +1,1 @@
+"Price borrows the setting and many key events from Herman Melville's ""Moby-Dick""."

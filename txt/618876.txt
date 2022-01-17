@@ -1,0 +1,1 @@
+The geometries are also associated with spatial reference systems.

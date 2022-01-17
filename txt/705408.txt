@@ -1,0 +1,1 @@
+These exceptions are a relic of historical kana usage.

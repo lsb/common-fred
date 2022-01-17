@@ -1,0 +1,1 @@
+In general, the moment of inertia is a tensor, see below.

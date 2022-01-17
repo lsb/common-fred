@@ -1,0 +1,1 @@
+All single digit hexadecimal numbers can be written with four bits.

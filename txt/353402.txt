@@ -1,0 +1,1 @@
+In a multistage watchdog, each timer may have its own, unique time interval.

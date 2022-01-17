@@ -1,0 +1,1 @@
+This allows the Rogue to play atonal sounds like the Moog Prodigy.

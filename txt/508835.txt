@@ -1,0 +1,1 @@
+Rotating prism cameras are capable of thousands of frames per second.

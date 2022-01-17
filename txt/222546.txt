@@ -1,0 +1,1 @@
+Digraphs with are treated as letters and given separate positions in the Abkhaz alphabet.

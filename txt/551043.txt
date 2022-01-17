@@ -1,0 +1,1 @@
+Suppose that a random variable has a uniform distribution on a unit sphere.

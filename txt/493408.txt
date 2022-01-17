@@ -1,0 +1,1 @@
+Pivots thus enable the fusing of several different positions at once.

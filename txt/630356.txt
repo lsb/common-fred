@@ -1,0 +1,1 @@
+The loop thus prints out each word followed by its frequency count.

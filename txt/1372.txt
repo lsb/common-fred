@@ -1,0 +1,1 @@
+"""Chlamydia psittaci"" is transmitted by inhalation, contact or ingestion among birds and to mammals."

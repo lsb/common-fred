@@ -1,0 +1,1 @@
+In this system, relatives are sorted according to their descent and their gender.

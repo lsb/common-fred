@@ -1,0 +1,1 @@
+Ray marked vowel shortness when possible.

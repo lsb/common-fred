@@ -1,0 +1,1 @@
+Enlisted airmen have a five digit code, and officers have a four digit code.

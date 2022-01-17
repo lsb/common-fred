@@ -1,0 +1,1 @@
+It causes evolution to halt because precisely every individual in the population is identical.

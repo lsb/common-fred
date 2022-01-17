@@ -1,0 +1,1 @@
+"Formally, that's applying subgame perfection to solve the game."

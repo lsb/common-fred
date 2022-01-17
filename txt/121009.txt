@@ -1,0 +1,1 @@
+A Jones Counter attached to a bicycle is used to measure course length.

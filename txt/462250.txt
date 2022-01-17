@@ -1,0 +1,1 @@
+Namely, an unloaded module need not be stored in scarce random access memory.

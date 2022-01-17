@@ -1,0 +1,1 @@
+Additionally, prior to quantization, tonal components are subtracted from the signal and independently quantized.

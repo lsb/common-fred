@@ -1,0 +1,1 @@
+The game ends when this meter is maxed out.

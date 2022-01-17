@@ -1,0 +1,1 @@
+A discrete breather is a breather solution on a nonlinear lattice.

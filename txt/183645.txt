@@ -1,0 +1,1 @@
+Because they are fermions the anti-commutators of the Jordan algebra become commutators.

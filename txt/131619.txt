@@ -1,0 +1,1 @@
+A monomorphism is a generalization of an injective function in category theory.

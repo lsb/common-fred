@@ -1,0 +1,1 @@
+"""Super Don Quix-ote"" is very similar to ""Dragon's Lair"" and ""Space Ace""."

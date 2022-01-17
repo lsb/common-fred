@@ -1,0 +1,1 @@
+Shadows may extend from the mirror into the halfspace before it, and vice versa.

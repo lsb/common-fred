@@ -1,0 +1,1 @@
+For example, Castelnuovo-Mumford regularity can be formulated using local cohomology.

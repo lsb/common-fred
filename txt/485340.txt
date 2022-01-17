@@ -1,0 +1,1 @@
+Otherwise the task becomes blocked, waiting for the resource.

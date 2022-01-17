@@ -1,0 +1,1 @@
+Thus, no Cunningham chain can be of infinite length.

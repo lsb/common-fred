@@ -1,0 +1,1 @@
+It is also common in dataflow and pipeline-based systems, including Unix pipelines.

@@ -1,0 +1,1 @@
+A decision-forcing case is a kind of decision game.

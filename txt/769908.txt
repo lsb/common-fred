@@ -1,0 +1,1 @@
+Water surfaces appear both translucent and reflective.

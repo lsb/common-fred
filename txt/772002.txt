@@ -1,0 +1,1 @@
+We wanted to analyze sunshine duration, the rainfall amount and the air temperature to understand if any patterns will appear.

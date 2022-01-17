@@ -1,0 +1,1 @@
+Arrays are dimensioned by assigning to them as if they were a scalar variable.

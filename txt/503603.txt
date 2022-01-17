@@ -1,0 +1,1 @@
+Reduction of the cell radius enables the cell to accommodate extra traffic.

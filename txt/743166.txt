@@ -1,0 +1,1 @@
+This warns the technicians that the next cue is approaching.

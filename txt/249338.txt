@@ -1,0 +1,1 @@
+For simplicity, assume we are sorting a list of natural numbers.

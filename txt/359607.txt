@@ -1,0 +1,1 @@
+In previous Windows versions and non-server versions it is disabled by default.

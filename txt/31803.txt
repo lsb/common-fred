@@ -1,0 +1,1 @@
+"Furthermore, the normal derivative is of ""w"" a well-defined continuous function on ""S""."

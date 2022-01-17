@@ -1,0 +1,1 @@
+This leaves the route for finding the Brain Chamber up to the player.

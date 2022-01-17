@@ -1,0 +1,1 @@
+Characters may suffer penalty-inflicting wounds rather than depleting a set number of health points.

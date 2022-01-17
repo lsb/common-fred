@@ -1,0 +1,1 @@
+Specifically the process of clock recovery used to synchronize reception may produce jitter.

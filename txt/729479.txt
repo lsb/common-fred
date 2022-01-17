@@ -1,0 +1,1 @@
+This force draws objects having mass towards the center of any massive body.

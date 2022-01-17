@@ -1,0 +1,1 @@
+It can be shown that both methods have similar accuracy.

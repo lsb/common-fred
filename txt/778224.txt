@@ -1,0 +1,1 @@
+Whether an exception is thrown for other null reference arguments is implementation-dependent.

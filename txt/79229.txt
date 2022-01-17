@@ -1,0 +1,1 @@
+"Solid lines are ""dependency edges"" and lightly dotted lines are ""projection lines""."

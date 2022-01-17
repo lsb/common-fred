@@ -1,0 +1,1 @@
+"""Aylwin"" survived the typhoon, but other ships had not fared so well."

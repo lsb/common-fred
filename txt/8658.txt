@@ -1,0 +1,1 @@
+"""Universe"" uses a point and click user interface."

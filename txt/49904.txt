@@ -1,0 +1,1 @@
+"In other words, equivalent sets of functional dependencies are called ""covers"" of each other."

@@ -1,0 +1,1 @@
+The services usually have hourly or semi-hourly frequency.

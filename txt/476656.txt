@@ -1,0 +1,1 @@
+Once a row becomes empty, it can be filled by any card.

@@ -1,0 +1,1 @@
+"Kirchhoff's current law combined with Ohm's Law is used in nodal analysis."

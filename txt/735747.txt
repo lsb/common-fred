@@ -1,0 +1,1 @@
+This machine was capable of solving non-homogeneous differential equations.

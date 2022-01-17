@@ -1,0 +1,1 @@
+It does not vary between documents of different languages or created on different platforms.

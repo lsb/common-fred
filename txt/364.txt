@@ -1,0 +1,1 @@
+"""Alvarezsaurus"" was bipedal theropod."

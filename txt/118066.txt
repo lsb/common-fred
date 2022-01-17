@@ -1,0 +1,1 @@
+"When this feature is implemented on a touchscreen it is called ""kinetic scrolling""."

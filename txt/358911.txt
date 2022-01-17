@@ -1,0 +1,1 @@
+In order to difference the data, the difference between consecutive observations is computed.

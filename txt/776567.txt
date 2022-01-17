@@ -1,0 +1,1 @@
+When it is locked, tasks must wait for the semaphore to unlock.

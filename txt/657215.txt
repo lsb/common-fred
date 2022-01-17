@@ -1,0 +1,1 @@
+The resulting footage is much smoother because it simulates equal exposure time between frames.

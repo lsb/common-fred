@@ -1,0 +1,1 @@
+Bundles may also be described by their sheaves of sections.

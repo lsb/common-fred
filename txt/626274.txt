@@ -1,0 +1,1 @@
+The labels sometimes have text in both English and Spanish.

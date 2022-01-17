@@ -1,0 +1,1 @@
+"Its sole purpose is to manage Geronimo's building blocks."

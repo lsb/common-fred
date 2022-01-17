@@ -1,0 +1,1 @@
+"For ""a"" transmit its binary code."

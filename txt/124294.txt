@@ -1,0 +1,1 @@
+A dataflow machine manages the tags for every piece of data at runtime.

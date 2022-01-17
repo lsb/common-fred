@@ -1,0 +1,1 @@
+A Fermat pseudoprime is often called a pseudoprime, with the modifier Fermat being understood.

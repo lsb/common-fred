@@ -1,0 +1,1 @@
+"Such an integer is called a ""k""-powerful number, ""k""-ful number, or ""k""-full number."

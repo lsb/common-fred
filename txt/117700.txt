@@ -1,0 +1,1 @@
+"When ""H"" is maximal, the coset representation is primitive."

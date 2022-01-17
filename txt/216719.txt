@@ -1,0 +1,1 @@
+Cut-through switching has been applied to make block-relay lower latency in Bitcoin.

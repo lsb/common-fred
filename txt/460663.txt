@@ -1,0 +1,1 @@
+Multiplication by a time-variant function is sufficient.

@@ -1,0 +1,1 @@
+A piece may be moved only to an adjacent space.

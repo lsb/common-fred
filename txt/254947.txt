@@ -1,0 +1,1 @@
+Function words might or might not be inflected or might have affixes.

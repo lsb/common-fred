@@ -1,0 +1,1 @@
+In principle, test cases are designed to cover each partition at least once.

@@ -1,0 +1,1 @@
+The spherical tilings including the set of hosohedrons and dihedrons which are degenerate polyhedra.

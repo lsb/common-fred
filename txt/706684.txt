@@ -1,0 +1,1 @@
+These long struts prevent the car from flipping over during the launch phase.

@@ -1,0 +1,1 @@
+The example given above establishes a user story for a software system under development.

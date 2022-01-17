@@ -1,0 +1,1 @@
+"It's now based on Debian Stable."

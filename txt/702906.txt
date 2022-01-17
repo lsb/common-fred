@@ -1,0 +1,1 @@
+Therefore, transitivity is semantically valid without any constraints.

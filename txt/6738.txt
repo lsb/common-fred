@@ -1,0 +1,1 @@
+"""Shining Force"" also possesses an exploration mode that occurs outside of battle."

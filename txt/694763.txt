@@ -1,0 +1,1 @@
+There are three floors, each one holding at least three departments.

@@ -1,0 +1,1 @@
+"Note that the word ""node"" is usually interchangeable with the word ""vertex""."

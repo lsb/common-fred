@@ -1,0 +1,1 @@
+A color filter, for example, may desaturate an image or convert it to grayscale.

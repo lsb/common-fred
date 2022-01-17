@@ -1,0 +1,1 @@
+A larger search window requires greater number of computations.

@@ -1,0 +1,1 @@
+It is also distributed in part-of-speech tagged form with the Natural Language Toolkit.

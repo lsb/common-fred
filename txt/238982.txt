@@ -1,0 +1,1 @@
+Every material has its own characteristic resistivity.

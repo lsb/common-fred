@@ -1,0 +1,1 @@
+Although connections are local, information exchange can happen globally through diffusion.

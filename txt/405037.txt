@@ -1,0 +1,1 @@
+It takes control of all nodes in the distributed system.

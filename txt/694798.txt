@@ -1,0 +1,1 @@
+There are three main elements to consider when designing a microarray experiment.

@@ -1,0 +1,1 @@
+Timetables may be created with the built-in editor or an imported text file.

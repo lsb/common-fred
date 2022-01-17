@@ -1,0 +1,1 @@
+"""Departments"" operate a specific convention function, while ""divisions"" coordinate the work of several departments."

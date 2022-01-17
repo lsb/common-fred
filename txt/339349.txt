@@ -1,0 +1,1 @@
+However, the install discs that ship with Intel-based Macs only contain Intel binaries.

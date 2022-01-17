@@ -1,0 +1,1 @@
+Backplanes are commonly found in disk enclosures, disk arrays, and servers.

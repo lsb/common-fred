@@ -1,0 +1,1 @@
+"Any mechanical quantity can be written as a function of the system's phase."

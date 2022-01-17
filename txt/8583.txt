@@ -1,0 +1,1 @@
+"""Tux Racer"" has been met with positive reviews from critics."

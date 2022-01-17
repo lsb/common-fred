@@ -1,0 +1,1 @@
+Every tensor can be expressed as a sum of simple tensors.

@@ -1,0 +1,1 @@
+The layout of each level changes as the player progresses.

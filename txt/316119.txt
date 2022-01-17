@@ -1,0 +1,1 @@
+Hence, the above-mentioned formulas for Cartesian coordinates are applicable in any affine coordinate system.

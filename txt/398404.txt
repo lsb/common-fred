@@ -1,0 +1,1 @@
+It is the smallest two-digit prime number in the decimal base.

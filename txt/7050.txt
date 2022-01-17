@@ -1,0 +1,1 @@
+"""Stankervision"" also features some cartoons, but in ""Stankervision"" style."

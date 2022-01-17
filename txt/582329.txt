@@ -1,0 +1,1 @@
+The arrival events of an Actor are on its world line.

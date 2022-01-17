@@ -1,0 +1,1 @@
+Entries in an analysis of variance table can also be regarded as summary statistics.

@@ -1,0 +1,1 @@
+If a coefficient is zero, that term is simply omitted from the sequence.

@@ -1,0 +1,1 @@
+Deduction is analysis when it is regressive from consequence to real ground.

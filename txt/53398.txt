@@ -1,0 +1,1 @@
+"It is an ""n""-dimensional manifold that can be embedded in Euclidean -space."

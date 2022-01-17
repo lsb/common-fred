@@ -1,0 +1,1 @@
+A drop is a positive response followed by message discard rather than delivery.

@@ -1,0 +1,1 @@
+Two main types of buffer exist: the voltage buffer and the current buffer.

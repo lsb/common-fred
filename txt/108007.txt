@@ -1,0 +1,1 @@
+"These two quantities are not equal because of the body's movement around its parent."

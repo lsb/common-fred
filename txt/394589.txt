@@ -1,0 +1,1 @@
+It is possible to generalize spectral theory to such algebras.

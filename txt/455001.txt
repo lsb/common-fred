@@ -1,0 +1,1 @@
+More complex networks can be implemented by plugging in additional adapters as needed.

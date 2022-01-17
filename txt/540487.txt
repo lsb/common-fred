@@ -1,0 +1,1 @@
+Some of these plugins are merely front ends for existing network protocol implementations.

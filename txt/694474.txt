@@ -1,0 +1,1 @@
+There are six possibilities of choosing the rotation axes for proper Euler angles.

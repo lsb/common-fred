@@ -1,0 +1,1 @@
+In contrast, C-styled arrays are always rectangular.

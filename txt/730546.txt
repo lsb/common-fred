@@ -1,0 +1,1 @@
+This has the same effect as port scanning the host for available services iteratively.

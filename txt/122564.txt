@@ -1,0 +1,1 @@
+A built-in messaging system provided email-like functionality among system users, greatly aiding collaboration.

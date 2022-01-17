@@ -1,0 +1,1 @@
+Symfony was heavily inspired by the Spring Framework.

@@ -1,0 +1,1 @@
+More efficient attacks are possible by employing cryptanalysis to specific hash functions.

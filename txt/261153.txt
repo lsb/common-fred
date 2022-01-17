@@ -1,0 +1,1 @@
+Graph theory also offers a context-free measure of connectedness, called the clustering coefficient.

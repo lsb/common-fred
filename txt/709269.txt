@@ -1,0 +1,1 @@
+These values constitute the band gap.

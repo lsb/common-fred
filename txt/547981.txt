@@ -1,0 +1,1 @@
+Strongtalk is touted as the fastest implementation of Smalltalk.

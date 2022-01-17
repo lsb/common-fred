@@ -1,0 +1,1 @@
+"""F"" is called a ""continuous extension"" of ""f""."

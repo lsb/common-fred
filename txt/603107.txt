@@ -1,0 +1,1 @@
+The delayed acknowledgement is then attached to this outgoing data frame.

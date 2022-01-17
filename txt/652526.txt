@@ -1,0 +1,1 @@
+The project will develop a user-friendly, web-based dictionary or guide to the Seneca language.

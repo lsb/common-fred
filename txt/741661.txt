@@ -1,0 +1,1 @@
+This syntax is used for allowing reasoning based on knowledge of facts.

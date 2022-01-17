@@ -1,0 +1,1 @@
+"Running within each virtual machine is another, ""guest"" operating system."

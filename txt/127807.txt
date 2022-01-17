@@ -1,0 +1,1 @@
+A knot can be described as a link with one component.

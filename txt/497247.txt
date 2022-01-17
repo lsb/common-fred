@@ -1,0 +1,1 @@
+Pressing the D-Pad will move King Suren and his army in the desired direction.

@@ -1,0 +1,1 @@
+"Boxes marked ""other"" can mean that many different states of products can result."

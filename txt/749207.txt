@@ -1,0 +1,1 @@
+Thus the complete partial orders with Scott-continuous maps form a cartesian closed category.

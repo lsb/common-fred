@@ -1,0 +1,1 @@
+Certain pairs of stereo inputs can be configured to form one three-way input.

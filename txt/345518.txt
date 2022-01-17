@@ -1,0 +1,1 @@
+I learned about a couple very exciting new developments this week in open source speech recognition, both coming from Mozilla.

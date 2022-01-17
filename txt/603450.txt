@@ -1,0 +1,1 @@
+The design focuses on small, simple programs using drag-and-drop to move data between them.

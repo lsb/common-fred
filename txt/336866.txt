@@ -1,0 +1,1 @@
+However, if M is topologically nontrivial, A and B can have nontrivial solutions globally.

@@ -1,0 +1,1 @@
+To avoid confusion, it is now referred to as the Mozilla application framework.

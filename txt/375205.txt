@@ -1,0 +1,1 @@
+It controlled one or more gateways.

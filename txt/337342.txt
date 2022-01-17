@@ -1,0 +1,1 @@
+However, it may happen that an algebra admits no involution at all.

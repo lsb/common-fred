@@ -1,0 +1,1 @@
+This is obviously the row offset from the plaintext to the ciphertext.

@@ -1,0 +1,1 @@
+Pro version supports more file formats.

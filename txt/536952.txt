@@ -1,0 +1,1 @@
+So with more current, voltage changes faster, which allows faster signaling over the bus.

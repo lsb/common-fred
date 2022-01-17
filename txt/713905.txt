@@ -1,0 +1,1 @@
+They both aim to eliminate syntactical ambiguity and reduce semantic ambiguity to a minimum.

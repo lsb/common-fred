@@ -1,0 +1,1 @@
+Diffraction depends on the relationship between the wavelength and the size of the obstacle.

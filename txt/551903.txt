@@ -1,0 +1,1 @@
+Symbolic linguistic representations are frequently used in computational linguistics.

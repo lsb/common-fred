@@ -1,0 +1,1 @@
+Therefore, in every vector space, there exists a maximal family of linearly independent elements.

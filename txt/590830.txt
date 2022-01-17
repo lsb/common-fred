@@ -1,0 +1,1 @@
+The chain rule is used to simplify complicated differentiation.

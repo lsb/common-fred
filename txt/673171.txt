@@ -1,0 +1,1 @@
+The team was also aiming to have a software renderer for lower-end computers.

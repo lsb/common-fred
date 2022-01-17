@@ -1,0 +1,1 @@
+In these examples, the ranks are assigned to values in ascending order.

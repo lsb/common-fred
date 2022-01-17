@@ -1,0 +1,1 @@
+These are useful for navigation and manipulation, at the expense of greater memory use.

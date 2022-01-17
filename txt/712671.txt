@@ -1,0 +1,1 @@
+They are often used in natural language processing for doing statistical analysis of texts.

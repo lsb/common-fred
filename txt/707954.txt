@@ -1,0 +1,1 @@
+These result in slightly different forms for the solution, but are otherwise equivalent.

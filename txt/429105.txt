@@ -1,0 +1,1 @@
+Laguerre showed that this number is independent of the diameter.

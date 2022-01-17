@@ -1,0 +1,1 @@
+A conglomerate, on the other hand, can have proper classes as members.

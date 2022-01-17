@@ -1,0 +1,1 @@
+Isochronous and anisochronous are characteristics, while synchronous and asynchronous are relationships.

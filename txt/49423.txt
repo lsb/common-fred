@@ -1,0 +1,1 @@
+"In econometrics, the term ""control variable"" is usually used instead of ""covariate""."

@@ -1,0 +1,1 @@
+"""Galerina hypnorum"" is a widespread species."

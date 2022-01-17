@@ -1,0 +1,1 @@
+This noise is white and is always suppressed with respect to the Poisson value.

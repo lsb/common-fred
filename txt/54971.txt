@@ -1,0 +1,1 @@
+"It models the temperatures and densities of the atmosphere's components."

@@ -1,0 +1,1 @@
+MediaMonkey has support for third-party plugins to extend the base functionality.

@@ -1,0 +1,1 @@
+"""Your Sinclair"" magazine published a monthly column called ""Program Pitstop""."

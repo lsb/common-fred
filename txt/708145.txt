@@ -1,0 +1,1 @@
+These segments can either transmit or block light.

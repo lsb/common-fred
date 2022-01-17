@@ -1,0 +1,1 @@
+Laziness can be useful for high performance scenarios.

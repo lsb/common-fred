@@ -1,0 +1,1 @@
+Each plug-in used in the channel strip opens in a new window when double-clicked.

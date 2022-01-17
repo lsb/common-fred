@@ -1,0 +1,1 @@
+If a human or answering machine answers, the wardialer program hangs up.

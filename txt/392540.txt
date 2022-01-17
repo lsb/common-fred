@@ -1,0 +1,1 @@
+It is now the primary class for the Star Sailors League circuit.

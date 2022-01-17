@@ -1,0 +1,1 @@
+This syntax is also enforced at compile time.

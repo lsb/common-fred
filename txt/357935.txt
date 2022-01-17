@@ -1,0 +1,1 @@
+In large numbers, elements are combined from largest to smallest, and zeros are implied.

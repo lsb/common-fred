@@ -1,0 +1,1 @@
+Newlines, commas, and other characters can cause delimiter collisions.

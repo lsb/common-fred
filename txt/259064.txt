@@ -1,0 +1,1 @@
+Glade Interface Designer, automatically generate all the source code for a graphical control element.

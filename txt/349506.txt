@@ -1,0 +1,1 @@
+If one exits before reaching this plaza, the toll is collected at the exit.

@@ -1,0 +1,1 @@
+"""Monthly"" and ""Yearly"" refer to how often the body meets to make decisions."

@@ -1,0 +1,1 @@
+For example, consider the case of user profiles in an operating system.

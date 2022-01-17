@@ -1,0 +1,1 @@
+A set can have several maximal elements without having a greatest element.

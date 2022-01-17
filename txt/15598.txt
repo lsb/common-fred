@@ -1,0 +1,1 @@
+"An interesting variation is to have the background and foreground move in ""opposite"" directions."

@@ -1,0 +1,1 @@
+"Since most servers were configured as ""open relays"", this was a common practice."

@@ -1,0 +1,1 @@
+In fact, almost all Single sign-on protocols are affected.

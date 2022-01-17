@@ -1,0 +1,1 @@
+"""Iroha karuta"", a traditional card game, is still sold as an educational toy."

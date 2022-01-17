@@ -1,0 +1,1 @@
+"Further, by definition ""all"" interior vertices are formed by intersecting chords."

@@ -1,0 +1,1 @@
+"Ideally, auto-configuring devices should just ""plug and play""."

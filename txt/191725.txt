@@ -1,0 +1,1 @@
+Both motor-generators are mutually synchronous, either both as motors, or both as generators.

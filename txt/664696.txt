@@ -1,0 +1,1 @@
+The signal is modulated by the sensor to produce an output signal.

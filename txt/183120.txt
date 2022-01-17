@@ -1,0 +1,1 @@
+Because Cantor implicitly assumed that cardinalities are linearly ordered, this case cannot occur.

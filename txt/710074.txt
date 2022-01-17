@@ -1,0 +1,1 @@
+They allow this way to predict defects to intervene during a outage.

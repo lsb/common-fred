@@ -1,0 +1,1 @@
+The weight is calculated adding the weight of the jockey with the one of the saddle.

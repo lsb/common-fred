@@ -1,0 +1,1 @@
+The moving can be done using rename, which is atomic in many systems.

@@ -1,0 +1,1 @@
+Historically, Kodaira embedding theorem was derived with the help of the vanishing theorem.

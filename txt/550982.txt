@@ -1,0 +1,1 @@
+Supported are multiple cameras, which can be watched at once.

@@ -1,0 +1,1 @@
+"""Hayate"" services stop at the following stations."

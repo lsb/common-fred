@@ -1,0 +1,1 @@
+Each expander board implements snooping across the board, with directory coherence across the interconnect.

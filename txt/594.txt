@@ -1,0 +1,1 @@
+"""Asardo"" is an acronym for ""American Special Automotive Research and Design Organization""."

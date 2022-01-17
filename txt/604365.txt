@@ -1,0 +1,1 @@
+The discrete cosine transform is applied to blocks of eight by eight pixels.

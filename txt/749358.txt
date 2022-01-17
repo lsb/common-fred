@@ -1,0 +1,1 @@
+Thus we lose information at the exponential rate of one bit per iteration.

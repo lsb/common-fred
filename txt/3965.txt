@@ -1,0 +1,1 @@
+"""Jackal"" can be played by up to two players simultaneously."

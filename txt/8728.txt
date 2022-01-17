@@ -1,0 +1,1 @@
+"""VegNews"" is published in San Francisco, California."

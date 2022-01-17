@@ -1,0 +1,1 @@
+Moving the mouse will typically move the mouse pointer without changing the focus.

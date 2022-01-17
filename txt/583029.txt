@@ -1,0 +1,1 @@
+The authors claim to specifically address variations due to geometric transformations in the acquired images.

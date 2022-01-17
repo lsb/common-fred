@@ -1,0 +1,1 @@
+Many systems have degenerate ground states.

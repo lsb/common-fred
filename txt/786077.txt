@@ -1,0 +1,1 @@
+Xming runs natively on Windows and does not need any third-party emulation software.

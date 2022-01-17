@@ -1,0 +1,1 @@
+"""Pure"" safflorite would be just CoAs, but iron is virtually always present."

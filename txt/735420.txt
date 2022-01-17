@@ -1,0 +1,1 @@
+This lets me launch GUI Emacs to write code and edit my macro files which have to live on Windows.

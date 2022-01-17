@@ -1,0 +1,1 @@
+I press this button and the program does its magic.

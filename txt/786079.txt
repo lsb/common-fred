@@ -1,0 +1,1 @@
+Xpdf runs on nearly any Unix-like operating system.

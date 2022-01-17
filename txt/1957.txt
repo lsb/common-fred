@@ -1,0 +1,1 @@
+"""Dougal is right,"" said Rosa."

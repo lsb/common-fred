@@ -1,0 +1,1 @@
+"""Mean"" prominence is sometimes referred to as ""rise""."

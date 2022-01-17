@@ -1,0 +1,1 @@
+Suppose it is desired to store or transmit a series of values representing voice.

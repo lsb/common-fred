@@ -1,0 +1,1 @@
+"This way, a node's arguments can be rewritten, which is needed for pattern matching."

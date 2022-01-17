@@ -1,0 +1,1 @@
+When a developer makes a change, they only must compile the plugin.

@@ -1,0 +1,1 @@
+"""Elephant Journal"" published an article entitled ""When do Yoga Adjustments cross the line?"

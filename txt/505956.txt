@@ -1,0 +1,1 @@
+Rewriting is only required for picture information changes.

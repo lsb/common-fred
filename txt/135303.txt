@@ -1,0 +1,1 @@
+A sequence is Sturmian if and only if it is balanced and aperiodic.

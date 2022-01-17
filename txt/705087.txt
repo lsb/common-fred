@@ -1,0 +1,1 @@
+These detectors have a square law output for low levels of input.

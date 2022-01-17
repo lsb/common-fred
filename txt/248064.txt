@@ -1,0 +1,1 @@
+For example, one could rely on certification authorities or a web of trust.

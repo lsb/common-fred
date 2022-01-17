@@ -1,0 +1,1 @@
+Pieces may not be rotated; they must be placed as presented in the queue.

@@ -1,0 +1,1 @@
+"For vertical infiltration, Philip's solution is adapted using a parameter A."

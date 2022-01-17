@@ -1,0 +1,1 @@
+"For discussions of this type the terms 'throughput' and 'bandwidth' are often used interchangeably."

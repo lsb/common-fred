@@ -1,0 +1,1 @@
+Note that the tachymeter scale only calculates the average speed.

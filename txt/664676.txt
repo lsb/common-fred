@@ -1,0 +1,1 @@
+The sign of a path is the product of the signs of its edges.

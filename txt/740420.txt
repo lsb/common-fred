@@ -1,0 +1,1 @@
+This sequence occurs exactly once within a cycle, and every common letter thrice.

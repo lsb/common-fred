@@ -1,0 +1,1 @@
+The Common Interface allows them to communicate with each other.

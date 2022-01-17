@@ -1,0 +1,1 @@
+The arbitrageur can generate returns either actively or passively.

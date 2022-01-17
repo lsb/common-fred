@@ -1,0 +1,1 @@
+"A player who captures the opponent's sole remaining king or prince wins the game."

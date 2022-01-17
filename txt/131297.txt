@@ -1,0 +1,1 @@
+A master key operates a set of several locks.

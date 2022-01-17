@@ -1,0 +1,1 @@
+Arrays themselves can contain other arrays to form arbitrarily deep structures.

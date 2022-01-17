@@ -1,0 +1,1 @@
+"""The Seattle Post-Intelligencer"" that Murray asked for, and received, an apology."

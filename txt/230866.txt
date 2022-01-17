@@ -1,0 +1,1 @@
+Each field-effect transistor consists of a channel in the semiconductor body of the device.

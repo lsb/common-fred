@@ -1,0 +1,1 @@
+"""Doing All Right"" was written by May and Tim Staffell while in Smile."

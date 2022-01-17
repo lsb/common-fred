@@ -1,0 +1,1 @@
+The atomic velocities are related to the temperature of the system, a macroscopic quantity.

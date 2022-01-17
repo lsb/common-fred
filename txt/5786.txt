@@ -1,0 +1,1 @@
+"""Phronesis"" also combines a capability of rational thinking, with a type of knowledge."

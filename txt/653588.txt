@@ -1,0 +1,1 @@
+The quoted-printable encoding uses the equals sign as an escape character.

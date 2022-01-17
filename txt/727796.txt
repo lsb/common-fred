@@ -1,0 +1,1 @@
+This database keeps track of all terminals and jumpers.

@@ -1,0 +1,1 @@
+Agenda performs automatic categorization after it learns your associations.

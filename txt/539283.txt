@@ -1,0 +1,1 @@
+Some instructions require several cycles in the execute stage before they are completed.

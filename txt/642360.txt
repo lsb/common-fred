@@ -1,0 +1,1 @@
+The once-popular split-single design falls into this class, being effectively a folded uniflow.

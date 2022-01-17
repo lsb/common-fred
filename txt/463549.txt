@@ -1,0 +1,1 @@
+Nearly all programming languages in common use today are strict.

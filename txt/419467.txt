@@ -1,0 +1,1 @@
+Its subsystems support the payload and helps in pointing the payload correctly.

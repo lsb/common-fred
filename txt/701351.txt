@@ -1,0 +1,1 @@
+There were many cases of source code leaks in the history of software development.

@@ -1,0 +1,1 @@
+The devices were designed with minimum specifications, based on the Network Computer Reference Profile.

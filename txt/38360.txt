@@ -1,0 +1,1 @@
+"He solved Bernstein's problem about minimal surfaces."

@@ -1,0 +1,1 @@
+"The game's multiplayer is restricted to offline only."

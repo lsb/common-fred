@@ -1,0 +1,1 @@
+"The ""T""-bit must be cleared and the ""J""-bit set."

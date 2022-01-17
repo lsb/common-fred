@@ -1,0 +1,1 @@
+It consists of type, data, priority, evoke, logic and action slots.

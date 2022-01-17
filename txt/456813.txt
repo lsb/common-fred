@@ -1,0 +1,1 @@
+Most frequently scripts are used for extra modification of the generated code.

@@ -1,0 +1,1 @@
+Other draws are only allowed if the arbiter declares it is a drawn position.

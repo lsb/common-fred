@@ -1,0 +1,1 @@
+This also makes filling the corner rectangles and becoming invincible more difficult.

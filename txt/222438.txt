@@ -1,0 +1,1 @@
+Differential signals radiate less strongly than a single line.

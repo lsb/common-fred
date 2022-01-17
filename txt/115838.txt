@@ -1,0 +1,1 @@
+"Users can view, contribute and approve others' contributions, depending on their status."

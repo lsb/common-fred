@@ -1,0 +1,1 @@
+A separate display shows the battery power level and another shows motor output.

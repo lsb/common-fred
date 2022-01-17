@@ -1,0 +1,1 @@
+This would allow eight paddles in simultaneous play.

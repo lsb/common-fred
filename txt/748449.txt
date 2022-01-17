@@ -1,0 +1,1 @@
+Through the use of full-duplex Ethernet, the possibility of transmission collisions is eliminated.

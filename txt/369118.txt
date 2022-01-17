@@ -1,0 +1,1 @@
+Interactive mode is only available on Nuon players with attached joysticks.

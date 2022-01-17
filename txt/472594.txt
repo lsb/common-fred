@@ -1,0 +1,1 @@
+Objects that may be deleted in this way need to inherit a virtual destructor.

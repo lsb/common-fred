@@ -1,0 +1,1 @@
+In synchronous terminals a protocol controls who may send data when.

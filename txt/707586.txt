@@ -1,0 +1,1 @@
+These probes are comparable to a pointcut in aspect-oriented programming.

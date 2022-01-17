@@ -1,0 +1,1 @@
+Atomic clocks are primary standards, and their rate cannot be adjusted.

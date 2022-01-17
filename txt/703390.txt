@@ -1,0 +1,1 @@
+These are based on a generalisation of the Fibonacci sequence.

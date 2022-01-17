@@ -1,0 +1,1 @@
+An ordinary eigenvector is a special case of a generalized eigenvector.

@@ -1,0 +1,1 @@
+Dependence on a particular vendor is the drawback of this approach.

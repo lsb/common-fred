@@ -1,0 +1,1 @@
+Different implementations of classical logic can choose different functionally complete subsets of connectives.

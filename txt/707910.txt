@@ -1,0 +1,1 @@
+These representations are often used for storage in large chemical databases.

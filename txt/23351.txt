@@ -1,0 +1,1 @@
+"Choose the ""partition"" in which you have installed operating systems and name them."

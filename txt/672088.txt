@@ -1,0 +1,1 @@
+The switch had limited adaption based on load and priority.

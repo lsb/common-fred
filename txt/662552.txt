@@ -1,0 +1,1 @@
+The sensor detects when the magnet passes once per rotation of the wheel.

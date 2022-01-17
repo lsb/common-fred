@@ -1,0 +1,1 @@
+Grabyo is an example of a cloud-based real-time video editing platform.

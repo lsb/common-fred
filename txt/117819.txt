@@ -1,0 +1,1 @@
+"When a ""destination operand"" explicitly specifies the destination, an additional operand must be supplied."

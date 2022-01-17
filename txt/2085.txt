@@ -1,0 +1,1 @@
+"""Electra"" rescued these survivors, and continued searching."

@@ -1,0 +1,1 @@
+As a special case, the lattice of subgroups of an abelian group is modular.

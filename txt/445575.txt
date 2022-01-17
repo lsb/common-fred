@@ -1,0 +1,1 @@
+Many statistical databases are sparse with many null or zero values.

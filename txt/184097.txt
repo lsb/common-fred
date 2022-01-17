@@ -1,0 +1,1 @@
+Before exchanging any messages, a bind command must be sent and acknowledged.

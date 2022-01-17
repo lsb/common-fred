@@ -1,0 +1,1 @@
+Each matrix represents projection onto a one-dimensional complex subspace of the Jones vectors.

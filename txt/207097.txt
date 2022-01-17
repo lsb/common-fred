@@ -1,0 +1,1 @@
+Chunks are composed of a header prefix of six bytes, followed by data.

@@ -1,0 +1,1 @@
+"The client's hardware is detected and set up."

@@ -1,0 +1,1 @@
+It connects Pyrgos with Tripoli, via Olympia and Vytina.

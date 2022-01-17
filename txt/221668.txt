@@ -1,0 +1,1 @@
+Diacritical marks are ignored.

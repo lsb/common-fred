@@ -1,0 +1,1 @@
+Loadable kernel modules can also be loaded by the kextload command.

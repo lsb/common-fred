@@ -1,0 +1,1 @@
+The system does not modify the computer’s hard drive and it simply loads from the RAM memory.

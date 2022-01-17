@@ -1,0 +1,1 @@
+Before firing, the sub-projectile and sabot are locked together.

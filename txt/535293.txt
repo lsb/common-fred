@@ -1,0 +1,1 @@
+Slerp also has expressions in terms of quaternion algebra, all using exponentiation.

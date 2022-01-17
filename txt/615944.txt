@@ -1,0 +1,1 @@
+The font has OpenType features for advanced typesetting and includes true small caps.

@@ -1,0 +1,1 @@
+There are two other types of convolutions that will be useful.

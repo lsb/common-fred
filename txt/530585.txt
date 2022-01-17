@@ -1,0 +1,1 @@
+Shellsort is unstable: it may change the relative order of elements with equal values.

@@ -1,0 +1,1 @@
+The cockpit would bank in the same direction the on-screen aircraft was banking.

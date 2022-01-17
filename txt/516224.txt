@@ -1,0 +1,1 @@
+Several authors have considered tests in this context, for both regression and grouped-data situations.

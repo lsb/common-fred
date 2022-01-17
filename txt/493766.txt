@@ -1,0 +1,1 @@
+Platforms were now also able to determine the elevation of specific parcels.

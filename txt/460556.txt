@@ -1,0 +1,1 @@
+Multics Maclisp was used to implement the first Lisp-based Emacs.

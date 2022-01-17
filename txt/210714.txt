@@ -1,0 +1,1 @@
+Companies may wish to share campaigns across many sites, dynamically, from a central location.

@@ -1,0 +1,1 @@
+Zeroconf was originally released by Apple as Rendezvous, but later renamed Bonjour.

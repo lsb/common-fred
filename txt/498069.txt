@@ -1,0 +1,1 @@
+Printing time can last anywhere from hours to more than a day.

@@ -1,0 +1,1 @@
+"""Total field magnetometers"" or ""scalar magnetometers"" measure the magnitude of the vector magnetic field."

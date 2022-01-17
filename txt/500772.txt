@@ -1,0 +1,1 @@
+Query strings are often used in association with web beacons.

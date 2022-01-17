@@ -1,0 +1,1 @@
+Players create monsters, which they can use to battle multiplayer or against computer-controlled opponents.

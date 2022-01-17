@@ -1,0 +1,1 @@
+"Sonique's look and feel could be completely customized via skins."

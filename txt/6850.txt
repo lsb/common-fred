@@ -1,0 +1,1 @@
+"""Slow Tango"" originally appeared in the Wim Wenders film ""Faraway, So Close!"

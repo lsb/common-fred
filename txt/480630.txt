@@ -1,0 +1,1 @@
+Only the patches of activation are visible as areas of shading.

@@ -1,0 +1,1 @@
+"When this signal overlapped the pre-set range from ""mouse"", the payload was dropped."

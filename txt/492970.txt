@@ -1,0 +1,1 @@
+Pikas select plants that have the higher caloric, protein, lipid and water content.

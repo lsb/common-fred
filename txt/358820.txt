@@ -1,0 +1,1 @@
+In one method, the object being scanned is rotated.

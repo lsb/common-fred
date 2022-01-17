@@ -1,0 +1,1 @@
+Forwarders are typically employed together with harvesters in cut-to-length logging operations.

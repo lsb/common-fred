@@ -1,0 +1,1 @@
+It is not mandatory to make the most number of hops possible.

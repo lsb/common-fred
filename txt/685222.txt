@@ -1,0 +1,1 @@
+The website has information about movies, upcoming movies, and theater information.

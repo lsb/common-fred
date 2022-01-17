@@ -1,0 +1,1 @@
+Both synchronous and asynchronous datastreams can be used.

@@ -1,0 +1,1 @@
+No time code is sent during the last quarter of an hour.

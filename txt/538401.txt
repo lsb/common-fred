@@ -1,0 +1,1 @@
+Some clients enclose filenames with spaces in double quotes.

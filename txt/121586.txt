@@ -1,0 +1,1 @@
+A basic redowa step contains one long reaching step and two small leap-steps.

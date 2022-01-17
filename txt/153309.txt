@@ -1,0 +1,1 @@
+All internal theming was torn down due to it being a fire hazard.

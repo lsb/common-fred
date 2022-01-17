@@ -1,0 +1,1 @@
+By reducing valvetrain mass, valves can close more rapidly with a given spring stiffness.

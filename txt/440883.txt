@@ -1,0 +1,1 @@
+Mainly the stages consist of side-scrolling platformer stages.

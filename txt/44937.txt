@@ -1,0 +1,1 @@
+"Hybrid components won't reduce passenger and cargo space."

@@ -1,0 +1,1 @@
+High ping may also cause servers to crash due to instability.

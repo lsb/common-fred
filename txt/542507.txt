@@ -1,0 +1,1 @@
+Sometimes the bootstrapper installs other prerequisites for the software during the bootstrapping process too.

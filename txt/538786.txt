@@ -1,0 +1,1 @@
+Some encoding mixers had channel strips switchable between forward-oriented and backwards-oriented encoding.

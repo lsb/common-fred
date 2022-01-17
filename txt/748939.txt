@@ -1,0 +1,1 @@
+Thus a Q-Q plot is required for verification in addition to the test.

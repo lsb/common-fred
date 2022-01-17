@@ -1,0 +1,1 @@
+"""Jupiter"" hit a Dutch mine and sank."

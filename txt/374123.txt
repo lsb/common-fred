@@ -1,0 +1,1 @@
+It cannot produce higher or lower voltages than its power and ground supply levels.

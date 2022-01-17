@@ -1,0 +1,1 @@
+"""Empathy"" is a postcardware for password-protected executables."

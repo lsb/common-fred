@@ -1,0 +1,1 @@
+Variants of the CoC are used in other proof assistants, such as Matita.

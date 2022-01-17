@@ -1,0 +1,1 @@
+In other words, every internal infinite subset of the hyperreals necessarily contains non-standard elements.

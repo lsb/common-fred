@@ -1,0 +1,1 @@
+In spite of deficiencies in its implementation, the randomized attack was highly effective.

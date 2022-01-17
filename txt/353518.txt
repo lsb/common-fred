@@ -1,0 +1,1 @@
+In a uniform distribution on a discrete space, all probabilities are equal unit fractions.

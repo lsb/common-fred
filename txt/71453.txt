@@ -1,0 +1,1 @@
+"Physically, these applets are stored as "".cpl"" files."

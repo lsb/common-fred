@@ -1,0 +1,1 @@
+When this event is detected, the kernel starts the trusted login processing.

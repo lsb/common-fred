@@ -1,0 +1,1 @@
+Spectralon is a material which is designed to exhibit an almost perfect Lambertian reflectance.

@@ -1,0 +1,1 @@
+Light intensity tends to drop off over distance.

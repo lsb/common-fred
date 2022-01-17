@@ -1,0 +1,1 @@
+Tab buttons were centered on the top border of the tab area.

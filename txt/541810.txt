@@ -1,0 +1,1 @@
+Some types allow handles to be clipped on the band or loop.

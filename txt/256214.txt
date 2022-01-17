@@ -1,0 +1,1 @@
+GameRankings ranks games according to an average of their review score across multiple sources.

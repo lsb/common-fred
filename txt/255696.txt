@@ -1,0 +1,1 @@
+Furthermore, the vectors can be used on dividing and non-dividing cells.

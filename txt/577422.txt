@@ -1,0 +1,1 @@
+The abstract models represent the semantic information, whereas the concrete models represent visual diagrams.

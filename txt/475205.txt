@@ -1,0 +1,1 @@
+On hearing a ringing tone, the subscriber simply hangs up and awaits the callback.

@@ -1,0 +1,1 @@
+Conversely, a uniform space is called complete if every Cauchy filter converges.

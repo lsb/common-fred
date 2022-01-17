@@ -1,0 +1,1 @@
+Note: for the algorithm to be secure some checks have to be performed.

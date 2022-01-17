@@ -1,0 +1,1 @@
+Fact tables record measurements or metrics for a specific event.

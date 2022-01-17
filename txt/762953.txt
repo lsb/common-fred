@@ -1,0 +1,1 @@
+Unix makes a distinction between character devices and block devices.

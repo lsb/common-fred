@@ -1,0 +1,1 @@
+This solution also works well if you want to install a Linux distro on Windows via virtualization.

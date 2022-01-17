@@ -1,0 +1,1 @@
+Serial data communications can also embed the clock within the serial data stream.

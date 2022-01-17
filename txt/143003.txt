@@ -1,0 +1,1 @@
+Adaptors allow for connecting devices with registered jacks that are more prevalent internationally.

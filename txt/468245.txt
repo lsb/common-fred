@@ -1,0 +1,1 @@
+NoScript takes the form of a toolbar icon or status bar icon in Firefox.

@@ -1,0 +1,1 @@
+Many silent calls are a result of process known as pinging.

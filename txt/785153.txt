@@ -1,0 +1,1 @@
+WordNet can also be used to inter-link other vocabularies.

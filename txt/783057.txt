@@ -1,0 +1,1 @@
+With no drive letter prefixed, access was to files on the current default drive.

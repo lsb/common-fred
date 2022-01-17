@@ -1,0 +1,1 @@
+Both send out a pressure-speed field with different polarity.

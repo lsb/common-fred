@@ -1,0 +1,1 @@
+When one phone goes off-hook, a group of phones is made to ring simultaneously.

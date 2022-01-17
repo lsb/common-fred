@@ -1,0 +1,1 @@
+"""Deep color"" consists of a billion or more colors."

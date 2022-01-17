@@ -1,0 +1,1 @@
+This allows much smaller thrusters compared to gridded ion thrusters.

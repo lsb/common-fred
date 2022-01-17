@@ -1,0 +1,1 @@
+The modern Finder displays some aspects of the file system outside its windows.

@@ -1,0 +1,1 @@
+"There are no integer gaskets with ""D"" symmetry."

@@ -1,0 +1,1 @@
+Each environment can contain player units and installations.

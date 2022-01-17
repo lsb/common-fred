@@ -1,0 +1,1 @@
+Northernmost point on the line.

@@ -1,0 +1,1 @@
+The number of parameters is the number of degrees of freedom of the system.

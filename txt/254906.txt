@@ -1,0 +1,1 @@
+Fully three-dimensional mapping allows for obstruction calculations and cover effects from all angles.

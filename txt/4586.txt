@@ -1,0 +1,1 @@
+"""Mains"" is a Lowland Scots term equivalent to the English home farm."

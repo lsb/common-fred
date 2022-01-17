@@ -1,0 +1,1 @@
+Butterworth only dealt with filters with an even number of poles in his paper.

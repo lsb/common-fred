@@ -1,0 +1,1 @@
+Usually it references the original Invoice and sometimes states the reason for issue.

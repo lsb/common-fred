@@ -1,0 +1,1 @@
+To read the partition information, Crazy Boot must be active in memory.

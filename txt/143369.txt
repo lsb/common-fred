@@ -1,0 +1,1 @@
+Additional post-processing is then applied to compress this fingerprint while retaining patterns.

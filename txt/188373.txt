@@ -1,0 +1,1 @@
+Blocks, which hide coins and items.

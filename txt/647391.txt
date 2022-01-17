@@ -1,0 +1,1 @@
+The percentage columns show how the distances compare to the semimajor axis.

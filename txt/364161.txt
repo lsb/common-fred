@@ -1,0 +1,1 @@
+In the same limit, the propagator for a massless particle is singular.

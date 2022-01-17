@@ -1,0 +1,1 @@
+The Pelmorex Lightning Detection Network detects and locates lightning strikes across Canada.

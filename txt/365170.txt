@@ -1,0 +1,1 @@
+In this case the yield stress of the steel governs the design.

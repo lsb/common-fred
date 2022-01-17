@@ -1,0 +1,1 @@
+This post will teach you how to set up the basic voice recognition environment.

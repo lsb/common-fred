@@ -1,0 +1,1 @@
+We can now check explicitly that the supertrace is basis independent.

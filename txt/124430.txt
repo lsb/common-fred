@@ -1,0 +1,1 @@
+A desirable feature is that left-padding with zeros should not change the check digit.

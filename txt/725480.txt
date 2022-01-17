@@ -1,0 +1,1 @@
+This avoids retransmission of highly time-critical data.

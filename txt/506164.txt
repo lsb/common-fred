@@ -1,0 +1,1 @@
+Ricci-flat manifolds often have restricted holonomy groups.

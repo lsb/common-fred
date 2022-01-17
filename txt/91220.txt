@@ -1,0 +1,1 @@
+"The developers' intention was to perform the destruction sequence away from populated locations."

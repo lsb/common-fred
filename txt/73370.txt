@@ -1,0 +1,1 @@
+"Retrieving the Amulet doesn't guarantee you the high score."

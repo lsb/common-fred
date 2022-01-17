@@ -1,0 +1,1 @@
+A direction vector indicates a directional quantity, such as Radiance.

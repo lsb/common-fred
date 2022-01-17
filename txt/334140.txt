@@ -1,0 +1,1 @@
+However a stimulus protocol is not sensitive to the system state.

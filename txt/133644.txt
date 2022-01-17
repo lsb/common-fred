@@ -1,0 +1,1 @@
+A player who makes an illegal move loses immediately.

@@ -1,0 +1,1 @@
+Irregular matrices are typically stored using Iliffe vectors.

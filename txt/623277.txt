@@ -1,0 +1,1 @@
+The image rejection ratio is usually expressed in dB.

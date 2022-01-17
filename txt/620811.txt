@@ -1,0 +1,1 @@
+The hallways represent the data lines and the offices were internet hosts.

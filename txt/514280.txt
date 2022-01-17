@@ -1,0 +1,1 @@
+See local ring, perfect ring and Dedekind ring.

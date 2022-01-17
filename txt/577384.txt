@@ -1,0 +1,1 @@
+The above result can be generalized to any Fock state of bosons.

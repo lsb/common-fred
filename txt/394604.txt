@@ -1,0 +1,1 @@
+It is possible to store different parts of the same picture using different quality.

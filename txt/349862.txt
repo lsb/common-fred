@@ -1,0 +1,1 @@
+If the polynomial evaluates to zero, then that element is a root.

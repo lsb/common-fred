@@ -1,0 +1,1 @@
+Until this transpires, the web largely consists of unstructured documents lacking semantic metadata.

@@ -1,0 +1,1 @@
+Different operating systems use different boot disk contents.

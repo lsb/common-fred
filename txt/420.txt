@@ -1,0 +1,1 @@
+"""Analog trigger"" signals transfer a pulse per musical event."

@@ -1,0 +1,1 @@
+This contrasts with an ordinary finite-state automaton, which has a single tape.

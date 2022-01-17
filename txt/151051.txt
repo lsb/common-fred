@@ -1,0 +1,1 @@
+Aircell will deploy in-flight broadband using this license.

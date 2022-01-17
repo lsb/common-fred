@@ -1,0 +1,1 @@
+Powers and products of elementary symmetric polynomials work out to rather complicated expressions.

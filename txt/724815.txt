@@ -1,0 +1,1 @@
+This also makes the charging more linear, and the sawtooth wave more triangular.

@@ -1,0 +1,1 @@
+Signals are also used in a Unix-based environment to make operating system calls.

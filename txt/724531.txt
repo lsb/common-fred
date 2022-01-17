@@ -1,0 +1,1 @@
+This allowed users to log into external websites using their iWiW credentials.

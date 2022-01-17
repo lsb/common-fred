@@ -1,0 +1,1 @@
+Several digital mixers include spectrograph and real time analyzer functions.

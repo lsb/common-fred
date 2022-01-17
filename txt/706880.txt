@@ -1,0 +1,1 @@
+These messages are intercepted and used to construct the off-screen model.

@@ -1,0 +1,1 @@
+However, synchronous machines have higher energy losses than static capacitor banks.

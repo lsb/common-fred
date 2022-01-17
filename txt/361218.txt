@@ -1,0 +1,1 @@
+In that architecture, the coprocessor speeds up floating-point arithmetic on the order of fiftyfold.

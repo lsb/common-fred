@@ -1,0 +1,1 @@
+Following the change, the accent shifted to initial position.

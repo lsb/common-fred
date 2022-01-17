@@ -1,0 +1,1 @@
+It is called the zero-input response because it requires no input.

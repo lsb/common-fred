@@ -1,0 +1,1 @@
+When a simulation has been completed, the data needs to be analysed.

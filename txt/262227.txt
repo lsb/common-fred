@@ -1,0 +1,1 @@
+Groupcast was a financial management system for smaller provider groups.

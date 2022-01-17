@@ -1,0 +1,1 @@
+For instance, different objects in the same schema may have different underlying tablespaces.

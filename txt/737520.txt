@@ -1,0 +1,1 @@
+This operation is frequently used to represent sampling.

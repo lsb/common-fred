@@ -1,0 +1,1 @@
+Coulometric analysis uses a fixed current device to determine the exact concentration of a substance in the system to be measured.

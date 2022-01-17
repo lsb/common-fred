@@ -1,0 +1,1 @@
+Note, however, that not all random variables have moment-generating functions.

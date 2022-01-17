@@ -1,0 +1,1 @@
+Each time it hits a ridge, the tip produces a sound.

@@ -1,0 +1,1 @@
+It also incorporates a K band Beacon as an aid to tracking the satellite.

@@ -1,0 +1,1 @@
+The Fraunhofer equation can be used to model the diffraction in this case.

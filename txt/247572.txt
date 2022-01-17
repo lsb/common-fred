@@ -1,0 +1,1 @@
+For an unbalanced knife, the center of gravity does not match the geometric center.

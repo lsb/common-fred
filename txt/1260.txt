@@ -1,0 +1,1 @@
+"""Cat Fancy"" magazine's main rival in North America is ""Cats and Kittens""."

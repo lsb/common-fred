@@ -1,0 +1,1 @@
+Cell color denotes the half-life of each isotope.

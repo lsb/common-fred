@@ -1,0 +1,1 @@
+Unreachable memory in systems that use manual memory management results in a memory leak.

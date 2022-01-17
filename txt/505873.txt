@@ -1,0 +1,1 @@
+Reverse debugging can illuminate how an exceptional condition or bug occurred.

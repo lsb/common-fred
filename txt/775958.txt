@@ -1,0 +1,1 @@
+When beginning a battle the gameplay switches to real time.

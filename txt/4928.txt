@@ -1,0 +1,1 @@
+"""Mother Jones"" is published by The Foundation for National Progress."

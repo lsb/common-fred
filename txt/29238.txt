@@ -1,0 +1,1 @@
+"Examples are ""blue-collar"", ""pink-collar"" and ""white-collar""."

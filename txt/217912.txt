@@ -1,0 +1,1 @@
+Dataproducts introduced a very different implementation of the parallel interface for their printers.

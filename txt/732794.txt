@@ -1,0 +1,1 @@
+This is especially effective for references which are created and quickly destroyed.

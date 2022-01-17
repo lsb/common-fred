@@ -1,0 +1,1 @@
+"This address space is addressed by means of internal memory ""segmentation""."

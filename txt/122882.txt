@@ -1,0 +1,1 @@
+A centered heptagonal prime is a centered heptagonal number that is prime.

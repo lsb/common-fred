@@ -1,0 +1,1 @@
+The current technical design, however, is not open to the public.

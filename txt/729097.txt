@@ -1,0 +1,1 @@
+This extra function can however be disabled by reconfiguring the controls.

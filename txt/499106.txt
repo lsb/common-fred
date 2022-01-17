@@ -1,0 +1,1 @@
+Programming in Lithe consists of defining rule-action pairs and classes.

@@ -1,0 +1,1 @@
+If still equal, teams are deemed to occupy the same position.

@@ -1,0 +1,1 @@
+Every monoidal category is monoidally equivalent to a strict monoidal category.

@@ -1,0 +1,1 @@
+When the two surfaces are set far apart, the resulting ground material is coarser.

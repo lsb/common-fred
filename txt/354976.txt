@@ -1,0 +1,1 @@
+In algebra, epimorphisms are often defined as surjective homomorphisms.

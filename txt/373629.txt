@@ -1,0 +1,1 @@
+It can also boot Linux kernels without a bootloader.

@@ -1,0 +1,1 @@
+This is the initial or reference orientation of the sphere.

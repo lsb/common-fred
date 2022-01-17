@@ -1,0 +1,1 @@
+The client can choose to accept the certificate or reject the connection.

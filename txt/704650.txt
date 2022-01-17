@@ -1,0 +1,1 @@
+These clients support Off-the-Record Messaging out of the box.

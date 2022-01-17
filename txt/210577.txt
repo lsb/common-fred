@@ -1,0 +1,1 @@
+Commonly, eight quadratic segments or four cubic segments are used to approximate a circle.

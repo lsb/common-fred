@@ -1,0 +1,1 @@
+Fedora provides a general-purpose management layer for digital objects.

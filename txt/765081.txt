@@ -1,0 +1,1 @@
+Usually the op-code character would be word-marked, confirming the end of the previous instruction.

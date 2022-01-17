@@ -1,0 +1,1 @@
+"A ""foo"" element may not have any character data."

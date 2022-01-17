@@ -1,0 +1,1 @@
+The characters have a limited amount of ki that can be charged over time.

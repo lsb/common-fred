@@ -1,0 +1,1 @@
+"At the south pole it is in a clockwise direction, corresponding to ""negative"" rotation."

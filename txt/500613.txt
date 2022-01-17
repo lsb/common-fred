@@ -1,0 +1,1 @@
+Quantities can be invariant under some common transformations but not under others.

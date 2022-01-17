@@ -1,0 +1,1 @@
+This allows the networking protocol code to be completely abstracted from the user interface.

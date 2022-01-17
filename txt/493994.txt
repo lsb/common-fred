@@ -1,0 +1,1 @@
+Players are assigned a certain predetermined value for each foul committed.

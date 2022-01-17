@@ -1,0 +1,1 @@
+"Gamebryo's design emphasises a rapid prototyping approach aimed at an iterative development process."

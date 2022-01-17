@@ -1,0 +1,1 @@
+Modulo a prime, there is only the subgroup of squares and a single coset.

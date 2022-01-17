@@ -1,0 +1,1 @@
+In this sense a feature structure is a list of key-value pairs.

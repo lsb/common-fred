@@ -1,0 +1,1 @@
+The energy transport equation takes differing forms depending upon the mode of energy transport.

@@ -1,0 +1,1 @@
+This is slightly stronger than the topological notion of a triangulation.

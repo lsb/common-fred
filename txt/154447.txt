@@ -1,0 +1,1 @@
+All return values are added and create the combined width of the object.

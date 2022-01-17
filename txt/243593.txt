@@ -1,0 +1,1 @@
+Finally, automatic configuration was a feature for system administrators, not visible to users.

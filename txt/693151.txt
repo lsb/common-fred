@@ -1,0 +1,1 @@
+There are multiple equivalent definitions of the classes of the polynomial hierarchy.

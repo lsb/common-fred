@@ -1,0 +1,1 @@
+"The turret also cannot be traversed with the driver's hatch open."

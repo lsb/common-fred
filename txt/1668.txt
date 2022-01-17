@@ -1,0 +1,1 @@
+"""Da capo"" arias are usually in simple ternary form."

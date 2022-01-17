@@ -1,0 +1,1 @@
+It is predominantly used for Unix-like systems.

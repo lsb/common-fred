@@ -1,0 +1,1 @@
+Arithmetic was performed by a one-digit adder.

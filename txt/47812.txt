@@ -1,0 +1,1 @@
+"If no notice is found, then the default of ""All rights reserved"" is implied."

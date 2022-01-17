@@ -1,0 +1,1 @@
+This contains a grid of thirteen rows and three columns for each Diamond.

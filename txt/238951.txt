@@ -1,0 +1,1 @@
+Every indecomposable injective module has a local endomorphism ring.

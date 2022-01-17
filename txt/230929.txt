@@ -1,0 +1,1 @@
+Each guild must belong, but not limited, to a branch.

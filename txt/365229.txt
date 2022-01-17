@@ -1,0 +1,1 @@
+In this case, the infimum is set intersection, and the supremum is set union.

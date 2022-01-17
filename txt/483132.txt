@@ -1,0 +1,1 @@
+Other elements, such as filters, prisms and diffraction gratings often need large quasi-collimated beams.

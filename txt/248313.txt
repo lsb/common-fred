@@ -1,0 +1,1 @@
+For further details, including the expressions for the first few polynomials, see Laguerre polynomials.

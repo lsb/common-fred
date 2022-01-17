@@ -1,0 +1,1 @@
+"""Sabre Wulf"" has numerous references to Rare's Ultimate Play the Game roots."

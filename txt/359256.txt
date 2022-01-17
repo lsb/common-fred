@@ -1,0 +1,1 @@
+In particular, all Unicode normalization methods merge the old characters with the new ones.

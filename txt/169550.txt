@@ -1,0 +1,1 @@
+Arithmetic left shifts are, with two exceptions, identical in effect to logical left shifts.

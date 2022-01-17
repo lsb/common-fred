@@ -1,0 +1,1 @@
+"An aerofoil that is not cambered is called a ""symmetrical"" aerofoil."

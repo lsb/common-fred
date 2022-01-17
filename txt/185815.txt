@@ -1,0 +1,1 @@
+Beonex includes a migration tool to import old profiles from Netscape Communicator.

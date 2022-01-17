@@ -1,0 +1,1 @@
+Each fare area contains a staircase, an elevator, and an up escalator.

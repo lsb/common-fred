@@ -1,0 +1,1 @@
+I use the mark ring in Emacs to jump to previous locations.

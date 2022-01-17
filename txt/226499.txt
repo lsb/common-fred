@@ -1,0 +1,1 @@
+Due to this initial performance lag, dynamic compilation is undesirable in certain cases.

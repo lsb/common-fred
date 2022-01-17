@@ -1,0 +1,1 @@
+A group is called torsion-free if it has no non-trivial torsion elements.

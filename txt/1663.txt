@@ -1,0 +1,1 @@
+"""D"" is equal to the z-score for ""P""."

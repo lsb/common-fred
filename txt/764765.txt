@@ -1,0 +1,1 @@
+User stories are a type of boundary object.

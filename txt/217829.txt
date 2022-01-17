@@ -1,0 +1,1 @@
+Data and subjects are grouped into ordered levels of integrity.

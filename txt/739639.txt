@@ -1,0 +1,1 @@
+This resembles an atmospheric Airy disc but is not actually an Airy disk.

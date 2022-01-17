@@ -1,0 +1,1 @@
+Flood search routing allows subscribers to have telephone numbers independent of switch codes.

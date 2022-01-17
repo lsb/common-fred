@@ -1,0 +1,1 @@
+This sensor used a single Clark oxygen electrode coupled with a counter-electrode.

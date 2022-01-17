@@ -1,0 +1,1 @@
+An extension which is not conservative may be called a proper extension.

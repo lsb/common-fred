@@ -1,0 +1,1 @@
+Anything after that is penalized as illegal contact.

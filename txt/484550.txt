@@ -1,0 +1,1 @@
+Other tables are applied only to specific areas of the schedules.

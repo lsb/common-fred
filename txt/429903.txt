@@ -1,0 +1,1 @@
+Large cells can be subdivided into smaller cells for high volume areas.

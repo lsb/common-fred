@@ -1,0 +1,1 @@
+Below a certain width, the charge carriers can tunnel through the depletion region.

@@ -1,0 +1,1 @@
+"""Translated from the Russian Wikipedia article"""

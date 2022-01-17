@@ -1,0 +1,1 @@
+"""Esrange Space Center"" is the name that is currently used for the facility."

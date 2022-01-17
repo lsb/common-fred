@@ -1,0 +1,1 @@
+It can also be licensed separately for non-VxWorks users.

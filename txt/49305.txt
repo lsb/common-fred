@@ -1,0 +1,1 @@
+"In both cases, the equilibrium is ""non-hyperbolic"" at the bifurcation point."

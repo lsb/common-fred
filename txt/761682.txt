@@ -1,0 +1,1 @@
+Umlauts never appear together.

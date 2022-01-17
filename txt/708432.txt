@@ -1,0 +1,1 @@
+These specifications include numerous implementation options.

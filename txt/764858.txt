@@ -1,0 +1,1 @@
+Using Gray code, starting from zero, determine the change to the next value.

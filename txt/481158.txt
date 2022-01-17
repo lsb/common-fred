@@ -1,0 +1,1 @@
+Operators that bind LexA weakly are the first to be fully expressed.

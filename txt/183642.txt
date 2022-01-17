@@ -1,0 +1,1 @@
+Because these three properties are not formally stated, the Church-Turing thesis cannot be proved.

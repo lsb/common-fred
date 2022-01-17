@@ -1,0 +1,1 @@
+In general the intersection of arbitrary half-spaces need not be bounded.

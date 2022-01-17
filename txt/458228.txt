@@ -1,0 +1,1 @@
+Most often, a computer will use a rational approximation to a real number.

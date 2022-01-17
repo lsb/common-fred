@@ -1,0 +1,1 @@
+The software testing life cycle defines the phases of testing a project.

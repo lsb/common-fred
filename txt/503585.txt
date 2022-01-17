@@ -1,0 +1,1 @@
+Reducible Kleinian groups are elementary, but some elementary finite Kleinian groups are not reducible.

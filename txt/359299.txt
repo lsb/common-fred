@@ -1,0 +1,1 @@
+In particular, it is useful in the theory of Galton-Watson processes.

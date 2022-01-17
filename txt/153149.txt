@@ -1,0 +1,1 @@
+All general eigenvalue algorithms must be iterative, and the divide-and-conquer algorithm is no different.

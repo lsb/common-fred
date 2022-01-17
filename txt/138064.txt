@@ -1,0 +1,1 @@
+A universally administered address is uniquely assigned to a device by its manufacturer.

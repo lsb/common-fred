@@ -1,0 +1,1 @@
+The proposition that the ground state is an eigenstate of the Hamiltonian is confirmed.

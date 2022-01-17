@@ -1,0 +1,1 @@
+"""Tau"" is a Sesotho word meaning ""lion"", and this animal is their totem."

@@ -1,0 +1,1 @@
+Electrical resistances of the gauges changed as their surfaces were changed by erosion.

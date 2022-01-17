@@ -1,0 +1,1 @@
+A feature may contain any number of components and other sub-features.

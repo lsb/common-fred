@@ -1,0 +1,1 @@
+"""New York Times"" reviewer Stephen Holden described an ""easygoing pop-country"" manner."

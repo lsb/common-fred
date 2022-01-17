@@ -1,0 +1,1 @@
+"An enemy's weapons can be used as long as the original wielder is alive."

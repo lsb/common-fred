@@ -1,0 +1,1 @@
+It is an interface between users and databases of national legislation.

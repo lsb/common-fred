@@ -1,0 +1,1 @@
+In this way, all of the euclidean transformations become transactable as matrix point multiplications.

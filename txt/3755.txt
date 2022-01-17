@@ -1,0 +1,1 @@
+"""Information provided by Celebrity Cruises shipboard literature"""

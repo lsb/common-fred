@@ -1,0 +1,1 @@
+It takes the interrupt number formatted as a byte value.

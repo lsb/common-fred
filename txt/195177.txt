@@ -1,0 +1,1 @@
+Browsers indicate their preferences by headers in the request.

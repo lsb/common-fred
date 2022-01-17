@@ -1,0 +1,1 @@
+The simplest background model assumes that each letter appears equally frequently in the dataset.

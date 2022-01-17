@@ -1,0 +1,1 @@
+"The theorem does ""not"" assert that some higher-degree polynomial equations have ""no"" solution."

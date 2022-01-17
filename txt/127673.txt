@@ -1,0 +1,1 @@
+A hush kit produces a similar effect, using several modifications to the existing engine.

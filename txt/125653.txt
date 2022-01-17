@@ -1,0 +1,1 @@
+A firm with a single worker does not require any communication between employees.

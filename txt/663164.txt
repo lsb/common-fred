@@ -1,0 +1,1 @@
+The service module is the equivalent to the spacecraft bus assembly on unmanned spacecraft.

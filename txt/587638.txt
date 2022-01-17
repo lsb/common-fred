@@ -1,0 +1,1 @@
+The bridge was split into multiple parts and relocated.

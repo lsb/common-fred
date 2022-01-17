@@ -1,0 +1,1 @@
+The reconstruction of an image from the acquired data is an inverse problem.

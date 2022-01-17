@@ -1,0 +1,1 @@
+Dice rolls use a percentile system.

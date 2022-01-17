@@ -1,0 +1,1 @@
+Each district is assigned at least one code.

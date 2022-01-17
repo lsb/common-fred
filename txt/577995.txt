@@ -1,0 +1,1 @@
+The adjoint Higgs also has a similar decomposition, except that it is complex.

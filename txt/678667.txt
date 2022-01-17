@@ -1,0 +1,1 @@
+The trailing driver positions to pass the leading car before the next corner.

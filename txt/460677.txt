@@ -1,0 +1,1 @@
+Multivariate calculus is used in the optimal control of continuous time dynamic systems.

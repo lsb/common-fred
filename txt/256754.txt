@@ -1,0 +1,1 @@
+Gaussian functions arise by composing the exponential function with a concave quadratic function.

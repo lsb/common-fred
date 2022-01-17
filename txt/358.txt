@@ -1,0 +1,1 @@
+"""Alternanthera"" plants are known to produce allelopathic compounds that injure other plants, including crops."

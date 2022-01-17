@@ -1,0 +1,1 @@
+Likewise, just as leading zeros are mandatory, trailing zeros are forbidden.

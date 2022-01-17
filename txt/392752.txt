@@ -1,0 +1,1 @@
+It is often recommended that Windows be installed to the first primary partition.

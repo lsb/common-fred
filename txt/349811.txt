@@ -1,0 +1,1 @@
+If the matrix has real entries, then the square root also has real entries.

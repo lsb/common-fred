@@ -1,0 +1,1 @@
+This subset simplifies the design for a bus with a single master.

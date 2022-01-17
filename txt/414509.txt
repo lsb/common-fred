@@ -1,0 +1,1 @@
+It will also direct the browser to a suspicious domain and alter browser settings.

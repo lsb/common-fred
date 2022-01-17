@@ -1,0 +1,1 @@
+In fact this is the case for all even Stiefel-Whitney classes.

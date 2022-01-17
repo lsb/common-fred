@@ -1,0 +1,1 @@
+The Japanese spec-engines are normally designated with a four character alphanumeric designation.

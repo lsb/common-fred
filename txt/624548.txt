@@ -1,0 +1,1 @@
+The interactions that generate the resting potential are modeled by the Goldman equation.

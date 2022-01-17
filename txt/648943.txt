@@ -1,0 +1,1 @@
+The player must avoid trapping her, any other agent, or the house guests.

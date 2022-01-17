@@ -1,0 +1,1 @@
+It also can be applied to an inductor or capacitor at a chosen frequency.

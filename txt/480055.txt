@@ -1,0 +1,1 @@
+Only de-emphasis is applied to the incoming signal and noise during playback.

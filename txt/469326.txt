@@ -1,0 +1,1 @@
+Normally the cost functions are treated as common knowledge.

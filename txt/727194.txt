@@ -1,0 +1,1 @@
+This concept of kernel measures how far the given homomorphism is from being injective.

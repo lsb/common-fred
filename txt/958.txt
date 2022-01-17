@@ -1,0 +1,1 @@
+"""Bombshell"" is a pre-code screwball comedy."

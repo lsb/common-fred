@@ -1,0 +1,1 @@
+It also included the ability to access shared files through a web browser.

@@ -1,0 +1,1 @@
+Another method is symbolic modeling, which represents many mental objects using variables and rules.

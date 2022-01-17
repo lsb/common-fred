@@ -1,0 +1,1 @@
+"To each edge joining two copies of ""K"" we associate the identity map."

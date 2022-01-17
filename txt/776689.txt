@@ -1,0 +1,1 @@
+When not executing, user programs are stored on moving-head cartridge- or pack-loaded disk storage.

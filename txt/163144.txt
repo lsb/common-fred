@@ -1,0 +1,1 @@
+An old version of ejabberd is included in the Unison unified communications software.

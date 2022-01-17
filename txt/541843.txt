@@ -1,0 +1,1 @@
+Some users report that the reliability of establishing connections can be difficult and erratic.

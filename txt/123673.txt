@@ -1,0 +1,1 @@
+A component of a group is a subnormal quasisimple subgroup.

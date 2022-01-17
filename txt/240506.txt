@@ -1,0 +1,1 @@
+Extendibility is a second-order analog of strong compactness.

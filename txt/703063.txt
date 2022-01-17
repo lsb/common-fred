@@ -1,0 +1,1 @@
+These absorbers prevent corruption of the measurement due to reflections.

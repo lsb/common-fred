@@ -1,0 +1,1 @@
+Sockets are required to have shutters for the line and neutral apertures.

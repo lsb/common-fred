@@ -1,0 +1,1 @@
+Likewise, monoid homomorphisms are just functors between single object categories.

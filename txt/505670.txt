@@ -1,0 +1,1 @@
+Results rank from fumble through failure and success to critical.

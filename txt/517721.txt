@@ -1,0 +1,1 @@
+Several web frameworks have been created that enforce the pattern.

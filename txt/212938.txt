@@ -1,0 +1,1 @@
+Conventional operating systems can be divided into two layers, userspace and the kernel.

@@ -1,0 +1,1 @@
+Whether the isosceles triangle is acute, right or obtuse depends on the vertex angle.

@@ -1,0 +1,1 @@
+Threads with higher priorities can preempt threads with lower priorities.

@@ -1,0 +1,1 @@
+When writing currency amounts the location of the symbol varies by currency.

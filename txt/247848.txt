@@ -1,0 +1,1 @@
+For example, N operator cannot be expressed in Temporal Logic of Actions.

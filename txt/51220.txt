@@ -1,0 +1,1 @@
+"Increasing Sonic's speed caused animation problems."

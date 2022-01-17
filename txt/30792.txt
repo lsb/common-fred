@@ -1,0 +1,1 @@
+"For simplicity, 'gear inches' is normally rounded to the nearest whole number."

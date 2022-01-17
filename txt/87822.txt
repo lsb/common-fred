@@ -1,0 +1,1 @@
+"The alt attribute is commonly, but incorrectly, referred to as the ""alt tag""."

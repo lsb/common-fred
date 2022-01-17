@@ -1,0 +1,1 @@
+An automatic battle system is also provided, which calculates damage done by each army.

@@ -1,0 +1,1 @@
+This distinction seems too careful for most applications.

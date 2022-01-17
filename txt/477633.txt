@@ -1,0 +1,1 @@
+One field contains the odd-numbered lines and the other contains the even ones.

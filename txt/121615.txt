@@ -1,0 +1,1 @@
+A battery may be modeled as a voltage source in series with a resistance.

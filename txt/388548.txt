@@ -1,0 +1,1 @@
+It is important that the confirmation and disavowal exchanges are not transferable.

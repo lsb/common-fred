@@ -1,0 +1,1 @@
+There are blocking and non-blocking types of cross-over switches.

@@ -1,0 +1,1 @@
+"Packets from all sub-bands are then collected in so-called ""layers""."

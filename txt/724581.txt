@@ -1,0 +1,1 @@
+This allows for full image and text variability within a printed book.

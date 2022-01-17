@@ -1,0 +1,1 @@
+"Each stanza defines one of the ability's effects, costs, or usage restrictions."

@@ -1,0 +1,1 @@
+Each player is represented by a coloured marble on the board.

@@ -1,0 +1,1 @@
+"Like other characteristic classes, it measures how ""twisted"" the vector bundle is."

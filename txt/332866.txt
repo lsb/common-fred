@@ -1,0 +1,1 @@
+Horn-satisfiability and Horn clauses are named after Alfred Horn.

@@ -1,0 +1,1 @@
+Each closed set is an F set.

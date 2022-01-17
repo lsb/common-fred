@@ -1,0 +1,1 @@
+"Both issues allow an attacker to sign into a victim's relying party accounts."

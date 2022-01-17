@@ -1,0 +1,1 @@
+The first asserts the primary key of the piece, that is, the tonic.

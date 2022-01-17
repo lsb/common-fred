@@ -1,0 +1,1 @@
+"""Catholicos"" is used internally by the Syro-Malankara Church for their major archbishop."

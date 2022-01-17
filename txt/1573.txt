@@ -1,0 +1,1 @@
+"""Costus barbatus"" is native to Costa Rica."

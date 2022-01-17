@@ -1,0 +1,1 @@
+Often, preconditions are simply included in the documentation of the affected section of code.

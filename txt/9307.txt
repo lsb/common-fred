@@ -1,0 +1,1 @@
+"""Yevanic"" is a recently extinct language of Romaniote Jews."

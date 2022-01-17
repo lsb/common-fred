@@ -1,0 +1,1 @@
+Structured data is data with patterns predictable more complex than strings of text.

@@ -1,0 +1,1 @@
+They are the geometric duals of Voronoi diagrams.

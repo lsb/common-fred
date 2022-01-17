@@ -1,0 +1,1 @@
+"""Toronto Star"" writer Linda Barnard is his daughter."

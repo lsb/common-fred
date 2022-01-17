@@ -1,0 +1,1 @@
+It is designed for systems that do not have any windowing systems installed.

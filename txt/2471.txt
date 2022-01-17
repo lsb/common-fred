@@ -1,0 +1,1 @@
+"""Foster's Daily Democrat"" also syndicates reports by Norma Love and Chris Dornin."

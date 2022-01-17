@@ -1,0 +1,1 @@
+Repeated application of this rule eliminates negative quantities from calculations.

@@ -1,0 +1,1 @@
+"Facts about concepts are asserted using certain CycL ""sentences""."

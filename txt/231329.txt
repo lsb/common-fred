@@ -1,0 +1,1 @@
+Each of the three selection methods presented above yields a different distribution of midpoints.

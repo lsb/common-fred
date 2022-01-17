@@ -1,0 +1,1 @@
+This decision-in-ignorance models fairness because it excludes selfish bias.

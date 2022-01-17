@@ -1,0 +1,1 @@
+This property is somewhat stronger than the fact that an ordered group is Archimedean.

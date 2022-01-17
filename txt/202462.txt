@@ -1,0 +1,1 @@
+Cards plug into boards which are connected to form gates which form frames.

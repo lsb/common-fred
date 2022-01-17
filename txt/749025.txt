@@ -1,0 +1,1 @@
+Thus every singleton is a terminal object in the category of sets.

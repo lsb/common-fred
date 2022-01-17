@@ -1,0 +1,1 @@
+Moving walkways can be used by standing or walking on them.

@@ -1,0 +1,1 @@
+Four-bit computer architectures use groups of four bits as their fundamental unit.

@@ -1,0 +1,1 @@
+"By default, ""correlation function"" refers to the two-point autocorrelation function."

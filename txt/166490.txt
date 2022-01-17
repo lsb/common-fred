@@ -1,0 +1,1 @@
+Another drawback is that it is not normally possible to efficiently nest virtual machines.

@@ -1,0 +1,1 @@
+Windings may have additional electrical connections along their length; these are called taps.

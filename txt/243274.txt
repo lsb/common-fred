@@ -1,0 +1,1 @@
+Files are sent to the device via a fast gigabit Ethernet connection.

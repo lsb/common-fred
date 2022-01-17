@@ -1,0 +1,1 @@
+Bagging is a special case of the model averaging approach.

@@ -1,0 +1,1 @@
+It can be noted that every second burst in the modulation pattern is inverted.

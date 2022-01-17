@@ -1,0 +1,1 @@
+However, it is instructive to write down and solve the Killing vector equations directly.

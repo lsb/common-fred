@@ -1,0 +1,1 @@
+It is, in fact, a sort of solitaire for each player in turn.

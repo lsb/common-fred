@@ -1,0 +1,1 @@
+An airlock allows access to the chamber.

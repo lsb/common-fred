@@ -1,0 +1,1 @@
+As the rotor is moved, the pen traces out a curve.

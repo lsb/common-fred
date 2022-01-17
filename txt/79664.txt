@@ -1,0 +1,1 @@
+"Some optocouplers have a ""reflective pair"" configuration."

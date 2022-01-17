@@ -1,0 +1,1 @@
+Pulse amplitude also applies to the amplitude of frequency- and phase-modulated waveform envelopes.

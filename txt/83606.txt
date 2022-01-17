@@ -1,0 +1,1 @@
+"The ""Wasp"" class is based on the preceding design."

@@ -1,0 +1,1 @@
+Egress filtering helps ensure that unauthorized or malicious traffic never leaves the internal network.

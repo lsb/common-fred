@@ -1,0 +1,1 @@
+"The standard Cauchy distribution coincides with the Student's ""t""-distribution with one degree of freedom."

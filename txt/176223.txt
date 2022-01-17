@@ -1,0 +1,1 @@
+At least one commercial grade implementation uses Diffie-Hellman key exchange.

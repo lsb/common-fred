@@ -1,0 +1,1 @@
+Asynchronous requests for all processes are batched together in fewer queues, one per priority.

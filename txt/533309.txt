@@ -1,0 +1,1 @@
+Since most domains have a postmaster address, it is commonly targeted by spamming operations.

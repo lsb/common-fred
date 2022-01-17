@@ -1,0 +1,1 @@
+For this reason the category of topological spaces fails to be cartesian closed.

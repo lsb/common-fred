@@ -1,0 +1,1 @@
+Several sets of orthogonal functions have become standard bases for approximating functions.

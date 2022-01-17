@@ -1,0 +1,1 @@
+Each processor will have two thread units and a floating point unit.

@@ -1,0 +1,1 @@
+"""Power Tennis"" incorporates multiple characters, themes, and locations from the ""Mario"" series."

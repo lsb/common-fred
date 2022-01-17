@@ -1,0 +1,1 @@
+The flowering period is extended if faded flowers are removed.

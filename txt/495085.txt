@@ -1,0 +1,1 @@
+Policy settings can be configured for each user and for each machine.

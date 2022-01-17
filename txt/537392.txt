@@ -1,0 +1,1 @@
+Software verification is often confused with software validation.

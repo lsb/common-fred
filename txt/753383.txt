@@ -1,0 +1,1 @@
+Today, most open source software is distributed with a similar script, such as autoconf.

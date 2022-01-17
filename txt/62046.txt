@@ -1,0 +1,1 @@
+"Like the WeatherStar, it is installed at the cable provider's headend."

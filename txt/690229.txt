@@ -1,0 +1,1 @@
+Then the coordinator reads aloud or projects the checksums of the keys.

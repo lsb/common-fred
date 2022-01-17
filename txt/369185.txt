@@ -1,0 +1,1 @@
+Interestingly, for an aerodynamic profile the reference length depends on the analysis.

@@ -1,0 +1,1 @@
+If the player collects the ball, the miniboss will follow and aid the player.

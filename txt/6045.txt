@@ -1,0 +1,1 @@
+"""Psychological Science"" publishes research reports and short commentaries."

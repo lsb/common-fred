@@ -1,0 +1,1 @@
+The program is capable of altering web page content by removing or adding text.

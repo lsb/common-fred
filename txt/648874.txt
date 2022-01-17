@@ -1,0 +1,1 @@
+The player claiming a touch-move violation must do so before making a move.

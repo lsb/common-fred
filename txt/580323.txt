@@ -1,0 +1,1 @@
+The amount of inductive coupling between two conductors is measured by their mutual inductance.

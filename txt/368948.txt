@@ -1,0 +1,1 @@
+Instructions are also typically highly encoded in order to further enhance the code density.

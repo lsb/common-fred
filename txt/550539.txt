@@ -1,0 +1,1 @@
+Sum types are the dual of product types.

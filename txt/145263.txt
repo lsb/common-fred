@@ -1,0 +1,1 @@
+After a specified number of people are skipped, the next person is executed.

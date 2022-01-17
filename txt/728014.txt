@@ -1,0 +1,1 @@
+This design permits quick switching of different aircraft cabins.

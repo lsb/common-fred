@@ -1,0 +1,1 @@
+It ensures that there is enough bandwidth for authorized flows.

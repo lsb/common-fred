@@ -1,0 +1,1 @@
+Shift x allows you to cycle through other pen colours.

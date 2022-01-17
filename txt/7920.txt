@@ -1,0 +1,1 @@
+"""The Press of Atlantic City"" is available in several formats."

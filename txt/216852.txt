@@ -1,0 +1,1 @@
+Cylinder locations on the tape were fixed and identified by markers along the edge.

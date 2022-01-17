@@ -1,0 +1,1 @@
+For such algorithms, even a fixed pseudo-random permutation may be good enough.

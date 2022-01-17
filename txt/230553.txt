@@ -1,0 +1,1 @@
+Each character is transmitted twice with a time delay.

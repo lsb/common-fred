@@ -1,0 +1,1 @@
+"""Radu"" is a name derived from the Slavic word for ""joy""."

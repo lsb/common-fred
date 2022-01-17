@@ -1,0 +1,1 @@
+Each food plan represents a nutritious diet at a different cost.

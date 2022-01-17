@@ -1,0 +1,1 @@
+Previously, a wheelbase greater than was the criterion for full-size.

@@ -1,0 +1,1 @@
+Typically cocktail sort is less than two times faster than bubble sort.

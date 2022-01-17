@@ -1,0 +1,1 @@
+"Signal voltage at tank is antenna voltage multiplied by ""Q""."

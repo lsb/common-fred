@@ -1,0 +1,1 @@
+They could be animated using either skeletal or morph target animation.

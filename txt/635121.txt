@@ -1,0 +1,1 @@
+The module was written by Lincoln Stein and is now maintained by Lee Johnson.

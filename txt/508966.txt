@@ -1,0 +1,1 @@
+Route-based traffic shaping is conducted based on previous-hop or next-hop information.

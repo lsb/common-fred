@@ -1,0 +1,1 @@
+"Over a separably closed field, a torus ""T"" admits two primary invariants."

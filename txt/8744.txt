@@ -1,0 +1,1 @@
+"""Verstehen"" refers to understanding the meaning of action from the actor's point of view."

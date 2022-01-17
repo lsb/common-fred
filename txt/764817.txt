@@ -1,0 +1,1 @@
+Users of OpenSees create applications by writing scripts in the Tcl programming language.

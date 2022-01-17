@@ -1,0 +1,1 @@
+The specification for Freesat boxes includes having an Ethernet port.

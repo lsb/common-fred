@@ -1,0 +1,1 @@
+When the sets are geometric objects, the result is a geometric graph.

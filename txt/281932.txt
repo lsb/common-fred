@@ -1,0 +1,1 @@
+He ignores nonconvex polyhedra.

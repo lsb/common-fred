@@ -1,0 +1,1 @@
+"This page replaced the ""Admin"" tab as the default page in the Admin Panel."

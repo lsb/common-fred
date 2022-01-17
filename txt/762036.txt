@@ -1,0 +1,1 @@
+Under normal circumstances, only one ring carries active data.

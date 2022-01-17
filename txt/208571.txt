@@ -1,0 +1,1 @@
+Closures are lexical, and scope is both lexical and dynamic.

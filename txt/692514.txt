@@ -1,0 +1,1 @@
+There are four types of land regions; mainland, private region, homestead, and openspace.

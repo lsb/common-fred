@@ -1,0 +1,1 @@
+For example, consider a bottom-up merge sort.

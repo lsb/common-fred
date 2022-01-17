@@ -1,0 +1,1 @@
+Unlike the heat flow, the Ricci flow could run into singularities and stop functioning.

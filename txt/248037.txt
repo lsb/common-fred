@@ -1,0 +1,1 @@
+For example, it provides a compatibility-layer implementing overlays via the native extent functionality.

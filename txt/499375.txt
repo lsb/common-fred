@@ -1,0 +1,1 @@
+Properly done, programs are unaware of these cryptographic operations.

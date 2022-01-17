@@ -1,0 +1,1 @@
+Like obfuscation in natural language, it may use needlessly roundabout expressions to compose statements.

@@ -1,0 +1,1 @@
+Punching rate is roughly four columns per machine cycle.

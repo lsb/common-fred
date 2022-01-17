@@ -1,0 +1,1 @@
+"""B-B-B"" means there are three trucks."

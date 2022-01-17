@@ -1,0 +1,1 @@
+"This standard develops what is called the ""Common Criteria""."

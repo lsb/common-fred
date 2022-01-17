@@ -1,0 +1,1 @@
+"However, passing all tests doesn't result in automatically obtaining the license."

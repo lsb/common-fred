@@ -1,0 +1,1 @@
+"""Line depth"" refers to the number of subcategories a category has."

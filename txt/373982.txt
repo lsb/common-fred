@@ -1,0 +1,1 @@
+It can be validated by cross-checking the trees produced by both methods.

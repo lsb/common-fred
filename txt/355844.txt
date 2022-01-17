@@ -1,0 +1,1 @@
+In computability theory, a counter is considered a type of memory.

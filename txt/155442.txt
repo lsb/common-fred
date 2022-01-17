@@ -1,0 +1,1 @@
+All the data that Symphony handles is kept in spreadsheet-like cells.

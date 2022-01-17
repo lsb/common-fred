@@ -1,0 +1,1 @@
+It is accomplished by consecutive swappings of nodes, subtrees, or both.

@@ -1,0 +1,1 @@
+Each character is shown with its Unicode equivalent and its decimal code.

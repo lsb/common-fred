@@ -1,0 +1,1 @@
+This serves to keep the container sanitary by avoiding container contact with the garbage.

@@ -1,0 +1,1 @@
+Doubles count as two hits and triples as three.

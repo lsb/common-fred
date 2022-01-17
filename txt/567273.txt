@@ -1,0 +1,1 @@
+The Launcher has a low frequency cutoff limited by launcher length along the conductor.

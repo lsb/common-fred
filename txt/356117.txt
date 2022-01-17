@@ -1,0 +1,1 @@
+In discrete terms, the number of overestimates minus underestimates will have a binomial distribution.

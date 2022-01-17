@@ -1,0 +1,1 @@
+Only the slots for its mounting are now preserved.

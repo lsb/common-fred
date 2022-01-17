@@ -1,0 +1,1 @@
+Which button layouts are available for the player depends on the type of game.

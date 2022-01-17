@@ -1,0 +1,1 @@
+Accessing the server with the domain name should work again.

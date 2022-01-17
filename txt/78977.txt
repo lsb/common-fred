@@ -1,0 +1,1 @@
+"Snell's law for refraction requires that these terms be equal."

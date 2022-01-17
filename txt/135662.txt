@@ -1,0 +1,1 @@
+A similar definition can be made for other algebraic structures.

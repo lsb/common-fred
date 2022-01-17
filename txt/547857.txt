@@ -1,0 +1,1 @@
+Strictly speaking, such objects are not tensors at all.

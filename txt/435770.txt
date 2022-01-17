@@ -1,0 +1,1 @@
+Likewise, the join of the empty set yields the least element.

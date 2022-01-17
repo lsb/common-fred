@@ -1,0 +1,1 @@
+"""Centavo"" means, strictly, ""one-hundredth""."

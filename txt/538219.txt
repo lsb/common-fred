@@ -1,0 +1,1 @@
+Some boss enemies can only be defeated by cycling between the two fields.

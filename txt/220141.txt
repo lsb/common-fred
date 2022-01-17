@@ -1,0 +1,1 @@
+Describes how the subdirectories are implemented.

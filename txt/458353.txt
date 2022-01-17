@@ -1,0 +1,1 @@
+Most performance improvements were focused on speeding up the process.

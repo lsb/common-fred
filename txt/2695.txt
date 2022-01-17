@@ -1,0 +1,1 @@
+"""Gliocladium roseum"" is a fungal parasite of ""Botrytis cinerea""."

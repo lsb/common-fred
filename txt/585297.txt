@@ -1,0 +1,1 @@
+The bidder must have three doubles to do this.

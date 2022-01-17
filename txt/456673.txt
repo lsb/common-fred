@@ -1,0 +1,1 @@
+Most data-warehousing projects combine data from different source systems.

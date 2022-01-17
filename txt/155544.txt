@@ -1,0 +1,1 @@
+All the non-rejected addresses are considered valid.

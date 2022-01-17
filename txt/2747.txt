@@ -1,0 +1,1 @@
+"""Gong"" is usually translated as ""duke""."

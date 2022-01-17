@@ -1,0 +1,1 @@
+A player landing on an occupied city may challenge the incumbent to new elections.

@@ -1,0 +1,1 @@
+"Desktop 'Install devices', 'Install icon' and 'Remove desktop icon' features."

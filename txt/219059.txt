@@ -1,0 +1,1 @@
+Dedicated processors are not available for sharing.

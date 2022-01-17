@@ -1,0 +1,1 @@
+"Some Lisps provide ""funcallable"" objects as a simple extension."

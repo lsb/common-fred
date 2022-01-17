@@ -1,0 +1,1 @@
+Convert to a negative number, then increment toward zero.

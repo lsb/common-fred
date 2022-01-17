@@ -1,0 +1,1 @@
+A worked example of polynomial division, as described above.

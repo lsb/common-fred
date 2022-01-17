@@ -1,0 +1,1 @@
+"""Caucasia"", a national bestseller, has been translated into ten languages."

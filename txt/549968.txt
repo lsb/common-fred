@@ -1,0 +1,1 @@
+Such parametric curves can then be integrated and differentiated termwise.

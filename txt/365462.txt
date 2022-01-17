@@ -1,0 +1,1 @@
+In this method most of the heapification takes place in the lower levels.

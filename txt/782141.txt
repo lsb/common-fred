@@ -1,0 +1,1 @@
+Wing stations require pylons to carry objects.

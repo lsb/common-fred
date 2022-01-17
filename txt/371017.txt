@@ -1,0 +1,1 @@
+It also allowed for local network discussion with users discovered through Bonjour protocols.

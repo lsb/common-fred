@@ -1,0 +1,1 @@
+"The system monitors an aircraft's height above ground as determined by a radar altimeter."

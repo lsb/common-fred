@@ -1,0 +1,1 @@
+Polyphase systems are particularly useful for transmitting power to electric motors.

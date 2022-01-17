@@ -1,0 +1,1 @@
+A classic example is the Hawk-Dove model of interactions among individuals in a population.

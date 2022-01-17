@@ -1,0 +1,1 @@
+Any two square matrices of the same order can be added and multiplied.

@@ -1,0 +1,1 @@
+"Driven manually, the box 'learns' the driver's style for when in auto mode."

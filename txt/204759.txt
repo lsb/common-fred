@@ -1,0 +1,1 @@
+Changes in tax rates were modeled by increasing or decreasing pumping speeds.

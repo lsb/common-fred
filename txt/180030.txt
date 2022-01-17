@@ -1,0 +1,1 @@
+Automotive yaw sensors can be built around vibrating structure gyroscopes.

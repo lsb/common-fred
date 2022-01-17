@@ -1,0 +1,1 @@
+Java popularized this approach with its bytecode executed by the Java virtual machine.

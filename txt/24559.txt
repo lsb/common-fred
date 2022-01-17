@@ -1,0 +1,1 @@
+"Count the people on the bus, and don't forget to include yourself."

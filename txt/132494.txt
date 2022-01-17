@@ -1,0 +1,1 @@
+A number of additional, optional checks were also added to aid in development.

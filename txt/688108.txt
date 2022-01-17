@@ -1,0 +1,1 @@
+Their fonts map obsolete Hangul characters to the Private Use Area of Unicode.

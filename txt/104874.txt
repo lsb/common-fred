@@ -1,0 +1,1 @@
+"The weaker condition defines an ""isometry""."

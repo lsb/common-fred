@@ -1,0 +1,1 @@
+Symmetrical isochronic forks allow either of the targets to acknowledge the signal.

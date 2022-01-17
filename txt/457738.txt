@@ -1,0 +1,1 @@
+Most of the other examples above can also be evaluated using algebraic simplification.

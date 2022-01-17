@@ -1,0 +1,1 @@
+Bollinger Bands are a volatility indicator similar to the Keltner channel.

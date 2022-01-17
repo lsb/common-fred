@@ -1,0 +1,1 @@
+Its generalization to binary notation allows to use it in a computer.

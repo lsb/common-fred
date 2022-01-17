@@ -1,0 +1,1 @@
+"Noise reduction usually results in unwanted artifacts, sometimes referred to as ""twittering"" or ""birdies""."

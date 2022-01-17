@@ -1,0 +1,1 @@
+"""Stavanger Aftenblad"" has a Christian-conservative stance."

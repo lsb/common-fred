@@ -1,0 +1,1 @@
+It ejects the zinc from the zinc binding sites in a two steps.

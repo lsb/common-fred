@@ -1,0 +1,1 @@
+The concentration of particles at each point in space is represented using colors.

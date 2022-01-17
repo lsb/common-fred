@@ -1,0 +1,1 @@
+"In effect, instead of a big keyframe, the keyframe is ""spread"" over many frames."

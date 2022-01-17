@@ -1,0 +1,1 @@
+"Note that capturing is not compulsory, nor is it ""chained"" as in checkers."

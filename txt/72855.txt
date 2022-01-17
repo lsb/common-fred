@@ -1,0 +1,1 @@
+"Raster images have a finite set of digital values, called ""picture elements"" or pixels."

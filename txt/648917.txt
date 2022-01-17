@@ -1,0 +1,1 @@
+The player has two types of attacks: a light punch and a heavy punch.

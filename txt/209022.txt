@@ -1,0 +1,1 @@
+Code points are normally assigned to abstract characters.

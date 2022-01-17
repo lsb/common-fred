@@ -1,0 +1,1 @@
+If mounted at the speaker cone, the sensor is usually an accelerometer.

@@ -1,0 +1,1 @@
+Similarly, a tablespace may service segments for more than one schema.

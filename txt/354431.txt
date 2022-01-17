@@ -1,0 +1,1 @@
+In addition, human evaluations are slow and expensive as compared to fitness function computation.

@@ -1,0 +1,1 @@
+Contracts are made to accommodate this price-changing scenario by means of indexation.

@@ -1,0 +1,1 @@
+Securing funding was a persistently worrying issue throughout the early development of the engine.

@@ -1,0 +1,1 @@
+Different choices of a generating set will typically yield different word metrics.

@@ -1,0 +1,1 @@
+Clearly, if the machine does halt, this algorithm has a path which accepts.

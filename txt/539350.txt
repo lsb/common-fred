@@ -1,0 +1,1 @@
+Some languages have special support for delegation built in.

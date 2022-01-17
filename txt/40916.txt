@@ -1,0 +1,1 @@
+"Hence the ""k"" iteration generates approximation ""x""."

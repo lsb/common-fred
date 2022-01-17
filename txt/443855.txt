@@ -1,0 +1,1 @@
+Many modern fault-tolerant file systems also do copy-on-write, although that increases fragmentation.

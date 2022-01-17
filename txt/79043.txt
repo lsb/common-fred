@@ -1,0 +1,1 @@
+"So at each time interval the system is in a particular ""state""."

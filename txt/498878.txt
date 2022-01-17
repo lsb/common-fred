@@ -1,0 +1,1 @@
+Production systems may vary on the expressive power of conditions in production rules.

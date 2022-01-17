@@ -1,0 +1,1 @@
+Life cycle cost can be conducted in two approaches: deterministic and probabilistic method.

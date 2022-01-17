@@ -1,0 +1,1 @@
+Contents are automatically stored, and restored when the application is restarted.

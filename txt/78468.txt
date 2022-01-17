@@ -1,0 +1,1 @@
+"Simple layer potentials are continuous and solve the Laplace equation except on ""S""."

@@ -1,0 +1,1 @@
+Depending on the width of the image, the deviation is referred to as the relative deviation.

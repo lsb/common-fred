@@ -1,0 +1,1 @@
+Remote port forwarding allows other computers to access applications hosted on remote servers.

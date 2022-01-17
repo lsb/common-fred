@@ -1,0 +1,1 @@
+A bridgeless graph is a graph that does not have any bridges.

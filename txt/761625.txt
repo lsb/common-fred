@@ -1,0 +1,1 @@
+Ultrasonic motors replace the noisier and often slower micro-motor in this application.

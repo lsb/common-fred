@@ -1,0 +1,1 @@
+"You can try using an eye tracker to accomplish this, but the precision isn't quite high enough."

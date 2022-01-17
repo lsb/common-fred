@@ -1,0 +1,1 @@
+The corners are referred to as the North-East, North-West, South-East and South-West corners.

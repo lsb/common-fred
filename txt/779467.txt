@@ -1,0 +1,1 @@
+While the principle is fairly intuitive, it does not have a rigorous mathematical definition.

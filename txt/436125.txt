@@ -1,0 +1,1 @@
+Linear and nonlinear transformations are often dealt with via digital image processing.

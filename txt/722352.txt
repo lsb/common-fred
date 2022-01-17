@@ -1,0 +1,1 @@
+They were identical except for the non-volatile memory type.

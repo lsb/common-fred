@@ -1,0 +1,1 @@
+Only applications executing in protected mode can use extended memory directly.

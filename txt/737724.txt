@@ -1,0 +1,1 @@
+This part specifies commands for application management in a multi-application environment.

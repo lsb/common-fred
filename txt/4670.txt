@@ -1,0 +1,1 @@
+"""Massaman"" or ""matsaman"" is not a native Thai word."

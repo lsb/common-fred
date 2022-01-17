@@ -1,0 +1,1 @@
+Instead, when a page is to be modified, a shadow page is allocated.

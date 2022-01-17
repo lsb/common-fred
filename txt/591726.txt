@@ -1,0 +1,1 @@
+The chmod numerical format accepts up to four octal digits.

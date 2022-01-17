@@ -1,0 +1,1 @@
+"""Cuno"" is a stony S-type asteroid."

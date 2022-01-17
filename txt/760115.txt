@@ -1,0 +1,1 @@
+Two routers must first be neighbors and only then, can they become adjacent.

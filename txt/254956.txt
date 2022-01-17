@@ -1,0 +1,1 @@
+Functional parameters, such as the top rotation rate or top weighting, are stringent.

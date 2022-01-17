@@ -1,0 +1,1 @@
+For each division, its Swedish name and number of clubs is given.

@@ -1,0 +1,1 @@
+They must label synchronization accesses as acquires or releases, not just as synchronization accesses.

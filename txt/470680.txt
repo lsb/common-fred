@@ -1,0 +1,1 @@
+Note that the Feynman propagator for the Klein-Gordon field has this same property.

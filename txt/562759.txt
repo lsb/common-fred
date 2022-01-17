@@ -1,0 +1,1 @@
+The Eddington approximation is a special case of the two stream approximation.

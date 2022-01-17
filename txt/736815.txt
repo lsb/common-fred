@@ -1,0 +1,1 @@
+This model configuration removes the added complexity of ocean-atmosphere feedbacks in the climate system.

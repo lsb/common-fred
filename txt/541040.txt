@@ -1,0 +1,1 @@
+Some radios allow skipping selected channels when scanning.

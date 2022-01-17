@@ -1,0 +1,1 @@
+For very low levels, many techniques do not have adequate resolution.

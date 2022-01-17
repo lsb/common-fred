@@ -1,0 +1,1 @@
+In other applications, the bit rate is less than the symbol rate.

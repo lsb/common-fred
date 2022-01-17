@@ -1,0 +1,1 @@
+Site operators are also in charge of managing the site channel, and sitebot.

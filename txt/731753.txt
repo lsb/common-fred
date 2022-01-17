@@ -1,0 +1,1 @@
+This is a limitation of the hardware in the decoder.

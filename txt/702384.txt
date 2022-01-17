@@ -1,0 +1,1 @@
+Therefore the divided-difference formulas are usually preferred over the Lagrange form for practical purposes.

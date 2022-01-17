@@ -1,0 +1,1 @@
+"We now specialize the above general definition to specific groups ""G""."

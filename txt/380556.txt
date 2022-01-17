@@ -1,0 +1,1 @@
+It included muting tabs and pinned tabs.

@@ -1,0 +1,1 @@
+In every mode except programmer mode, one can see the history of calculations.

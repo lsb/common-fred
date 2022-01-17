@@ -1,0 +1,1 @@
+Essentially it is just barrel distortion but only in the horizontal plane.

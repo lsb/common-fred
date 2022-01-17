@@ -1,0 +1,1 @@
+It is also used to detect mobile browsers and send them mobile-optimized websites.

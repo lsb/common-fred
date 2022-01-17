@@ -1,0 +1,1 @@
+"The non-critical section is the part of code that doesn't need exclusive access."

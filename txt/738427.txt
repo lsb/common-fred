@@ -1,0 +1,1 @@
+This principle is useful to calculate the field created by multiple point charges.

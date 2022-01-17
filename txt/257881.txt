@@ -1,0 +1,1 @@
+Geostrophic flow in air or water is a zero-frequency inertial wave.

@@ -1,0 +1,1 @@
+Consequently, an irreducible ideal of a Noetherian ring is primary.

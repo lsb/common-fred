@@ -1,0 +1,1 @@
+It is confused because it was tricked into overwriting its billing file.

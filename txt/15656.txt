@@ -1,0 +1,1 @@
+"Analog video formats convey video signals as a series of ""lines""."

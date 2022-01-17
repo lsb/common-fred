@@ -1,0 +1,1 @@
+Axinite is pyroelectric and piezoelectric.

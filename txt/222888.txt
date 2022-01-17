@@ -1,0 +1,1 @@
+Disadvantages : The receiver can jam the service if it has nothing to send.

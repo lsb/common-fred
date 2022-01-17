@@ -1,0 +1,1 @@
+"From here, the player moves back to the level's stage select screen."

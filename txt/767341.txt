@@ -1,0 +1,1 @@
+Viewed this way, idempotent matrices are idempotent elements of matrix rings.

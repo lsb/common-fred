@@ -1,0 +1,1 @@
+This is a resource-intensive process that requires expensive closed-source speech data to get a good model.

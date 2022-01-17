@@ -1,0 +1,1 @@
+Collegiate members registered as executing members will have double vote, and non-executing members will have a single vote.

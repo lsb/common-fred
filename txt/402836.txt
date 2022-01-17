@@ -1,0 +1,1 @@
+It provides access to current and retrospective bibliographic information and cited references.

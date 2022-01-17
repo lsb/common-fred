@@ -1,0 +1,1 @@
+"A flag on the tower signals whether the cabin's restaurant is open."

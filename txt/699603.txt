@@ -1,0 +1,1 @@
+There is only one uniform coloring of a snub trihexagonal tiling.

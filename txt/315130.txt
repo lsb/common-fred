@@ -1,0 +1,1 @@
+Heading south also prevents walkers from facing towards the sun.

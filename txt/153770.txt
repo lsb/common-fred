@@ -1,0 +1,1 @@
+All of the music and cutscene dialogue is encoded in Ogg Vorbis format.

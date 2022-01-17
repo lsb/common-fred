@@ -1,0 +1,1 @@
+Equidistant curves in elliptic space are now said to be Clifford parallels.

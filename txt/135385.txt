@@ -1,0 +1,1 @@
+A set of numeric features can be conveniently described by a feature vector.

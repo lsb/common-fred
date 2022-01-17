@@ -1,0 +1,1 @@
+It supports skinning, split viewing, and profiles, as Konsole does.

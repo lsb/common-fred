@@ -1,0 +1,1 @@
+Services are software objects that provide a set of capabilities to other software.

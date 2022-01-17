@@ -1,0 +1,1 @@
+However, in the two preceding cases, convergence is not guaranteed.

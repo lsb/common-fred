@@ -1,0 +1,1 @@
+This new wavefront propagates into the geometric shadow area of the obstacle.

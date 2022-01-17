@@ -1,0 +1,1 @@
+As an added security feature, all notes have a vertically embedded security thread.

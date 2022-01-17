@@ -1,0 +1,1 @@
+This family is then not only locally bounded, it is also uniformly bounded.

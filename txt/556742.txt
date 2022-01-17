@@ -1,0 +1,1 @@
+The Actor uses the domain of event diagram scenarios.

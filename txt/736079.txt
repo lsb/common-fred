@@ -1,0 +1,1 @@
+This map can be shown to be a linear isomorphism, and it is natural.

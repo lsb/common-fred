@@ -1,0 +1,1 @@
+Each rule may be either ordinary or terminating.

@@ -1,0 +1,1 @@
+A welding manipulator can be either open arc or submerged arc.

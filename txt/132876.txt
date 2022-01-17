@@ -1,0 +1,1 @@
+A number, or sequence of numbers, is assigned to each key on the keyboard.

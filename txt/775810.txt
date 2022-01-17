@@ -1,0 +1,1 @@
+When a group reaches zero members, the team is defeated.

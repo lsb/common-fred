@@ -1,0 +1,1 @@
+Other forms of slicing exist, for instance path slicing.

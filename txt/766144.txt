@@ -1,0 +1,1 @@
+Various projects have formed to integrate the existing free software audio packages.

@@ -1,0 +1,1 @@
+It is used with web addresses using Cyrillic letters.

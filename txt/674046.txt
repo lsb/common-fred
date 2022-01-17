@@ -1,0 +1,1 @@
+The terminal expansion will be concluded in two phases.

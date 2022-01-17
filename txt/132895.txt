@@ -1,0 +1,1 @@
+A one-dimensional optimization method, called the Fibonacci search technique, uses Fibonacci numbers.

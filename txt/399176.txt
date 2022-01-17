@@ -1,0 +1,1 @@
+It is unnecessary for the gunner to consider the range to the target.

@@ -1,0 +1,1 @@
+Packet radio is a digital radio communications mode.

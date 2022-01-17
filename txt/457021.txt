@@ -1,0 +1,1 @@
+Most line codes use either a paired disparity code or a constant-weight code.

@@ -1,0 +1,1 @@
+The evolute of a curve is the locus of centers of curvature.

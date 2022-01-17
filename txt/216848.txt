@@ -1,0 +1,1 @@
+Cygwin was originally developed by Cygnus Solutions, which was later acquired by Red Hat.

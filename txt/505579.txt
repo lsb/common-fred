@@ -1,0 +1,1 @@
+Rest of the sportspersons are given marks in proportion to the maximum points.

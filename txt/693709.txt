@@ -1,0 +1,1 @@
+There are often millions or billions of arbitration periods per second.

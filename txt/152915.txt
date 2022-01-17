@@ -1,0 +1,1 @@
+All even perfect numbers are triangular numbers whose index is an odd Mersenne prime.

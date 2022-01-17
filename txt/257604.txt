@@ -1,0 +1,1 @@
+Geometric figures are rendered by client-side tessellation into either triangles or trapezoids.

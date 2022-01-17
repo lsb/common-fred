@@ -1,0 +1,1 @@
+This sort of deliberate leakage is sometimes known as a subliminal channel.

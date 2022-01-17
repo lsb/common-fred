@@ -1,0 +1,1 @@
+In its simplest form, the Friis transmission equation is as follows.

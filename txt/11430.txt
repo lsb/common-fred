@@ -1,0 +1,1 @@
+"A similar attack involving web browser cookies is commonly referred to as ""cookie poisoning""."

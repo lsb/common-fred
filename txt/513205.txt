@@ -1,0 +1,1 @@
+Search engines have attempted to repurpose the nofollow attribute for something different.

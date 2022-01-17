@@ -1,0 +1,1 @@
+Thus the nested case control study is less efficient than the full cohort design.

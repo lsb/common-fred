@@ -1,0 +1,1 @@
+"Every representation of the multiplicative group ""G"" is a direct sum of irreducible representations."

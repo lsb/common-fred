@@ -1,0 +1,1 @@
+They use a camera and image processing techniques to decode the bar code.

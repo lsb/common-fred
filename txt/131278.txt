@@ -1,0 +1,1 @@
+A martingale collar is made with two loops.

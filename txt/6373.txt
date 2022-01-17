@@ -1,0 +1,1 @@
+"""Rood"" is the party periodical."

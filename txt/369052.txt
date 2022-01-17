@@ -1,0 +1,1 @@
+Intel has also used this method on numerous processors through a feature called SpeedStep.

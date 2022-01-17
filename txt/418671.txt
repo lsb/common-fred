@@ -1,0 +1,1 @@
+Its plane cross selections in all pairs of axes are rhombi.

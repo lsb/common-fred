@@ -1,0 +1,1 @@
+OpenSolaris received its own version of the Java Desktop System.

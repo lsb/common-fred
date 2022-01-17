@@ -1,0 +1,1 @@
+"""Adderly"" was based on series creator Elliott Baker's novel, ""Pocock and Pitt""."

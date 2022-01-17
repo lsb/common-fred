@@ -1,0 +1,1 @@
+Giving the correct result allows the player to continue the game.

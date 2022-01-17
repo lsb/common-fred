@@ -1,0 +1,1 @@
+It defines the communication with field connected peripheral devices.

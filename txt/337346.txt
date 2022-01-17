@@ -1,0 +1,1 @@
+However, it might occasionally cause problems, especially with extensions.

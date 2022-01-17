@@ -1,0 +1,1 @@
+For movie theatres, the number of auditoriums is expressed as the number of screens.

@@ -1,0 +1,1 @@
+This variable ratio functions in addition to the torque multiplication of the planetary gears.

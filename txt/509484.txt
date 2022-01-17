@@ -1,0 +1,1 @@
+Running the program under the standard Python interpreter produces the following error message.

@@ -1,0 +1,1 @@
+In practice, intermediate drivers implement both miniport and protocol interfaces.

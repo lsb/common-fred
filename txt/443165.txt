@@ -1,0 +1,1 @@
+Many different classes of statistical tests have been considered in the literature.

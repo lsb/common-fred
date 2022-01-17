@@ -1,0 +1,1 @@
+On most computers, ophcrack can crack most passwords within a few minutes.

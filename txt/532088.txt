@@ -1,0 +1,1 @@
+Signals and the respective assignments can be grouped together into types.

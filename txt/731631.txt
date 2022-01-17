@@ -1,0 +1,1 @@
+This is a consequence of the entropy property mentioned below.

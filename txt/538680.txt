@@ -1,0 +1,1 @@
+Some diagonals of a concave polygon lie partly or wholly outside the polygon.

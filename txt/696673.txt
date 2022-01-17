@@ -1,0 +1,1 @@
+There is a curious loophole in the rules on errors for catchers.

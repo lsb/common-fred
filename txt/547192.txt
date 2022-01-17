@@ -1,0 +1,1 @@
+Stochastic hill climbing does not examine all neighbors before deciding how to move.

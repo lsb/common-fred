@@ -1,0 +1,1 @@
+"Euler's rule creates additional amicable pairs for with no others being known."

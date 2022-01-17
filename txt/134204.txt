@@ -1,0 +1,1 @@
+A quasi-projective variety is a Zariski open subset of a projective variety.

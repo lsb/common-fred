@@ -1,0 +1,1 @@
+The computer processes the image and then sends it to a projector.

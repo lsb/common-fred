@@ -1,0 +1,1 @@
+This allows one to choose the fastest approximation suitable for a given application.

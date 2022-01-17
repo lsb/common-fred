@@ -1,0 +1,1 @@
+Each processor also included a floating point unit from Weitek.

@@ -1,0 +1,1 @@
+All of the terms in this formula are multiplicative, but not completely multiplicative.

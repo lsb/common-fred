@@ -1,0 +1,1 @@
+Like any long exact sequence, this sequence breaks up into short exact sequences.

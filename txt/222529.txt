@@ -1,0 +1,1 @@
+Digital signals are often compressed to save transmission time and reduce file size.

@@ -1,0 +1,1 @@
+This style mounts the spit horizontally.

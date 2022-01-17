@@ -1,0 +1,1 @@
+In particular, convergence in the mean does not in general happen in this case.

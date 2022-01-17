@@ -1,0 +1,1 @@
+"In such elements, space characters will not be ""collapsed"" into inter-word separators."

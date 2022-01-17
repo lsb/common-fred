@@ -1,0 +1,1 @@
+Each district has its own post office, with an assigned zip code.

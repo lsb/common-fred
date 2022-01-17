@@ -1,0 +1,1 @@
+Combinational logic is used to build circuits that produce specified outputs from certain inputs.

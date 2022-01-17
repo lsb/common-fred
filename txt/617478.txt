@@ -1,0 +1,1 @@
+The fuel ejection handle fired a cartridge when it opened the fuel ejection valve.

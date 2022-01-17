@@ -1,0 +1,1 @@
+The service pattern has been revised to include Sunday trains.

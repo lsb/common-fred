@@ -1,0 +1,1 @@
+The following pseudocode and explanations illustrate how serializing tokens work.

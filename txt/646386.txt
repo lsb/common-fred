@@ -1,0 +1,1 @@
+The parrot, in the role of student, tries to reproduce the correct behavior.

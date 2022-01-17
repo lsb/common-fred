@@ -1,0 +1,1 @@
+"Bug tracking systems like Bugzilla readily describe how many ""known"" bugs are outstanding."

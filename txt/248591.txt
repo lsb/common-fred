@@ -1,0 +1,1 @@
+For instance, the three sets have an empty intersection but are not pairwise disjoint.

@@ -1,0 +1,1 @@
+"In this case the probability of getting a correct majority is just ""p""."

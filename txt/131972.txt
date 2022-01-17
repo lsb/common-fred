@@ -1,0 +1,1 @@
+A native method can also inspect and use objects created by Java application code.

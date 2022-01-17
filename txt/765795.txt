@@ -1,0 +1,1 @@
+Variables could hold values of any type, including functions, which were first-class objects.

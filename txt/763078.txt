@@ -1,0 +1,1 @@
+Unlike a dictionary, a thesaurus entry does not give the definition of words.

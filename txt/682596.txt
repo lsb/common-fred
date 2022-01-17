@@ -1,0 +1,1 @@
+The vectoring-mode of operation requires a slight modification of the algorithm.

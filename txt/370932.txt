@@ -1,0 +1,1 @@
+It allows for one to infer a conditional from a biconditional.

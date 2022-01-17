@@ -1,0 +1,1 @@
+"The largest specific interval is one less than the number of ""chromatic"" pitches."

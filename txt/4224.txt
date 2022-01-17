@@ -1,0 +1,1 @@
+"""L. acidophilus"" is used to prevent necrotizing entercolitis and other neonatal infections."

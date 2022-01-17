@@ -1,0 +1,1 @@
+After each scanning rotation, the antenna elevation is changed for the next sounding.

@@ -1,0 +1,1 @@
+"""Load"", in this context, is an instruction to refill the paper tray."

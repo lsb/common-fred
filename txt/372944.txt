@@ -1,0 +1,1 @@
+It avoided coercion while not making things difficult for programmers.

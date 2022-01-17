@@ -1,0 +1,1 @@
+There are no other idempotents in fields and more generally in integral domains.

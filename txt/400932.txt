@@ -1,0 +1,1 @@
+It makes heavy use of cyclic redundancy check codes to detect errors.

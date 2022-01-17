@@ -1,0 +1,1 @@
+If the dielectric is a vacuum or a solid, no flow is produced.

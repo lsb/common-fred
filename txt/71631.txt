@@ -1,0 +1,1 @@
+"Players have three ""health canisters"", and every hit diminishes one of them."

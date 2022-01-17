@@ -1,0 +1,1 @@
+It distributes mass away from the pivot point, thereby increasing the moment of inertia.

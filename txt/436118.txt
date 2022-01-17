@@ -1,0 +1,1 @@
+Line-draw characters could implement buttons or boxes that would group text on screen.

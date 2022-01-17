@@ -1,0 +1,1 @@
+A more general way to construct an isosurface is to use the function representation.

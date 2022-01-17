@@ -1,0 +1,1 @@
+The thread pitch increases with diameter in steps specified on a chart.

@@ -1,0 +1,1 @@
+An alternative algorithm for topological sorting is based on depth-first search.

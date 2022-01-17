@@ -1,0 +1,1 @@
+Pivot tables can only be used for data retrieval, not for data production.

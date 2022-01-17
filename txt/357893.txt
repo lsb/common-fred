@@ -1,0 +1,1 @@
+In its simplest form, main memory databases store data on volatile memory devices.

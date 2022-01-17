@@ -1,0 +1,1 @@
+Decoupling code will make your software less brittle during changes.

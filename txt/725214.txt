@@ -1,0 +1,1 @@
+This area was used for status messages and entering commands.

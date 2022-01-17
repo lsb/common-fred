@@ -1,0 +1,1 @@
+"Compression and decompression software for each version are called ""codecs""."

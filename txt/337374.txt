@@ -1,0 +1,1 @@
+However, it remains an open problem for self-intersection free flexible polyhedra.

@@ -1,0 +1,1 @@
+Such a practice is usually used with Rake.

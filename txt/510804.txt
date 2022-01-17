@@ -1,0 +1,1 @@
+Sam and the enemy attack at the same time, with healing occurring before attacking.

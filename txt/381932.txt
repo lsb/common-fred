@@ -1,0 +1,1 @@
+It is a minimalistic piano-based ballad with no drums.

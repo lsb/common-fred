@@ -1,0 +1,1 @@
+"All devices within a system are described within a ""device model""."

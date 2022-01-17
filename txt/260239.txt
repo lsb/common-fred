@@ -1,0 +1,1 @@
+Google Guava provides an interface Multimap and implementations.

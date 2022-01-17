@@ -1,0 +1,1 @@
+Data fusion will always mean an increase in processing compared to a single radar.

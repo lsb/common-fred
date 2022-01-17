@@ -1,0 +1,1 @@
+Similarly, Boot infectors spread during the boot up of a computer.

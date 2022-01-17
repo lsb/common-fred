@@ -1,0 +1,1 @@
+All points received by a constructor were retained towards the final total.

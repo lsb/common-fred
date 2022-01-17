@@ -1,0 +1,1 @@
+Relationships between these dependent objects is then stored as links between the various objects.

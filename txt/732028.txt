@@ -1,0 +1,1 @@
+This is a task often needed in the emulation of legacy gaming platforms.

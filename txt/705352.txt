@@ -1,0 +1,1 @@
+These equations define the configuration of the chain in terms of its joint parameters.

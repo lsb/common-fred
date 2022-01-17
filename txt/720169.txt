@@ -1,0 +1,1 @@
+They represent different types of network structures that allow differing degrees of connectivity.

@@ -1,0 +1,1 @@
+The general technique is to use the theory of Sobolev spaces.

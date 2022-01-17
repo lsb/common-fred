@@ -1,0 +1,1 @@
+Additionally, accuracy can be significantly degraded by jitter on the signal being measured.

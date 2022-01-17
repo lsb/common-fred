@@ -1,0 +1,1 @@
+This is better than a linear search, but worse than a binary search.

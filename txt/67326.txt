@@ -1,0 +1,1 @@
+"Nokia's Ovi uses ejabberd with some customizations."

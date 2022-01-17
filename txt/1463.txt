@@ -1,0 +1,1 @@
+"""Coconut Fred's Fruit Salad Island"" takes place on an island inhabited exclusively by fruit."

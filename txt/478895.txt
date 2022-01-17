@@ -1,0 +1,1 @@
+One of these pathways produces a specific intermediate, while another pathway consumes it.

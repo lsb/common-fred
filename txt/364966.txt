@@ -1,0 +1,1 @@
+In these data structures each tree node compares a bit slice of key values.

@@ -1,0 +1,1 @@
+The check digit is computed using a weighted sum of the first six characters.

@@ -1,0 +1,1 @@
+Finally, the values of the last column get normalized.

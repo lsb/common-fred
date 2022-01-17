@@ -1,0 +1,1 @@
+Using symmetric multiprocessing, the processing usage is evenly distributed among all available processors.

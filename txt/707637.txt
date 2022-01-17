@@ -1,0 +1,1 @@
+These prognostic algorithms estimate the probability of the patient surviving.

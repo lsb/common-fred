@@ -1,0 +1,1 @@
+Therefore only row echelon forms are considered in the remainder of this article.

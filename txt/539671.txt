@@ -1,0 +1,1 @@
+Some negotiation is necessary in order for a transaction to occur.

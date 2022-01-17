@@ -1,0 +1,1 @@
+Plasmoids can interact with each other, seemingly by reflecting off one another.

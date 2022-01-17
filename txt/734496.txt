@@ -1,0 +1,1 @@
+This is used to mitigate the potential damage of a computer security vulnerability.

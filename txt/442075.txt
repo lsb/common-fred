@@ -1,0 +1,1 @@
+Maneuvering, or changing course, disturbs the array and interrupts the sampled data stream.

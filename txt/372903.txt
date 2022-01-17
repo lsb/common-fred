@@ -1,0 +1,1 @@
+It assumed responsibility for Unix development and licensing activities.

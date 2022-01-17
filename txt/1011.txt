@@ -1,0 +1,1 @@
+"""Breakthrough"" is a sculpture consisting of eight sections of the Berlin Wall."

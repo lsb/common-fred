@@ -1,0 +1,1 @@
+"A cycle of length ""k"" is also called a ""k""-cycle."

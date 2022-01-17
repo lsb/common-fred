@@ -1,0 +1,1 @@
+"Four terms always associated with the command pattern are ""command"", ""receiver"", ""invoker"" and ""client""."

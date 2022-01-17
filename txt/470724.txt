@@ -1,0 +1,1 @@
+Note that the undoped narrow band gap material now has excess majority charge carriers.

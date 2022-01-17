@@ -1,0 +1,1 @@
+"""MayaVi"" is pronounced as a single name, ""Ma-ya-vee"", meaning ""magical"" in Sanskrit."

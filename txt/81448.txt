@@ -1,0 +1,1 @@
+"Syntax, keywords, and grammatical conventions were the same as Java's."

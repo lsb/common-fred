@@ -1,0 +1,1 @@
+A right bipyramid has two points above and below the centroid of its base.

@@ -1,0 +1,1 @@
+"Much of the site's content consists of specific code examples."

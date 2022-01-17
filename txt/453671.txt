@@ -1,0 +1,1 @@
+Mobile Suica interacts with the FeliCa chip using Java technology.

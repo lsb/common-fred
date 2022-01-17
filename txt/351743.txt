@@ -1,0 +1,1 @@
+In Fortran, the ampersand forces the compiler to treat two lines as one.

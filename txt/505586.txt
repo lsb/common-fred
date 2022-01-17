@@ -1,0 +1,1 @@
+Restaurant service consists of: dine-in, take-out, with some locations offering drive through options.

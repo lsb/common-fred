@@ -1,0 +1,1 @@
+"""Grit"" is often applied to sandstones composed of angular sand grains."

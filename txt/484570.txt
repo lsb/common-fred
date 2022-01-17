@@ -1,0 +1,1 @@
+Other techniques such as cryptography were previously restricted to military applications.

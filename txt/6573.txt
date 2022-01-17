@@ -1,0 +1,1 @@
+"""Seasons"" received favourable reviews from music critics."

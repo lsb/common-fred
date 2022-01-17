@@ -1,0 +1,1 @@
+Eventual consistency is sometimes criticized as increasing the complexity of distributed software applications.

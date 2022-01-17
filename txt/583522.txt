@@ -1,0 +1,1 @@
+The balloon graphics and resizing were supplied by the operating system itself.

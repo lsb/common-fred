@@ -1,0 +1,1 @@
+"The attack can only be performed between a vulnerable client ""and"" server."

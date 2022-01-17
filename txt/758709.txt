@@ -1,0 +1,1 @@
+Two fractions are called adjacent if their difference is a unit fraction.

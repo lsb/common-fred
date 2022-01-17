@@ -1,0 +1,1 @@
+"Instead, it gets added as a reserved hammer to the player's inventory."

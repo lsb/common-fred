@@ -1,0 +1,1 @@
+"The cursor mirrors the appearance of the ""create shortcut"" cursor on Windows systems."

@@ -1,0 +1,1 @@
+Records can never be saved so as to overwrite other changes, preserving data integrity.

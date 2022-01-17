@@ -1,0 +1,1 @@
+In the general case there is one generator for each cyclic direct factor.

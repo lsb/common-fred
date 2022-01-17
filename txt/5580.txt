@@ -1,0 +1,1 @@
+"""Otocryptis"" are terrestrial lizards that can use bipedal locomotion."

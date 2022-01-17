@@ -1,0 +1,1 @@
+All eight calculi are strongly normalizing.

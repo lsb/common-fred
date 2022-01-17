@@ -1,0 +1,1 @@
+The total troops are shared between infantry and cavalry.

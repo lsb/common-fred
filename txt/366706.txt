@@ -1,0 +1,1 @@
+Indeed, all pairs of adjoint functors arise from universal constructions in this manner.

@@ -1,0 +1,1 @@
+There is one-to-one antilinear correspondence between continuous linear functionals and vectors.

@@ -1,0 +1,1 @@
+How would the method behave with kernels of different size?

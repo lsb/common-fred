@@ -1,0 +1,1 @@
+Both statement level and row level triggers are supported.

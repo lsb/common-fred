@@ -1,0 +1,1 @@
+All phase-locked loops employ an oscillator element with variable frequency capability.

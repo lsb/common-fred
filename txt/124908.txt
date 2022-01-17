@@ -1,0 +1,1 @@
+A duplex communication channel requires two simplex channels operating in opposite directions.

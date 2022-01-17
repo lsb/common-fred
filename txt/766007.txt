@@ -1,0 +1,1 @@
+Various frameworks for implementing business performance management exist.

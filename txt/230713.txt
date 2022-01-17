@@ -1,0 +1,1 @@
+Each dialect may be then treated as a formal language.

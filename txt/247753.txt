@@ -1,0 +1,1 @@
+For each screen, shooting all available targets gives the player a bonus shooting round.

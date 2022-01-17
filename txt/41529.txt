@@ -1,0 +1,1 @@
+"Here the amplitude of oscillation decays in time, so we call its modes ""quasi-normal""."

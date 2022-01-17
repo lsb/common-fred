@@ -1,0 +1,1 @@
+If the software meets the requirement specification, it has been internally validated.

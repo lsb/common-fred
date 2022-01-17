@@ -1,0 +1,1 @@
+Some common types are Windows Installer and executable formats.

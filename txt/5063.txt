@@ -1,0 +1,1 @@
+"""Naos"" was named after the star Naos, in the constellation Puppis."

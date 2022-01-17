@@ -1,0 +1,1 @@
+Other measurements included atmospheric pressure at various heights, and temperature, and surface light levels.

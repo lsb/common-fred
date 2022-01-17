@@ -1,0 +1,1 @@
+The main advantage to using modulo is that you can chain together successive commands easily.

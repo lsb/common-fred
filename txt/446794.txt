@@ -1,0 +1,1 @@
+Markov chains can be used to generate random but somewhat human-looking sentences.

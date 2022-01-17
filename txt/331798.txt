@@ -1,0 +1,1 @@
+Hits are decided by how far the ball travels.

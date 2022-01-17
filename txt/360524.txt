@@ -1,0 +1,1 @@
+In some cases, a delegate may represent more than a single branch.

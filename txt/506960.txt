@@ -1,0 +1,1 @@
+Ripping of pregap audio is supported by the application X Lossless Decoder.

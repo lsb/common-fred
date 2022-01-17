@@ -1,0 +1,1 @@
+Caution must be applied when using cross correlation for nonlinear systems.

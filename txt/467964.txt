@@ -1,0 +1,1 @@
+No successful cryptanalysis of the machine during its service lifetime is publicly known.

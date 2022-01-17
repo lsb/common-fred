@@ -1,0 +1,1 @@
+Chips are verified for logical correctness before being sent to foundry.

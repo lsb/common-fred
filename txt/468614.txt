@@ -1,0 +1,1 @@
+Non-suited cards have no rank.

@@ -1,0 +1,1 @@
+The number of states was reduced from about three hundred to about thirty.

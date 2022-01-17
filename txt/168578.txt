@@ -1,0 +1,1 @@
+Applications in artificial intelligence include fault diagnosis, belief revision, and automated planning.

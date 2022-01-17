@@ -1,0 +1,1 @@
+In response, one or more router may send advertisement messages.

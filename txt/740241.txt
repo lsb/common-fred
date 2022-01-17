@@ -1,0 +1,1 @@
+This second method, reportedly, reduces smear, dark current, and infrared and red response.

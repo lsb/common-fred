@@ -1,0 +1,1 @@
+A record is a collection of related fields.

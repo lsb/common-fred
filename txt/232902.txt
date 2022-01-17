@@ -1,0 +1,1 @@
+East-west routes are usually even-numbered, north-south routes are usually odd-numbered.

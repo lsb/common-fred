@@ -1,0 +1,1 @@
+A typical testbed could include software, hardware, and networking components.

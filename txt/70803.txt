@@ -1,0 +1,1 @@
+"Partial summation can be used to remove coefficients ""a"", in many cases."

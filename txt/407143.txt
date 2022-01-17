@@ -1,0 +1,1 @@
+It was an implicit assumption made for the ease of analysis.

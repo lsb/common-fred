@@ -1,0 +1,1 @@
+This functionality, provided by a name server, was considered highly important under Spring.

@@ -1,0 +1,1 @@
+"""Skeleton Coast"" is a book by John Henry Marsh."

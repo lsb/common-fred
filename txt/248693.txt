@@ -1,0 +1,1 @@
+For many devices, a linear model is accurate only for small signal levels.

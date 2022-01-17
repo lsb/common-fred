@@ -1,0 +1,1 @@
+"It can be summarized as ""ignore outdated writes""."

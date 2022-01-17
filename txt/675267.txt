@@ -1,0 +1,1 @@
+The time allotted is determined from the type of emblem that is picked up.

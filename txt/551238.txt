@@ -1,0 +1,1 @@
+Surrogate keys can result in duplicate values in any natural keys.

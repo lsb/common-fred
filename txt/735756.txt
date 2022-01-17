@@ -1,0 +1,1 @@
+This made Exim very suitable for enforcing diverse mail policies.

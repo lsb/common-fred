@@ -1,0 +1,1 @@
+Digital active crossovers often include additional signal processing, such as limiting, delay, and equalization.

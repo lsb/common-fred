@@ -1,0 +1,1 @@
+There are four such axes, one for each space diagonal of the cube.

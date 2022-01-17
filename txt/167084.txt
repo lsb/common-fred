@@ -1,0 +1,1 @@
+Another problem occurs when the original pigment came from a material no longer available.

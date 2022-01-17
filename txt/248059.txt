@@ -1,0 +1,1 @@
+For example, on the Windows Command Prompt, this will result in a syntax error.

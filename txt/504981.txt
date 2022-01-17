@@ -1,0 +1,1 @@
+Representation class is sometimes used as a synonym for representation term.

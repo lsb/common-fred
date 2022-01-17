@@ -1,0 +1,1 @@
+In the case of countable languages, all prime models are at most countable.

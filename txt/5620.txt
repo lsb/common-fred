@@ -1,0 +1,1 @@
+"""Pabbi minn"" is an Icelandic version of ""O Mein Papa""."

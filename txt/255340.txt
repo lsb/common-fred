@@ -1,0 +1,1 @@
+Further structure may be assigned to the coordinate space through the coordinates.

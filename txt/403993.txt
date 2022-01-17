@@ -1,0 +1,1 @@
+It serves as a bridge between input methods and the operating system.

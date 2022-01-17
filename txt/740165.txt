@@ -1,0 +1,1 @@
+This scheme allows for a degree of self-modifying code and requires metaprogramming language features.

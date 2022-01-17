@@ -1,0 +1,1 @@
+"""Ilta Sanomat"" is published in tabloid format six times per week."

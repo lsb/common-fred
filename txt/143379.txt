@@ -1,0 +1,1 @@
+Additional properties on the length spaces have been proven by Cheeger and Colding.

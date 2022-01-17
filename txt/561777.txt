@@ -1,0 +1,1 @@
+The Curry-Howard correspondence relates a constructivist form of disjunction to tagged union types.

@@ -1,0 +1,1 @@
+These limits assume that the driven devices are members of the same family.

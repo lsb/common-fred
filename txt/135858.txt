@@ -1,0 +1,1 @@
+A single instruction can then operate on all these values in parallel.

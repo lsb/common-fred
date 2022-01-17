@@ -1,0 +1,1 @@
+Standard Linux is not, however, designed to provide sub-millisecond precision and reliable timing guarantees.

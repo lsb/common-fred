@@ -1,0 +1,1 @@
+Each medusa is either a male or a female.

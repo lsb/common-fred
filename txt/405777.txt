@@ -1,0 +1,1 @@
+It uses vectors in combination with the vector dot product.

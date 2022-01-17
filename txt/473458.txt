@@ -1,0 +1,1 @@
+Office which includes Word, excel and pdf support comes installed with the firmware itself.

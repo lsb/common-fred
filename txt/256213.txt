@@ -1,0 +1,1 @@
+GameMaker accommodates redistribution on multiple platforms.

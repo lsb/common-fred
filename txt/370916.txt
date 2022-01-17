@@ -1,0 +1,1 @@
+It allowed synchronizing website content and viewing it offline.

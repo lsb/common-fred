@@ -1,0 +1,1 @@
+"""Hockey"" might be derived from the Old English word ""hocken"" which meant ""to spit""."

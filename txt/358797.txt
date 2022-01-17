@@ -1,0 +1,1 @@
+In one dimension, the resulting solution is called a theta function.

@@ -1,0 +1,1 @@
+Gosper later worked with Symbolics and Macsyma, Incorporated on commercial versions of Macsyma.

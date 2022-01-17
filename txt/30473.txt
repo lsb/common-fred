@@ -1,0 +1,1 @@
+"For each trading period an upward change ""U"" or downward change ""D"" is calculated."

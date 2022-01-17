@@ -1,0 +1,1 @@
+Basic normal mapping can be implemented in any hardware that supports palletized textures.

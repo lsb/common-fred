@@ -1,0 +1,1 @@
+It describes only one type of network architecture, the Internet.

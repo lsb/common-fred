@@ -1,0 +1,1 @@
+"In a link-state protocol the only information passed between nodes is ""connectivity related""."

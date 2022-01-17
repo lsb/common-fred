@@ -1,0 +1,1 @@
+The scripts are transferred to the mail server in a server-dependent way.

@@ -1,0 +1,1 @@
+Any such stress-energy pseudotensor can be made to vanish locally by a coordinate transformation.

@@ -1,0 +1,1 @@
+"""Cranium"" became the first game sold at the bookstore chain."

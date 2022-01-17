@@ -1,0 +1,1 @@
+Each consonant character in the Hebrew script is converted into its unique Latin character.

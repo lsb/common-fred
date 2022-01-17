@@ -1,0 +1,1 @@
+"A program that doesn't have any configuration options is also a portable application."

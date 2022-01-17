@@ -1,0 +1,1 @@
+"Each maximal set of connected black pixels is a ""connected component""."

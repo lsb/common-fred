@@ -1,0 +1,1 @@
+More generally, let C be an abelian category.

@@ -1,0 +1,1 @@
+Each channel was self-contained with separate power supplies, timers, and transmitters.

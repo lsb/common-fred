@@ -1,0 +1,1 @@
+The spiral is also closely related to the Fresnel integrals.

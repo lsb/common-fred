@@ -1,0 +1,1 @@
+More general concepts are the limits and colimits of category theory.

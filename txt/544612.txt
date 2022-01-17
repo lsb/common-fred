@@ -1,0 +1,1 @@
+Spectral images are often represented as an image cube, a type of data cube.

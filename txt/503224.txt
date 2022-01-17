@@ -1,0 +1,1 @@
+Reconstructed, the structure is now used as a gym.

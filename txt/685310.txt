@@ -1,0 +1,1 @@
+The weight lattice is then the triangular lattice.

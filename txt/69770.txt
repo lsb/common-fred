@@ -1,0 +1,1 @@
+"Ordinarily, the term ""monic"" is not employed for polynomials of several variables."

@@ -1,0 +1,1 @@
+One can easily prove that any analytic function of a real argument is smooth.

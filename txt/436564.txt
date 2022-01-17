@@ -1,0 +1,1 @@
+Lists are often used as a replacement for structs.

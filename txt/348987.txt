@@ -1,0 +1,1 @@
+If Crash or Coco run out of lives, the game is over.

@@ -1,0 +1,1 @@
+There exist two types of sums over hypergeometric terms, the definite and indefinite sums.

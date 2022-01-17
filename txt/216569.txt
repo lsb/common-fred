@@ -1,0 +1,1 @@
+Curses likewise are famously language-specific and colourful.

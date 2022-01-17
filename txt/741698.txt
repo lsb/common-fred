@@ -1,0 +1,1 @@
+This system is non-linear, and does not admit a generic analytic solution.

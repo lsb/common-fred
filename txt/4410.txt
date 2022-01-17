@@ -1,0 +1,1 @@
+"""Lithos"" is a Greek word meaning ""rock"" or ""stone."

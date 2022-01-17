@@ -1,0 +1,1 @@
+Categories with all finite products and exponential objects are called cartesian closed categories.

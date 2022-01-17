@@ -1,0 +1,1 @@
+This only applies for wind turbines with a horizontal axis rotor.

@@ -1,0 +1,1 @@
+When such block-spanning occurs, data are shifted to start cleanly on each block boundary.

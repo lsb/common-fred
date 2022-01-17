@@ -1,0 +1,1 @@
+The first term represents the time rate of change of neutrons in the system.

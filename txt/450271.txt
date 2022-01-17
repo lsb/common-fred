@@ -1,0 +1,1 @@
+Mellel provides tight integration with Bookends and Sente, bibliographical tools for managing citations.

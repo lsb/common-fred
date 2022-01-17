@@ -1,0 +1,1 @@
+Moving left-to-right along the line shows the constant maximum payload as the range increases.

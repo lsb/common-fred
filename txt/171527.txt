@@ -1,0 +1,1 @@
+As a result, a client can itself be a session manager of other clients.

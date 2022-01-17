@@ -1,0 +1,1 @@
+Functionals are often expressed as definite integrals involving functions and their derivatives.

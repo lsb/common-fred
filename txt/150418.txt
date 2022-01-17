@@ -1,0 +1,1 @@
+Again, the new graph does not contain any -clique.

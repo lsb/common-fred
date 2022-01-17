@@ -1,0 +1,1 @@
+The higher the Treynor ratio, the better the performance of the portfolio under analysis.

@@ -1,0 +1,1 @@
+"""No"" received positive reviews from music critics."

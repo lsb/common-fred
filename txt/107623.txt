@@ -1,0 +1,1 @@
+"These finishes reduce the weapon's visibility during night operations."

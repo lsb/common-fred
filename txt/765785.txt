@@ -1,0 +1,1 @@
+Variable data can then be printed on top of the static document.

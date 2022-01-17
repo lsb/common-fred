@@ -1,0 +1,1 @@
+This effect may affect cells beyond the range of thermal damage.

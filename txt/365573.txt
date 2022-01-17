@@ -1,0 +1,1 @@
+In this proof, we start with given external currents at the nodes.

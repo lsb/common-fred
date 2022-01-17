@@ -1,0 +1,1 @@
+This made the service much faster, at the time, than its counterparts.

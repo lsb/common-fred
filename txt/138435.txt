@@ -1,0 +1,1 @@
+A wallhack is another example of useful functionality that can stem from hooking techniques.

@@ -1,0 +1,1 @@
+"If ""I"" is a nil ideal, is the group algebra locally nilpotent?"

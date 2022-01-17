@@ -1,0 +1,1 @@
+If the current element is equal to the target, it has been found.

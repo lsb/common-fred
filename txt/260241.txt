@@ -1,0 +1,1 @@
+Google Maps is an example of a web application that uses Ajax techniques.

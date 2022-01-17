@@ -1,0 +1,1 @@
+The case of algebraic curves was already implicit in the Riemann-Roch theorem.

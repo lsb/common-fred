@@ -1,0 +1,1 @@
+Staircases and platform edges were also fixed.

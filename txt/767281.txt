@@ -1,0 +1,1 @@
+Video servers are used to give existing analog systems network connectivity.

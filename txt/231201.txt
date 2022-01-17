@@ -1,0 +1,1 @@
+Each move must be to a point orthogonally or diagonally adjacent.

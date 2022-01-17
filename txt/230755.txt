@@ -1,0 +1,1 @@
+Each dorm is separated by gender, and has a representative color.

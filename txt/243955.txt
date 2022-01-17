@@ -1,0 +1,1 @@
+Finding global maxima and minima is the goal of mathematical optimization.

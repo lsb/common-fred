@@ -1,0 +1,1 @@
+After the boss is defeated, the player will move on to the next world.

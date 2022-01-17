@@ -1,0 +1,1 @@
+Conceptually, sparsity corresponds to systems which are loosely coupled.

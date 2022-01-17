@@ -1,0 +1,1 @@
+Common image viewer features include thumbnail preview and creation, and image zooming.

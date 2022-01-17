@@ -1,0 +1,1 @@
+Cartesian products also have an alternate topology, the box topology.

@@ -1,0 +1,1 @@
+Should I use json or yaml in this case?

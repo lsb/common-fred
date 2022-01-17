@@ -1,0 +1,1 @@
+"For example: ""the patient had neck pain ""status post"" a motor vehicle accident""."

@@ -1,0 +1,1 @@
+Otherwise, the information to reconstruct the tree must be sent a priori.

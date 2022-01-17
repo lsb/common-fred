@@ -1,0 +1,1 @@
+Active skills are activated manually by hitting the assigned key.

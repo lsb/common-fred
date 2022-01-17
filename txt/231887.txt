@@ -1,0 +1,1 @@
+Each symbol table entry includes a name, storage class, type, value and section number.

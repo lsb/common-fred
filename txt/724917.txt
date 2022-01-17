@@ -1,0 +1,1 @@
+This angle is equal to the angle between the tangent vectors to the curves.

@@ -1,0 +1,1 @@
+Units are classified into one of several classes: infantry, ranged, pikemen, cavalry, or siege.

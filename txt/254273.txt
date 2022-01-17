@@ -1,0 +1,1 @@
+From there the dependency on jQuery was removed and the project renamed to Globalize.

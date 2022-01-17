@@ -1,0 +1,1 @@
+"""S"" is total saving, ""s"" is the savings rate, and ""I"" is investment."

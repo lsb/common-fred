@@ -1,0 +1,1 @@
+Resources are often used for specifying the parameters of widgets created by the application.

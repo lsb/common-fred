@@ -1,0 +1,1 @@
+While the name stdafx.h is used by default, projects may specify an alternative name.

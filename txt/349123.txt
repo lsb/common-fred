@@ -1,0 +1,1 @@
+If a practical preimage attack is discovered, it would drastically affect many Internet protocols.

@@ -1,0 +1,1 @@
+Each suburb is followed by its postcode.

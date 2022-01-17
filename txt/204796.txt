@@ -1,0 +1,1 @@
+Changing the frequency of the vibration changes the pitch of the sound produced.

@@ -1,0 +1,1 @@
+Theories could be decidable yet not admit quantifier elimination.

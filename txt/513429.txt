@@ -1,0 +1,1 @@
+Second-level domain names must be at least three letters long.

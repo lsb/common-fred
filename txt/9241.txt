@@ -1,0 +1,1 @@
+"""Yamadashi"" traditionally takes place in April, and ""Satobiki"" takes place in May."

@@ -1,0 +1,1 @@
+"Even in such systems, a variant of the painter's algorithm is sometimes employed."

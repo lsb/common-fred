@@ -1,0 +1,1 @@
+This allows nodes to immediately gain knowledge about the fabric and react accordingly.

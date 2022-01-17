@@ -1,0 +1,1 @@
+A performance takes a little over two and a half minutes.

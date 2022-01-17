@@ -1,0 +1,1 @@
+Puncturing is often used with the Viterbi algorithm in coding systems.

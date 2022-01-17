@@ -1,0 +1,1 @@
+BitTorrent support is provided by libtorrent.

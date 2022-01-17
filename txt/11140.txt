@@ -1,0 +1,1 @@
+"A piece cannot land on an opponent's piece that is on a resting square."

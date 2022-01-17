@@ -1,0 +1,1 @@
+It can run on both Linux and Windows operating system.

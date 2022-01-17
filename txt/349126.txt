@@ -1,0 +1,1 @@
+If a program crashes, nothing else is harmed.

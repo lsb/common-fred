@@ -1,0 +1,1 @@
+Throughput is intended to mean the probability of successful transmission during minimum possible period.

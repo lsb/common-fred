@@ -1,0 +1,1 @@
+The system shell was extensible, making it possible to define new commands.

@@ -1,0 +1,1 @@
+Magic and special physical techniques are handled through a system called Techs.

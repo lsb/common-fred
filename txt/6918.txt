@@ -1,0 +1,1 @@
+"""Some Kind of Zombie"" was well received by critics."

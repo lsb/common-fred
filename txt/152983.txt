@@ -1,0 +1,1 @@
+All files and directories referred to must also be copied.

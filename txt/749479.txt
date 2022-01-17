@@ -1,0 +1,1 @@
+Thus, by varying the parameter one may trade computation speed for improved frequency response.

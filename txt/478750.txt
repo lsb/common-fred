@@ -1,0 +1,1 @@
+One of the stations would periodically send out its signal based on a timer.

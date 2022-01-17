@@ -1,0 +1,1 @@
+List all the valid options that are scheduled to become obsolete in a future version.

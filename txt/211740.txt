@@ -1,0 +1,1 @@
+Connection pools are used to enhance the performance of executing commands on a database.

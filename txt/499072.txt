@@ -1,0 +1,1 @@
+Prognostic scoring is also used for cancer outcome predictions.

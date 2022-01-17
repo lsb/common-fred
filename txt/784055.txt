@@ -1,0 +1,1 @@
+Within stored formulas, sub-formulas could be defined and later referred to by name.

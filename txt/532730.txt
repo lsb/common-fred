@@ -1,0 +1,1 @@
+Similarly, one can also ignore the ceiling function.

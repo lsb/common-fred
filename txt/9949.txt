@@ -1,0 +1,1 @@
+"A ""fine-grained"" description of a system is a detailed, exhaustive, low-level model of it."

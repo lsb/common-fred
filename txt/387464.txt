@@ -1,0 +1,1 @@
+It is especially useful for describing the performance of parallel programs and multi-processor systems.

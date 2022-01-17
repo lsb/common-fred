@@ -1,0 +1,1 @@
+The Laplace equation is also a special case of the Helmholtz equation.

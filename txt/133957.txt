@@ -1,0 +1,1 @@
+A primary partition contains one file system.

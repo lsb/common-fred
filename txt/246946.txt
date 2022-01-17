@@ -1,0 +1,1 @@
+Food intake slows down absorption, but does not decrease it.

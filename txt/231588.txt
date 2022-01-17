@@ -1,0 +1,1 @@
+Each property has a focus: fitness, tranquility, or location.

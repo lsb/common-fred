@@ -1,0 +1,1 @@
+Then, there are no heterozygotes, even though the subpopulations are in a Hardy-Weinberg equilibrium.

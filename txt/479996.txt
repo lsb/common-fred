@@ -1,0 +1,1 @@
+Only after renormalization can gauge invariance be recovered.

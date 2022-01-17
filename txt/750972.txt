@@ -1,0 +1,1 @@
+To decode the message, the reverse method is applied.

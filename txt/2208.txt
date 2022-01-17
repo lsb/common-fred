@@ -1,0 +1,1 @@
+"""Eunoia"" is the shortest English word containing all five main vowel graphemes."

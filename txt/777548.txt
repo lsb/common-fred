@@ -1,0 +1,1 @@
+When these two phasors are of opposite phase they can cancel each other out.

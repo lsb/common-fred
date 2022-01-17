@@ -1,0 +1,1 @@
+"The ""Shift"" symbol switches a single following symbol's interpretation between subcodes A and B."

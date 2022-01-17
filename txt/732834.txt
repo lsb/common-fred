@@ -1,0 +1,1 @@
+This is explained by both bystander effect and diffusion of responsibility.

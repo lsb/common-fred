@@ -1,0 +1,1 @@
+The regular visitor pattern should be used when the visitor must remain in memory.

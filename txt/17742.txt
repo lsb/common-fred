@@ -1,0 +1,1 @@
+"Assuming for example, that ""B"" is simply connected, this collapses to the usual cohomology."

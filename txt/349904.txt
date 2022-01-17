@@ -1,0 +1,1 @@
+If the second payload executes successfully, the computer will not start at all.

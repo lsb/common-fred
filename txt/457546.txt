@@ -1,0 +1,1 @@
+Most of the enemies that the player defeats will drop green orbs.

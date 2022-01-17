@@ -1,0 +1,1 @@
+It handles domestic flights to all major airports of Colombia and some international destinations.

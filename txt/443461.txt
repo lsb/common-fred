@@ -1,0 +1,1 @@
+Many grammars use guessing when an ambiguity comes up.

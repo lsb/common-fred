@@ -1,0 +1,1 @@
+A selector switch enables the operator to alternate between the two firing modes.

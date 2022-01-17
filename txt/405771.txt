@@ -1,0 +1,1 @@
+It uses the technique relative least general generalization proposed by Gordon Plotkin.

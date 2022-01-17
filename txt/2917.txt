@@ -1,0 +1,1 @@
+"""Hard"" prepayment terms do not allow any exceptions without penalty."

@@ -1,0 +1,1 @@
+Some amount of aliasing always occurs when such functions are sampled.

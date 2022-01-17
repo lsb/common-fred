@@ -1,0 +1,1 @@
+Thus the orientation of the pendulum undergoes parallel transport.

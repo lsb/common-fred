@@ -1,0 +1,1 @@
+A button often displays a tooltip when a user moves the pointer over it.

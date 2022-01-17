@@ -1,0 +1,1 @@
+Profunctors can be seen as a categorical generalization of bimodules.

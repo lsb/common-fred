@@ -1,0 +1,1 @@
+In theoretical computer science, the min-entropy is used in the context of randomness extractors.

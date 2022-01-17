@@ -1,0 +1,1 @@
+"After two collisions, the plane will falter and the player's pilot is parachuted out."

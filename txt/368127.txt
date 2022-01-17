@@ -1,0 +1,1 @@
+Input patterns would flow straight through to the output.

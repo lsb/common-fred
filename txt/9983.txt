@@ -1,0 +1,1 @@
+"A ""multiorder"" is a comcategory satisfying the following conditions."

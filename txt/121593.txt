@@ -1,0 +1,1 @@
+A basis for the Zariski topology can be constructed as follows.

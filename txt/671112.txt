@@ -1,0 +1,1 @@
+The sub frame gain is calculated and sent to the receiver.

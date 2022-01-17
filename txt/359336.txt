@@ -1,0 +1,1 @@
+In particular, the two conditions are equivalent for metric spaces.

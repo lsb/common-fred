@@ -1,0 +1,1 @@
+Some types of radio receiver circuits have a stronger capture effect than others.

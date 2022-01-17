@@ -1,0 +1,1 @@
+Hardware memory coherence mechanisms are typically used to implement the migration.

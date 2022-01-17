@@ -1,0 +1,1 @@
+Hopsan models can be exported to Simulink.

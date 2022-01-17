@@ -1,0 +1,1 @@
+Control characters and other non-printing characters are represented by their names.

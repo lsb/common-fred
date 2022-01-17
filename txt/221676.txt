@@ -1,0 +1,1 @@
+Diagnosability has two aspects: detecting machine failure and detecting unacceptable part quality.

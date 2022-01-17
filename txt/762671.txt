@@ -1,0 +1,1 @@
+Unicode Hebrew is always in logical order.

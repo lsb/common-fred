@@ -1,0 +1,1 @@
+High speed modems use adaptive equalizers to compensate for non-constant group delay.

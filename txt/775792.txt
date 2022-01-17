@@ -1,0 +1,1 @@
+When a charge is placed on a bend, by default it is shown bendwise.

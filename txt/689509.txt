@@ -1,0 +1,1 @@
+Their values for various truth-values as argument are usually given by truth tables.

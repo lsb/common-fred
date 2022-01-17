@@ -1,0 +1,1 @@
+I think the Firefox extension already does this, and I created one for Chrome, Tab Namer.

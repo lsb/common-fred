@@ -1,0 +1,1 @@
+If state U had the higher flow, there would still be a growing queue.

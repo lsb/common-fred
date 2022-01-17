@@ -1,0 +1,1 @@
+"So the multinomial distribution can model ""n"" independent rolls of a ""k"" sided die."

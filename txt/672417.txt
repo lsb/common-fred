@@ -1,0 +1,1 @@
+The table below summarizes the technologies supported in hardware in each Radeon generation.

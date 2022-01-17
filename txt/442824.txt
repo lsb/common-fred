@@ -1,0 +1,1 @@
+Many biochemical events also lend themselves to stochastic analysis.

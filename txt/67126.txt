@@ -1,0 +1,1 @@
+"Nishida's theorem states that all elements of positive grading in this ring are nilpotent."

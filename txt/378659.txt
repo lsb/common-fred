@@ -1,0 +1,1 @@
+It has basic graphing, scientific and programming features designed for use by students.

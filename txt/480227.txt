@@ -1,0 +1,1 @@
+Only multipoint serial protocols such as Bisync are supported.

@@ -1,0 +1,1 @@
+The general Cartan method exploits this abstraction using the notion of a Cartan connection.

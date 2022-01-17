@@ -1,0 +1,1 @@
+Governor has very limited powers and only votes to break a tie.

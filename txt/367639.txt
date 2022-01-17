@@ -1,0 +1,1 @@
+Initial clickstream or click path data had to be gleaned from server log files.

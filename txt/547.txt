@@ -1,0 +1,1 @@
+"""Arctic Corsair"" was out of action for several months."

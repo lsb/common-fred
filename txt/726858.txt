@@ -1,0 +1,1 @@
+This class includes only four frequently used verbs.

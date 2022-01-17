@@ -1,0 +1,1 @@
+Other visual features include volumetric fog, mirrors, portals, decals, and wave-form vertex distortion.

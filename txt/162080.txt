@@ -1,0 +1,1 @@
+An efficient method must be used to encode this data, such as spherical harmonics.

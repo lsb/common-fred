@@ -1,0 +1,1 @@
+"""Trumpy"" is mentioned several times in Durrell's book ""Menagerie Manor""."

@@ -1,0 +1,1 @@
+For this purpose, Gauss-Kronrod quadrature rules can be useful.

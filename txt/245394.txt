@@ -1,0 +1,1 @@
+Flat addressing is possible by applying multiple instructions, which however leads to slower programs.

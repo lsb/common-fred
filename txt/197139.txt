@@ -1,0 +1,1 @@
+But even finding the center of gravity of the sphere accurately was difficult.

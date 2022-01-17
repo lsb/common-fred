@@ -1,0 +1,1 @@
+This concurrent access situation would change when dealing with temporary tables.

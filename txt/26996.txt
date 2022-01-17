@@ -1,0 +1,1 @@
+"Drop a perpendicular ""p"" from the Euclidean center of the circle to the ""x""-axis."

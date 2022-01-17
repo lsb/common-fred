@@ -1,0 +1,1 @@
+This new motor utilized the universal Power Functions connections, used by all components.

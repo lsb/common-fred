@@ -1,0 +1,1 @@
+"""South Carolina Lowcountry"" is the theme and style of Disney's Hilton Head Island resort."

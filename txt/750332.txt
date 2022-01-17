@@ -1,0 +1,1 @@
+Timing charts allow designers to qualitatively describe the required kinematic behavior of a mechanism.

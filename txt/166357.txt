@@ -1,0 +1,1 @@
+Another cause of brittleness is the use of data structures that restrict values.

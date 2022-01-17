@@ -1,0 +1,1 @@
+Indirect fire can be used when the target is visible from the firing position.

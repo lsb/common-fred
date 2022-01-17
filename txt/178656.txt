@@ -1,0 +1,1 @@
+At this point each frame is displayed with the same procedure.

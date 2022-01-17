@@ -1,0 +1,1 @@
+From the phase difference of the received signals, a location can be determined.

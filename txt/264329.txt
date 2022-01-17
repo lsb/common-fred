@@ -1,0 +1,1 @@
+Hardware registers control the horizontal position of each player and missile.

@@ -1,0 +1,1 @@
+Unlike many classical logic gates, quantum logic gates are reversible.

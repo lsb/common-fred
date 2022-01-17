@@ -1,0 +1,1 @@
+To achieve this, the cards are built down regardless of suit.

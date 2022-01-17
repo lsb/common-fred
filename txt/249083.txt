@@ -1,0 +1,1 @@
+For non-monochromatic waves, the intensity contributions of different spectral components can simply be added.

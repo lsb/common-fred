@@ -1,0 +1,1 @@
+"In these pipelines, ""pipeline registers"" are inserted in-between pipeline stages, and are clocked synchronously."

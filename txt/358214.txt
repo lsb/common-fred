@@ -1,0 +1,1 @@
+In many cases, abstract classes are designed using this mechanism.

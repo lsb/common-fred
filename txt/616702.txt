@@ -1,0 +1,1 @@
+The forward projection transforms spherical coordinates into planar coordinates.

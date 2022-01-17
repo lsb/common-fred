@@ -1,0 +1,1 @@
+A force-directed graph can involve forces other than mechanical springs and electrical repulsion.

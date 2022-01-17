@@ -1,0 +1,1 @@
+Also, note that Fortran does not require static data to be initialized to zero.

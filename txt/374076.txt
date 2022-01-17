@@ -1,0 +1,1 @@
+It can split files to download into sections, and download each section simultaneously.

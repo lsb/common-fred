@@ -1,0 +1,1 @@
+For example, tab-space-space-space performs arithmetic addition of the top two elements on the stack.

@@ -1,0 +1,1 @@
+"Some of these compensations move the pieces away from walls even ""over"" other pieces."

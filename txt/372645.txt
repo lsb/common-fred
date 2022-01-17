@@ -1,0 +1,1 @@
+It also supports security and priority based messaging.

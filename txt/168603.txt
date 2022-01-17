@@ -1,0 +1,1 @@
+Applications use palette windows to prevent toolbar clutter.

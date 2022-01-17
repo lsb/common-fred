@@ -1,0 +1,1 @@
+To accommodate the multi-level design it utilizes escalators, elevators and a shopping cart conveyor.

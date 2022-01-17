@@ -1,0 +1,1 @@
+Active Directory-aware applications fetch service tickets, so the user is not prompted to re-authenticate.

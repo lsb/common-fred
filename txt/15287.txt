@@ -1,0 +1,1 @@
+"An ""R""-regular sequence is called simply a regular sequence."

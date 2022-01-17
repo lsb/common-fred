@@ -1,0 +1,1 @@
+"""Type A"" is the standard forward jughandle."

@@ -1,0 +1,1 @@
+"""Forbes Online"" had published an expose of Glass' work."

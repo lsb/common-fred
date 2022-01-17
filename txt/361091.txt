@@ -1,0 +1,1 @@
+In such situations, double buffering is often employed.

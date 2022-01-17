@@ -1,0 +1,1 @@
+Parchive was intended to increase the reliability of transferring files via Usenet newsgroups.

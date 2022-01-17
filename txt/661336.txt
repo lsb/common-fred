@@ -1,0 +1,1 @@
+The scores for each paired and unpaired residue explain likelihood for secondary structure formations.

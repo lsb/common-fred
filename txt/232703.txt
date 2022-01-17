@@ -1,0 +1,1 @@
+Early versions of PostScript display systems were developed at Adobe Systems.

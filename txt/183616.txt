@@ -1,0 +1,1 @@
+Because the guides work independently, it is possible to have simultaneous multiple recognitions.

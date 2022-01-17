@@ -1,0 +1,1 @@
+"Numbers were initially given an 'S' prefix."

@@ -1,0 +1,1 @@
+"The second phase, called the ""shorts test"" makes sure there are no unintended connections."

@@ -1,0 +1,1 @@
+The figure can interact with ramps, a truck and a wall.

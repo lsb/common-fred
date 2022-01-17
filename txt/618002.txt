@@ -1,0 +1,1 @@
+The game includes two difficulty settings and a password feature.

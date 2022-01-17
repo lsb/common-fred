@@ -1,0 +1,1 @@
+A raw content format is a system of converting data to displayable information.

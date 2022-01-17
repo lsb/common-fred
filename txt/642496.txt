@@ -1,0 +1,1 @@
+The only change is that the indexing set for the coordinates is not finite.

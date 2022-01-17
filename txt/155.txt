@@ -1,0 +1,1 @@
+"""Academy"" is used for institutions which focus on fine arts, music and drama."

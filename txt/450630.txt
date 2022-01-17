@@ -1,0 +1,1 @@
+Members pay a subscription, and are given a key.

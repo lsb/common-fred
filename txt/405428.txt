@@ -1,0 +1,1 @@
+It took multiple arguments, the first of which was a function code.

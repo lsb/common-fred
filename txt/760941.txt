@@ -1,0 +1,1 @@
+Two-person games can also be represented as and-or trees.

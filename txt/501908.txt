@@ -1,0 +1,1 @@
+Random covers extension elements and functions that provide facilities to do with randomness.

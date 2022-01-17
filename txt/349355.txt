@@ -1,0 +1,1 @@
+If it cannot process the request, it may return an error code.

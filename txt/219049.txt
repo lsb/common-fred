@@ -1,0 +1,1 @@
+Decryption is a fairly straightforward reversal of the encryption process.

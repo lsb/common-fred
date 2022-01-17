@@ -1,0 +1,1 @@
+Taking the curl of momentum equation yields the desired equation.

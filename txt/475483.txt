@@ -1,0 +1,1 @@
+On older consoles, the hardware restricted composers to three channels of audio.

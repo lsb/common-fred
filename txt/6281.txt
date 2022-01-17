@@ -1,0 +1,1 @@
+"""Rigolets"" comes from the word ""rigole"", French for ""trench"" or ""gutter."

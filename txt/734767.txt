@@ -1,0 +1,1 @@
+This key is necessary for a site to communicate with the Akismet servers.

@@ -1,0 +1,1 @@
+The cohomology groups of Eilenberg-MacLane spaces can be used to classify all cohomology operations.

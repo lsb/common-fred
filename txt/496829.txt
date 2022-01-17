@@ -1,0 +1,1 @@
+Predictors can be specialized for proteins in different organisms.

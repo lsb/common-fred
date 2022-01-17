@@ -1,0 +1,1 @@
+In the second case, the tangent space is that line, considered as affine space.

@@ -1,0 +1,1 @@
+Gantt concentrated on developing charts which would show a comparison between performance and promise.

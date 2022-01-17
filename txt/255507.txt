@@ -1,0 +1,1 @@
+Furthermore, any fibre inherits the structure of a symplectic vector space.

@@ -1,0 +1,1 @@
+PowerShell allows multiple named stacks to be used.

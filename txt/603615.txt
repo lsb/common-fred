@@ -1,0 +1,1 @@
+The desired square is then the product of the numbers corresponding to those vectors.

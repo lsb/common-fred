@@ -1,0 +1,1 @@
+This allows the meter to measure large currents.

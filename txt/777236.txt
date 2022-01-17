@@ -1,0 +1,1 @@
+When the final layer is decrypted, the message arrives at its destination.

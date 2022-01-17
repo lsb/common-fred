@@ -1,0 +1,1 @@
+It amplifier output is fed to splitter through coaxial trunk lines.

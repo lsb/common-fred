@@ -1,0 +1,1 @@
+Multiple key entries are allowed.

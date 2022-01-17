@@ -1,0 +1,1 @@
+Between these models, bisimilarity is used as a semantic equivalence.

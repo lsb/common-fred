@@ -1,0 +1,1 @@
+There are times when a simple continuity test fails to reveal the problem.

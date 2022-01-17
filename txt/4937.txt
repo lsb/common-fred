@@ -1,0 +1,1 @@
+"""Motor variable"" is used here in place of ""split-complex variable"" for euphony and tradition."

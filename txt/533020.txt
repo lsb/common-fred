@@ -1,0 +1,1 @@
+Simulation of a Gaussian laser beam input profile is also an example of apodization.

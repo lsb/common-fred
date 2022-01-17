@@ -1,0 +1,1 @@
+Furthermore, every archimedean lattice-ordered group is abelian.

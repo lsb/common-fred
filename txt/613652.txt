@@ -1,0 +1,1 @@
+The first raw moment is the mean, which, being odd, does not exist.

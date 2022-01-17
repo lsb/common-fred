@@ -1,0 +1,1 @@
+I and Q represent the chrominance information.

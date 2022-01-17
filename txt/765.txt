@@ -1,0 +1,1 @@
+"""Beat the Geeks"" was taped at the Hollywood Center Studios."

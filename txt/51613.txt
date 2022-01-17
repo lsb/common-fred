@@ -1,0 +1,1 @@
+"Internet Explorer's Trident and Mozilla's Gecko were supported."

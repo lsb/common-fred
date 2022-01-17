@@ -1,0 +1,1 @@
+Some of these models are mutually compatible, whereas others are not.

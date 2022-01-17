@@ -1,0 +1,1 @@
+This is one way of looking at the small world problem.

@@ -1,0 +1,1 @@
+"Unlike fetchmail, getmail's Python foundation makes it nearly immune to buffer overflow security holes."

@@ -1,0 +1,1 @@
+A frame or field rate can also be specified without a resolution.

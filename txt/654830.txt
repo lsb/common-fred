@@ -1,0 +1,1 @@
+The recorded data was used to tune the acoustic model to that specific user.

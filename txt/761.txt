@@ -1,0 +1,1 @@
+"""Bealtaine"" is a Gaelic holiday celebrated on this day, marking the beginning of summer."

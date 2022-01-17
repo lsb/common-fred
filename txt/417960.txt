@@ -1,0 +1,1 @@
+Its main goal is to represent the most relevant companies in the stock exchange.

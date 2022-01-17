@@ -1,0 +1,1 @@
+Letter case is ignored in Pascal source.

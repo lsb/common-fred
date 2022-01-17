@@ -1,0 +1,1 @@
+Metacity, an X window manager uses compositing in this way.

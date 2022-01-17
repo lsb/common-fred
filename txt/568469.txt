@@ -1,0 +1,1 @@
+The Met Office weather station only publishes temperature and frost data.

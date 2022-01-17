@@ -1,0 +1,1 @@
+Two of the pieces in the towers are duplicates.

@@ -1,0 +1,1 @@
+Another notion involving limits of finite sums is integration.

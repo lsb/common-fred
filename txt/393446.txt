@@ -1,0 +1,1 @@
+It is only necessary to encrypt and authenticate the existing data stream.

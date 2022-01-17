@@ -1,0 +1,1 @@
+Trains operate from both endpoints and meet at the midpoint.

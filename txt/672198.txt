@@ -1,0 +1,1 @@
+The syntax of Ruby is broadly similar to that of Perl and Python.

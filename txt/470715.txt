@@ -1,0 +1,1 @@
+Note that the specification mentions only sinusoid waveforms.

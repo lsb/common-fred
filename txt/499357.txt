@@ -1,0 +1,1 @@
+Proper degaussing will ensure there is insufficient magnetic remanence to reconstruct the data.

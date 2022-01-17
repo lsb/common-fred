@@ -1,0 +1,1 @@
+The list can use numerical, alphabetic, or alpha-numeric identifiers.

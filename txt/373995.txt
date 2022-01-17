@@ -1,0 +1,1 @@
+It can cause redirect loops when users hit the back button.

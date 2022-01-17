@@ -1,0 +1,1 @@
+Kerrighed is implemented as an extension to the Linux operating system.

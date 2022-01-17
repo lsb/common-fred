@@ -1,0 +1,1 @@
+Fix an open neighborhood of in the strong operator topology.

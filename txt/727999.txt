@@ -1,0 +1,1 @@
+This design enables adding several chained intermediate drivers between the miniport and protocol drivers.

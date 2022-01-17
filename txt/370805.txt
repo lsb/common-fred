@@ -1,0 +1,1 @@
+It adds a cooperative multiplayer mode.

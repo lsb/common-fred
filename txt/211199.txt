@@ -1,0 +1,1 @@
+Computer-controlled eyes chase and shoot at the player.

@@ -1,0 +1,1 @@
+The ball may also disappear and re-appear as it moves about.

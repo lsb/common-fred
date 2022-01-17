@@ -1,0 +1,1 @@
+Finally, all of the above holds for integrals with values in a Banach space.

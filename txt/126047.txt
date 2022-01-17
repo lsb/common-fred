@@ -1,0 +1,1 @@
+A function can be thread-safe and still not reentrant.

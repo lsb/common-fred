@@ -1,0 +1,1 @@
+It differentiates between which towns are considered suburbs, and which are considered commuter towns.

@@ -1,0 +1,1 @@
+Similarly, the infimum of such a set is called the limit inferior, or liminf.

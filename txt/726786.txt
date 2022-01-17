@@ -1,0 +1,1 @@
+This choice was made to ensure a smooth frame rate.

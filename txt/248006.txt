@@ -1,0 +1,1 @@
+For example, in a magnet, the order parameter is the local magnetization.

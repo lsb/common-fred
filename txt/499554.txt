@@ -1,0 +1,1 @@
+Protein structures range in size from tens to several thousand amino acids.

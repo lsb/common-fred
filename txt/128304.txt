@@ -1,0 +1,1 @@
+A less well-known form of symmetry concerns vector fields that preserve the energy-momentum tensor.

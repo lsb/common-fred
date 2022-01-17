@@ -1,0 +1,1 @@
+"""Eclectica Magazine"" requires a processing fee for submitting content."

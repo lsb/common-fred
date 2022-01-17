@@ -1,0 +1,1 @@
+In some cases a default branch, if no exception is raised, is also present.

@@ -1,0 +1,1 @@
+A different direction of development includes extensions of behavior-based robotics to multi-robot teams.

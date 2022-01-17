@@ -1,0 +1,1 @@
+Commutativity of the convolution product is closely tied to Gelfand pairs.

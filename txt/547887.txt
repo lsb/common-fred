@@ -1,0 +1,1 @@
+String bands now also play at hotels and nightclubs.

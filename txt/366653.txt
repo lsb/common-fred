@@ -1,0 +1,1 @@
+Incremental, concurrent, and real-time garbage collectors address these problems, with varying trade-offs.

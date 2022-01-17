@@ -1,0 +1,1 @@
+Light is split into and recombined from reference and sample arm, respectively.

@@ -1,0 +1,1 @@
+"Compatibility defines an equivalence relation on the class of all possible atlases on ""X""."

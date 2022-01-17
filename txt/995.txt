@@ -1,0 +1,1 @@
+"""Brain Gym"" is a registered trademark owned by the company."

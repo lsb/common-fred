@@ -1,0 +1,1 @@
+Each team begins the game with a score of zero.

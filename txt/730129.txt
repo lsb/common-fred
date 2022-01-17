@@ -1,0 +1,1 @@
+This guarantees that it will neither interpret nor emit an ill-formed code unit sequence.

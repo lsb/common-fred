@@ -1,0 +1,1 @@
+"""Blacula"" received mixed reviews on its initial release."

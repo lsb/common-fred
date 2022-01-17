@@ -1,0 +1,1 @@
+In this context, weak orderings are also known as preferential arrangements.

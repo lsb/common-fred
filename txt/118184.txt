@@ -1,0 +1,1 @@
+"Which combination gives the best compression will depend on the individual image's properties."

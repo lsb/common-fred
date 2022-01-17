@@ -1,0 +1,1 @@
+"There is only an ""edit view"" with a viewing area."

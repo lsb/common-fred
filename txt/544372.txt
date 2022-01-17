@@ -1,0 +1,1 @@
+Special particle words function in lieu of prefixes and suffixes to mark verb tense.

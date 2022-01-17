@@ -1,0 +1,1 @@
+"Each corner of the board contains one player's ""nest"", or starting area."

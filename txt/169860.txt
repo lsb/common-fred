@@ -1,0 +1,1 @@
+Around edges, the blur region causes highlights to overexpose and shadows to underexpose.

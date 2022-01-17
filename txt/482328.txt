@@ -1,0 +1,1 @@
+Oscillators that use limiting for amplitude control often have significant harmonic distortion.

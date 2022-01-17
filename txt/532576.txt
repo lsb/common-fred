@@ -1,0 +1,1 @@
+Similar to a honeypot, a honeynet is a network set up with intentional vulnerabilities.

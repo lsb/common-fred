@@ -1,0 +1,1 @@
+Data collection is broadly similar regardless of the particular sensing instrument.

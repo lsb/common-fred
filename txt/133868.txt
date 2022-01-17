@@ -1,0 +1,1 @@
+A post-order operation may be needed afterwards to re-balance the tree.

@@ -1,0 +1,1 @@
+Korg claims very low aliasing distortion, due to the use of band limited interpolation.

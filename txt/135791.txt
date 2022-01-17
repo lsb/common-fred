@@ -1,0 +1,1 @@
+A simple encoder may encode all characters it considers safe for direct encoding directly.

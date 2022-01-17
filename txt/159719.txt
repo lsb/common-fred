@@ -1,0 +1,1 @@
+Although this is most common with hardware, virtual interfaces have the same effect.

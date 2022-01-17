@@ -1,0 +1,1 @@
+Samples are represented in data words.

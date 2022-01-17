@@ -1,0 +1,1 @@
+Most states are entirely contained within one time zone.

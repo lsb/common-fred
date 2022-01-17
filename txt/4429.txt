@@ -1,0 +1,1 @@
+"""Living Quarters"" deals with accepting responsibility for one's actions."

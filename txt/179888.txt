@@ -1,0 +1,1 @@
+Authentication takes place on domain controllers.

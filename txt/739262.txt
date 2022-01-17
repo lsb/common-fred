@@ -1,0 +1,1 @@
+This record represents the longest series of monthly temperature observations in existence.

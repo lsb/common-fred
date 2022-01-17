@@ -1,0 +1,1 @@
+It has also been proven to work under Linux using the Dosemu emulation software.

@@ -1,0 +1,1 @@
+But others view functions as simply sets of ordered pairs with unique first components.

@@ -1,0 +1,1 @@
+The Solovay-Strassen test is essentially a Euler-Jacobi pseudoprime test.

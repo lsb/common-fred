@@ -1,0 +1,1 @@
+"The term ""field-programmable"" means the device is programmed by the customer, not the manufacturer."

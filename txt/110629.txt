@@ -1,0 +1,1 @@
+"This happens precisely when ""Q"" admits a torsion-free adapted connection."

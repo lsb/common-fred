@@ -1,0 +1,1 @@
+Deferred shading is a per-pixel shading technique that has recently become feasible for games.

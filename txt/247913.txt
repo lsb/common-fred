@@ -1,0 +1,1 @@
+For example, alpha-beta pruning is most efficient if it searches the best moves first.

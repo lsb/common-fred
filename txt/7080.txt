@@ -1,0 +1,1 @@
+"""Status familiae"" is the legal status of an individual in the family."

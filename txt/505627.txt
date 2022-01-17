@@ -1,0 +1,1 @@
+Restrictions can be set to be imposed only on certain dates as well.

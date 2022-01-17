@@ -1,0 +1,1 @@
+The value function that passes through the reference point is s-shaped and asymmetrical.

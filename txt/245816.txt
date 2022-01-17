@@ -1,0 +1,1 @@
+Flowers are placed inside this triangle to fill out the shape.

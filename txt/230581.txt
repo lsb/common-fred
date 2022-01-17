@@ -1,0 +1,1 @@
+Each code consists of seven alphanumeric characters.

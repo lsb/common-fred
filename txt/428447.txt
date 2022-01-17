@@ -1,0 +1,1 @@
+Krohn and Rhodes found a general decomposition for finite automata.

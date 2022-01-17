@@ -1,0 +1,1 @@
+Elevator trim is most used for controlling the attitude at cruising by the autopilot.

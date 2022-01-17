@@ -1,0 +1,1 @@
+Aspect expresses how the action or state occurs through time.

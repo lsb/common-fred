@@ -1,0 +1,1 @@
+A Town Manager is responsible for the day-to-day operations of the town.

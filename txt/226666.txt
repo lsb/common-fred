@@ -1,0 +1,1 @@
+Dump can back up a file system to a tape or another disk.

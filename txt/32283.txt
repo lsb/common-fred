@@ -1,0 +1,1 @@
+"German orthography uses ""closed"" compounds, concatenating nouns to form one long word."

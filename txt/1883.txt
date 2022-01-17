@@ -1,0 +1,1 @@
+"""Doctor Mario"" characters also appear in the game as collectible stickers."

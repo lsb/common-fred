@@ -1,0 +1,1 @@
+These were sectors on the disk that were intentionally unreadable by the disk drive.

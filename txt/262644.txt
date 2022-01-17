@@ -1,0 +1,1 @@
+Guile is rescued along with Balrog by E. Honda.

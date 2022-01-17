@@ -1,0 +1,1 @@
+"A single panorama, or ""node"" is captured from a single point in space."

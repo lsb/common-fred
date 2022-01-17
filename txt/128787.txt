@@ -1,0 +1,1 @@
+A logic is called hereditarily structurally complete, if every its extension is structurally complete.

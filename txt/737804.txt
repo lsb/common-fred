@@ -1,0 +1,1 @@
+This pattern allows the organism to grow without changing shape.

@@ -1,0 +1,1 @@
+"Conversion to prenex form can be avoided, if ""structural"" Herbrandization is performed."

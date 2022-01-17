@@ -1,0 +1,1 @@
+Thus the sum of all Lyapunov exponents must be zero.

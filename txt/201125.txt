@@ -1,0 +1,1 @@
+Cameras are ordered by type.

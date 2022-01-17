@@ -1,0 +1,1 @@
+Red keys are not encrypted and must be treated as highly sensitive material.

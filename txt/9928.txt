@@ -1,0 +1,1 @@
+"A ""clock domain"" is defined as a group of flip-flops with a common clock."

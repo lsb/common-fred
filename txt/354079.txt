@@ -1,0 +1,1 @@
+In addition to user traffic, overhead channels are interlaced into the stream.

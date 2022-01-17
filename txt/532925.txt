@@ -1,0 +1,1 @@
+Simple comparisons compare one group mean with one other group mean.

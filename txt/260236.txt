@@ -1,0 +1,1 @@
+Google Earth allows users to search for addresses for some countries, and enter coordinates.

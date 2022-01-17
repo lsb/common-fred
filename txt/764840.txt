@@ -1,0 +1,1 @@
+Users who have been delegated extra levels of control are called privileged.

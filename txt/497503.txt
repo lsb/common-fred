@@ -1,0 +1,1 @@
+Previously the stations could only platform six-car local trains.

@@ -1,0 +1,1 @@
+Sidebands can also interfere with adjacent channels.

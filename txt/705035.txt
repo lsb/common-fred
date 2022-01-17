@@ -1,0 +1,1 @@
+These defaults may be overridden by the programmer.

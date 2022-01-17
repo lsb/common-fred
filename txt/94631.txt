@@ -1,0 +1,1 @@
+"The lamps' brightness was controllable with a variable resistor."

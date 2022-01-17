@@ -1,0 +1,1 @@
+A totally ordered set without infinite descending chains is called well-ordered.

@@ -1,0 +1,1 @@
+Opportunistic use occurs when a sharp flake is used as-is, without edge-modification.

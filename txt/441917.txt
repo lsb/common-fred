@@ -1,0 +1,1 @@
+Mana is used to cast and research spells and use altars.

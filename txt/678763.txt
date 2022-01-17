@@ -1,0 +1,1 @@
+The training data are used to estimate the model parameters.

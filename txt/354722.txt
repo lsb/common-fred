@@ -1,0 +1,1 @@
+In addition, the harness may provide lifting force to simulate free-body flight.

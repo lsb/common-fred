@@ -1,0 +1,1 @@
+"""Fever Pitch"" compares Hornby's life at Arsenal and other football clubs."

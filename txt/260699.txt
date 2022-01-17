@@ -1,0 +1,1 @@
+GrabIt is one of the few newsreaders to include a search function.

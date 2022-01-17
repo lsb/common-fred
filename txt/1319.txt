@@ -1,0 +1,1 @@
+"""Chasing Amy"" received positive reviews from critics."

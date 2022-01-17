@@ -1,0 +1,1 @@
+If such a cycle exists, the graph is called Eulerian or unicursal.

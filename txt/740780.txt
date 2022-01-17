@@ -1,0 +1,1 @@
+This slightly stronger condition is necessary for the proof of certain theorems.

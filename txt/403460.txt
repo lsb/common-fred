@@ -1,0 +1,1 @@
+It represents an adult individual.

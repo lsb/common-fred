@@ -1,0 +1,1 @@
+"The capacitor used as the charge pump is typically known as the ""flying capacitor""."

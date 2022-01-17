@@ -1,0 +1,1 @@
+There are other algorithms that work in linear time on dense graphs.

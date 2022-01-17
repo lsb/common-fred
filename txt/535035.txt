@@ -1,0 +1,1 @@
+Skill points, like mana, are used primarily for certain class abilities.

@@ -1,0 +1,1 @@
+"The regular ""n""-gon, for given ""n"", is unique up to similarity."

@@ -1,0 +1,1 @@
+Cut buffers are another mechanism to transfer data, in particular selected text.

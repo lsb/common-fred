@@ -1,0 +1,1 @@
+It also gives data collected by the tools attached to the rovers arm.

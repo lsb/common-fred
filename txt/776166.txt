@@ -1,0 +1,1 @@
+When flow reversal occurs, the flow is said to be separated from the surface.

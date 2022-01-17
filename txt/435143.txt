@@ -1,0 +1,1 @@
+Like counting sort, this is an efficient variant if there are many duplicate values.

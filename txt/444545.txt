@@ -1,0 +1,1 @@
+Many of them are built on top of separate content management frameworks.

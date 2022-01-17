@@ -1,0 +1,1 @@
+Java compatibility is implemented through a native port of the Java virtual machine.

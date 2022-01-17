@@ -1,0 +1,1 @@
+"A more detailed reference is ""The Complete Guide to Standard Script Formats""."

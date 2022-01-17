@@ -1,0 +1,1 @@
+Cellular network base stations are not considered to be nodes in this context.

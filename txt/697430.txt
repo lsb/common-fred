@@ -1,0 +1,1 @@
+There is a tradeoff between range of motion, linearity of motion, and size.

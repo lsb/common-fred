@@ -1,0 +1,1 @@
+At zero temperature, the properties of jellium depend solely upon the constant electronic density.

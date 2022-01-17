@@ -1,0 +1,1 @@
+It is easily found by taking the arithmetic mean of each coordinate.

@@ -1,0 +1,1 @@
+Then the flag will be passed to the next ship in line.

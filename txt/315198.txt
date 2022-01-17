@@ -1,0 +1,1 @@
+Health is indicated by the size of a heart icon.

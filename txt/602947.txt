@@ -1,0 +1,1 @@
+The default keybindings are specifically designed to not conflict with Emacs.

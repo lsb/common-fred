@@ -1,0 +1,1 @@
+For compiled languages, syntax errors are detected at compile-time.

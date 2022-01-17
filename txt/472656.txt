@@ -1,0 +1,1 @@
+Obstacles included enemy turrets spread around the map, various fortifications and destructible buildings.

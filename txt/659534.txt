@@ -1,0 +1,1 @@
+The running time of ternary search trees varies significantly with the input.

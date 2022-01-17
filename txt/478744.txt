@@ -1,0 +1,1 @@
+One of the solutions is to introduce disjunction with over rules.

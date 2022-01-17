@@ -1,0 +1,1 @@
+Tools are also provided within the software to facilitate scripting, animation, and object creation.

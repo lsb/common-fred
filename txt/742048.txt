@@ -1,0 +1,1 @@
+This theory deals with differentiable functions in general, rather than just polynomials.

@@ -1,0 +1,1 @@
+"""Bayan"" may be rendered as ""nation"" or ""people""."

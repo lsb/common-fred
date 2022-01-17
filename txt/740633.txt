@@ -1,0 +1,1 @@
+This shows that pullbacks exist in any category with binary products and equalizers.

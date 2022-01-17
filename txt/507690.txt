@@ -1,0 +1,1 @@
+Robocalls can be delivered autosmatically using telephony software, such as Asterisk.

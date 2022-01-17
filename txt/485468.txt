@@ -1,0 +1,1 @@
+Otter supports both agent and agent-less windows servers.

@@ -1,0 +1,1 @@
+A rotation can be seen as a composite of two non-parallel reflections.

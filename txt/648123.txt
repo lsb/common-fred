@@ -1,0 +1,1 @@
+The pinna works differently for low and high frequency sounds.

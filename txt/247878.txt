@@ -1,0 +1,1 @@
+For example, a fair coin toss is a Bernoulli trial.

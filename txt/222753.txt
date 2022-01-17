@@ -1,0 +1,1 @@
+Direct communication cannot be achieved across application domains.

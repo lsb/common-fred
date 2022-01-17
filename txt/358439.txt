@@ -1,0 +1,1 @@
+In model theory there is also a stronger notion of elementary embedding.

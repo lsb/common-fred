@@ -1,0 +1,1 @@
+As with other resource management, this is rarely possible in practice.

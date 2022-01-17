@@ -1,0 +1,1 @@
+"Special instruments called ""varmeters"" are available to measure the reactive power in a circuit."

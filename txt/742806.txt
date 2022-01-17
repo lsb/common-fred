@@ -1,0 +1,1 @@
+This user interface software layer for Simon was known as the Navigator.

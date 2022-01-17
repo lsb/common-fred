@@ -1,0 +1,1 @@
+"Comb sort's passes do not completely sort the elements."

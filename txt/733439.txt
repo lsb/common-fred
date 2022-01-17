@@ -1,0 +1,1 @@
+This is one cause of ringing artifacts in signal processing.

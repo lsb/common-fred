@@ -1,0 +1,1 @@
+In this way, the smallest eigenvalue is expressed through the variational principle.

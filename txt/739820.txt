@@ -1,0 +1,1 @@
+This results in a faster comparison loop, but requires one more iteration on average.

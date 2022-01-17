@@ -1,0 +1,1 @@
+"""Pomeranian"" can also be a noun referring to a Spitz toy breed of dog."

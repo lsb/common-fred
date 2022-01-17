@@ -1,0 +1,1 @@
+FieldTurf does not use shock absorbency pads below its infill.

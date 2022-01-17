@@ -1,0 +1,1 @@
+Succinct circuits are simple machines used to describe graphs in exponentially less space.

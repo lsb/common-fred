@@ -1,0 +1,1 @@
+"Each digit is translated to a 'numerical root', according to the table."

@@ -1,0 +1,1 @@
+It is not possible to form such a rectangle in the equality matrix.

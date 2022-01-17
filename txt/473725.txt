@@ -1,0 +1,1 @@
+Often some particular constant value will be used multiple times in a program.

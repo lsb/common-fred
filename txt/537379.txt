@@ -1,0 +1,1 @@
+Software known to have daylight-saving compensation is marked in the Aspects table.

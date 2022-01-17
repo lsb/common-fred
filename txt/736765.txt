@@ -1,0 +1,1 @@
+This minimum temperature is dependent on the geographical region and time of year.

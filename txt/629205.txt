@@ -1,0 +1,1 @@
+The line can therefore be impedance-matched with just a resistor at either end.

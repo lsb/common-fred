@@ -1,0 +1,1 @@
+They present to a user many actions that can be performed in any sequence.

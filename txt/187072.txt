@@ -1,0 +1,1 @@
+Bifurcation parameter is a root point of period- component.

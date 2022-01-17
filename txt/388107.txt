@@ -1,0 +1,1 @@
+It is guaranteed to be the vertex of the convex hull of the polygon.

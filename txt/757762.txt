@@ -1,0 +1,1 @@
+Twenty-eight is the sum of the totient function for the first nine integers.

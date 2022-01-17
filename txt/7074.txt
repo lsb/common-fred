@@ -1,0 +1,1 @@
+"""State Fair"" was a huge hit."

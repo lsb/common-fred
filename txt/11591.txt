@@ -1,0 +1,1 @@
+"A storage element can be constructed by connecting several gates in a ""latch"" circuit."

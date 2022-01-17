@@ -1,0 +1,1 @@
+It is bounded by the minimum cell rate and the peak cell rate.

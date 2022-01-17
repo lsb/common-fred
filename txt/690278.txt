@@ -1,0 +1,1 @@
+Then the puller starts to move along the axis in the positive direction.

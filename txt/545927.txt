@@ -1,0 +1,1 @@
+Start buffering again with the next character.

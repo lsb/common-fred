@@ -1,0 +1,1 @@
+"""The Times"" and ""The Scotsman"" copied the format as ""The Independent"" increased sales."

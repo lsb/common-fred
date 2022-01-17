@@ -1,0 +1,1 @@
+Players enter the game unarmed and with a certain amount of health.

@@ -1,0 +1,1 @@
+In tamper resistant hardware, automatic zeroisation may be initiated when tampering is detected.

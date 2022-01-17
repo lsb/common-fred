@@ -1,0 +1,1 @@
+It can also be configured to permit passing arguments or multiple commands.

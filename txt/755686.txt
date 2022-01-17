@@ -1,0 +1,1 @@
+Traditionally, these grid connections are unidirectional point to multipoint links.

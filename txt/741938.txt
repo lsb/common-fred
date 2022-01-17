@@ -1,0 +1,1 @@
+This term describes Fermi-Walker transport and leads to Thomas precession.

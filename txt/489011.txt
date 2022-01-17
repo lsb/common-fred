@@ -1,0 +1,1 @@
+Passengers wait behind automatic doors on the stop that is assigned to their bus.

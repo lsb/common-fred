@@ -1,0 +1,1 @@
+Measurement error and statistical uncertainty are also present in all measurements.

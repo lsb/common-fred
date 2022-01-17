@@ -1,0 +1,1 @@
+The blockchain technology popularised by bitcoin is an implementation of a distributed database.

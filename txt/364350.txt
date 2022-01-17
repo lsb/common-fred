@@ -1,0 +1,1 @@
+In the second case, the trader sells the option and then hedges the position.

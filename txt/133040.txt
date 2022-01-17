@@ -1,0 +1,1 @@
+A partially defined isometric operator with closed domain is called a partial isometry.

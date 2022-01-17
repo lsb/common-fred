@@ -1,0 +1,1 @@
+The frets are positioned logarithmically, creating equally-tempered pitches along each string.

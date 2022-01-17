@@ -1,0 +1,1 @@
+TerraLib supports the development of geographical applications using spatial databases.

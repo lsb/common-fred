@@ -1,0 +1,1 @@
+Index types include b-trees, bitmaps, and r-trees.

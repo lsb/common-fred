@@ -1,0 +1,1 @@
+Shots struck above or touching the out line, on any wall, are out.

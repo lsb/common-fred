@@ -1,0 +1,1 @@
+Count the terms to the left of the bar.

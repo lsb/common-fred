@@ -1,0 +1,1 @@
+Chaired by Sandra Loosemore, this subcommittee created proposals for issues relating to Lisp compilation.

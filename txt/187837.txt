@@ -1,0 +1,1 @@
+BizTalk orchestrations also implement long-running transactions.

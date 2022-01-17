@@ -1,0 +1,1 @@
+"""Voyager"" is travelling through Devore space, where telepathy is illegal."

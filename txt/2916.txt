@@ -1,0 +1,1 @@
+"""Hard"" bottom paints, or ""nonsloughing"" bottom paints, are made in several types."

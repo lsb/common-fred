@@ -1,0 +1,1 @@
+Precisely, atoms are identifiers of strings stored in the server.

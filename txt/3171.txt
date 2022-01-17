@@ -1,0 +1,1 @@
+"""Hosea Kutako International Airport"" is the main hub for Air Namibia."

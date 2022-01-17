@@ -1,0 +1,1 @@
+The Teeko board consists of twenty-five spaces arranged in a five-by-five grid.

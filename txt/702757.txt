@@ -1,0 +1,1 @@
+Therefore, the empty set is the only partition of itself.

@@ -1,0 +1,1 @@
+Ring-closing bonds may not be used to denote multiple bonds.

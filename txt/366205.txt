@@ -1,0 +1,1 @@
+In uncoordinated checkpointing, each process checkpoints its own state independently.

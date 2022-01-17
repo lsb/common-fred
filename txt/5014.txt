@@ -1,0 +1,1 @@
+"""My Weekly Reader"" was an instant success."

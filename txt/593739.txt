@@ -1,0 +1,1 @@
+The class having scored the maximum points by the end is declared winner.

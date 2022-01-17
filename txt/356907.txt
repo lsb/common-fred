@@ -1,0 +1,1 @@
+In general, preservation is implemented in two modes, chemical and physical.

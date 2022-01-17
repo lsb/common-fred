@@ -1,0 +1,1 @@
+This gives it access to information of the region.

@@ -1,0 +1,1 @@
+A random reversal pattern with inhibition can be represented by a gamma process.

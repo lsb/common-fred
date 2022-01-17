@@ -1,0 +1,1 @@
+For one input bit, there are two possible reversible gates.

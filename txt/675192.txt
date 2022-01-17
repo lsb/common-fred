@@ -1,0 +1,1 @@
+The ticket barrier allows passengers with valid tickets to pass between these zones.

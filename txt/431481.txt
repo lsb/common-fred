@@ -1,0 +1,1 @@
+Later versions allocate characters different lengths of entry depending on their history and importance.

@@ -1,0 +1,1 @@
+Dominant birds feed nearest to the host, and obtain more food.

@@ -1,0 +1,1 @@
+Morse code can even be used to transmit Chinese characters.

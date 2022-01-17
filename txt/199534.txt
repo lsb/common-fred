@@ -1,0 +1,1 @@
+By definition, a pattern must be programmed anew into each application that uses it.

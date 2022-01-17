@@ -1,0 +1,1 @@
+Likewise, lattices are directed sets both upward and downward.

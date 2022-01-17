@@ -1,0 +1,1 @@
+"Extending the axiom to match the reduction contexts gives the ""compatible closure""."

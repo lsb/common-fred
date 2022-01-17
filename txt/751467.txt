@@ -1,0 +1,1 @@
+To prove this, let be the optimal traveling salesman tour.

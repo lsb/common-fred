@@ -1,0 +1,1 @@
+The throughput on the channel is a fraction of what it could be.

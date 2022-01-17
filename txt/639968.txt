@@ -1,0 +1,1 @@
+The new terminal area is now fully active, doubling the previous area.

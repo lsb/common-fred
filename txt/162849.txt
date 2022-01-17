@@ -1,0 +1,1 @@
+An inherent problem of the design is that it requires very precise resistors.

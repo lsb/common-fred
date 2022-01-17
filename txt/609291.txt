@@ -1,0 +1,1 @@
+The exponential function extends to an entire function on the complex plane.

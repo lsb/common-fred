@@ -1,0 +1,1 @@
+Non-lytic insect cell expression is an alternative to the lytic baculovirus expression system.

@@ -1,0 +1,1 @@
+"It takes survey data on consumers' preferences and converts it into actual purchase probabilities."

@@ -1,0 +1,1 @@
+WorldCat operates on a batch processing model rather than a real-time model.

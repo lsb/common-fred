@@ -1,0 +1,1 @@
+Alternatively, a shoutbox may be loaded from a flat file.

@@ -1,0 +1,1 @@
+When checking the dice, aces are counted as the dice that were announced.

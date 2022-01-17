@@ -1,0 +1,1 @@
+Users can add their own language syntax highlighting.

@@ -1,0 +1,1 @@
+The Natta projection is useful for representing the tacticity of a polymer.

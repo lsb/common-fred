@@ -1,0 +1,1 @@
+This allows both a physically smaller and less-expensive implementation of essentially the same functionality.

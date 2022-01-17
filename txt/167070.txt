@@ -1,0 +1,1 @@
+Another precautionary measure is to mark important files as read-only.

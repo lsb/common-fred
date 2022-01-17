@@ -1,0 +1,1 @@
+Instead, the instructions sent to the sound chip are logged.

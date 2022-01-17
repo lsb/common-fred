@@ -1,0 +1,1 @@
+This numerical resource dictates which abilities a ghost can use.

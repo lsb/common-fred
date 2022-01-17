@@ -1,0 +1,1 @@
+Hexagonal close-packing would result in a six-sided pyramid with a hexagonal base.

@@ -1,0 +1,1 @@
+With this form for the displacement, the velocity now is found.

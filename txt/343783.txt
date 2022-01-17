@@ -1,0 +1,1 @@
+I did a presentation on silicon chip production and built a proximity sensor for activating garage lights when a car entered.

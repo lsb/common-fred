@@ -1,0 +1,1 @@
+This same reasoning may be applied to hypercubes of any dimension.

@@ -1,0 +1,1 @@
+The most common refractive index profile for a graded-index fiber is very nearly parabolic.

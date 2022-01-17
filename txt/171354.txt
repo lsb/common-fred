@@ -1,0 +1,1 @@
+As a result of this attack, cryptographers lost their interest in these curves.

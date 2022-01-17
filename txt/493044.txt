@@ -1,0 +1,1 @@
+Pilot controls include a side-stick on the right and a throttle on the left.

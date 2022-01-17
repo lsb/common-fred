@@ -1,0 +1,1 @@
+An accelerator speeds up the cure reaction, while a retarder delays it.

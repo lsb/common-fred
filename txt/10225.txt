@@ -1,0 +1,1 @@
+"A category excludes all categories not dominated by ""both"" its segments."

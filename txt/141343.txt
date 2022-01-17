@@ -1,0 +1,1 @@
+Access to a subroutine involves additional overhead not present when data is accessed directly.

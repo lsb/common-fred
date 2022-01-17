@@ -1,0 +1,1 @@
+Every path-connected space is connected.

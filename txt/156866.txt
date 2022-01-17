@@ -1,0 +1,1 @@
+Allocation groups divide the aggregate space into chunks.

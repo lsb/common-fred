@@ -1,0 +1,1 @@
+Kanzi learned to communicate with a Lexigram board, pushing symbols that stand for words.

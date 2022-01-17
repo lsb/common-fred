@@ -1,0 +1,1 @@
+The configuration language should be both powerful and easy to use.

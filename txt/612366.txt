@@ -1,0 +1,1 @@
+The final models included a built-in camera.

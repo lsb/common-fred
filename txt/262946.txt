@@ -1,0 +1,1 @@
+Gutters are the empty space between columns.

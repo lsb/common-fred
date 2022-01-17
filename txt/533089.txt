@@ -1,0 +1,1 @@
+Since C is abelian, it follows that T is as well.

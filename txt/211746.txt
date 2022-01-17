@@ -1,0 +1,1 @@
+Connections can either be soldered, or made using terminal blocks.

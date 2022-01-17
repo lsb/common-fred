@@ -1,0 +1,1 @@
+Each Keck Observatory telescope sits on an altazimuth mount.

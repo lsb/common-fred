@@ -1,0 +1,1 @@
+Besides the ring structure operations defined above, we have the following.

@@ -1,0 +1,1 @@
+"The difference between ""A"" and ""F"" is divided by the Actual value ""A"" again."

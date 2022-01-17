@@ -1,0 +1,1 @@
+This arrangement proved too complex to maintain and was dropped from the design.

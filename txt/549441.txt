@@ -1,0 +1,1 @@
+Such a design can be detailed into a logical data model.

@@ -1,0 +1,1 @@
+"""Pika"" describes a flash of light and ""don"" describes an explosive sound."

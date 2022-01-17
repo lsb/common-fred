@@ -1,0 +1,1 @@
+We have the surprising theorem that every integrally closed directed group is already abelian.

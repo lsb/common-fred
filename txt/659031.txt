@@ -1,0 +1,1 @@
+The root node may have zero or more subtrees.

@@ -1,0 +1,1 @@
+In fact, arrows are not merely equivalent, but directly equal to enriched Freyd categories.

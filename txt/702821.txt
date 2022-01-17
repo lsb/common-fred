@@ -1,0 +1,1 @@
+Therefore, the size of the data structure can be significantly reduced.

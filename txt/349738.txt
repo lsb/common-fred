@@ -1,0 +1,1 @@
+If the data does not change often use caching.

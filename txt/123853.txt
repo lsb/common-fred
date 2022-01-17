@@ -1,0 +1,1 @@
+A conversion device or service that converts media streams between different communication technologies, such as media gateways.

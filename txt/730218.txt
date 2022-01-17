@@ -1,0 +1,1 @@
+This happens if the operating system hangs during audio playback.

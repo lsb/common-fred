@@ -1,0 +1,1 @@
+In some cases, such programs may exhibit undefined behavior.

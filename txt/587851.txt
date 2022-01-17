@@ -1,0 +1,1 @@
+The buffers in the center are partitioned into N virtual output queues.

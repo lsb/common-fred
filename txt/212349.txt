@@ -1,0 +1,1 @@
+Constructing a cipher or hash to exhibit a substantial avalanche effect is one of its primary design objectives.

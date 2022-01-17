@@ -1,0 +1,1 @@
+With this release, Symantec changed the naming scheme to incorporate the year of release.

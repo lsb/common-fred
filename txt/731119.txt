@@ -1,0 +1,1 @@
+This includes kernels for homomorphisms between abelian groups as a special case.

@@ -1,0 +1,1 @@
+Permute the words in a fixed pattern.

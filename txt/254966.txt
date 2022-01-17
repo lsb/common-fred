@@ -1,0 +1,1 @@
+Functionals allow the ability to generate grids and provide mesh adaptation.

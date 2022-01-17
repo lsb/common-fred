@@ -1,0 +1,1 @@
+This allows degrees of confidence to be assigned to various crime statistics.

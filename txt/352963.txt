@@ -1,0 +1,1 @@
+In Smalltalk, the caret takes the function of the return statement.

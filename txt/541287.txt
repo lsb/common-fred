@@ -1,0 +1,1 @@
+Some semantic mappers are static in that they will do a one-time data transforms.

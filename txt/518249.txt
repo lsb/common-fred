@@ -1,0 +1,1 @@
+Shared nothing architectures have become prevalent in the data warehousing space.

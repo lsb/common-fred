@@ -1,0 +1,1 @@
+This is analogous to Hello, World!

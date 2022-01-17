@@ -1,0 +1,1 @@
+The oscillator itself controls the phase with which the external power acts on it.

@@ -1,0 +1,1 @@
+Doing so outside of the vertical blanking interval can damage the hardware.

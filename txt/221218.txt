@@ -1,0 +1,1 @@
+Desuspension is an operation inverse to suspension.

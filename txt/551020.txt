@@ -1,0 +1,1 @@
+Suppose Euclidean path integrals satisfy reflection positivity formally.

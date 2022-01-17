@@ -1,0 +1,1 @@
+"The homomorphism ""F"" is an isomorphism if and only if ""R"" is extensional."

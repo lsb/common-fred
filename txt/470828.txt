@@ -1,0 +1,1 @@
+Note: Shows platform layouts only, not the actual station layout.

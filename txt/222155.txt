@@ -1,0 +1,1 @@
+Dielectric breakdowns or shorts between the electrodes do not destroy the component.

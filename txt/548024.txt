@@ -1,0 +1,1 @@
+Structures that do not meet this criterion, are defined as towers.

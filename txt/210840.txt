@@ -1,0 +1,1 @@
+Compared with JavaBeans, ActiveX supports more programming languages, but JavaBeans supports more platforms.

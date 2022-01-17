@@ -1,0 +1,1 @@
+Transforming the input data into the set of features is called feature extraction.

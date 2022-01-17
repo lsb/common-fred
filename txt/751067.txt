@@ -1,0 +1,1 @@
+To estimate energy expenditure from the exhaled gases, several algorithms were developed.

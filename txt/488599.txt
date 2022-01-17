@@ -1,0 +1,1 @@
+Particles collide with each other, and they collide with fluids.

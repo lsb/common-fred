@@ -1,0 +1,1 @@
+It investigates whether islands wanting to join fit the membership criteria.

@@ -1,0 +1,1 @@
+Each Auxiliary Board Member is assigned to either protection or propagation.

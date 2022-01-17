@@ -1,0 +1,1 @@
+A strict weak order that is trichotomous is called a strict total order.

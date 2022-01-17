@@ -1,0 +1,1 @@
+This is the doctrine of multi-sorted algebraic theories.

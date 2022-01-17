@@ -1,0 +1,1 @@
+Microelectrodes can be used to measure postsynaptic potentials at either excitatory or inhibitory synapses.

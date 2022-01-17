@@ -1,0 +1,1 @@
+This means that applications will have a similar look and feel across platforms.

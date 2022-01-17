@@ -1,0 +1,1 @@
+"The phrase ""well-ordering principle"" is sometimes taken to be synonymous with the ""well-ordering theorem""."

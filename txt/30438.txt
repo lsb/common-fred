@@ -1,0 +1,1 @@
+"For an ideal fluid, Bernoulli's equation holds along streamlines."

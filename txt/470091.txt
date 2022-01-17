@@ -1,0 +1,1 @@
+Not being associative, the nonzero elements of O do not form a group.

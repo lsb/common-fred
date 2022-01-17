@@ -1,0 +1,1 @@
+The tilting fuze mechanism is not affected by overpressure.

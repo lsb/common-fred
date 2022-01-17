@@ -1,0 +1,1 @@
+Evidence based on a hash of the assembly is easily obtained in code.

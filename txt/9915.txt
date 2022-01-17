@@ -1,0 +1,1 @@
+"A ""camera object"" unseen in the final image acted as the observer."

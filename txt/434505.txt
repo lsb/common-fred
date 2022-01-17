@@ -1,0 +1,1 @@
+Libraries that provides ability to access Ghostscript library from various programming languages.

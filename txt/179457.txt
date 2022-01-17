@@ -1,0 +1,1 @@
+Attributes are never subject to the default namespace.

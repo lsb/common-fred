@@ -1,0 +1,1 @@
+It gives only off-access southbound and on-access northbound.

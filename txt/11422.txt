@@ -1,0 +1,1 @@
+"A signal separated in this way is called ""component video""."

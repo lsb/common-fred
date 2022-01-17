@@ -1,0 +1,1 @@
+"Each point has a financial value that is based on each quarter's financial performance."

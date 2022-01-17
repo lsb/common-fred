@@ -1,0 +1,1 @@
+By definition, a change key is not a master key.

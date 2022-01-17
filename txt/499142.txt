@@ -1,0 +1,1 @@
+Programs not tracked by the MacUpdate website are not able to be updated.

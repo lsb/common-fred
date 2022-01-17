@@ -1,0 +1,1 @@
+Triple buffering reduces this latency significantly.

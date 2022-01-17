@@ -1,0 +1,1 @@
+The reinforcement can be either continuous, or discontinuous.

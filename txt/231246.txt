@@ -1,0 +1,1 @@
+Each occupation is identified by a four digit numerical code, called a designator.

@@ -1,0 +1,1 @@
+Communication channels are also studied in a discrete-alphabet setting.

@@ -1,0 +1,1 @@
+Each action can be associated with various data including icons, explanatory text, and tooltips.

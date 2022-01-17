@@ -1,0 +1,1 @@
+The two outputs of the mixer are the sum and difference of two signals.

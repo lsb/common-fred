@@ -1,0 +1,1 @@
+The second stage is on top of the main stage and below the payload.

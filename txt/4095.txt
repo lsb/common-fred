@@ -1,0 +1,1 @@
+"""Kaskade"" was a European juggling magazine, published in both English and German."

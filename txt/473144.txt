@@ -1,0 +1,1 @@
+Of course, this usually requires access to the application source code (or at least an extension).

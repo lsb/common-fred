@@ -1,0 +1,1 @@
+"Let ""X"" be a set of independent Rademacher distributed random variables."

@@ -1,0 +1,1 @@
+Cluster fusion references end abruptly at that point.

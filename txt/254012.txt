@@ -1,0 +1,1 @@
+From the definition of tensor, the Cauchy stress tensor obeys the tensor transformation law.

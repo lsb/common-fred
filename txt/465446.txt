@@ -1,0 +1,1 @@
+New products will have this text printed, rather than stickered.

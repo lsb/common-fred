@@ -1,0 +1,1 @@
+Premiere Pro project files are not compatible with Premiere Elements projects files.

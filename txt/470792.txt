@@ -1,0 +1,1 @@
+Note: Biped does not create character mesh objects.

@@ -1,0 +1,1 @@
+When there are no outstanding requests, the thread is put to sleep.

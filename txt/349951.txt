@@ -1,0 +1,1 @@
+If the uploaded avatar is larger or smaller, the avatar is scaled appropriately.

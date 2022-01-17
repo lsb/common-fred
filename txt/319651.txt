@@ -1,0 +1,1 @@
+Here, bitmaps are applied to polygons as textures.

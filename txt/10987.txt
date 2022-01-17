@@ -1,0 +1,1 @@
+"A neuron's dendrites receive signals, and its axon sends them."

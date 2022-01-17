@@ -1,0 +1,1 @@
+As computers and compilers become faster, this fact becomes less of an obstacle.

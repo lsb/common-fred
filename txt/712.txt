@@ -1,0 +1,1 @@
+"""Banglapedia"" was not designed as a general encyclopedia."

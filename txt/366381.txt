@@ -1,0 +1,1 @@
+In-degree and out-degree variables are related to centrality.

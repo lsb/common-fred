@@ -1,0 +1,1 @@
+A king can jump any number of squares forward and backward.

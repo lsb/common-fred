@@ -1,0 +1,1 @@
+"""Seven News"" stalwart Geof Parry is the current state political reporter."

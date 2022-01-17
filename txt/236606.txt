@@ -1,0 +1,1 @@
+Equivalently, its ring of integers has unique factorization.

@@ -1,0 +1,1 @@
+Combat occurs when the party runs into one or more enemies.

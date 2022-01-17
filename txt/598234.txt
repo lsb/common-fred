@@ -1,0 +1,1 @@
+The construction may also be extended to cover Banach spaces and Hilbert spaces.

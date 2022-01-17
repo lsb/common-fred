@@ -1,0 +1,1 @@
+Wily is one of the few editors that supports mouse chording.

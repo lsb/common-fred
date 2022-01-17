@@ -1,0 +1,1 @@
+"Technical factors that affect the difference are presented in the ""goodput"" article."

@@ -1,0 +1,1 @@
+This cycle may be allowed to repeat many times, over hours or days.

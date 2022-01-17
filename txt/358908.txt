@@ -1,0 +1,1 @@
+In order to decrypt, the corrective code of the decoding algorithm should be applied.

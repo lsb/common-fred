@@ -1,0 +1,1 @@
+The protocol consisted of two distinct parts: control protocols and a data transport protocol.

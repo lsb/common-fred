@@ -1,0 +1,1 @@
+Otherwise, the stack frames are allocated from the heap.

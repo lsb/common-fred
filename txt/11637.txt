@@ -1,0 +1,1 @@
+"A symmetric coin has two sides, arbitrarily labeled ""heads"" and ""tails""."

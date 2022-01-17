@@ -1,0 +1,1 @@
+Triples are used in homotopy theory.

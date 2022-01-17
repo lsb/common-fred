@@ -1,0 +1,1 @@
+"Moreover, in Heath-Brown's result the constant ""c"" is effectively computable."

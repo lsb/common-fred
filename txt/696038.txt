@@ -1,0 +1,1 @@
+There have been many implementations of safe register in distributed systems.

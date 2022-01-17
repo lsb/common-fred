@@ -1,0 +1,1 @@
+"Selecting the text 'random' selects a random quote."

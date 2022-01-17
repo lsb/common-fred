@@ -1,0 +1,1 @@
+"""PartiallyClips"" is updated twice weekly, on Sundays and Thursdays."

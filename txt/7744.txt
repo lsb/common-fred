@@ -1,0 +1,1 @@
+"""The Jordan Times"" maintains editorial independence from its sister daily ""Al Rai""."

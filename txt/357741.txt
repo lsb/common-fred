@@ -1,0 +1,1 @@
+In it, a fuzzball must navigate several maps and avoid the enemy.

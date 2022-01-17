@@ -1,0 +1,1 @@
+These phrases are used to form a Markov Random Field representing the incoming texts.

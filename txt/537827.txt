@@ -1,0 +1,1 @@
+Some Unix-like systems provide other diagnostic tools similar to strace, such as truss.

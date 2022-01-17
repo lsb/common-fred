@@ -1,0 +1,1 @@
+Every instance of a real random variable is unique.

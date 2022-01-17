@@ -1,0 +1,1 @@
+In these experiments, the interstimulus interval is simply the time between the two flashes.

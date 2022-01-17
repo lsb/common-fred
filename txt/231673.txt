@@ -1,0 +1,1 @@
+Each row represents one Beanpot.

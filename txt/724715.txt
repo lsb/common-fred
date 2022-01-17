@@ -1,0 +1,1 @@
+This allows users to search by folder name.

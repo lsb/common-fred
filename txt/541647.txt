@@ -1,0 +1,1 @@
+Some systems have the ability to send a notification of failover.

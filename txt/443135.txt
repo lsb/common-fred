@@ -1,0 +1,1 @@
+Many decoders will also constantly adjust motor power to maintain constant speed.

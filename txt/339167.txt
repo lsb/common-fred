@@ -1,0 +1,1 @@
+However, the digital circuit will calculate more repeatably, because of its high noise immunity.

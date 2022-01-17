@@ -1,0 +1,1 @@
+Spells are cast using mana, not gold as in the first game.

@@ -1,0 +1,1 @@
+"A resource is identified by an ""address"" within an ""address space""."

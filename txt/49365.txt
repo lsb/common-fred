@@ -1,0 +1,1 @@
+"In contrast to platform-specific guidelines, cross-platform guidelines aren't tied to a distinct platform."

@@ -1,0 +1,1 @@
+This is the lowest order of polyomino for which such exceptions exist.

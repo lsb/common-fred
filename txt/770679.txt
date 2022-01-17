@@ -1,0 +1,1 @@
+We can then form its determinant, known as the Jacobian determinant.

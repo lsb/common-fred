@@ -1,0 +1,1 @@
+"Lloyd's algorithm is usually used in a Euclidean space."

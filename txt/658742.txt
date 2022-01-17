@@ -1,0 +1,1 @@
+The robot is a multi-jointed arm, having five degrees of freedom.

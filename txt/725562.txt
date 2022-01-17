@@ -1,0 +1,1 @@
+This beam features many transponders with low symbol rates, used for satellite news gathering.

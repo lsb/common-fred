@@ -1,0 +1,1 @@
+It does this by effectively changing to cipher feedback mode for one block.

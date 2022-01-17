@@ -1,0 +1,1 @@
+Linux virtual console operates in text mode.

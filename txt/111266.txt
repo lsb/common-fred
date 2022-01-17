@@ -1,0 +1,1 @@
+"This is to be distinguished from ""semaphore"", which merely transmits messages."

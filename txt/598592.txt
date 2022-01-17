@@ -1,0 +1,1 @@
+The conversation display was also redesigned and various disk space saving optimizations were implemented.

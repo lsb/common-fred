@@ -1,0 +1,1 @@
+This functionality allows the wooden weapon to be handled more like its steel counterpart.

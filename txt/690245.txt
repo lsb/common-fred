@@ -1,0 +1,1 @@
+Then the frequency can be read from the calibrated readout on the stroboscope.

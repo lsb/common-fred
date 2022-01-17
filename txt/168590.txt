@@ -1,0 +1,1 @@
+Applications need not be exclusively synchronous or asynchronous.

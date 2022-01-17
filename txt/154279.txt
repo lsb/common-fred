@@ -1,0 +1,1 @@
+All platforms now have bi-directional signalling, and the goods loop is now operational.

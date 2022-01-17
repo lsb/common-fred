@@ -1,0 +1,1 @@
+"For example, Apple's Cocoa framework recommends this approach."

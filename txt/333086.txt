@@ -1,0 +1,1 @@
+Hosts are assigned multiple addresses, one for each provider.

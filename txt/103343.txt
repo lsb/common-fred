@@ -1,0 +1,1 @@
+"The theorem can also be deduced directly from Hadamard's three-lines theorem."

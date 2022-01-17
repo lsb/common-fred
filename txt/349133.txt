@@ -1,0 +1,1 @@
+If a set is not stationary, then it is called a thin set.

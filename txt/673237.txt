@@ -1,0 +1,1 @@
+The team with the most runs after a predefined number of innings wins.

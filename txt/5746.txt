@@ -1,0 +1,1 @@
+"""Persicaria maculosa"" contains persicarin and tannins."

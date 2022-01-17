@@ -1,0 +1,1 @@
+It needs four triplets of G, separated by short spacers.

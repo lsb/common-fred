@@ -1,0 +1,1 @@
+When an infected file is executed, Alabama goes memory resident.

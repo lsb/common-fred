@@ -1,0 +1,1 @@
+It uses different types of calls for specific situations.

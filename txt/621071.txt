@@ -1,0 +1,1 @@
+The head movement is facilitated by brushed direct-current motors.

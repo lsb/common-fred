@@ -1,0 +1,1 @@
+Two seven-digit numbers are sufficient to specify a location with a one m resolution.

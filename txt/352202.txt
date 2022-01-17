@@ -1,0 +1,1 @@
+In Kalmykia, a Cyrillic-based script system has been implemented.

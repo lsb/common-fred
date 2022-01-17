@@ -1,0 +1,1 @@
+And, the hypergraph dual of vertex coloring is edge coloring.

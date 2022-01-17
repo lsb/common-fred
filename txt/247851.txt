@@ -1,0 +1,1 @@
+For example, Newtonian, Hamiltonian and Lagrangian classical mechanics are equivalent.

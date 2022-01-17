@@ -1,0 +1,1 @@
+All four nodes have an odd number of edges.

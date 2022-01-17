@@ -1,0 +1,1 @@
+It uses multiple views to show different partitions of a dataset.

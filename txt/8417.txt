@@ -1,0 +1,1 @@
+"""Tinamus"" was the name given to the tinamou by the Kalina people."

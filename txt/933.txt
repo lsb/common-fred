@@ -1,0 +1,1 @@
+"""Blueprints for the Black Market"" garnered generally positive reception from Music critics."

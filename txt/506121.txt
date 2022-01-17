@@ -1,0 +1,1 @@
+Ribosome recycling step is responsible for the disassembly of the post-termination ribosomal complex.

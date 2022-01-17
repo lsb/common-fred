@@ -1,0 +1,1 @@
+There are four different types of robot in the game, each with different behaviour.

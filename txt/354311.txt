@@ -1,0 +1,1 @@
+In addition, diffusion of responsibility is more likely to occur under conditions of anonymity.

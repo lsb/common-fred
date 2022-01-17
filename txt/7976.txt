@@ -1,0 +1,1 @@
+"""The Shak"" was originally set at Sea World before being moved to WhiteWater World."

@@ -1,0 +1,1 @@
+The metafile format is an intermediate format.

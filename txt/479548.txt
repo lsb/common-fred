@@ -1,0 +1,1 @@
+One way would be to make it bigger, to have more neurons.

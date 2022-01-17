@@ -1,0 +1,1 @@
+The service operates hourly, seven days a week.

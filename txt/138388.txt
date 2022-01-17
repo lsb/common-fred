@@ -1,0 +1,1 @@
+A vital feature of the Newton handwriting recognition system is the modeless error correction.

@@ -1,0 +1,1 @@
+Flex has many components serving as framework for the technique of Adobe Flash Plattform.

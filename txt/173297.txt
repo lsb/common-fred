@@ -1,0 +1,1 @@
+As r gets very high, there are oscillations and deterministic chaos.

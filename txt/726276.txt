@@ -1,0 +1,1 @@
+This can complicate optimization techniques that are applied on machine code.

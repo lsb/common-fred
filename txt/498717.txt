@@ -1,0 +1,1 @@
+Processors with two or more cores are increasingly common today.

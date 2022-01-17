@@ -1,0 +1,1 @@
+It was specifically created for embedded operating systems with very limited resources.

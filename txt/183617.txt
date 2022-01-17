@@ -1,0 +1,1 @@
+Because the header lacks error detection codes, it is repeated three times for redundancy.

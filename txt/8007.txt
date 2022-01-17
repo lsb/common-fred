@@ -1,0 +1,1 @@
+"""The Spectator"" prints twice a year and is entirely student run."

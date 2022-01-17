@@ -1,0 +1,1 @@
+The Barkhausen criterion mentioned above does not determine the amplitude of oscillation.

@@ -1,0 +1,1 @@
+"Such a ""Q"" is a delta operator."

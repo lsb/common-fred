@@ -1,0 +1,1 @@
+"Let ""V"" denote a Banach space over the field ""F""."

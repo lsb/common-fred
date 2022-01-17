@@ -1,0 +1,1 @@
+"""Bacillus subtilis"" is a Gram-positive bacterium, rod-shaped and catalase-positive."

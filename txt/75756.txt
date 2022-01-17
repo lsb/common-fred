@@ -1,0 +1,1 @@
+"Shallow approaches don't try to understand the text."

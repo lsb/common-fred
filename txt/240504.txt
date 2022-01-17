@@ -1,0 +1,1 @@
+Extended validation certificates turn the address bar green in newer browsers.

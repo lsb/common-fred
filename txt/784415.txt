@@ -1,0 +1,1 @@
+Without this capability, the only lock available is for the entire configuration.

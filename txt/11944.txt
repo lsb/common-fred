@@ -1,0 +1,1 @@
+"Abel's theorem allows us to evaluate many series in closed form."

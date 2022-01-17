@@ -1,0 +1,1 @@
+Its sights and feed mechanism were overly complicated.

@@ -1,0 +1,1 @@
+Digital waveguides are efficient computational models for physical media through which acoustic waves propagate.

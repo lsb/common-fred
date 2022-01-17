@@ -1,0 +1,1 @@
+This component is called the perpendicular component.

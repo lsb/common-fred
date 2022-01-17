@@ -1,0 +1,1 @@
+The comm algorithm makes use of the collating sequence of the current locale.

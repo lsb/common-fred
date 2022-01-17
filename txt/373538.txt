@@ -1,0 +1,1 @@
+It can also be characterized as linear logic with weakening.

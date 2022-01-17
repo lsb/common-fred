@@ -1,0 +1,1 @@
+Conversely, a wave whose phase drifts quickly will have a short coherence time.

@@ -1,0 +1,1 @@
+It is a solid-state memory card implemented as an ExpressCard module.

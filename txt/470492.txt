@@ -1,0 +1,1 @@
+Notable examples of these are Percentage Closer Filtering, Smoothies, and Variance Shadow maps.

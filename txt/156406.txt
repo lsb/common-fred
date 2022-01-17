@@ -1,0 +1,1 @@
+All values have been rounded to second digit of the standard deviation.

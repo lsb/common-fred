@@ -1,0 +1,1 @@
+Forming a triangle and a square simultaneously only allows two relocations, not three.

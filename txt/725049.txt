@@ -1,0 +1,1 @@
+This approach to indexing allows for quicker access to messages.

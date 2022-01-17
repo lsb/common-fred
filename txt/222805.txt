@@ -1,0 +1,1 @@
+Directed sets are a generalization of nonempty totally ordered sets.

@@ -1,0 +1,1 @@
+It can also provide a delivery service as part of a service oriented architecture.

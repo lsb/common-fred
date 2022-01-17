@@ -1,0 +1,1 @@
+"""Create-A-Superstar mode"" gives the freedom to manipulate any part of the superstar's body."

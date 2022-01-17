@@ -1,0 +1,1 @@
+Unlike many other music visualizations, the music drives the animation.

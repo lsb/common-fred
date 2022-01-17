@@ -1,0 +1,1 @@
+Applying this operation twice returns the same triple one started with.

@@ -1,0 +1,1 @@
+A simple polygon may be decomposed into monotone polygons as follows.

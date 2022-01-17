@@ -1,0 +1,1 @@
+It belongs to the application layer of the Internet protocol suite.

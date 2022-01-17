@@ -1,0 +1,1 @@
+"No voter's vote can be counted more than once for the same candidate."

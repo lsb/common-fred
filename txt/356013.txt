@@ -1,0 +1,1 @@
+In contrast, video pictures are recorded as a stream of video fields.

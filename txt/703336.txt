@@ -1,0 +1,1 @@
+These are actually attributes but are referred to as permissions or modes.

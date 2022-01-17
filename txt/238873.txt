@@ -1,0 +1,1 @@
+Every connected graph is an expander; however, different connected graphs have different expansion parameters.

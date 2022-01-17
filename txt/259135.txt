@@ -1,0 +1,1 @@
+Glass wall blocks should not be used in flooring applications.

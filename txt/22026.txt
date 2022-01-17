@@ -1,0 +1,1 @@
+"By Rademacher's theorem a bi-Lipschitz mapping is differentiable almost everywhere."

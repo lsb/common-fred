@@ -1,0 +1,1 @@
+"The non-maximal ideals then correspond to ""infinite""-dimensional representations."

@@ -1,0 +1,1 @@
+"Wilson has exhibited vectors ""u"" and ""v"" whose joint stabilizer is the trivial group."

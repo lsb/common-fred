@@ -1,0 +1,1 @@
+Modern animation will use various techniques to adapt the framerate to the current shot.

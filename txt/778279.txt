@@ -1,0 +1,1 @@
+Whether the software can be used with standard Email clients.

@@ -1,0 +1,1 @@
+The Euler numbers appear as a special value of the Euler polynomials.

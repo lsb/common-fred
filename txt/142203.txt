@@ -1,0 +1,1 @@
+Accordingly, it has a characteristic polynomial, whose roots are the eigenvalues.

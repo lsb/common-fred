@@ -1,0 +1,1 @@
+ExamDiff Pro can compare text and binary files, and directories.

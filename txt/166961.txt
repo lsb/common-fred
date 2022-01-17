@@ -1,0 +1,1 @@
+Another notion that is similar to potential isomorphism is that of local isomorphism.

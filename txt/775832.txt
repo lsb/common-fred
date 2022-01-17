@@ -1,0 +1,1 @@
+When a player attempts an action, he plays a card from his hand.

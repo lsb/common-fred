@@ -1,0 +1,1 @@
+As with other resonance effects, the amplitude of this wave grows linearly with time.

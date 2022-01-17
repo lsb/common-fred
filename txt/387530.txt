@@ -1,0 +1,1 @@
+It is expected that large network operators will maintain Teredo relays.

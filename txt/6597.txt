@@ -1,0 +1,1 @@
+"""See Town meeting for more details on the practice in New Hampshire"""

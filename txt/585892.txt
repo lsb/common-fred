@@ -1,0 +1,1 @@
+The board may have pre-existing tiles that players have to work with.

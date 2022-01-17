@@ -1,0 +1,1 @@
+"An example for this is the ""Open With"" option in the Windows Shell."

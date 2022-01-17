@@ -1,0 +1,1 @@
+"""Everyone Poops"" does not have a plot."

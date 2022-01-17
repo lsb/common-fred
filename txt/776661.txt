@@ -1,0 +1,1 @@
+When moving the cursor out of the window, the browser subsequently disappeared.

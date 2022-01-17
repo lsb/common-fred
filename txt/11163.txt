@@ -1,0 +1,1 @@
+"A point of a different label than ""x"" is called external to ""x""."

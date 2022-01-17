@@ -1,0 +1,1 @@
+It is the default file system for many popular Linux distributions.

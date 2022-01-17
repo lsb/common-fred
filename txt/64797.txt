@@ -1,0 +1,1 @@
+"Meteor scatter occurs when a signal bounces off a meteor's ionized trail."

@@ -1,0 +1,1 @@
+"""Fatal Racing"" can be considered to be a hybrid of ""Stunts"" and ""Destruction Derby""."

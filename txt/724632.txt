@@ -1,0 +1,1 @@
+This allows radiation oncologists to vary the intensity of each beamlet.

@@ -1,0 +1,1 @@
+"Measurement of the observable ""A"" yields an eigenvalue of ""A""."

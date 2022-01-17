@@ -1,0 +1,1 @@
+The internal network number is commonly used to identify NetWare file servers.

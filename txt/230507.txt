@@ -1,0 +1,1 @@
+Each card is placed in a colored quadrant of the board.

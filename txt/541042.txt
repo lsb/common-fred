@@ -1,0 +1,1 @@
+Some railcar classes have three digits.

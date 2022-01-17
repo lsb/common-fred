@@ -1,0 +1,1 @@
+Its eigenvalue will be the constant degree of the graph.

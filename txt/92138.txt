@@ -1,0 +1,1 @@
+"The filename extension was originally used to easily determine the file's generic type."

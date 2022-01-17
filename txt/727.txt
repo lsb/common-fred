@@ -1,0 +1,1 @@
+"""Barcode Bypass"" is about a small shopkeeper threatened by the supermarkets."

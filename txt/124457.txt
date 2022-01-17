@@ -1,0 +1,1 @@
+A device can also have two or all three roles at the same time.

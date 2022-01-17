@@ -1,0 +1,1 @@
+Tags are directives for Smarty that are enclosed by template delimiters.

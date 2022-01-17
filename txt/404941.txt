@@ -1,0 +1,1 @@
+It supported receivers with card slots and those with embedded keys.

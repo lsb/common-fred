@@ -1,0 +1,1 @@
+The project also has support for GtkSourceView, which provides a source code editor widget.

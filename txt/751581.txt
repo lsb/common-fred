@@ -1,0 +1,1 @@
+To select an individual unit, the player clicks on that unit.

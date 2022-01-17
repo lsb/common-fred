@@ -1,0 +1,1 @@
+Payment information is securely encoded and sent to the payment provider for validation.

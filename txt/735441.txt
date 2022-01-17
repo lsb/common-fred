@@ -1,0 +1,1 @@
+This library has additional functions that were inspired in Turbo Pascal functions.

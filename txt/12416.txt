@@ -1,0 +1,1 @@
+"Ada's generic package provides dynamic array implementation for a given subtype."

@@ -1,0 +1,1 @@
+Irrelevant information could include things like comments and white space.

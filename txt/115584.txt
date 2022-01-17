@@ -1,0 +1,1 @@
+"Unlike rings with unity however, ""a module does not necessarily have maximal submodules""."

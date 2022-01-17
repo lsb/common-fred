@@ -1,0 +1,1 @@
+Affines preserve the geodesic structure of the semi Riem.

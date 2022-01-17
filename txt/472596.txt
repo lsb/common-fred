@@ -1,0 +1,1 @@
+Objects, including the characters in the game, have a calculated size, weight and solidity.

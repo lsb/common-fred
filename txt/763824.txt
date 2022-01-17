@@ -1,0 +1,1 @@
+Up accelerates the ship and down slows down the ship.

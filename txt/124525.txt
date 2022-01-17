@@ -1,0 +1,1 @@
+A direction sign is placed below the stave when the direction changes.

@@ -1,0 +1,1 @@
+"A version of the lemma holds for right modules over non-commutative unitary rings ""R""."

@@ -1,0 +1,1 @@
+"Registered namespaces may be ""formal"" or ""informal""."

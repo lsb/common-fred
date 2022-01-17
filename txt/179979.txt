@@ -1,0 +1,1 @@
+Autocorrelation methods need at least two pitch periods to detect pitch.

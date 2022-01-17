@@ -1,0 +1,1 @@
+Both members and non-members can access the site.

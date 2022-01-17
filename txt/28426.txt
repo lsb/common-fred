@@ -1,0 +1,1 @@
+"Elements of the algebraic dual space ""V"" are sometimes called covectors or one-forms."

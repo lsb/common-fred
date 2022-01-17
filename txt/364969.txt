@@ -1,0 +1,1 @@
+In these devices the communication is only in one direction.

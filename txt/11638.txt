@@ -1,0 +1,1 @@
+"A system is ""stable"" if its control matrix is a Hurwitz matrix."

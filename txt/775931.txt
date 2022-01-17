@@ -1,0 +1,1 @@
+When arriving at or leaving a dock, they handle the mooring lines.

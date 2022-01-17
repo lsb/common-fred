@@ -1,0 +1,1 @@
+QuArK runs on Microsoft Windows.

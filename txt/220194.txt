@@ -1,0 +1,1 @@
+Design philosophies are usually for determining design goals.

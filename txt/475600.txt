@@ -1,0 +1,1 @@
+On some digital simulations of Hammond organs tonewheel leakage is a user-set parameter.

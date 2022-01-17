@@ -1,0 +1,1 @@
+Characters from the unreserved set never need to be percent-encoded.

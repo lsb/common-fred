@@ -1,0 +1,1 @@
+"""Fact or Fiction"" is a show dealing with unsolved mysteries and the paranormal."

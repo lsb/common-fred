@@ -1,0 +1,1 @@
+"This compression progress is proportional to the observer's internal reward, also called curiosity reward."

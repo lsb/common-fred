@@ -1,0 +1,1 @@
+This coupling capacitor is large enough to be a short-circuit at frequencies of interest.

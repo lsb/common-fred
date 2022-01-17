@@ -1,0 +1,1 @@
+Game ends if last sub is sunk.

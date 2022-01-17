@@ -1,0 +1,1 @@
+Consider a partially completed, possibly garbled crossword puzzle.

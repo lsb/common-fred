@@ -1,0 +1,1 @@
+This format is derived from Portable Game Notation, which is the standard chess format.

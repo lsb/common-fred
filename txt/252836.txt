@@ -1,0 +1,1 @@
+Free lists make the allocation and deallocation operations very simple.

@@ -1,0 +1,1 @@
+A Debye sphere is a volume whose radius is the Debye length.

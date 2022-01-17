@@ -1,0 +1,1 @@
+"""Massive"" is a software package developed by Stephen Regelous for the visual effects industry."

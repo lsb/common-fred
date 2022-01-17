@@ -1,0 +1,1 @@
+There are multiple poker tools that allow players to do statistical analysis of games.

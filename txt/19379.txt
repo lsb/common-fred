@@ -1,0 +1,1 @@
+"Befunge-extensions and variants are called ""Fungeoids"" or just ""Funges""."

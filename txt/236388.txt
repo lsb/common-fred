@@ -1,0 +1,1 @@
+Entry of pedestrians is not normally controlled, only vehicles.

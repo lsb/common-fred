@@ -1,0 +1,1 @@
+Two expressions which have the same referent are said to be co-referential.

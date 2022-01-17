@@ -1,0 +1,1 @@
+Display enhancements were encoded as embedded bytes in the stream.

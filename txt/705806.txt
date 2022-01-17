@@ -1,0 +1,1 @@
+These generalise the results of Max Deuring for the elliptic curve case.

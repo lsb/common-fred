@@ -1,0 +1,1 @@
+Racket is used to teach students algebra through game design in the Bootstrap program.

@@ -1,0 +1,1 @@
+"""Mighty Final Fight"" follows the same premise as the original ""Final Fight""."

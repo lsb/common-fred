@@ -1,0 +1,1 @@
+Tables are known as collections in Smallworld parlance.

@@ -1,0 +1,1 @@
+For example, an analog-to-digital converter is a mixed-signal circuit.

@@ -1,0 +1,1 @@
+To produce the sum beam the signal is distributed horizontally across the antenna aperture.

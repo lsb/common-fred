@@ -1,0 +1,1 @@
+Some audio conversion functions can be performed by software or by specialized hardware.

@@ -1,0 +1,1 @@
+Flexible borescopes suffer from pixelation and pixel crosstalk due to the fiber image guide.

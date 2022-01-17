@@ -1,0 +1,1 @@
+"""Real life"" examples include automated planning and resource allocation."

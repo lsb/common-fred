@@ -1,0 +1,1 @@
+"This will prevent the 'chimney effect', and thus safer in case of a fire."

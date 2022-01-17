@@ -1,0 +1,1 @@
+There are also fluids whose strain rate is a function of time.

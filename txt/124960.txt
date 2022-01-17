@@ -1,0 +1,1 @@
+A familiar example of an orthotropic material is wood.

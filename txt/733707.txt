@@ -1,0 +1,1 @@
+This is shown by the upper purple trace, the modulus control, A, counter output.

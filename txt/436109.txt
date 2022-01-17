@@ -1,0 +1,1 @@
+Line editors are limited to typewriter keyboard text-oriented input and output methods.

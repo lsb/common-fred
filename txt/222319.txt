@@ -1,0 +1,1 @@
+Different labels can also be illegal.

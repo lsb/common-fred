@@ -1,0 +1,1 @@
+Initial pushbutton designs employed levers, so that each button activated two contacts.

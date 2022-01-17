@@ -1,0 +1,1 @@
+If the player character collides with a robot, he dies and the game ends.

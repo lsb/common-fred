@@ -1,0 +1,1 @@
+In classical physics, physical configurations need to transform under representations of every symmetry group.

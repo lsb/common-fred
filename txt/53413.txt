@@ -1,0 +1,1 @@
+"It is an extension of Steinhaus's polygon notation."

@@ -1,0 +1,1 @@
+These newer boards have a different architecture than the earlier designs.

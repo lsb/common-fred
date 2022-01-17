@@ -1,0 +1,1 @@
+"This graph consists of two unit equilateral triangles joined at a common vertex-""x""."

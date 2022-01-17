@@ -1,0 +1,1 @@
+Examples of algebraic structures include groups, rings, fields, and lattices.

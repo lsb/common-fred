@@ -1,0 +1,1 @@
+In character encoding, word segmentation depends on which characters are defined as word dividers.

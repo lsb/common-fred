@@ -1,0 +1,1 @@
+The data-flow confluence operator used is set union, and the analysis is forward flow.

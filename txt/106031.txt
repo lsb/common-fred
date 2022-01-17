@@ -1,0 +1,1 @@
+"Theorem Let ""A"" be a closed operator on a Banach space ""X""."

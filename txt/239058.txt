@@ -1,0 +1,1 @@
+Every processor or processor family has its own machine code instruction set.

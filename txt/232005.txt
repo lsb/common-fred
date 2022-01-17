@@ -1,0 +1,1 @@
+Each turn, they may Teleport, Build, or Move.

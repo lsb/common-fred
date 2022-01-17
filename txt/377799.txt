@@ -1,0 +1,1 @@
+It had the ability to set simple colours and styles.

@@ -1,0 +1,1 @@
+Internally it provided five registers plus the program counter, but no stack pointer.

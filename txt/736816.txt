@@ -1,0 +1,1 @@
+This model contains the relationship between leadership style and the favorable-ness of the situation.

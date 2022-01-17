@@ -1,0 +1,1 @@
+This was accomplished by repeating the words one entered into the external microphone.

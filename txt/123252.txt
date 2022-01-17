@@ -1,0 +1,1 @@
+A clade is a group in which all members have the same common ancestor.

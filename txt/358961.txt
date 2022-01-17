@@ -1,0 +1,1 @@
+In order to resist fragmentation, several extent-based file systems do allocate-on-flush.

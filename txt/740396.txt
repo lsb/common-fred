@@ -1,0 +1,1 @@
+This sensor measures the pressure relative to perfect vacuum.

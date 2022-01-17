@@ -1,0 +1,1 @@
+Similar series may be obtained by exploring the Hurwitz zeta function at half-integer values.

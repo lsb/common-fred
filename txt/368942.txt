@@ -1,0 +1,1 @@
+Instruction simulation can detect these conditions before execution.

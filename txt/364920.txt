@@ -1,0 +1,1 @@
+In these applications, one is often interested in the power radiated in the far-field.

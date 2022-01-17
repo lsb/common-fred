@@ -1,0 +1,1 @@
+"System B, however, does not depend explicitly on ""t"" so it is time-invariant."

@@ -1,0 +1,1 @@
+Google WebP also support Truecolor with alpha channel animation.

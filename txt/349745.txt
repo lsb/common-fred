@@ -1,0 +1,1 @@
+If the device does not detect anything of interest, no image is presented.

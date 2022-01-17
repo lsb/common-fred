@@ -1,0 +1,1 @@
+Electrode potential is the electric potential on an electrode component.

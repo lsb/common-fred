@@ -1,0 +1,1 @@
+But it does not allow for adding new members to interfaces.

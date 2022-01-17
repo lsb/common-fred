@@ -1,0 +1,1 @@
+Its collective edges represent the reflection planes of the symmetry.

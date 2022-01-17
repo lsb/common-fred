@@ -1,0 +1,1 @@
+Then, uniqueness theorem is employed to show that the obtained solution is unique.

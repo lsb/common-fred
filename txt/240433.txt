@@ -1,0 +1,1 @@
+Exponential decay occurs in the same way when the growth rate is negative.

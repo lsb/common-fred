@@ -1,0 +1,1 @@
+Only three prototypes were built before the program was cancelled.

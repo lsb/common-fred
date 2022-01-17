@@ -1,0 +1,1 @@
+"""I'm a Zen Buddhist student first, actor second"", Coyote has said."

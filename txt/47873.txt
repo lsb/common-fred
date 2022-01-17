@@ -1,0 +1,1 @@
+"If the set ""X"" is finite, its cardinality is called the ""degree"" of ""G""."

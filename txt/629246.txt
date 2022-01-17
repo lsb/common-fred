@@ -1,0 +1,1 @@
+The line in position A is perceived to move to position B.

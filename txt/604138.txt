@@ -1,0 +1,1 @@
+The dimensions of the canvas are a golden rectangle.

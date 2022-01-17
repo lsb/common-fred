@@ -1,0 +1,1 @@
+It can be used equally well as an interface definition language for distributed systems.

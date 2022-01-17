@@ -1,0 +1,1 @@
+Genomes are linear and segmented, tripartite.

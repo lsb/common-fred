@@ -1,0 +1,1 @@
+If this mapping exists, it is possible to select and copy text.

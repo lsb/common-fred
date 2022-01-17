@@ -1,0 +1,1 @@
+This would give a higher peak speed but a lower average speed.

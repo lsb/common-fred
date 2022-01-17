@@ -1,0 +1,1 @@
+In many cases, the image is also modified or re-rendered between frames.

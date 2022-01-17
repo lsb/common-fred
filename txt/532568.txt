@@ -1,0 +1,1 @@
+Similar to JavaScript, Windows PowerShell allows the final semicolon to be left off.

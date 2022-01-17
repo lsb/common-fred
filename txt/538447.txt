@@ -1,0 +1,1 @@
+Some commercial Electronic Health Record systems use a workflow engine to execute clinical guidelines.

@@ -1,0 +1,1 @@
+All the bottom or low-level modules, procedures or functions are integrated and then tested.

@@ -1,0 +1,1 @@
+The developer would then hand-modify a concrete implementation of the generated interface.

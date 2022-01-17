@@ -1,0 +1,1 @@
+When restarted, the file will restart from the last save.

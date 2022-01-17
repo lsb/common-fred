@@ -1,0 +1,1 @@
+Neither plug nor socket is compatible with other plugs and sockets.

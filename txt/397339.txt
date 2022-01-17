@@ -1,0 +1,1 @@
+It is the inertia of a rotating body with respect to its rotation.

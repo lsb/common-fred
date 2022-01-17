@@ -1,0 +1,1 @@
+This limits recording time only by power supply and the available number of cards.

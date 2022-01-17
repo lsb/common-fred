@@ -1,0 +1,1 @@
+The function codes were independent of the character set used and the shift state.

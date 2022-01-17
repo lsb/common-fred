@@ -1,0 +1,1 @@
+"More generally, any quasi-projective scheme over ""k"" is of finite type over ""k""."

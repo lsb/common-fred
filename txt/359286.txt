@@ -1,0 +1,1 @@
+In particular, infinitary logics may fail to be compact or complete.

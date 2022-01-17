@@ -1,0 +1,1 @@
+For Kepler orbits the eccentricity vector is a constant of motion.

@@ -1,0 +1,1 @@
+ActiveMovie, however, did not support video capture.

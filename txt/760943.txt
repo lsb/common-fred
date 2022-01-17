@@ -1,0 +1,1 @@
+Two-processor socket configurations do not support hyperthreading.

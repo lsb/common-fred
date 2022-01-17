@@ -1,0 +1,1 @@
+For example, a very simple synchronous circuit is shown in the figure.

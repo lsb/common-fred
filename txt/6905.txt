@@ -1,0 +1,1 @@
+"""Solar Lottery"" takes place in a world dominated by logic and numbers."

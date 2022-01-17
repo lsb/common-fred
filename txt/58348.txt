@@ -1,0 +1,1 @@
+"Its graph is the ""x""-axis in the plane."

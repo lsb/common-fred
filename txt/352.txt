@@ -1,0 +1,1 @@
+"""Alpha Arietis"" is the star's Bayer designation."

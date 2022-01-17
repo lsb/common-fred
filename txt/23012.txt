@@ -1,0 +1,1 @@
+"Changes to the working copy are reflected in the repository by ""committing"" them."

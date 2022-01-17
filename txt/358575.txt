@@ -1,0 +1,1 @@
+In most cases, quotas are also specific to individual file systems.

@@ -1,0 +1,1 @@
+"Therefore, if Zorn's lemma is assumed, every infinite connected graph has a spanning tree."

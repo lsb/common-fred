@@ -1,0 +1,1 @@
+The phase-type distribution is the time to absorption of a finite state Markov process.

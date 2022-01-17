@@ -1,0 +1,1 @@
+"""Golgo"" is short for Golgotha, the place of Jesus' crucifixion."

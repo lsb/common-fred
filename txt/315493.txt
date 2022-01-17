@@ -1,0 +1,1 @@
+Hecke operators may be studied geometrically, as correspondences connecting pairs of modular curves.

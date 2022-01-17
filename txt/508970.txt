@@ -1,0 +1,1 @@
+Router discovery is useful for accessing computer systems on other nonlocal area networks.

@@ -1,0 +1,1 @@
+"""Horst Wessel"" was an improvement on the original design."

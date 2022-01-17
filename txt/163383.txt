@@ -1,0 +1,1 @@
+An overall score is based on a geometric mean.

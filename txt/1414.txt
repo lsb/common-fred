@@ -1,0 +1,1 @@
+"""Citrus bergamia"" is a small tree that blossoms during the winter."

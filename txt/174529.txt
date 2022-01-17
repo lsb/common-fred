@@ -1,0 +1,1 @@
+As with clock stretching, not all devices support arbitration.

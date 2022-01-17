@@ -1,0 +1,1 @@
+Because of this edge-degeneracy, it is not always considered to be a uniform polyhedron.

@@ -1,0 +1,1 @@
+Each takeoff and landing counts as an aircraft operation.

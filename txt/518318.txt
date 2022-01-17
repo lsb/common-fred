@@ -1,0 +1,1 @@
+Sharpe, modeled the time lag for pathogen incubation.

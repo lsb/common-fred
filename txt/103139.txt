@@ -1,0 +1,1 @@
+"The term 'saddle-node bifurcation' is most often used in reference to continuous dynamical systems."

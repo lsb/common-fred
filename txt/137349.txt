@@ -1,0 +1,1 @@
+A team wins by scoring more runs than its opponent.

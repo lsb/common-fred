@@ -1,0 +1,1 @@
+"""Principles and Pathways"" offers twelve key permaculture design principles, each explained in separate chapters."

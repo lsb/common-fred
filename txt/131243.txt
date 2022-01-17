@@ -1,0 +1,1 @@
+A marble represents a single message left on the answering machine.

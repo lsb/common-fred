@@ -1,0 +1,1 @@
+"Current Hong Kong Time can be obtained from the Observatory's Network Time Server."

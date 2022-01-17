@@ -1,0 +1,1 @@
+"With a bias voltage ""U"", electrons tunnel preferentially to the positive electrode."

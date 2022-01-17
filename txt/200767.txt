@@ -1,0 +1,1 @@
+Calculating the undulation factor is mathematically challenging.

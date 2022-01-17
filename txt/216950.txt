@@ -1,0 +1,1 @@
+D-channel backup allows for a second D channel in case the primary fails.

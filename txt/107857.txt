@@ -1,0 +1,1 @@
+"These protocols are also referred to as ""Non Access Stratum"" protocols."

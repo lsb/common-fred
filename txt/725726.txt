@@ -1,0 +1,1 @@
+This binary search procedure can be used to convert floating-point numbers into rational numbers.

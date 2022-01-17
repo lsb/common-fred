@@ -1,0 +1,1 @@
+Heavier armor offers more hit points and ammunition but slower movement.

@@ -1,0 +1,1 @@
+"If a distance metric is defined between strings, the resulting structure is a ""landscape""."

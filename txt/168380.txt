@@ -1,0 +1,1 @@
+Apostatic selection is the main mechanism that creates polymorphism.

@@ -1,0 +1,1 @@
+Elliptic integrals can be seen as generalizations of inverse trigonometric functions.

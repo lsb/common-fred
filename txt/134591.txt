@@ -1,0 +1,1 @@
+A renewal process is a generalization of the Poisson process.

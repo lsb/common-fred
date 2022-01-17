@@ -1,0 +1,1 @@
+Defining quantifiers that way leads to a great lack of efficiency.

@@ -1,0 +1,1 @@
+On a disconnected manifold, the volume of each connected component is the invariant.

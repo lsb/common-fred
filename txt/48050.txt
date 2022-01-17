@@ -1,0 +1,1 @@
+"Immediately after a ""Show"" line, the subsequent lines are indented one level."

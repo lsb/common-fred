@@ -1,0 +1,1 @@
+This, combined with the small size of the contacts, prevented connections in some cases.

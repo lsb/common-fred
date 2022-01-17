@@ -1,0 +1,1 @@
+"""Cole"" was the only unit not 'damaged' during the exercise."

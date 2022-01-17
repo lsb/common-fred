@@ -1,0 +1,1 @@
+"Any algebraically closed field such as the complex numbers has Rolle's property."

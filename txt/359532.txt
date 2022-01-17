@@ -1,0 +1,1 @@
+In practice, most metal-semiconductor interfaces do not follow this rule to the predicted degree.

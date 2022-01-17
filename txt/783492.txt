@@ -1,0 +1,1 @@
+With the model-based approach, all the assumptions are effectively encoded in the model.

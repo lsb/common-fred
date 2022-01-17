@@ -1,0 +1,1 @@
+"""Pop Idol"" used the red button as a voting device."

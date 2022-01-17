@@ -1,0 +1,1 @@
+The service publishes updates by sending event messages.

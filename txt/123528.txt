@@ -1,0 +1,1 @@
+A common example involves the quaternionic representation of rotations in three dimensions.

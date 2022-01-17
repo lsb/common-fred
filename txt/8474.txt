@@ -1,0 +1,1 @@
+"""Top Honor Prize"" is the highest recognition of the World Peace Prize."

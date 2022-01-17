@@ -1,0 +1,1 @@
+Every subsequential limit is a cluster point, but not conversely.

@@ -1,0 +1,1 @@
+To finish the identification, the columns and the rows should be normalized at first.

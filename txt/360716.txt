@@ -1,0 +1,1 @@
+In some installations, the weights are unequal, allowing damping over a greater frequency range.

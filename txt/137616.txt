@@ -1,0 +1,1 @@
+A threshold is estimated from the mean midpoint of all runs.

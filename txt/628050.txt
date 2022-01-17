@@ -1,0 +1,1 @@
+The law of reflection can also be equivalently expressed using linear algebra.

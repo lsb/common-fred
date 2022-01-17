@@ -1,0 +1,1 @@
+Particle does not exert a force on itself.

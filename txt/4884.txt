@@ -1,0 +1,1 @@
+"""Monomial"" is a syncope by haplology of ""mononomial""."

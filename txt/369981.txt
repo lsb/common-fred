@@ -1,0 +1,1 @@
+Irrigation could be provided separately for each section of water-meadow.

@@ -1,0 +1,1 @@
+In other words, any simple algebra is a central simple algebra over its center.

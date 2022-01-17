@@ -1,0 +1,1 @@
+If the three given circles are tangent to each other, then the problem of Apollonius has five solutions.

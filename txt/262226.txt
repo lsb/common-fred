@@ -1,0 +1,1 @@
+Group-Specific Queries are used for determining the reception state for a particular multicast address.

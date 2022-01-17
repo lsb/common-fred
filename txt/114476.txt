@@ -1,0 +1,1 @@
+"Tomita's goal was to parse natural language text thoroughly and efficiently."

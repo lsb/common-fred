@@ -1,0 +1,1 @@
+When it is divided by the time, this will yield the angular velocity vector.

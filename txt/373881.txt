@@ -1,0 +1,1 @@
+It can be proven that the definitions imply that the following also holds.

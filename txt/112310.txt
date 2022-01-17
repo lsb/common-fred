@@ -1,0 +1,1 @@
+"This structure is called a ""comparator""."

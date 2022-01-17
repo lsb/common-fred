@@ -1,0 +1,1 @@
+Gaussian charts are often less convenient than Schwarzschild or isotropic charts.

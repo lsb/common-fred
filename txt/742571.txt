@@ -1,0 +1,1 @@
+This type of aerodynamic noise is mostly low frequency determined by the rotor speed.

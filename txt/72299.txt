@@ -1,0 +1,1 @@
+"Processes cannot share ""local"" variables and cooperate in the construction of shared ""contexts."

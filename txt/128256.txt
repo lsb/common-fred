@@ -1,0 +1,1 @@
+A lean burn mode is a way to reduce throttling losses.

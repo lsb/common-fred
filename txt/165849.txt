@@ -1,0 +1,1 @@
+Angular radius equals half the angular diameter.

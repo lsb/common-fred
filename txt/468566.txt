@@ -1,0 +1,1 @@
+Non-inert gases can be removed by suitable getters.

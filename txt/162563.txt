@@ -1,0 +1,1 @@
+An expectation on an algebra of random variables is a normalized, positive linear functional.

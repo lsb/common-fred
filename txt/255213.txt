@@ -1,0 +1,1 @@
+Further experiments changed the number of each different type of light.

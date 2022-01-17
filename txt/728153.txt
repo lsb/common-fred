@@ -1,0 +1,1 @@
+This difference is used to update the model by using Kalman filtering technique.

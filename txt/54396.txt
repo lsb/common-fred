@@ -1,0 +1,1 @@
+"It is striking that this property is independent of the choice of ""f""."

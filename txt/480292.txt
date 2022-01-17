@@ -1,0 +1,1 @@
+Only one instrument can be put on each instrument cable signal pair.

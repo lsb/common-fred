@@ -1,0 +1,1 @@
+The action is viewed from the side and scrolls in eight directions.

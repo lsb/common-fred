@@ -1,0 +1,1 @@
+The quadratic loss function is also used in linear-quadratic optimal control problems.

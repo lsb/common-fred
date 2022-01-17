@@ -1,0 +1,1 @@
+Clicking on an entry displays a comparison of the two selected files.

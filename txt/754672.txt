@@ -1,0 +1,1 @@
+Topologies are often best understood by describing how sequences converge.

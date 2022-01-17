@@ -1,0 +1,1 @@
+Sun recommend that failures should be reported as program bugs.

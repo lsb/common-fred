@@ -1,0 +1,1 @@
+"""The Front"" was written by Adam I. Lapidus and directed by Rich Moore."

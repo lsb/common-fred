@@ -1,0 +1,1 @@
+It is also called Phong interpolation or normal-vector interpolation shading.

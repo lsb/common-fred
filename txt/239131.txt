@@ -1,0 +1,1 @@
+Every theory with quantifier elimination is model complete.

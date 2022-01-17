@@ -1,0 +1,1 @@
+"Within this group, a host is designated as ""Master""."

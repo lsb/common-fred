@@ -1,0 +1,1 @@
+The interface allowed the listener to control various aspects of music playback.

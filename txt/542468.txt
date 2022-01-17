@@ -1,0 +1,1 @@
+Sometimes precipitation is rate-limited by the nucleation process.

@@ -1,0 +1,1 @@
+Range voting does not satisfy the Majority criterion.

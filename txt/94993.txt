@@ -1,0 +1,1 @@
+"The light sensitivity, known as 'spectral response', depends on the type of pyranometer."

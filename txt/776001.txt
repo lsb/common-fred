@@ -1,0 +1,1 @@
+When certain parameters are omitted, the Gummel-Poon model reduces to the simpler Ebers-Moll model.

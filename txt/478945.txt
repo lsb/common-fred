@@ -1,0 +1,1 @@
+One of up to sixteen different images can be selected at boot time.

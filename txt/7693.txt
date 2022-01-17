@@ -1,0 +1,1 @@
+"""The Guardian"" received hundreds of letters from readers describing memorable holidays to the islands."

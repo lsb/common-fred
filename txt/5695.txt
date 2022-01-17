@@ -1,0 +1,1 @@
+"""Pathological factors"" can also influence drug metabolism, including liver, kidney, or heart diseases."

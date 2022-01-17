@@ -1,0 +1,1 @@
+"This will generally intersect the cubic at a third point, ""R""."

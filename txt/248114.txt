@@ -1,0 +1,1 @@
+For example, spectral measures are sigma-additive functions with values in a Banach algebra.

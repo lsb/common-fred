@@ -1,0 +1,1 @@
+Joints that connect bodies in this system remove degrees of freedom and reduce mobility.

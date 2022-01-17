@@ -1,0 +1,1 @@
+As an example, a dictionary may contain definitions of many words.

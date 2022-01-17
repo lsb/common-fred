@@ -1,0 +1,1 @@
+Users wanting this function use a third-party clipboard manager that replaces the default clipboard.

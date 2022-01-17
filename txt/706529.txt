@@ -1,0 +1,1 @@
+These languages are the exception to the common ground between procedural and functional languages.

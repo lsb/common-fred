@@ -1,0 +1,1 @@
+Rendering previews are shown in real time.

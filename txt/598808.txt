@@ -1,0 +1,1 @@
+The correct approximation for the propagation in the far field is Fresnel diffraction.

@@ -1,0 +1,1 @@
+This design has a considerable performance gain over journaling, by just bypassing that step.

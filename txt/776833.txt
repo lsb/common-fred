@@ -1,0 +1,1 @@
+When rotated, the distance scale will also rotate to show the changing focus distance.

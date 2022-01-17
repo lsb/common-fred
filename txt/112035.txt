@@ -1,0 +1,1 @@
+"This represents the gray area to the left of ""x"" in the figure."

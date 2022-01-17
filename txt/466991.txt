@@ -1,0 +1,1 @@
+No draw can result; the first player can always win with correct play.

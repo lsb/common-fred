@@ -1,0 +1,1 @@
+Free variable values are found using static lexical scoping.

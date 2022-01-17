@@ -1,0 +1,1 @@
+On systems with many aggregates this can result in lost storage capacity.

@@ -1,0 +1,1 @@
+Two Laurent polynomials are equal if their coefficients are equal.

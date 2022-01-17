@@ -1,0 +1,1 @@
+There are other routing providers and applications listed in the official Routing wiki.

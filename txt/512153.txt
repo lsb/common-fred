@@ -1,0 +1,1 @@
+Schematic-driven layout starts with the process of schematic capture.

@@ -1,0 +1,1 @@
+The Laplace-Runge-Lenz vector A is conserved only for a perfect inverse-square central force.

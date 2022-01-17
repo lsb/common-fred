@@ -1,0 +1,1 @@
+This usually occurs when a non-thread-safe pattern is used to implement the command-query separation.

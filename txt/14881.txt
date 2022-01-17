@@ -1,0 +1,1 @@
+"Although colliding with monsters reduces Factor's health, Merry Men are not harmed by monsters."

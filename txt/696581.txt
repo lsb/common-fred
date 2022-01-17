@@ -1,0 +1,1 @@
+There is a canonical involutive automorphism on any superalgebra called the grade involution.

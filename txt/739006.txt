@@ -1,0 +1,1 @@
+This provides for a very accurate and customizable hardware emulation platform.

@@ -1,0 +1,1 @@
+Random error is always present in a measurement.

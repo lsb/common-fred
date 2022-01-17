@@ -1,0 +1,1 @@
+The compiler, assembler and linker are all very small and reportedly very fast.

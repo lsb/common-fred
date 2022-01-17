@@ -1,0 +1,1 @@
+For this reason, many dynamic languages do not provide continuations.

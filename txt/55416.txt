@@ -1,0 +1,1 @@
+"It visits flowers of ""Poinsettia"", ""Jasminum"", ""Lantana"", ""Canna"" and ""Salvia""."

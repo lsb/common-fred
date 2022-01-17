@@ -1,0 +1,1 @@
+But the position of the point in the two cases is obviously different.

@@ -1,0 +1,1 @@
+Alignments of multiple sequences are used to discover the homologous regions.

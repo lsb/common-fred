@@ -1,0 +1,1 @@
+The server component of a client-server application may also contain an internal license server.

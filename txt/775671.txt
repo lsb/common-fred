@@ -1,0 +1,1 @@
+When Polterguy is in a house his ecto slowly decreases.

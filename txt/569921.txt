@@ -1,0 +1,1 @@
+The Nyquist plot can provide some information about the shape of the transfer function.

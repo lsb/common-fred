@@ -1,0 +1,1 @@
+Displays at the station indicate train departure times along with flight status information.

@@ -1,0 +1,1 @@
+With a powerful Python API to Dragon in hand, I started experimenting with different commands.

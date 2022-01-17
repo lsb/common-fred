@@ -1,0 +1,1 @@
+"""Bibulus"" translates as ""fond of drinking"", or ""thirsty"", while ""Flamma"" refers to a flame."

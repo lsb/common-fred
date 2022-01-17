@@ -1,0 +1,1 @@
+Snoops per clock cycle are also doubled from one half to one.

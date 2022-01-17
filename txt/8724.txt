@@ -1,0 +1,1 @@
+"""Vaticinium ex eventu"" is a form of hindsight bias."

@@ -1,0 +1,1 @@
+The only requirement was an available serial port and appropriate interface cable.

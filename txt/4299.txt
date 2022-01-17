@@ -1,0 +1,1 @@
+"""Lemna"" has been transformed by molecular biologists to express proteins of pharmaceutical interest."

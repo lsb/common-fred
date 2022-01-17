@@ -1,0 +1,1 @@
+Rewriting can be performed in trace systems as well.

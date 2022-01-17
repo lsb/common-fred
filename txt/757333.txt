@@ -1,0 +1,1 @@
+Tumor type and survival duration are listed where the information is known.

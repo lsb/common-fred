@@ -1,0 +1,1 @@
+"""Allmusic"" rated this soundtrack four stars out of five."

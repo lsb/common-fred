@@ -1,0 +1,1 @@
+It also provides pass-through drivers for serial and parallel devices.

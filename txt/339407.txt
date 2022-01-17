@@ -1,0 +1,1 @@
+However, the linear type has no restriction in one dimension, because it can roll.

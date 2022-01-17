@@ -1,0 +1,1 @@
+Most operating system shells fall into one of two categories command-line and graphical.

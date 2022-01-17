@@ -1,0 +1,1 @@
+Dark fiber: Dark fiber refers to unused fibers, available for use.

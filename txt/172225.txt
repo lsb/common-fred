@@ -1,0 +1,1 @@
+As a workaround, we could use application specific profiles.

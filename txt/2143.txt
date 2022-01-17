@@ -1,0 +1,1 @@
+"""Enterprise"" investigates a stellar nursery with several ships inside."

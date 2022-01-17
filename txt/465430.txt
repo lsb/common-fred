@@ -1,0 +1,1 @@
+New parts are added to an assembly model as they are created.

@@ -1,0 +1,1 @@
+Fixed cost and variable cost, combined, equal total cost.

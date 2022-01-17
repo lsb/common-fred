@@ -1,0 +1,1 @@
+John Williams, working under supervision of Jonathan Cunningham implemented the Common Lisp subsystem.

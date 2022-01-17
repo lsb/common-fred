@@ -1,0 +1,1 @@
+If any of these checks fails, the card is not necessarily declined.

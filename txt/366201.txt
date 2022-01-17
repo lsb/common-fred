@@ -1,0 +1,1 @@
+In two-player games, each player takes two colors.

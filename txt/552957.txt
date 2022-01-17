@@ -1,0 +1,1 @@
+Target tracking, missile tracking and control are automatic.

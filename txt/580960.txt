@@ -1,0 +1,1 @@
+The apriori method uses common generic elements which are identified in advance.

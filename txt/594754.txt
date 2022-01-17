@@ -1,0 +1,1 @@
+The codemaker gets one point for each guess a codebreaker makes.

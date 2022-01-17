@@ -1,0 +1,1 @@
+Glider collisions designed to result in certain patterns are also called glider syntheses.

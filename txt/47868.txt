@@ -1,0 +1,1 @@
+"If the new theory T' answers both questions then T is discarded."

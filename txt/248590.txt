@@ -1,0 +1,1 @@
+For instance, the system stored and automatically set state for every object before drawing.

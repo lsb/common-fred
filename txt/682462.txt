@@ -1,0 +1,1 @@
+The vane geometry may be involute, archimedean spiral, or hybrid curves.

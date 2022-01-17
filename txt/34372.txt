@@ -1,0 +1,1 @@
+"He also proposed an econometric model for censored endogenous variables, the well-known ""Tobit model""."

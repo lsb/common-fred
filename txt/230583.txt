@@ -1,0 +1,1 @@
+Each coin in a set is given a value computed by its relative scarcity.

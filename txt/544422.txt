@@ -1,0 +1,1 @@
+Specialized editing functions are provided using the terminal keypad.

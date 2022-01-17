@@ -1,0 +1,1 @@
+The Gaussian elimination can be performed over any field, not just the real numbers.

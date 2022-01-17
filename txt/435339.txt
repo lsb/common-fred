@@ -1,0 +1,1 @@
+Like many other synthesis parameters, they allow use of negative values.

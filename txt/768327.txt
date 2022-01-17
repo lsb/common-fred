@@ -1,0 +1,1 @@
+Voters are then modeled as voting for the nearest candidates in this ideological space.

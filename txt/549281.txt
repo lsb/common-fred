@@ -1,0 +1,1 @@
+Subsonic loads are often designed to avoid the turbulent transonic zone entirely.

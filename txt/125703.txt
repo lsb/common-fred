@@ -1,0 +1,1 @@
+A fixed delay is established between horizontal arrays in the elevation plane.

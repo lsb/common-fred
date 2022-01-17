@@ -1,0 +1,1 @@
+"""Flan"" is a long, fairly violent post-apocalyptic work containing some elements of surrealism."

@@ -1,0 +1,1 @@
+Unquoted identifiers which match defined macros are replaced with their definitions.

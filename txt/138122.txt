@@ -1,0 +1,1 @@
+A variety is called uniruled if it is covered by rational curves.

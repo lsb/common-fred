@@ -1,0 +1,1 @@
+Return loss is a measure of how well devices or lines are matched.

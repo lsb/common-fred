@@ -1,0 +1,1 @@
+Intersecting semantic classes share the same semantic features.

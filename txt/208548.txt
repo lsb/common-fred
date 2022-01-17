@@ -1,0 +1,1 @@
+Closely related to image processing are computer graphics and computer vision.

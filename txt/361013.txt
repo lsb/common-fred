@@ -1,0 +1,1 @@
+In subsequent steps, only one extra internal point needs to be calculated.

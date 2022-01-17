@@ -1,0 +1,1 @@
+By most definitions, budget sets must be compact and convex.

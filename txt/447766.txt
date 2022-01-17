@@ -1,0 +1,1 @@
+Material implication allows a true consequent to follow from a false antecedent.

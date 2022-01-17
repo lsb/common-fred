@@ -1,0 +1,1 @@
+"""Kato"" is derived from the first two letters from their respective first names."

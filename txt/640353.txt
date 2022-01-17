@@ -1,0 +1,1 @@
+The next major change to the core is with its memory bus.

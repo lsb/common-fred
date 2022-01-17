@@ -1,0 +1,1 @@
+Distance vector and link state routing are both intra-domain routing protocols.

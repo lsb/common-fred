@@ -1,0 +1,1 @@
+"""Advanced Squad Leader"" is a successful tactical scale wargame."

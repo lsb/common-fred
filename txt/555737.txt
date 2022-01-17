@@ -1,0 +1,1 @@
+That release did not use Akonadi.

@@ -1,0 +1,1 @@
+Clipboard transfers that contain Unicode text are not supported.

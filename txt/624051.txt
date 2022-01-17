@@ -1,0 +1,1 @@
+The initial spark for the project was a small object-oriented prototype built by Hadfield.

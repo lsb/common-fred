@@ -1,0 +1,1 @@
+The physical variable is converted to an analog signal by a transducer.

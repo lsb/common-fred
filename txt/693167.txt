@@ -1,0 +1,1 @@
+There are multiple ways that a cell can send signals to other cells.

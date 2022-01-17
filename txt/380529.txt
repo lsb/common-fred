@@ -1,0 +1,1 @@
+It included a light, fog signal, and radiobeacon, all controlled by radio signals.

@@ -1,0 +1,1 @@
+"A natural key is sometimes called ""domain key""."

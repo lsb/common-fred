@@ -1,0 +1,1 @@
+"""Listeria"" uses internalin A and B to bind to cellular receptors."

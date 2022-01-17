@@ -1,0 +1,1 @@
+In order to prove this theorem Gromov introduced a convergence for metric spaces.

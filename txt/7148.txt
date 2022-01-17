@@ -1,0 +1,1 @@
+"""Stripped"" is well known for its innovative use of sampling."

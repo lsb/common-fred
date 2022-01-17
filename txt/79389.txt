@@ -1,0 +1,1 @@
+"Some dynamic languages offer an ""eval"" function."

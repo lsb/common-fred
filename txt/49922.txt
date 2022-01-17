@@ -1,0 +1,1 @@
+"In particular ""f"" cannot have an isolated zero."

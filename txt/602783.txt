@@ -1,0 +1,1 @@
+The decision for an optimal layout should be driven by the expected user goals.

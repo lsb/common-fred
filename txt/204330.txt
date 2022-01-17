@@ -1,0 +1,1 @@
+Certain segments may be shared between programs.

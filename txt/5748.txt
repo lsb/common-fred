@@ -1,0 +1,1 @@
+"""Personal Journals"" has received generally favorable reviews from critics."

@@ -1,0 +1,1 @@
+Orthogonality is important in many applications, including demodulation, direction-finding, and bandpass sampling.

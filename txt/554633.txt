@@ -1,0 +1,1 @@
+Text-based applications typically run faster than software involving graphics does.

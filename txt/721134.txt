@@ -1,0 +1,1 @@
+They tended to support plain text mail only, and rarely supported non-English characters.

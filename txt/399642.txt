@@ -1,0 +1,1 @@
+It is versioned so that different generations of data can be managed.

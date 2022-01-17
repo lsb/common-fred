@@ -1,0 +1,1 @@
+A typical deployment has several servers and many clients.

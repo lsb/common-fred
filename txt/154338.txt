@@ -1,0 +1,1 @@
+All processors snoop the request and respond appropriately.

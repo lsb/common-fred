@@ -1,0 +1,1 @@
+Many math packages allow you to compute Q, the regularized gamma function, directly.

@@ -1,0 +1,1 @@
+Note that the metric is perfectly well defined and non-singular at the event horizon.

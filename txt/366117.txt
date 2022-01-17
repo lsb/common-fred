@@ -1,0 +1,1 @@
+In traffic shaping, packets are delayed until they conform.

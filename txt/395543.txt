@@ -1,0 +1,1 @@
+It is similar to tic-tac-toe and dots and boxes, but has greater complexity.

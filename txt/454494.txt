@@ -1,0 +1,1 @@
+Monsters can be trapped by pushing Glooks onto them.

@@ -1,0 +1,1 @@
+The eigenfunctions of these Hamiltonians are Bloch waves which are modulated plane waves.

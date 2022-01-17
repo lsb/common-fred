@@ -1,0 +1,1 @@
+Equivalently, disjoint sets are sets whose intersection is the empty set.

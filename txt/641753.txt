@@ -1,0 +1,1 @@
+The off-diagonal Hamiltonian matrix elements were given as proportional to the overlap integral.

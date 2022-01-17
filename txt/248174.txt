@@ -1,0 +1,1 @@
+For example, the notion of cofibration sequence and fibration sequence are equivalent.

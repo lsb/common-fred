@@ -1,0 +1,1 @@
+For each subdivision, the resulting number or letter is added onto the geocode.

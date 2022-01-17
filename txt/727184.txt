@@ -1,0 +1,1 @@
+This concept is no longer used in soil physics, replaced by field capacity.

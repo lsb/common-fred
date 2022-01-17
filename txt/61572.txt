@@ -1,0 +1,1 @@
+"Let ""F"" denote a cumulative distribution function of a random variable ""X""."

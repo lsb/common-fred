@@ -1,0 +1,1 @@
+Importantly, the Speedup and Gap theorems hold for any complexity measure satisfying these axioms.

@@ -1,0 +1,1 @@
+Ant, who can move certain dominoes by carrying them one at a time.

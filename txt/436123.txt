@@ -1,0 +1,1 @@
+Linear Regression, Calculus, Algebra, Bayesian statistics are ingredients of Machine Learning.

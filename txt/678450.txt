@@ -1,0 +1,1 @@
+The tracking radar could be partially away from its vertical position for lower altitude.

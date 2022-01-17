@@ -1,0 +1,1 @@
+"The Johnson square pyramid can be characterized by a single edge-length parameter ""a""."

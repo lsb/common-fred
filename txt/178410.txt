@@ -1,0 +1,1 @@
+At the time, implementations of this concept were not available on other platforms.

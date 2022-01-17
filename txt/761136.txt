@@ -1,0 +1,1 @@
+Typical streams include log files, delimiter-separated values, or email messages, notably for email filtering.

@@ -1,0 +1,1 @@
+Critical chain is an alternative to critical path analysis.

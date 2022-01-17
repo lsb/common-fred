@@ -1,0 +1,1 @@
+"""Backstage"" was a four-page newsletter sent to subscribers with each issue."

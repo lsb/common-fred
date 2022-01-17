@@ -1,0 +1,1 @@
+Smart Bookmarks can also be added to the toolbar, together with their own textbox.

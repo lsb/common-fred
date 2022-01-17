@@ -1,0 +1,1 @@
+Radiator coolant has a cooling effect on an Engine.

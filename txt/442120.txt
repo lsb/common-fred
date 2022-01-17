@@ -1,0 +1,1 @@
+Manhattan wiring is often used to represent a programmable logic array.

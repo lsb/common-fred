@@ -1,0 +1,1 @@
+This object has its own intrinsic coordinate system.

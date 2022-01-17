@@ -1,0 +1,1 @@
+Both methods have yielded a distance estimate of to the cluster center.

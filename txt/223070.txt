@@ -1,0 +1,1 @@
+Dislocations can slip in planes containing both the dislocation line and the Burgers vector.

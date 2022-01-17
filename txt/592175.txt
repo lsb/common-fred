@@ -1,0 +1,1 @@
+The circuit breaker operates in two stages.

@@ -1,0 +1,1 @@
+Larger code size can be traded for higher program speed when applying loop unrolling.

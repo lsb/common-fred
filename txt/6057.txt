@@ -1,0 +1,1 @@
+"""PunkBuster"" uses a system called 'global banning'."

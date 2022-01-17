@@ -1,0 +1,1 @@
+"If ""U"" is an ultrafilter, the reduced product is an ultraproduct."

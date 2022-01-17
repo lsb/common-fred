@@ -1,0 +1,1 @@
+"Hipparchus was to use this data to calculate the precession of the Earth's axis."

@@ -1,0 +1,1 @@
+In R, every closed hypersurface is orientable.

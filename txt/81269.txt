@@ -1,0 +1,1 @@
+"Suppose many points are close to the ""x"" axis and distributed along it."

@@ -1,0 +1,1 @@
+It provided a datagram service with no guarantees of delivery.

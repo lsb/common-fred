@@ -1,0 +1,1 @@
+The palindrome reached is also unusually large.

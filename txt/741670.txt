@@ -1,0 +1,1 @@
+This system automatically advanced the engine timing to eliminate unwanted timing changes.

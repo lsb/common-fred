@@ -1,0 +1,1 @@
+A network interface will usually have some form of network address.

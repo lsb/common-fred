@@ -1,0 +1,1 @@
+Usually, by default, a thermodynamic state is taken to be one of thermodynamic equilibrium.

@@ -1,0 +1,1 @@
+The original online-game was played via modem or null modem serial connection.

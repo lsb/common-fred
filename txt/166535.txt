@@ -1,0 +1,1 @@
+Another example is the category FdVect, consisting of finite-dimensional vector spaces and linear maps.

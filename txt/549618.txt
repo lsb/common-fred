@@ -1,0 +1,1 @@
+Such arrays are sometimes said to have unit stride.

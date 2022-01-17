@@ -1,0 +1,1 @@
+Several techniques can be used to explicitly construct reversible cellular automata with known inverses.

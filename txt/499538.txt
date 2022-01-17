@@ -1,0 +1,1 @@
+Protection was improved by adding anti-shrapnel padding around the forward cabin area.

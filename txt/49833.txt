@@ -1,0 +1,1 @@
+"In non-scientific terms, laminar flow is ""smooth"" while turbulent flow is ""rough""."

@@ -1,0 +1,1 @@
+The graphics stack has several peculiarities unusual for a web browser.

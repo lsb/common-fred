@@ -1,0 +1,1 @@
+It is also possible to define the tropopause in terms of chemical composition.

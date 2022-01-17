@@ -1,0 +1,1 @@
+The register file had three read ports and two write ports.

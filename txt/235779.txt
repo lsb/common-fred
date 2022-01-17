@@ -1,0 +1,1 @@
+Encryption is done by a stream cipher.

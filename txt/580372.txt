@@ -1,0 +1,1 @@
+The analogous bipolar junction transistor circuit is the common-collector amplifier.

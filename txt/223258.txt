@@ -1,0 +1,1 @@
+Distributions are a powerful instrument to solve differential equations.

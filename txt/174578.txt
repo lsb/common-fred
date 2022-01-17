@@ -1,0 +1,1 @@
+As with most other lossless codecs, plugins are available for most media players.

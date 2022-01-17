@@ -1,0 +1,1 @@
+"It also allowed ""instant-on"" operation, since there were no filaments to heat up."

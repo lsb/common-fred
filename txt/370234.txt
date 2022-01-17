@@ -1,0 +1,1 @@
+Is much less sensitive to spurious awakenings than the sleep mode.

@@ -1,0 +1,1 @@
+These actions send a signal to patrons that it is closing time.

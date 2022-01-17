@@ -1,0 +1,1 @@
+First, it must be proven that points O, B, D are collinear.

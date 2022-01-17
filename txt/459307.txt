@@ -1,0 +1,1 @@
+Mounting the secondary on the corrector also limits diffraction spikes.

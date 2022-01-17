@@ -1,0 +1,1 @@
+"""R"" is the gas constant and ""T"" the absolute or thermodynamic temperature."

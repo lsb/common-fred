@@ -1,0 +1,1 @@
+Gate symbols describe the relationship between input and output events.

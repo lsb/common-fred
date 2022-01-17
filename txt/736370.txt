@@ -1,0 +1,1 @@
+This means it not only takes longer to construct, but also to implement.

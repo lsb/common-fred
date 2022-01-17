@@ -1,0 +1,1 @@
+It integrates various ideas from parallel algorithms, and functional programming and array programming languages.

@@ -1,0 +1,1 @@
+They are extra equations to provide additional constraints for a given physical system.

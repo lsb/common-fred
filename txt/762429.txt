@@ -1,0 +1,1 @@
+Unfortunately the chip itself was not fully functional and the drivers were very buggy.

@@ -1,0 +1,1 @@
+This produces natural groupings without requiring any inference about soil genesis.

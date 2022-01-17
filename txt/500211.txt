@@ -1,0 +1,1 @@
+Punycode uses generalized variable-length integers to represent these values.

@@ -1,0 +1,1 @@
+It is possible to generate an assembly language file.

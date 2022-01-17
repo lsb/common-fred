@@ -1,0 +1,1 @@
+The device counts down the time remaining on the device while it remains activated.

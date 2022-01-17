@@ -1,0 +1,1 @@
+Once a target is acquired, the missile will lock-on to it for the kill.

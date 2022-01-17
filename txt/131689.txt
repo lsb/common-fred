@@ -1,0 +1,1 @@
+A more efficient approach consists in software debugger technique.

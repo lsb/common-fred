@@ -1,0 +1,1 @@
+Reactive power does not result in any torque.

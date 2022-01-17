@@ -1,0 +1,1 @@
+Smart Offline Favorites, like channels, enabled users to view webpages from the cache.

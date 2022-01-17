@@ -1,0 +1,1 @@
+This can be set however using gconf-editor.

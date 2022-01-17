@@ -1,0 +1,1 @@
+A type of architecture that is based on a single computing unit.

@@ -1,0 +1,1 @@
+The dual signature is sent to both the merchant and the bank.

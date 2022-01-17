@@ -1,0 +1,1 @@
+Orthographic units, such as letters of an alphabet, are technically called graphemes.

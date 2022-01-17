@@ -1,0 +1,1 @@
+Corrupted databases can often be recovered by analysis of the dump.

@@ -1,0 +1,1 @@
+This is a well buffered environment with very low seasonality.

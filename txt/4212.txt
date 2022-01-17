@@ -1,0 +1,1 @@
+"""Kuolema Tekee Taiteilijan"" is Finnish and means """"Death Makes an Artist"""" in English."

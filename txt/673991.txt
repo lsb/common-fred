@@ -1,0 +1,1 @@
+The term virtual circuit is synonymous with virtual connection and virtual channel.

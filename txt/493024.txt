@@ -1,0 +1,1 @@
+Pillboxes are initially neutral and will shoot at any tank that approaches them.

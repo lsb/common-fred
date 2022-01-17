@@ -1,0 +1,1 @@
+A bus-stop style shelter is provided on the single platform.

@@ -1,0 +1,1 @@
+Consonant classes are simplified into four classes.

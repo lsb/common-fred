@@ -1,0 +1,1 @@
+"""The Borchester Echo"" is the local newspaper published at Borchester."

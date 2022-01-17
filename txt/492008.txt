@@ -1,0 +1,1 @@
+Petri nets are state-transition systems that extend a class of nets called elementary nets.

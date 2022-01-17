@@ -1,0 +1,1 @@
+Existing structures are included for ranking purposes based on present height.

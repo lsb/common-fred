@@ -1,0 +1,1 @@
+Letters are signed at a constant speed; a pause functions as a word divider.

@@ -1,0 +1,1 @@
+For simplicity, the following considers only the case where all these quantities are real.

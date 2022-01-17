@@ -1,0 +1,1 @@
+It is induced, in a canonical manner, from the affine connection.

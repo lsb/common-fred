@@ -1,0 +1,1 @@
+This will counter the drag produced by the other aileron, thus reducing adverse yaw.

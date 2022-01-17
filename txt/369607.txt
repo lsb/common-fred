@@ -1,0 +1,1 @@
+Intuitively, orientation can be thought of as a direction without sign.

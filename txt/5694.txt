@@ -1,0 +1,1 @@
+"""Pathfinder"" is approximately the same size, shape and weight of an actual Orbiter."

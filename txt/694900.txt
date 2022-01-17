@@ -1,0 +1,1 @@
+There are three types of isolated singularities: removable singularities, poles and essential singularities.

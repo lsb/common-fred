@@ -1,0 +1,1 @@
+"In this current-limited condition the transformer's flux will be steady."

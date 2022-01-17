@@ -1,0 +1,1 @@
+"As an inode's size is limited, this only works for very small files."

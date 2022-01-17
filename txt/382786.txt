@@ -1,0 +1,1 @@
+It is a three-dimensional extension of Game of Life, investigated by Carter Bays.

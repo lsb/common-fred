@@ -1,0 +1,1 @@
+Across multiple signers and multiple scenes, signers would apply the same rotated representation.

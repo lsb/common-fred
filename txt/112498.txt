@@ -1,0 +1,1 @@
+"This usage is called in Japanese, since ""furigana implies the use of kana""."

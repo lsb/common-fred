@@ -1,0 +1,1 @@
+This allows direct cytoplasm-to-cytoplasm flow of water and other nutrients along concentration gradients.

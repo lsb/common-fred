@@ -1,0 +1,1 @@
+An additional speed-up is possible if mixed coordinates are used.

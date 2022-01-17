@@ -1,0 +1,1 @@
+Automatic colony pickers pick thousands of microbial colonies for high throughput genetic screening.

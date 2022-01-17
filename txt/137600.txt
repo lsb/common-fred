@@ -1,0 +1,1 @@
+A three-dimensional object is reversed in the direction perpendicular to the mirror surface.

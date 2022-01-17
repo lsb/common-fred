@@ -1,0 +1,1 @@
+Bandpass filters are normally designed for normal incidence.

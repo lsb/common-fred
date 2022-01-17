@@ -1,0 +1,1 @@
+"A unique feature is that each character can ""bleed"" an object that represents them."

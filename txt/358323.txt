@@ -1,0 +1,1 @@
+In many situations, the score statistic reduces to another commonly used statistic.

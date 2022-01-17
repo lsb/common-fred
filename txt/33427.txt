@@ -1,0 +1,1 @@
+"Harary joined with Ian Ross to improve on Festinger's clique detection."

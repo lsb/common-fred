@@ -1,0 +1,1 @@
+Railguns use two parallel metal rails connected to a power supply.

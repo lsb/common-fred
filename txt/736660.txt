@@ -1,0 +1,1 @@
+This method is fairly accurate for non-condensible gases, such as oxygen and nitrogen.

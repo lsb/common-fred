@@ -1,0 +1,1 @@
+"When the child finishes executing, it exits by calling the ""exit"" system call."

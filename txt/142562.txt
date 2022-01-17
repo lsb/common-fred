@@ -1,0 +1,1 @@
+Activation of these solenoids is under the control of a computer program.

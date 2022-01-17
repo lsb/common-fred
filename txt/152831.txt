@@ -1,0 +1,1 @@
+All dimensions are taken in feet and degrees unless specified otherwise.

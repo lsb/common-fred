@@ -1,0 +1,1 @@
+In other operating systems, the supervisor is generally called the kernel.

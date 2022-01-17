@@ -1,0 +1,1 @@
+"These sets are disjoint and partition ""X""."

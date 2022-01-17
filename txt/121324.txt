@@ -1,0 +1,1 @@
+A Thompson coupling is a refined version of the double Cardan joint.

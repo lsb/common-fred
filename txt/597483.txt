@@ -1,0 +1,1 @@
+The compression algorithm will reduce the file capacity by thirty percent.

@@ -1,0 +1,1 @@
+Vector drawings can be imported or directly opened for editing.

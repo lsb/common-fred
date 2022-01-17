@@ -1,0 +1,1 @@
+This complicates adding transposition table optimizations for negamax.

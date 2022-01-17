@@ -1,0 +1,1 @@
+Two varieties are birationally equivalent if and only if their function fields are isomorphic.

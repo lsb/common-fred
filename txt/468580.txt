@@ -1,0 +1,1 @@
+Non-normal means that it uses non-consecutive integers.

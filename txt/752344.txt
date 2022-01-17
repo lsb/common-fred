@@ -1,0 +1,1 @@
+To understand how an iso-elastic system works, we must first understand how springs work.

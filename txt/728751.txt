@@ -1,0 +1,1 @@
+This ensures that all bids are entered manually.

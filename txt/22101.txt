@@ -1,0 +1,1 @@
+"By the definition above, ""X"" and ""Y"" are not jointly normally distributed."

@@ -1,0 +1,1 @@
+Common behaviours include the production of highways, chaotic growth and spiral growth.

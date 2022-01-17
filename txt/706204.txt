@@ -1,0 +1,1 @@
+These include no-slip boudinage, s-slip boudinage, and a-slip boudinage.

@@ -1,0 +1,1 @@
+Normalization is not usually used for resolution of singularities for schemes of higher dimension.

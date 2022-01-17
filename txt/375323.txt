@@ -1,0 +1,1 @@
+It counts a station on the Salta-Antofagasta railway.

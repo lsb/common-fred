@@ -1,0 +1,1 @@
+System performance was much higher, with complete access to extended memory.

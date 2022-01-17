@@ -1,0 +1,1 @@
+However, if the object was returned to the haptic workspace, those visual biases disappeared.

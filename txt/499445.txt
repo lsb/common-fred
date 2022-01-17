@@ -1,0 +1,1 @@
+Propositional variables are represented as nullary predicates in first order logic.

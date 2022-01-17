@@ -1,0 +1,1 @@
+Ultraviolet renormalization was done in the frame of the Bethe Ansatz.

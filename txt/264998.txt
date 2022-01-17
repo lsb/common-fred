@@ -1,0 +1,1 @@
+Hashlife is also significantly more complex to implement.

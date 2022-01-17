@@ -1,0 +1,1 @@
+To the user it can be implemented like any other radio network.

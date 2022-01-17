@@ -1,0 +1,1 @@
+Frequency hopping is a basic modulation technique used in spread spectrum signal transmission.

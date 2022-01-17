@@ -1,0 +1,1 @@
+Equivalently, it is a simple polygon whose interior is a convex set.

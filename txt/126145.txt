@@ -1,0 +1,1 @@
+A gas holder provided storage for the purified, metered gas.

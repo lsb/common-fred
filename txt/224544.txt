@@ -1,0 +1,1 @@
+Domains can control whether they accept, ignore, discard or terminate interrupts.

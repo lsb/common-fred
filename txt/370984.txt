@@ -1,0 +1,1 @@
+It also addresses how to assign specific access rights.

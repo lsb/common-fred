@@ -1,0 +1,1 @@
+"Captures are notated with an ""x"" connecting the start and end squares."

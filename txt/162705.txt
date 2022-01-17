@@ -1,0 +1,1 @@
+An important class of examples is provided by Hilbert-Schmidt integral operators.

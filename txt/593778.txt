@@ -1,0 +1,1 @@
+The classic example of a positional voting electoral system is the Borda count.

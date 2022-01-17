@@ -1,0 +1,1 @@
+A camera system on the assembly provides a visual fallback for the system operator.

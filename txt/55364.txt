@@ -1,0 +1,1 @@
+"It therefore invents a key, ""K"", which it will use to communicate with ""B""."

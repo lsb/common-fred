@@ -1,0 +1,1 @@
+"""Aandhi"" was inspired by India's Prime Minister Indira Gandhi."

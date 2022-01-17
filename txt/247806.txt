@@ -1,0 +1,1 @@
+For example, Alice has access rights to the server room, but Bob does not.

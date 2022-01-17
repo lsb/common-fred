@@ -1,0 +1,1 @@
+This allowed the platforms to be extended towards to allow longer trains to call.

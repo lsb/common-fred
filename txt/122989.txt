@@ -1,0 +1,1 @@
+A check punch punches holes in the shapes of numerals.

@@ -1,0 +1,1 @@
+"Some graphical data mapping tools allow users to ""Auto-connect"" a source and a destination."

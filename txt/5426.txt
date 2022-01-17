@@ -1,0 +1,1 @@
+"""Oh, aye,"" replied Richard, ""I'm all right."""

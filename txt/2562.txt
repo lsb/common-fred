@@ -1,0 +1,1 @@
+"""Galactic Pinball"" has received mixed to positive reception."

@@ -1,0 +1,1 @@
+They used relu as an activation function for this problem.

@@ -1,0 +1,1 @@
+Position error affects the indicated airspeed and the indicated altitude.

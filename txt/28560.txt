@@ -1,0 +1,1 @@
+"Emacs' org-mode contains support for embedding LilyPond scores into documents."

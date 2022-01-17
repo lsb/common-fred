@@ -1,0 +1,1 @@
+In addition to files, folders, volumes and other file system objects may have attributes.

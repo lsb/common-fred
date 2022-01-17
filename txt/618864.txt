@@ -1,0 +1,1 @@
+The geoid is essentially the figure of the Earth abstracted from its topographic features.

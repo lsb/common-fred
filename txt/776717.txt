@@ -1,0 +1,1 @@
+When one is in sender mode, the two most distant ones act as receivers.

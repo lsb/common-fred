@@ -1,0 +1,1 @@
+If responder rejects the game try, opener can sign off in game.

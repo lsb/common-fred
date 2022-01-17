@@ -1,0 +1,1 @@
+Associations of contexts can be far more complex and tricky to establish.

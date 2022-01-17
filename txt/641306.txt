@@ -1,0 +1,1 @@
+The null hypothesis is that the failures are uniformly distributed.

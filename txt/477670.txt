@@ -1,0 +1,1 @@
+One general construction of fundamental domains uses Voronoi cells.

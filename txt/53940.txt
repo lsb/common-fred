@@ -1,0 +1,1 @@
+"It is nearly as efficient as the ""t""-test on normal distributions."

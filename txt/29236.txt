@@ -1,0 +1,1 @@
+"Examples are ""Cournot oligopoly"", and ""Bertrand oligopoly for differentiated products""."

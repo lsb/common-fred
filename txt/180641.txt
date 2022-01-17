@@ -1,0 +1,1 @@
+Back Orifice was designed with a client-server architecture.

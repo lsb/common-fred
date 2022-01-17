@@ -1,0 +1,1 @@
+Current load of servers is not taken into account.

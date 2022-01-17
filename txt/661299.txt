@@ -1,0 +1,1 @@
+The score does not have a theoretical lower bound.

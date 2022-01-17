@@ -1,0 +1,1 @@
+Forecasts from multiple sources may be combined and published by some entities.

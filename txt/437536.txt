@@ -1,0 +1,1 @@
+Localizers are tiny devices which can contain a simple processor, sensors, and short-range communications.

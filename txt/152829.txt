@@ -1,0 +1,1 @@
+All digits of the numbering plan are used to identify a particular subscriber.

@@ -1,0 +1,1 @@
+Today almost all modems use a variant of the Hayes command set.

@@ -1,0 +1,1 @@
+Radeon also introduced a new memory bandwidth optimization and overdraw reduction technology called HyperZ.

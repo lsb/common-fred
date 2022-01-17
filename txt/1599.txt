@@ -1,0 +1,1 @@
+"""Creed"" samples the first few notes of the track during the film's last fight."

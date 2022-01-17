@@ -1,0 +1,1 @@
+Many interactive and high-level languages operate in this way.

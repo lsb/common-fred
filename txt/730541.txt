@@ -1,0 +1,1 @@
+This has the effect of dividing the globe into lobes.

@@ -1,0 +1,1 @@
+Suppose we have a random variable that produces either a success or a failure.

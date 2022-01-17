@@ -1,0 +1,1 @@
+Each pulse can be controlled in shape, for instance, quasi-rectangular.

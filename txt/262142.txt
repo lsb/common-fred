@@ -1,0 +1,1 @@
+Ground speed shows the actual speed that the aircraft uses compared to the ground.

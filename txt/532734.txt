@@ -1,0 +1,1 @@
+Similarly, processes with one or more unit roots can be made stationary through differencing.

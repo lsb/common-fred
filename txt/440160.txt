@@ -1,0 +1,1 @@
+Macaulay is designed for solving problems in commutative algebra and algebraic geometry.

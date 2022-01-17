@@ -1,0 +1,1 @@
+"""Chibo"" is Amharic for ""bundle of sticks tied together."

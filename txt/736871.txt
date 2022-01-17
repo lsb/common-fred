@@ -1,0 +1,1 @@
+This molecule mimics the N-terminal linear motif Ala-Val-Pro-Ile.

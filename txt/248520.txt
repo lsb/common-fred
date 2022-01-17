@@ -1,0 +1,1 @@
+For input, the system simply reads pushbuttons connected to its input pins.

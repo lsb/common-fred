@@ -1,0 +1,1 @@
+"Dickson's conjecture generalizes Polignac's conjecture to cover all prime constellations."

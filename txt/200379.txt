@@ -1,0 +1,1 @@
+Bytes are grouped into words of five bytes plus a sign.

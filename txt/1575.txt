@@ -1,0 +1,1 @@
+"""Country - County - Locality - Street - Name - Identifier""."

@@ -1,0 +1,1 @@
+For a game of Ghost played on such languages L, call it German Ghost.

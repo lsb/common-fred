@@ -1,0 +1,1 @@
+Additional precision can be provided using decimals for the arcseconds component.

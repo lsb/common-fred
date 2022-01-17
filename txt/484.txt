@@ -1,0 +1,1 @@
+"""Ankle-length garment"" is the literal meaning of the corresponding Latin term, ""vestis talaris""."

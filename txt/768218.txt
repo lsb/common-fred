@@ -1,0 +1,1 @@
+Voltage drop exists in both the supply and return wires of a circuit.

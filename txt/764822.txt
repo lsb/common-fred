@@ -1,0 +1,1 @@
+Users of the software can monitor and log complete system activity.

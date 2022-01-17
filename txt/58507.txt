@@ -1,0 +1,1 @@
+"Its name is an acronym standing for ""higher intelligence auto-response chess system""."

@@ -1,0 +1,1 @@
+Note that the two definitions given above both satisfy these properties.

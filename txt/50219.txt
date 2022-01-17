@@ -1,0 +1,1 @@
+"In that context, the interpolation filter associated with upsampling is called ""synthesis filter""."

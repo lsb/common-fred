@@ -1,0 +1,1 @@
+Once written, Sprint programs are compiled into the interface, and run at full speed.

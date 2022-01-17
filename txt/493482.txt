@@ -1,0 +1,1 @@
+Placing frequently accessed files onto the outer tracks increases performance.

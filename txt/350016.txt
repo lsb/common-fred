@@ -1,0 +1,1 @@
+If these points coincide, the scrub radius is zero.

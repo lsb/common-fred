@@ -1,0 +1,1 @@
+If we consider the following code sample, two optimizations can be easily applied.

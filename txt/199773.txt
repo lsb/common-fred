@@ -1,0 +1,1 @@
+By only storing the visible portion of large files in memory, editing performance improves.

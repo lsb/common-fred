@@ -1,0 +1,1 @@
+Parallel algorithms need to optimize one more resource, the communication between different processors.

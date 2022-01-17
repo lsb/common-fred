@@ -1,0 +1,1 @@
+"Each ""contraption"" plays music in response to people passing by."

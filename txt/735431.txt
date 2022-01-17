@@ -1,0 +1,1 @@
+This level describes the structure of the whole database for a group of users.

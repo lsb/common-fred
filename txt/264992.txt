@@ -1,0 +1,1 @@
+Hashcash is being used to limit spam.

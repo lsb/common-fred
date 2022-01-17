@@ -1,0 +1,1 @@
+They replaced the reverb with noise gates that eliminate lag when switching channels.

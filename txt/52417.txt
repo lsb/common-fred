@@ -1,0 +1,1 @@
+"It differs only in the way that castling and ""en passant"" tags are used."

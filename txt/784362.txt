@@ -1,0 +1,1 @@
+Without some form of synchronization and error correction, the data would become completely unusable.

@@ -1,0 +1,1 @@
+If the first formula above is used, values can be less than zero.

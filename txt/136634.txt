@@ -1,0 +1,1 @@
+A special kind of a dead-end tower is a termination pylon.

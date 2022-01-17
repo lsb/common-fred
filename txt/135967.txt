@@ -1,0 +1,1 @@
+A skew-symmetric graph is the double covering graph of a bidirected graph.

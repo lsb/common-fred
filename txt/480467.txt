@@ -1,0 +1,1 @@
+Only symmetric equilibria can be evolutionarily stable states in single population models.

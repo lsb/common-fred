@@ -1,0 +1,1 @@
+It handles large image data sets.

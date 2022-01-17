@@ -1,0 +1,1 @@
+"The same end-sentinel node may be used for ""every"" such list."

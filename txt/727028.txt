@@ -1,0 +1,1 @@
+This command may only be issued by channel operators.

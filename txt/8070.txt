@@ -1,0 +1,1 @@
+"""The Tonight Show"" returned to using rotating guest hosts, including comic George Carlin."

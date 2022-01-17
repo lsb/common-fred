@@ -1,0 +1,1 @@
+Often, secure environments employ cryptography as a means to protect information.

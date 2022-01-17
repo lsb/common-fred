@@ -1,0 +1,1 @@
+"""Chess Canada"" also posted notices of upcoming tournaments across Canada."

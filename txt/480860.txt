@@ -1,0 +1,1 @@
+Only write out actions and actors specific to that particular scenario.

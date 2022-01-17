@@ -1,0 +1,1 @@
+"""Popular Mechanics"" features regular sections on automotive, home, outdoors, science, and technology topics."

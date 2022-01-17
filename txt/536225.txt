@@ -1,0 +1,1 @@
+Snorting is the typical method of ingestion.

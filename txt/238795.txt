@@ -1,0 +1,1 @@
+Every Fokker-Planck equation is equivalent to a path integral.

@@ -1,0 +1,1 @@
+Configuration items, their versions, and their changes form the basis of any configuration audit.

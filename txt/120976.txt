@@ -1,0 +1,1 @@
+A Hellschreiber will print each received column twice, one below the other.

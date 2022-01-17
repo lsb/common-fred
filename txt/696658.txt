@@ -1,0 +1,1 @@
+There is a corresponding notion of smooth map for arbitrary subsets of manifolds.

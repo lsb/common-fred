@@ -1,0 +1,1 @@
+For the same reason, text-based applications use memory more efficiently.

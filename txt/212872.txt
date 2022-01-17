@@ -1,0 +1,1 @@
+Control strategies can also be distributed among individual ramps.

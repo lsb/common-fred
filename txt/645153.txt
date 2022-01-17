@@ -1,0 +1,1 @@
+The padding tactic, adopted later, is also referred to as a padded bloc tactic.

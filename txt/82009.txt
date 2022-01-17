@@ -1,0 +1,1 @@
+"That is, the submanifold topology on ""S"" is the same as the subspace topology."

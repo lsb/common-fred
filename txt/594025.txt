@@ -1,0 +1,1 @@
+The clique graphs of chordal graphs are the dually chordal graphs.

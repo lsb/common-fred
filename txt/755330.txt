@@ -1,0 +1,1 @@
+Track circuit and signal indications are not transmitted to the operational personnel sites.

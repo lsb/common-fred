@@ -1,0 +1,1 @@
+"Assume that ""R"" is a commutative domain and ""M"" is an ""R""-module."

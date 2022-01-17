@@ -1,0 +1,1 @@
+An example of this is the power set operation.

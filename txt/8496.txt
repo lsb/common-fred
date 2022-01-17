@@ -1,0 +1,1 @@
+"""Toy dogs"" can be one of several dog types."

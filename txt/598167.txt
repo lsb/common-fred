@@ -1,0 +1,1 @@
+The constituency relation is a one-to-one-or-more correspondence.

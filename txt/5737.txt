@@ -1,0 +1,1 @@
+"""Perhaps,"" said the friend, ""it is a different thrush."""

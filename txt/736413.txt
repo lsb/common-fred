@@ -1,0 +1,1 @@
+This means that relative motion commands that move by a symbol or word often work well unless the line is long.

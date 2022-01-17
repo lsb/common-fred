@@ -1,0 +1,1 @@
+Finally, drawings can be created either from parts or assemblies.

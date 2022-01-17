@@ -1,0 +1,1 @@
+Code Co-op is an example of a distributed database.

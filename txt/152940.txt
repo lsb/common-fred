@@ -1,0 +1,1 @@
+All experiment payloads are fully exposed to the space environment.

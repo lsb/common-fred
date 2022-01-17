@@ -1,0 +1,1 @@
+"""GameSpot""s Frank Provo reviewed the Virtual Console version of the game."

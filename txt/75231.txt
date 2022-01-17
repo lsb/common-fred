@@ -1,0 +1,1 @@
+"See also Duff's device."

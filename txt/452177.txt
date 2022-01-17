@@ -1,0 +1,1 @@
+Midnight Commander is a console application with a text user interface.

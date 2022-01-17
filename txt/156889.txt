@@ -1,0 +1,1 @@
+Allowing negative exponents provides a canonical form for positive rational numbers.

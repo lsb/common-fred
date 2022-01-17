@@ -1,0 +1,1 @@
+"""S. epidermidis"" does not possess the gelatinase enzyme, so it cannot hydrolyze gelatin."

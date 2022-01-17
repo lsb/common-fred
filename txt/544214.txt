@@ -1,0 +1,1 @@
+Sparse files are typically handled transparently to the user.

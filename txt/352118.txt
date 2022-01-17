@@ -1,0 +1,1 @@
+In Java Generics, type parameters must be reference types.

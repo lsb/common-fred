@@ -1,0 +1,1 @@
+If any exponent is allowed to be negative, the shape extends to infinity.

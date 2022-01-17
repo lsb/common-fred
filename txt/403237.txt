@@ -1,0 +1,1 @@
+It registers to save locations and jump to them quickly later.

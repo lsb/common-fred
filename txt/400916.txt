@@ -1,0 +1,1 @@
+It maintains the queue management system, facilitates head tonsure and distribution of laddu.

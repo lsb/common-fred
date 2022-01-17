@@ -1,0 +1,1 @@
+"Since ""E"" is a smooth divisor, its normal bundle is a line bundle."

@@ -1,0 +1,1 @@
+"""D"" is the symmetry group of a partially rotated prism."

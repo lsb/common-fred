@@ -1,0 +1,1 @@
+Each pilot flies a specific plane and has slightly different capabilities.

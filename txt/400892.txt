@@ -1,0 +1,1 @@
+It mainly focuses on syntax, including its relation with morphology and semantics.

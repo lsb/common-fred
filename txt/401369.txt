@@ -1,0 +1,1 @@
+It measures airspeed, altitude, vertical speed, and outside air temperature.

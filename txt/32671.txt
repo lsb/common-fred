@@ -1,0 +1,1 @@
+"Google provides ""Webmaster Tools"" that allow website owners to throttle the crawl rate."

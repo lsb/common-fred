@@ -1,0 +1,1 @@
+The discrete valuation case is much like the complex unit disk, for these purposes.

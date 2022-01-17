@@ -1,0 +1,1 @@
+Deployment height above ground is determined by gun elevation angle and propelling charge.

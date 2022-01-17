@@ -1,0 +1,1 @@
+The pendulum configuration uses a two-directional flow.

@@ -1,0 +1,1 @@
+While it is less efficient than the general algorithm, it is conceptually simpler.

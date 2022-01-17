@@ -1,0 +1,1 @@
+In applications, it is often useful to know the size of the Fourier coefficient.

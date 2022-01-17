@@ -1,0 +1,1 @@
+Another solution is to keep the per-session data in a database.

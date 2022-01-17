@@ -1,0 +1,1 @@
+"In quantum mechanics one formulation uses ""histories"", or trajectories, as configurations."

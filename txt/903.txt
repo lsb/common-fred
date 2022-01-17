@@ -1,0 +1,1 @@
+"""Black"" cells, an additional cell type, may be discovered during the solving process."

@@ -1,0 +1,1 @@
+Each remaining group is worth the number of peries it contains minus four.

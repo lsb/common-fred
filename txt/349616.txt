@@ -1,0 +1,1 @@
+If space is needed, the least-full segments are reclaimed first.

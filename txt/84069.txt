@@ -1,0 +1,1 @@
+"The 'dc::fatal' and 'dc::notice' are debug 'channels', which can be turned on or off."

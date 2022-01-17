@@ -1,0 +1,1 @@
+A four-quadrant multiplier is one where inputs and outputs may swing positive and negative.

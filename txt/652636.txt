@@ -1,0 +1,1 @@
+The properties of the declared Lava entities can be edited through pop-up dialogs.

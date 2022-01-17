@@ -1,0 +1,1 @@
+If they land on a previously landed paratrooper, that paratrooper is also killed.

@@ -1,0 +1,1 @@
+A faithful functor need not be injective on objects or morphisms.

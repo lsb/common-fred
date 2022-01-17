@@ -1,0 +1,1 @@
+Note that the boldface hierarchy is just the standard hierarchy of Borel sets.

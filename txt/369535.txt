@@ -1,0 +1,1 @@
+Intra-limb coordination involves the planning of trajectories in the Cartesian planes.

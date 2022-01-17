@@ -1,0 +1,1 @@
+"The title of the thesis was ""Linear regression analysis of economic time series""."

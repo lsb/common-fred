@@ -1,0 +1,1 @@
+"These ""other variables"" are part of the demand function."

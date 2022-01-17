@@ -1,0 +1,1 @@
+Each character has a list of rules that determine how it behaves.

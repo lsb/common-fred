@@ -1,0 +1,1 @@
+This enables transactions of sensitive cryptographic information to be secure even between untrusted parties.

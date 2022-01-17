@@ -1,0 +1,1 @@
+In particular, the Vitali set does not have the property of Baire.

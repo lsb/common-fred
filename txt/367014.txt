@@ -1,0 +1,1 @@
+Indirect and indexed addressing could be combined at any level of indirection or indexing.

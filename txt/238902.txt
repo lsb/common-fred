@@ -1,0 +1,1 @@
+Every document window is an object with which the user can work.

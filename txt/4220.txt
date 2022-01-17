@@ -1,0 +1,1 @@
+"""L"" is the sidelength of the grid and ""d"" is its dimension."

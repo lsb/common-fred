@@ -1,0 +1,1 @@
+When a material exhibits a linear response it is categorized as a Newtonian material.

@@ -1,0 +1,1 @@
+A bandlimited signal cannot be also timelimited.

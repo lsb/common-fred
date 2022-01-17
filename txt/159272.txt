@@ -1,0 +1,1 @@
+Although it is possible to set a time limit, this feature was rarely used.

@@ -1,0 +1,1 @@
+The face buttons are assigned to specific limbs.

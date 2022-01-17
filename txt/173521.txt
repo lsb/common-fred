@@ -1,0 +1,1 @@
+As such, any Freenet client could be configured to run on the Entropy network.

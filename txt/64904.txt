@@ -1,0 +1,1 @@
+"Microsoft invented another term, ""ScreenTip"", and uses it in its end-user documentation."

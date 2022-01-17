@@ -1,0 +1,1 @@
+This allows simultaneous low-data-rate transmission from several users.

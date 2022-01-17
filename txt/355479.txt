@@ -1,0 +1,1 @@
+In binary classification, precision is analogous to positive predictive value.

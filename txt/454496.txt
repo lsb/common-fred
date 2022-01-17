@@ -1,0 +1,1 @@
+Monsters have two status bars in each game, health and stamina.

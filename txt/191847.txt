@@ -1,0 +1,1 @@
+Both of these are problematic for several reasons, including the frequent occurrences of ties.

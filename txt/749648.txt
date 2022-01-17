@@ -1,0 +1,1 @@
+Thus, parsing a string of the grammar produces a sequence of rule applications.

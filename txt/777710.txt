@@ -1,0 +1,1 @@
+When triggered, it will begin to embed itself in other documents and templates.

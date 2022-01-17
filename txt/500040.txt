@@ -1,0 +1,1 @@
+Pubs are either tenanted or managed.

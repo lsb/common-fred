@@ -1,0 +1,1 @@
+"The program was created by Luc Cottyn, and was originally called ""autopkg""."

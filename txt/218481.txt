@@ -1,0 +1,1 @@
+Day signals are also used as signal symbols in both places.

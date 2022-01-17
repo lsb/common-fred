@@ -1,0 +1,1 @@
+"""Rise of the Dragon"" features two action scenes and an aim-and-shoot scene."

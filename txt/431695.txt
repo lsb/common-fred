@@ -1,0 +1,1 @@
+Later, an even faster randomized version of the algorithm was developed.

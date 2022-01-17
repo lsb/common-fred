@@ -1,0 +1,1 @@
+Patch editors allow users to program their equipment through the computer interface.

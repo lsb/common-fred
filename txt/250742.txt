@@ -1,0 +1,1 @@
+Formatting allocates some sectors at the end of the disk for defect management.

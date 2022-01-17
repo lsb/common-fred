@@ -1,0 +1,1 @@
+It is a conserved quantity in electromagnetic fields, even when magnetic reconnection dissipates energy.

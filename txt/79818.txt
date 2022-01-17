@@ -1,0 +1,1 @@
+"Some versions of the Apple Installer used an animated ""counting hand"" cursor."

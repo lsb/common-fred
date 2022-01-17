@@ -1,0 +1,1 @@
+The oven contains multiple zones, which can be individually controlled for temperature.

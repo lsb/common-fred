@@ -1,0 +1,1 @@
+The badge is individually serialized to the service member who earned it.

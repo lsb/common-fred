@@ -1,0 +1,1 @@
+Each class also paints a special mark for their graduating year.

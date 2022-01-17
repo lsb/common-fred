@@ -1,0 +1,1 @@
+"""Gun Fight"" uses a black-and-white raster monitor and a yellow screen overlay."

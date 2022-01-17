@@ -1,0 +1,1 @@
+This is sometimes called an inverse mask or a wildcard mask.

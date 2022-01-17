@@ -1,0 +1,1 @@
+Holding down a button causes a meter to fill up.

@@ -1,0 +1,1 @@
+For most architectures, there is no signed-unsigned type distinction in the machine language.

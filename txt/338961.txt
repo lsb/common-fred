@@ -1,0 +1,1 @@
+However, the audio output from the radio would need to be then decoded.

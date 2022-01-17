@@ -1,0 +1,1 @@
+"Any subset of ""B"" is also well-ordered."

@@ -1,0 +1,1 @@
+It is weaker than the proven theorems, and thus does not encapsulate them.

@@ -1,0 +1,1 @@
+Each square gets a unique letter-number designation.

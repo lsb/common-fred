@@ -1,0 +1,1 @@
+"""Esplanade"" and ""promenade"" are sometimes used interchangeably."

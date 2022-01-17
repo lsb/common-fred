@@ -1,0 +1,1 @@
+"In two or three dimensions, steady state seepage is described by Laplace's equation."

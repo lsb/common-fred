@@ -1,0 +1,1 @@
+Frugalware uses the Pacman package management system from Arch Linux.

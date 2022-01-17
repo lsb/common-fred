@@ -1,0 +1,1 @@
+If the end-effector wrench is known, then a direct calculation yields the joint torques.

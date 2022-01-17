@@ -1,0 +1,1 @@
+There is a simple island platform setup with two tracks.

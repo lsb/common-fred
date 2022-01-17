@@ -1,0 +1,1 @@
+The prefects are divided into two classes: A normal class and a sub-class.

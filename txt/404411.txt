@@ -1,0 +1,1 @@
+It solves the problem of rendering a complicated image by avoiding the problem.

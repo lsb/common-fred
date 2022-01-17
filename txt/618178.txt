@@ -1,0 +1,1 @@
+The game screen then fades out to return to another camera angle.

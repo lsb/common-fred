@@ -1,0 +1,1 @@
+English style guides prescribe writing the number and percent sign without any space between.

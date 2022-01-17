@@ -1,0 +1,1 @@
+It also reduces yaw in the event of an outboard engine failure.

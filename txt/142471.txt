@@ -1,0 +1,1 @@
+Across all versions, the game environment was presented using wire frame graphics.

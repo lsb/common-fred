@@ -1,0 +1,1 @@
+Contractive maps are sometimes called Lipschitzian maps.

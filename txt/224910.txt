@@ -1,0 +1,1 @@
+Doppler radars and Pulse-Doppler radars are extracting the velocities of the targets.

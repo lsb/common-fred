@@ -1,0 +1,1 @@
+Play is turnbased, and the players play the Union and Confederacy armies respectively.

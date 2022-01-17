@@ -1,0 +1,1 @@
+Some versions of cohomology arise by dualizing the construction of homology.

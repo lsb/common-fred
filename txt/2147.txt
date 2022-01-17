@@ -1,0 +1,1 @@
+"""Enterprise""-D locations such as hallways and the observation lounge were re-created."

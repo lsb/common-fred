@@ -1,0 +1,1 @@
+In effect, a match of the pattern is taken to mean pass.

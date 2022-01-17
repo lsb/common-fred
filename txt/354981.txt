@@ -1,0 +1,1 @@
+In all Macintosh applications, the Undo command is activated by pressing Command-Z.

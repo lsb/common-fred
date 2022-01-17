@@ -1,0 +1,1 @@
+Specific weight can be used as a characteristic property of a fluid.

@@ -1,0 +1,1 @@
+Functional programming languages have also allowed programmers to explicitly generate thunks.

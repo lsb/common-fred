@@ -1,0 +1,1 @@
+Pits normally pair up between adjacent cells.

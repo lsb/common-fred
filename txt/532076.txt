@@ -1,0 +1,1 @@
+Signal integrations are determined numerically with a minimal tolerance for each integrated signal.

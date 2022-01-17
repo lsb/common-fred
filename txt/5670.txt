@@ -1,0 +1,1 @@
+"""Park Cities People"" is a local community newspaper."

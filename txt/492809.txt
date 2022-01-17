@@ -1,0 +1,1 @@
+Pico does support search and replace operations.

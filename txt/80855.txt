@@ -1,0 +1,1 @@
+"Structure preserving maps called ""homomorphisms"" are vital in the study of algebraic objects."

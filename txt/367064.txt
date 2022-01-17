@@ -1,0 +1,1 @@
+Individual letters are processed serially when spatially conjoined with another letter.

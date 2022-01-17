@@ -1,0 +1,1 @@
+NegaScout works best when there is a good move ordering.

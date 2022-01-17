@@ -1,0 +1,1 @@
+Note that Hilbert spaces are special cases of Banach spaces.

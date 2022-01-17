@@ -1,0 +1,1 @@
+The player chooses their actions and choices through menu options.

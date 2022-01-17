@@ -1,0 +1,1 @@
+Multi-span bridges require piers to support ends of spans unsupported by abutments.

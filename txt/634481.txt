@@ -1,0 +1,1 @@
+The migration occurs with full retention of configuration at the R-group.

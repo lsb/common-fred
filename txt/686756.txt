@@ -1,0 +1,1 @@
+The working set window is a moving window.

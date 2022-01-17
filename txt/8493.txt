@@ -1,0 +1,1 @@
+"""Toxodon"" became extinct at the end of the Pleistocene."

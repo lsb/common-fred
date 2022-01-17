@@ -1,0 +1,1 @@
+It uses Lucas sequences to perform exponentiation in a quadratic field.

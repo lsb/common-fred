@@ -1,0 +1,1 @@
+Prolog is used for pattern matching over natural language parse trees.

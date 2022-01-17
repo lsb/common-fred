@@ -1,0 +1,1 @@
+We shouldn’t depend on one provider in the long run.

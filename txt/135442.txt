@@ -1,0 +1,1 @@
+A ship that is underway is in continuous motion in all axes.

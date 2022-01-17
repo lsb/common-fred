@@ -1,0 +1,1 @@
+Another rarely used technique is disassembling the game executable.

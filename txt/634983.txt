@@ -1,0 +1,1 @@
+The model then provides as output various resources requirements in cost and time.

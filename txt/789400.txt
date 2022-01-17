@@ -1,0 +1,1 @@
+Zgrass used a more advanced full-screen editor that eliminated this need.

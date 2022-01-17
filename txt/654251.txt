@@ -1,0 +1,1 @@
+The rate at which cornering force builds up is described by relaxation length.

@@ -1,0 +1,1 @@
+"""Zimmer"" in German means room or archaically a chamber within a structure."

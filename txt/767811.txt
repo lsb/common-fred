@@ -1,0 +1,1 @@
+Visible and invisible walls exist to keep players out of such areas.

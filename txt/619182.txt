@@ -1,0 +1,1 @@
+The goal of a business analytic tool is to analyze and present actionable information.

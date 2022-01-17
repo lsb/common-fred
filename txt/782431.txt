@@ -1,0 +1,1 @@
+Wireless radio links suffer from frequency-selective channel interference.

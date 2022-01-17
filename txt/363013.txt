@@ -1,0 +1,1 @@
+In the finite-dimensional case, the second condition above is implied by the first.

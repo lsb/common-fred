@@ -1,0 +1,1 @@
+Commonly used estimators include sample mean, unbiased sample variance and sample covariance.

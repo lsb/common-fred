@@ -1,0 +1,1 @@
+If all four players have the same color panels, a four-player game is selected.

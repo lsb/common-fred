@@ -1,0 +1,1 @@
+The code is named after Richard Guy, Hugh Blandford and John Roycroft.

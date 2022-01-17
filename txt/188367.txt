@@ -1,0 +1,1 @@
+Blocks are fundamental to structured programming, where control structures are formed from blocks.

@@ -1,0 +1,1 @@
+The result is a hierarchy tree, the root of which is the unfolded thing.

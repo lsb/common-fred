@@ -1,0 +1,1 @@
+"The game comes with three decks of cards: ""Weapons"", ""Gadgets"" and ""Special""."

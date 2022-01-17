@@ -1,0 +1,1 @@
+Winstone ran various speed tests using several popular applications.

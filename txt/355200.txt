@@ -1,0 +1,1 @@
+In analog television, chrominance is encoded into a video signal using a subcarrier frequency.

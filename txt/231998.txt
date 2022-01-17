@@ -1,0 +1,1 @@
+Each troop would now contain an automatic weapons section.

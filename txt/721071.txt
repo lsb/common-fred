@@ -1,0 +1,1 @@
+They take as input a whole primitive, possibly with adjacency information.

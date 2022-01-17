@@ -1,0 +1,1 @@
+Human walking is accomplished with a strategy called the double pendulum.

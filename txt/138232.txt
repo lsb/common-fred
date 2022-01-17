@@ -1,0 +1,1 @@
+A vertical datum measures elevations and depths.

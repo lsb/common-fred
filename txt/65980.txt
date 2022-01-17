@@ -1,0 +1,1 @@
+"Movement of pieces in ""Hive"" is governed by the hexagonal shape of the tiles."

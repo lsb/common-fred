@@ -1,0 +1,1 @@
+"Its elements are just the connected components of ""G""."

@@ -1,0 +1,1 @@
+A pretopological space is then a set equipped with such a neighborhood system.

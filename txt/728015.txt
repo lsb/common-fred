@@ -1,0 +1,1 @@
+This design produces the effect of an indoor square.

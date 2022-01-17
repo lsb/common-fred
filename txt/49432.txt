@@ -1,0 +1,1 @@
+"In effect, memory managers might reverse-engineer and modify other vendors' code on the fly."

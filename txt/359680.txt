@@ -1,0 +1,1 @@
+In quadratic forms, the Hurwitz problem asks for multiplicative identities between quadratic forms.

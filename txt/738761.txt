@@ -1,0 +1,1 @@
+This programming technique for handling uses what is known as a keyboard buffer.

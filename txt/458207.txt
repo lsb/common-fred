@@ -1,0 +1,1 @@
+Most of those factors will be trivial, that is constant polynomials.

@@ -1,0 +1,1 @@
+The behavior of the default constructor is language dependent.

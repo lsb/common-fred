@@ -1,0 +1,1 @@
+Unix and Unix-like systems, and Amiga systems, adopted this convention from Multics.

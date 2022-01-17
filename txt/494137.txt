@@ -1,0 +1,1 @@
+Players then move their train token along map dots toward their destination.

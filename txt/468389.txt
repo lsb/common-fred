@@ -1,0 +1,1 @@
+Nodes may point to other nodes via a special reference type property.

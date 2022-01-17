@@ -1,0 +1,1 @@
+It allows the receiver to cope with strong multipath situations.

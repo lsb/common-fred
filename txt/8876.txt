@@ -1,0 +1,1 @@
+"""Wawona"" was long with a beam."

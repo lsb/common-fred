@@ -1,0 +1,1 @@
+It makes a number of fundamental design improvements over the original Metaphone algorithm.

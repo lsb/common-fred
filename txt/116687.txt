@@ -1,0 +1,1 @@
+"We define the space ""P"" as consisting of all ""n""-homogeneous polynomials."

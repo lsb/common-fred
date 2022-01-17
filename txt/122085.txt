@@ -1,0 +1,1 @@
+A bound over the number of hypothesis changes that occur before convergence.

@@ -1,0 +1,1 @@
+Match types include cage matches and submission matches.

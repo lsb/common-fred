@@ -1,0 +1,1 @@
+More generally, reversible gates that consume their input have no more inputs than outputs.

@@ -1,0 +1,1 @@
+Class-C amplifiers are not linear in any topology.

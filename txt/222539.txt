@@ -1,0 +1,1 @@
+Digitally controlled sound chips are also mixed-signal circuits.

@@ -1,0 +1,1 @@
+One could not, for example, shuffle an array of strings.

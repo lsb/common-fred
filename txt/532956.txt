@@ -1,0 +1,1 @@
+Simpler is a digital pet, a virtual pet simulated by a computer.

@@ -1,0 +1,1 @@
+The magnitude of this value reflects how well connected the overall graph is.

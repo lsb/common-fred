@@ -1,0 +1,1 @@
+"""Papa Crazy"" is based on ""Papa Was a Rollin' Stone"" by The Temptations."

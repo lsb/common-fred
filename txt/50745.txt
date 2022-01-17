@@ -1,0 +1,1 @@
+"In the original protocol, transfers use an interlocked, three-wire ""ready-valid-accepted"" handshake."

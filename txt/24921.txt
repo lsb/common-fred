@@ -1,0 +1,1 @@
+"Cube permutations, ""C"", is a little more complicated."

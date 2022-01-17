@@ -1,0 +1,1 @@
+In this section, we present the general case of the Pohlig-Hellman algorithm.

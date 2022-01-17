@@ -1,0 +1,1 @@
+An absorbing species in the cavity will increase losses according to the Beer-Lambert law.

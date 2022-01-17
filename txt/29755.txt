@@ -1,0 +1,1 @@
+"Finderscopes contain mechanisms to properly align them with the main telescope's line of sight."

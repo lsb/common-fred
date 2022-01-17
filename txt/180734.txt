@@ -1,0 +1,1 @@
+Backports can be provided by the core developer group of the software.

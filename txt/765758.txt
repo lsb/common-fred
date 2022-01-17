@@ -1,0 +1,1 @@
+Varactors are used as voltage-controlled capacitors.

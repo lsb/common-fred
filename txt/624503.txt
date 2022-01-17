@@ -1,0 +1,1 @@
+The intended difference between the two Unicode values and is unclear.

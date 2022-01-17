@@ -1,0 +1,1 @@
+Depending on the design, friction dampers can experience stick-slip phenomenon and Cold welding.

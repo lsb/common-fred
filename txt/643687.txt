@@ -1,0 +1,1 @@
+The original console version of the game included an offline multiplayer mode.

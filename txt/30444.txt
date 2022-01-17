@@ -1,0 +1,1 @@
+"For any face of dimension ""n"", let be the standard ""n""-simplex."

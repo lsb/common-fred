@@ -1,0 +1,1 @@
+"Upon entering a wave, the player's primary task is to collect each icon present."

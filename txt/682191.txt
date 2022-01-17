@@ -1,0 +1,1 @@
+The use of corners in static timing analysis has several limitations.

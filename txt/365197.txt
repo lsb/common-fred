@@ -1,0 +1,1 @@
+In this case, for points in general position, there is a unique partition.

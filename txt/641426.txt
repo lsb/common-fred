@@ -1,0 +1,1 @@
+The number of pulses per frame gives the number of controllable channels available.

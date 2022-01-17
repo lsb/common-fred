@@ -1,0 +1,1 @@
+The coherence of two waves expresses how well correlated the waves are as quantified by the cross-correlation function.

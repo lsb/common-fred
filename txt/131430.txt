@@ -1,0 +1,1 @@
+A mesh refers to rich interconnection among devices or nodes.

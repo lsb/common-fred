@@ -1,0 +1,1 @@
+"Captured pieces are truly ""captured"" in cannon shogi."

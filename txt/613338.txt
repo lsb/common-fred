@@ -1,0 +1,1 @@
+The first issue discovered, was with the auto-pitch controller on the propeller.

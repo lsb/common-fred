@@ -1,0 +1,1 @@
+When expanded inline, macro functions and function templates have no extraneous runtime overhead.

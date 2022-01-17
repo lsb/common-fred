@@ -1,0 +1,1 @@
+"Let ""X"" be a topological space, and let ""A"" be a subset of ""X""."

@@ -1,0 +1,1 @@
+Long exact sequences induced by short exact sequences are also characteristic of derived functors.

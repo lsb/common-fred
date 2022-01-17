@@ -1,0 +1,1 @@
+Auditing requires that every attempt at access be recorded.

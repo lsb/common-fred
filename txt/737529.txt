@@ -1,0 +1,1 @@
+This operational cycle is a modification of the traditional expander cycle.

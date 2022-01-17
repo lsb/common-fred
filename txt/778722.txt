@@ -1,0 +1,1 @@
+While bump functions are smooth, they cannot be analytic unless they vanish identically.

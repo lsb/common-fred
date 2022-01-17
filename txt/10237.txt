@@ -1,0 +1,1 @@
+"A character takes damage when they're forced into a wall by their opponent."

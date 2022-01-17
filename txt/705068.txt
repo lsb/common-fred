@@ -1,0 +1,1 @@
+These depths are rounded down to the nearest foot.

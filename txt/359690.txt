@@ -1,0 +1,1 @@
+In radio applications, intermodulation may be measured as adjacent channel power ratio.

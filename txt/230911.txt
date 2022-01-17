@@ -1,0 +1,1 @@
+Each gene splices to a unique downstream exon that contains its complete coding region.

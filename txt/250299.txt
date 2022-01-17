@@ -1,0 +1,1 @@
+For trees, it can be approximated to within a constant factor.

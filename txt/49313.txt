@@ -1,0 +1,1 @@
+"In both graphs, zero on the ""x""-axis represents infinite temperature."

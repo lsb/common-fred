@@ -1,0 +1,1 @@
+It is also possible for an improper integral to diverge to infinity.

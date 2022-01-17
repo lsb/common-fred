@@ -1,0 +1,1 @@
+If the font does not have small-cap glyphs, lowercase letters are displayed.

@@ -1,0 +1,1 @@
+"""Waterfalls"" has received critical acclaim from music critics."

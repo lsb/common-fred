@@ -1,0 +1,1 @@
+"""Paper tiger"" was an ancient phrase used in Chinese culture."

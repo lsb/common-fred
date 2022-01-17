@@ -1,0 +1,1 @@
+This method will not create a real binaural recording.

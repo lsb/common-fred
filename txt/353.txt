@@ -1,0 +1,1 @@
+"""Alpha Centauri"" provides a single player mode and supports customization and multiplayer."

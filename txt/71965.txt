@@ -1,0 +1,1 @@
+"Power analysis provides a way to ""see inside"" otherwise 'tamperproof' hardware."

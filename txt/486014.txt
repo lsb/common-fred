@@ -1,0 +1,1 @@
+Outside this surface, space is still dragged but at a lesser rate.

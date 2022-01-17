@@ -1,0 +1,1 @@
+Furthermore, no pivoting is necessary and the error will always be small.

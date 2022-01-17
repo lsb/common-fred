@@ -1,0 +1,1 @@
+Its properties are identical to the traditional Lebesgue integral.

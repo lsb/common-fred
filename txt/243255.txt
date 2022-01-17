@@ -1,0 +1,1 @@
+File browsers use a navigation bar to assist the user in traversing the filesystem.

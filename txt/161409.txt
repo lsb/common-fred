@@ -1,0 +1,1 @@
+An abstract system satisfying these as axioms is a median algebra.

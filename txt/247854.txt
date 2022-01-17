@@ -1,0 +1,1 @@
+For example, Now app uses geotagged Instagram photos to find nearby events happening now.

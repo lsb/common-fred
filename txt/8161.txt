@@ -1,0 +1,1 @@
+"""The following celestial features are named after him:"""

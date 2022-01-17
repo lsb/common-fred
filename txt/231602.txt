@@ -1,0 +1,1 @@
+Each puzzle room contains the scrambled name of the object that belongs there.

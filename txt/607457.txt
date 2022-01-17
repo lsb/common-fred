@@ -1,0 +1,1 @@
+The engine aims at rendering indoor scenes with moderate polygon counts at high performances.

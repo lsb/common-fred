@@ -1,0 +1,1 @@
+The player can replenish their bomb stock by way of accumulating higher scores.

@@ -1,0 +1,1 @@
+Each player has their own parking meter and a hand of cards.

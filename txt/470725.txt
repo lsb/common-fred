@@ -1,0 +1,1 @@
+Note that there are alternative notations and conventions for the Fourier transform.

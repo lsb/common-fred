@@ -1,0 +1,1 @@
+Stars are scored by sandwiching the stars between two matching blocks.

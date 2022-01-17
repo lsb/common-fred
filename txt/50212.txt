@@ -1,0 +1,1 @@
+"In textbooks of engineering dynamics this is sometimes referred to as ""d'Alembert's principle""."

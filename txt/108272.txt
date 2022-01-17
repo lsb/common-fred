@@ -1,0 +1,1 @@
+"They are also ""J""-classes, because these relations coincide for a finite semigroup."

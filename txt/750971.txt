@@ -1,0 +1,1 @@
+To declare a variable as a pointer, precede its name with an asterisk.

@@ -1,0 +1,1 @@
+Kings pair with queens, jacks with other jacks, and aces with tens.

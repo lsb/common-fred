@@ -1,0 +1,1 @@
+This terminology separates assignment from comparison.

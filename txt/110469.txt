@@ -1,0 +1,1 @@
+"This extension is called the normal closure of the extension ""L"" of ""K""."

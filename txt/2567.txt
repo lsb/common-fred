@@ -1,0 +1,1 @@
+"""Galatea"" was well received, achieving overwhelming critical acclaim from interactive fiction reviewers."

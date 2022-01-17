@@ -1,0 +1,1 @@
+A closed-form or analytic solution is sometimes referred to as an explicit solution.

@@ -1,0 +1,1 @@
+Characters are all robots whose head, limbs, and body float around separately.

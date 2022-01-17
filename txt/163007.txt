@@ -1,0 +1,1 @@
+An island platform allows straightforward cross-platform interchange.

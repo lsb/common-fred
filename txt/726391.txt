@@ -1,0 +1,1 @@
+This capability makes the electron microscope a useful laboratory instrument for high resolution imaging.

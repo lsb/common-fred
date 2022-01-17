@@ -1,0 +1,1 @@
+"""Lutra"" species are semiaquatic mammals, so they are well-adapted to both water and land."

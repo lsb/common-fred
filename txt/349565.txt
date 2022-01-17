@@ -1,0 +1,1 @@
+If responder accepts the game try, then opener can further investigate the slam.

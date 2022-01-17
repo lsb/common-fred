@@ -1,0 +1,1 @@
+It is instead a complete Python distribution in itself.

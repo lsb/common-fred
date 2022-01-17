@@ -1,0 +1,1 @@
+Action-safe area is applied against a worst case of on-screen location and display type.

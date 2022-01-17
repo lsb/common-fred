@@ -1,0 +1,1 @@
+Stroke speed is usually expressed as a number of strokes per minute.

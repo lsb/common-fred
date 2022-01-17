@@ -1,0 +1,1 @@
+The following trees are illustrative of the type of structures assumed for raising-to-object predicates.

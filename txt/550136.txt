@@ -1,0 +1,1 @@
+Such text is displayed in gray instead of the usual black.

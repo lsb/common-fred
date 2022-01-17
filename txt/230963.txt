@@ -1,0 +1,1 @@
+Each hexagon is divided into four pentagons.

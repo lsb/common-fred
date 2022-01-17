@@ -1,0 +1,1 @@
+It supports static program analysis, among other features.

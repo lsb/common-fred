@@ -1,0 +1,1 @@
+Each player picks a secret word of five letters and writes it down privately.

@@ -1,0 +1,1 @@
+Such samplers are commonly found in musical transcription algorithms for example.

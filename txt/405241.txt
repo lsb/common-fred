@@ -1,0 +1,1 @@
+It then marks the free circuits in the failing circuitry as busy.

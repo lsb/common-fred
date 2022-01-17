@@ -1,0 +1,1 @@
+If this becomes untrue, performance falls off dramatically.

@@ -1,0 +1,1 @@
+"""Entrepreneur"" publishes the ""Entrepreneur StartUps"" magazine, available through subscription and on newsstands."

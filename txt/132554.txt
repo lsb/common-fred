@@ -1,0 +1,1 @@
+A number of compiler optimizations can also benefit from dominators.

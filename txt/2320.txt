@@ -1,0 +1,1 @@
+"""Fast Hack'em"" was updated quite often, and later versions added even more copying options."

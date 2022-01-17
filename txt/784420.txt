@@ -1,0 +1,1 @@
+Without this support, the building would be structurally unsound.

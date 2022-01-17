@@ -1,0 +1,1 @@
+Networks Hosts communicate through use of this client software: Shells, Redirectors and Requesters.

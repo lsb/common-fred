@@ -1,0 +1,1 @@
+More generally there are various other methods of spectral estimation.

@@ -1,0 +1,1 @@
+The scale also produces ii, which is avoided since it is diminished.

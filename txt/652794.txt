@@ -1,0 +1,1 @@
+The proposed variant achieves better performance than the other two sets of classifiers.

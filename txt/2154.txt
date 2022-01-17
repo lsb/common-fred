@@ -1,0 +1,1 @@
+"""Entertainment Weekly"" gave this edition an ""A-"" rating."

@@ -1,0 +1,1 @@
+In some printers, the high bit was used to enable Italics printing.

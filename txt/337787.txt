@@ -1,0 +1,1 @@
+However, near-rings are almost always written as right near-rings.

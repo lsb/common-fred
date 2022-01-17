@@ -1,0 +1,1 @@
+Otherwise the regression tests will loop endlessly.

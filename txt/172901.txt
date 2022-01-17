@@ -1,0 +1,1 @@
+As is already discussed above the gradient is not a unique representation of orientation.

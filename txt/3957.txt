@@ -1,0 +1,1 @@
+"""J. J. Wilson"" is a thinly veiled ""John Anthony Burgess Wilson""."

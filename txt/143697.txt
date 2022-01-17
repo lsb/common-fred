@@ -1,0 +1,1 @@
+Additionally, it provided functionality to help manage package caches.

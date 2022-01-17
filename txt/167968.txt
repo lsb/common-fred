@@ -1,0 +1,1 @@
+Any non-complete type is called a partial type.

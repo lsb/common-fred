@@ -1,0 +1,1 @@
+Before encoding, the video could be scaled.

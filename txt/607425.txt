@@ -1,0 +1,1 @@
+The enemy vehicles are separated into cars and trucks.

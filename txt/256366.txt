@@ -1,0 +1,1 @@
+Gaps in the hull numbers correspond to ships whose contracts were cancelled.

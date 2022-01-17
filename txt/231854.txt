@@ -1,0 +1,1 @@
+Each subgroup symmetry allows one or more degrees of freedom for irregular forms.

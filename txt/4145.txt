@@ -1,0 +1,1 @@
+"""Kime"" is a commonly used Japanese martial arts term."

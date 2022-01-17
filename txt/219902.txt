@@ -1,0 +1,1 @@
+Depending on the model, the relay has multiple methods to detect a failing transformer.

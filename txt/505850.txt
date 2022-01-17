@@ -1,0 +1,1 @@
+Revenue depends on the price difference between pick-up and delivery.

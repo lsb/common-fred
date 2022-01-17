@@ -1,0 +1,1 @@
+Upon launch the tool deploys its own Wiki engine into its embedded server.

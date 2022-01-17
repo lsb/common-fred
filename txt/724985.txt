@@ -1,0 +1,1 @@
+This applies notably to rational expressions over a field.

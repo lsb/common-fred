@@ -1,0 +1,1 @@
+Many authors call this type of object a multigraph or pseudograph.

@@ -1,0 +1,1 @@
+That is, it performs a constant number of operations for each input symbol.

@@ -1,0 +1,1 @@
+The extended Euclidean algorithm may be used to compute it.

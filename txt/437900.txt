@@ -1,0 +1,1 @@
+Logic languages are traditionally interpreted, but Visual Prolog is compiled.

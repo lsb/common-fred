@@ -1,0 +1,1 @@
+"Without loss of generality, we can take the projection line to be the ""x""-axis."

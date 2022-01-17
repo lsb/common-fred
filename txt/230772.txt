@@ -1,0 +1,1 @@
+Each emergency box is color coded as either red, green, or yellow.

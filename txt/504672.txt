@@ -1,0 +1,1 @@
+Remote attackers can use this information to authenticate to the device.

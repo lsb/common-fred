@@ -1,0 +1,1 @@
+The empty string is a legitimate string, upon which most string operations should work.

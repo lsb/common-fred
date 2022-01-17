@@ -1,0 +1,1 @@
+It detects the events and converts raw data into something useful.

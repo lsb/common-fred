@@ -1,0 +1,1 @@
+All regular polygons and isotoxal polygons are equilateral.

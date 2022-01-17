@@ -1,0 +1,1 @@
+Separating a moving object from stationary background is accomplished by suitable hardware.

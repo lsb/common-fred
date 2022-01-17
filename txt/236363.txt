@@ -1,0 +1,1 @@
+Entries also typically include the location of header files, version information and a description.

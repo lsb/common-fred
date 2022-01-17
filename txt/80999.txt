@@ -1,0 +1,1 @@
+"Substituting minus for plus in ""both"" the quadratic binomials also results in split-quaternions."

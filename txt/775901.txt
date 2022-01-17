@@ -1,0 +1,1 @@
+When an action is performed, most information processing and manipulation occurs automatically.

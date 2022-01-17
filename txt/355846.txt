@@ -1,0 +1,1 @@
+In computational linguistics Karlsson has designed a language-independent formalism called Constraint Grammar.

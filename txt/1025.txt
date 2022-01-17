@@ -1,0 +1,1 @@
+"""Brioche Nanterre"" is a loaf of brioche made in a standard loaf pan."

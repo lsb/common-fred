@@ -1,0 +1,1 @@
+Due to dynamic core they vary voltage and frequency dynamically under dynamic load.

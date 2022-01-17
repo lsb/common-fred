@@ -1,0 +1,1 @@
+Neutral and line wires carry current and are defined as live parts.

@@ -1,0 +1,1 @@
+This assumes the use of a public-key encryption algorithm.

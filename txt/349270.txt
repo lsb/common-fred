@@ -1,0 +1,1 @@
+If fixed at only one end, only odd-numbered harmonics are available.

@@ -1,0 +1,1 @@
+"Previously 'lost ball' could only be called when the ball could not be found."

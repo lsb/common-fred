@@ -1,0 +1,1 @@
+It allows a hacker to gain information about the target system.

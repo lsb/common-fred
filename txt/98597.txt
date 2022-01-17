@@ -1,0 +1,1 @@
+"The player adds five new cards beside these four to form the ""tableau""."

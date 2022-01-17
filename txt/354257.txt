@@ -1,0 +1,1 @@
+In addition, a weapon must be drawn before it may be used.

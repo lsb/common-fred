@@ -1,0 +1,1 @@
+Organisers can communicate with participants through the use of alerts, notifications, and push messages.

@@ -1,0 +1,1 @@
+Regular expression can be used to detect patterns in a string of text.

@@ -1,0 +1,1 @@
+It can have applications in all fields where we apply Hidden Markov Models.

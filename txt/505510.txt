@@ -1,0 +1,1 @@
+Resolution depends on the distance between two distinguishable radiating points.

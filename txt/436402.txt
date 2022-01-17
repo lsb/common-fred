@@ -1,0 +1,1 @@
+Lisa includes an integrated editor with syntax checking.

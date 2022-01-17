@@ -1,0 +1,1 @@
+Consistent hashing maps objects to the same cache machine, as far as possible.

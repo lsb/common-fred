@@ -1,0 +1,1 @@
+"""Seinfeld"" had no network interference."

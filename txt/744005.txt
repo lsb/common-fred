@@ -1,0 +1,1 @@
+This was intended to allow simple performance scaling without resorting to higher clock frequencies.

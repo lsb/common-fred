@@ -1,0 +1,1 @@
+Generally, elements expire from the list in the same order they are added.

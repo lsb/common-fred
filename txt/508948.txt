@@ -1,0 +1,1 @@
+Rounds pieces move one step in diagonal, always forward.

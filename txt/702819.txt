@@ -1,0 +1,1 @@
+Therefore, the sets of an antimatroid, partially ordered by set inclusion, form a lattice.

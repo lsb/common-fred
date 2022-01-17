@@ -1,0 +1,1 @@
+This age-structured growth model suggests a steady-state, or stable, age-structure and growth rate.

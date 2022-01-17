@@ -1,0 +1,1 @@
+They are used to transfer data for both read and write operations.

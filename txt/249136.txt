@@ -1,0 +1,1 @@
+For other convex polygon clipping windows, use the Cyrus-Beck algorithm.

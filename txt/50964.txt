@@ -1,0 +1,1 @@
+"In this case the info stream is sent logically ""down"" to dedicated function devices."

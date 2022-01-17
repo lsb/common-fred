@@ -1,0 +1,1 @@
+Another use is to buffer extreme loads on the power system.

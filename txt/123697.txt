@@ -1,0 +1,1 @@
+A conceptual framework might, in computing terms, be thought of as a relational model.

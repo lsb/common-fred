@@ -1,0 +1,1 @@
+DirectDraw allows direct access to video memory, hardware overlays, hardware blitters, and page flipping.

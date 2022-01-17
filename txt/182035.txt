@@ -1,0 +1,1 @@
+Barrier options can have either American, Bermudan or European exercise style.

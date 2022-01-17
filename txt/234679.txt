@@ -1,0 +1,1 @@
+Electronic switching systems maintained logs of all calls made, including calls to free numbers.

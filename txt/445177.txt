@@ -1,0 +1,1 @@
+Many point-of-sale terminals or cash registers can automatically produce receipts.

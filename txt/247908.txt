@@ -1,0 +1,1 @@
+For example, agar displays a hysteresis in its melting point and freezing point.

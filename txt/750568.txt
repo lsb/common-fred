@@ -1,0 +1,1 @@
+Tivoli Storage Manager as a system is made up of several different components.

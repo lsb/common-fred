@@ -1,0 +1,1 @@
+Knowledge sources provide data which are essential to associate senses with words.

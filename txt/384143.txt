@@ -1,0 +1,1 @@
+It is also possible to search for character patterns in the file.

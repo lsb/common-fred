@@ -1,0 +1,1 @@
+"The rate at which pattern data is played is defined by a ""speed setting""."

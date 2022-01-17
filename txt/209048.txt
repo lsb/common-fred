@@ -1,0 +1,1 @@
+Codified discounting solves pricing problems including markups and markdowns.

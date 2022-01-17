@@ -1,0 +1,1 @@
+Thus vorticity is the circulation per unit area, taken around an infinitesimal loop.

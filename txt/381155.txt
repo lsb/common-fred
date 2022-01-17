@@ -1,0 +1,1 @@
+It is a bulk material property related to thermal conductivity and volumetric heat capacity.

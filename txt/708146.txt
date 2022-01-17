@@ -1,0 +1,1 @@
+These segments end when the player reaches the entrance of the base.

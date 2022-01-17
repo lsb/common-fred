@@ -1,0 +1,1 @@
+Balanced audio connections use a number of techniques to reduce noise.

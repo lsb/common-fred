@@ -1,0 +1,1 @@
+If the final adjusted score is a tie, the bet is considered a push.

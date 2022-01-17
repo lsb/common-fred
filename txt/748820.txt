@@ -1,0 +1,1 @@
+Thrusters were pulsed in the time domain to perform rotation or translation.

@@ -1,0 +1,1 @@
+In theory, this could slow the machine down due to signalling delays.

@@ -1,0 +1,1 @@
+"""Santa Claus Lane"" received mixed reviews by music critics."

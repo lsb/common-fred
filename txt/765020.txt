@@ -1,0 +1,1 @@
+Usually a window decoration is drawn around each window.

@@ -1,0 +1,1 @@
+Clock and control signals were used to manage the traffic on the bus.

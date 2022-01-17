@@ -1,0 +1,1 @@
+"Autoscoop requires the player's ship to be equipped with a Planet Scooper."

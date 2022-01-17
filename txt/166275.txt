@@ -1,0 +1,1 @@
+Another approach is for the audio player to support the cue sheet directly.

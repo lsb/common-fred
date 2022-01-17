@@ -1,0 +1,1 @@
+Kilinux tried to reduce the threshold by localizing Open Office.

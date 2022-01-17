@@ -1,0 +1,1 @@
+Postfix notation is used in many stack-oriented programming languages like PostScript and Forth.

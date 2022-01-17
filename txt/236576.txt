@@ -1,0 +1,1 @@
+Equinumerous finite sets have the same number of elements.

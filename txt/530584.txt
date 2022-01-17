@@ -1,0 +1,1 @@
+Shells read configuration files on multiple circumstances that differ depending on the shell.

@@ -1,0 +1,1 @@
+"What's the meaning of an asterisk in a regular expression?"

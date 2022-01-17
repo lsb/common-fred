@@ -1,0 +1,1 @@
+A mechanical snubber uses mechanical means to provide the restraint force.

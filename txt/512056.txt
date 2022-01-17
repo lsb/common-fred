@@ -1,0 +1,1 @@
+Scenario families contain individual scenarios with common themes.

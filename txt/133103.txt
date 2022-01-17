@@ -1,0 +1,1 @@
+A path-ordered approach to real-time formalisms includes the Schwinger-Keldysh formalism and more modern variants.

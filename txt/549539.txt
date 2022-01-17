@@ -1,0 +1,1 @@
+Such a virtual environment is sometimes called a sandbox.

@@ -1,0 +1,1 @@
+Sequential changes in the direction of magnetization represent binary data bits.

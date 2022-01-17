@@ -1,0 +1,1 @@
+"When out-of-the-money, its intrinsic value is ""zero""."

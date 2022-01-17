@@ -1,0 +1,1 @@
+The parts of the robot are controlled by commands.

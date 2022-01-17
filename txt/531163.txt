@@ -1,0 +1,1 @@
+Shorter wavelengths are useful for smaller particles, but the signal is more quickly attenuated.

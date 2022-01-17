@@ -1,0 +1,1 @@
+"The program is built of two modules: ""crystal"" and ""properties""."

@@ -1,0 +1,1 @@
+Some chargers do this after the charge cycle, to offset natural self-discharge.

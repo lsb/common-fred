@@ -1,0 +1,1 @@
+Role-based access is supported with three roles available: Administrator, Operator and User.

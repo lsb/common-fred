@@ -1,0 +1,1 @@
+"Many dynamical systems, including Sinai's billiards and Anosov flows are isomorphic to Bernoulli shifts."

@@ -1,0 +1,1 @@
+This format is currently implemented in software due to lack of hardware support.

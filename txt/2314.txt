@@ -1,0 +1,1 @@
+"""Farragut"" is equipped with the ""Smart Ship"" data distribution and control system."

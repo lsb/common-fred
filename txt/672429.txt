@@ -1,0 +1,1 @@
+The table may be sorted by any column by clicking on the heading.

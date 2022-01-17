@@ -1,0 +1,1 @@
+"""Positive"" spherical aberration means peripheral rays are bent too much."

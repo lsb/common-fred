@@ -1,0 +1,1 @@
+Cohomology arises from the algebraic dualization of the construction of homology.

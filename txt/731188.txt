@@ -1,0 +1,1 @@
+This includes the protection flags plus an optional comment field.

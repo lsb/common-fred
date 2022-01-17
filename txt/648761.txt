@@ -1,0 +1,1 @@
+The play proceeds by sequentially dealing four cards to each stack of the tableau.

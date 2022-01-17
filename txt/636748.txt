@@ -1,0 +1,1 @@
+The multiplications by constants are less complex than general multiplications.

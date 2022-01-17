@@ -1,0 +1,1 @@
+There is no collision detection for objects in space, apart from defined docking ports.

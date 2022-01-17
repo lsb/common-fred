@@ -1,0 +1,1 @@
+The dots over the time-dependent Euler angles indicate time derivatives.

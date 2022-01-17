@@ -1,0 +1,1 @@
+A changelog has historically included all changes made to a project.

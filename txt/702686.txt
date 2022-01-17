@@ -1,0 +1,1 @@
+Therefore, pinouts are a vital reference when building and testing connectors, cables, and adapters.

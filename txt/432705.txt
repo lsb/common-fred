@@ -1,0 +1,1 @@
+Leakage inductance depends on the geometry of the core and the windings.

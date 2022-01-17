@@ -1,0 +1,1 @@
+See arithmetic function for some other examples of non-multiplicative functions.

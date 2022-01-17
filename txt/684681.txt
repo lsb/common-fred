@@ -1,0 +1,1 @@
+The wait-for-carrier timer can be specified when configuring the dialer map.

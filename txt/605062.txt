@@ -1,0 +1,1 @@
+The divergence of these values could result in errors in computations, and was unwieldy.

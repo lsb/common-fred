@@ -1,0 +1,1 @@
+From a known sequence, a primer is designed to sequence across the circularised junction.

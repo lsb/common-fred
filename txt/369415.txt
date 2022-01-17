@@ -1,0 +1,1 @@
+Internet Explorer also supports Integrated Windows Authentication.

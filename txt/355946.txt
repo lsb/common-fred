@@ -1,0 +1,1 @@
+In contrast, a program that employs a God object does not follow this approach.

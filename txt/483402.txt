@@ -1,0 +1,1 @@
+Other implementations of curses generally use terminfo; a minority use termcap.

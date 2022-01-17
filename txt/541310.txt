@@ -1,0 +1,1 @@
+Some ships have built in cranes and can load and unload their own cargo.

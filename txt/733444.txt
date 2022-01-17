@@ -1,0 +1,1 @@
+This is one instance of the geometric unsuitability of the Zariski topology.

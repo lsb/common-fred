@@ -1,0 +1,1 @@
+"It changes color when you say the words ""blue sponge""."

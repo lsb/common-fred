@@ -1,0 +1,1 @@
+Some salts are not fully dissociated in solution.

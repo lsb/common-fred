@@ -1,0 +1,1 @@
+"""A very excellent idea,"" I said, and did so."

@@ -1,0 +1,1 @@
+The matrix on the left is commonly referred to as a Vandermonde matrix.

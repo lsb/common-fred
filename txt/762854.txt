@@ -1,0 +1,1 @@
+Units are moved by cursor, and only one may be moved at a time.

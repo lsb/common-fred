@@ -1,0 +1,1 @@
+In incompressible flow, all potential flow solutions are also solutions of the Euler equations.

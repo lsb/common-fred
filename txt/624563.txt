@@ -1,0 +1,1 @@
+The interconnect is formed between a host and a module.

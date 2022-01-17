@@ -1,0 +1,1 @@
+If the contract is terminated the square is shown with solid shading.

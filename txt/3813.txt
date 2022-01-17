@@ -1,0 +1,1 @@
+"""Is it,"" Mr. George muses, ""blank cartridge or ball?"""

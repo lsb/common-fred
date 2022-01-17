@@ -1,0 +1,1 @@
+DirectInput is not available for Windows Store apps.

@@ -1,0 +1,1 @@
+"""Grace"" is a tribute to Jefferson Airplane's lead singer, Grace Slick."

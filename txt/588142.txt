@@ -1,0 +1,1 @@
+The building menu display the various types of structures available for construction.

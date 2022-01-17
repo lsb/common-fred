@@ -1,0 +1,1 @@
+In fact, every homography is the composition of a finite number of central collineations.

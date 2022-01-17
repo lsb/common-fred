@@ -1,0 +1,1 @@
+In dynamic layout, text elements move in relation to one another.

@@ -1,0 +1,1 @@
+The curves were ostensibly chosen for optimal security and implementation efficiency.

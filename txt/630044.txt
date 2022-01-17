@@ -1,0 +1,1 @@
+The localization theorem is one of the most powerful tools in equivariant cohomology.

@@ -1,0 +1,1 @@
+"""Signing the pledge"" was one of the innovative features."

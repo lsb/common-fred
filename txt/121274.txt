@@ -1,0 +1,1 @@
+A Shiritori game using only English words was invented to help people learn English.

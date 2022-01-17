@@ -1,0 +1,1 @@
+It allows a large quantity of cargo to be bundled into a single unit.

@@ -1,0 +1,1 @@
+"This can be known as ""inverse regression"": see also sliced inverse regression."

@@ -1,0 +1,1 @@
+However, it can also be configured to use a weak host model.

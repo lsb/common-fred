@@ -1,0 +1,1 @@
+The apparent figures have the same color as the background, but appear brighter.

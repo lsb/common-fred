@@ -1,0 +1,1 @@
+A signal to execute a dance figure.

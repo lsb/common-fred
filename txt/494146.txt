@@ -1,0 +1,1 @@
+Players use the control pad to move horizontally and to crouch.

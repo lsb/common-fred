@@ -1,0 +1,1 @@
+This adds flexibility to columns, especially when bound to a dynamically typed scripting language.

@@ -1,0 +1,1 @@
+"Cloud formation from the lower layer is ""capped"" by the inversion layer."

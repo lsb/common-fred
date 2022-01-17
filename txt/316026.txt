@@ -1,0 +1,1 @@
+Hence these two theorems imply the boundedness theorem and the extreme value theorem.

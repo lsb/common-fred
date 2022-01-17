@@ -1,0 +1,1 @@
+This creates a healthy environment with myofibroblasts and extracellular matrix.

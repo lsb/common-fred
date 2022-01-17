@@ -1,0 +1,1 @@
+Armies are stack-based, with any one stack taking up one square on the battlefield.

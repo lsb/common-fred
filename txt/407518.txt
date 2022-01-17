@@ -1,0 +1,1 @@
+It was built in JavaScript and is thus compatible with modern web-browsers.

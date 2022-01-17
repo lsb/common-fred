@@ -1,0 +1,1 @@
+Each boat may be identified by colored flags on their sterns.

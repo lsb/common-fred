@@ -1,0 +1,1 @@
+A bottom-up approach synthesizes the nanowire by combining constituent adatoms.

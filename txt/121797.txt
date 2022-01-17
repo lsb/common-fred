@@ -1,0 +1,1 @@
+A bit-sequence match means that the stream is byte-synchronized.

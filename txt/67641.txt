@@ -1,0 +1,1 @@
+"Note that if ""F"" and ""Q"" are time invariant these values can be cached."

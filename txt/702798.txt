@@ -1,0 +1,1 @@
+Therefore, the polynomial code defined by is a cyclic code.

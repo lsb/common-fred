@@ -1,0 +1,1 @@
+Devices can automatically connect and log into public Xfinity WiFi hotspots.

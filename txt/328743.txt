@@ -1,0 +1,1 @@
+His research field is functional programming and implementations of functional languages.

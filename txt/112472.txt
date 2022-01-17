@@ -1,0 +1,1 @@
+"This type of circuit is usually called ""mixed signal"" rather than analog or digital."

@@ -1,0 +1,1 @@
+"Some chargers use ""negative pulse charging"", also called ""reflex charging"" or ""burp charging""."

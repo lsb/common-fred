@@ -1,0 +1,1 @@
+The new label feature here applies color only to the background of file names.

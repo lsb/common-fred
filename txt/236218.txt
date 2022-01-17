@@ -1,0 +1,1 @@
+Enriched functors are then maps between enriched categories which respect the enriched structure.

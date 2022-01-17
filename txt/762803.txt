@@ -1,0 +1,1 @@
+Unit-weighted regression is the most common example of an improper linear model.

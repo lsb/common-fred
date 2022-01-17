@@ -1,0 +1,1 @@
+A long nose probe carrying a pitot head was added.

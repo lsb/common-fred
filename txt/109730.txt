@@ -1,0 +1,1 @@
+"This ""representation class"" provides a way to classify or group data elements."

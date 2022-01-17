@@ -1,0 +1,1 @@
+"""Gamaicu"" is a local South American name for a type of variolite."

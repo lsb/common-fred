@@ -1,0 +1,1 @@
+If the potential is very small we get the Empty Lattice Approximation.

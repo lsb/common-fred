@@ -1,0 +1,1 @@
+"""EarthForce One"" is the ship of the President of the Earth Alliance."

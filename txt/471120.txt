@@ -1,0 +1,1 @@
+Notice that this is independent of the noise generating resistance.

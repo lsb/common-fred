@@ -1,0 +1,1 @@
+"""Amt"" means ""municipal office"" in German."

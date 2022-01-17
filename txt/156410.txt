@@ -1,0 +1,1 @@
+All vehicles are detached and can leave the procession at any time.

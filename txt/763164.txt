@@ -1,0 +1,1 @@
+Unlike in the Riemannian case, symplectic manifolds have no local invariants such as curvature.

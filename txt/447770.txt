@@ -1,0 +1,1 @@
+Material picked up by the cutting wheel is transferred back along the boom.

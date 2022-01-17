@@ -1,0 +1,1 @@
+Also, if the program resides in protected memory, overwriting of instructions may be prevented.

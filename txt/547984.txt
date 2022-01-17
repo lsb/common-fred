@@ -1,0 +1,1 @@
+Stropping can also be used in the Nim programming language.

@@ -1,0 +1,1 @@
+An equivalence class of graphs under switching is called a switching class.

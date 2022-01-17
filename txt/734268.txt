@@ -1,0 +1,1 @@
+This is the same function as parity or multiple exclusive ors.

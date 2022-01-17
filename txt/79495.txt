@@ -1,0 +1,1 @@
+"Some obstruction-free algorithms use a pair of ""consistency markers"" in the data structure."

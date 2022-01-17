@@ -1,0 +1,1 @@
+"The arc will rotate slowly to face the direction opposite the ship's motion."

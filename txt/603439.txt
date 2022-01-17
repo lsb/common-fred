@@ -1,0 +1,1 @@
+The design can be automatically checked for spacing violations and many other design rules.

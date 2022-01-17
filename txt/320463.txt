@@ -1,0 +1,1 @@
+Higher capacitance requires proportionally shorter cable length.

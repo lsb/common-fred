@@ -1,0 +1,1 @@
+Both must simultaneously decide whether to shoot the other or not.

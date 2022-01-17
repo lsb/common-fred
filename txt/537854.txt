@@ -1,0 +1,1 @@
+Some activities are attracted to particular nodes while others try to avoid them.

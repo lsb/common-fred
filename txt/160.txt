@@ -1,0 +1,1 @@
+"""Accessibility"" refers to the accommodation of physically challenged people in structures."

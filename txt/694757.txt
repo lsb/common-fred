@@ -1,0 +1,1 @@
+There are three exits: East exit, West exit, and North exit.

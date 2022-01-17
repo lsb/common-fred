@@ -1,0 +1,1 @@
+Dedicated server appliances tend to be fairly simple in both configuration and features.

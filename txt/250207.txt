@@ -1,0 +1,1 @@
+For this reason, unipolar encoding is not normally used in data communications today.

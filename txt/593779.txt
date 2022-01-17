@@ -1,0 +1,1 @@
+The classic example of recursion is in list-sorting algorithms such as Merge Sort.

@@ -1,0 +1,1 @@
+Light becomes diffused around dots, darkening the apparent tone.

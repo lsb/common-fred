@@ -1,0 +1,1 @@
+Issuer script can be used to block cards, or change card parameters.

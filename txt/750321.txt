@@ -1,0 +1,1 @@
+TimesTen is an in-memory database management technology that provides very fast data access time.

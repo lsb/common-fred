@@ -1,0 +1,1 @@
+The original messages can be recovered by performing Gaussian elimination on the matrix.

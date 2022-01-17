@@ -1,0 +1,1 @@
+Functions that have only poles but no essential singularities are called meromorphic.

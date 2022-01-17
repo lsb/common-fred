@@ -1,0 +1,1 @@
+The software was ported to a wide set of Unix and Linux variants.

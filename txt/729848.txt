@@ -1,0 +1,1 @@
+This generalization can be proved by comparing derivatives.

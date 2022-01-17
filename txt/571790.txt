@@ -1,0 +1,1 @@
+The Reed-Solomon code, like the convolutional code, is a transparent code.

@@ -1,0 +1,1 @@
+In distributed transactions, all participating servers must coordinate before commit can be acknowledged.

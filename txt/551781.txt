@@ -1,0 +1,1 @@
+Switching between the two dimensions requires a small switching capability in the node.

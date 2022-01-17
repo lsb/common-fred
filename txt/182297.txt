@@ -1,0 +1,1 @@
+Based on such tests the best genotypes among the parents can be selected.

@@ -1,0 +1,1 @@
+Another alternative solution could be to have an interface instead of superclass.

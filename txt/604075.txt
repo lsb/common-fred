@@ -1,0 +1,1 @@
+The differential equations are now called the Kolmogorov equations or the Kolmogorov-Chapman equations.

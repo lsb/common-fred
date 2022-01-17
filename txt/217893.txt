@@ -1,0 +1,1 @@
+Data travels around the ring in one direction.

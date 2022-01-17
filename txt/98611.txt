@@ -1,0 +1,1 @@
+"The player's caddie provides information about the pitfalls and idiosyncrasies of each course."

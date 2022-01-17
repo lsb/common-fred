@@ -1,0 +1,1 @@
+The client and server can always negotiate down to the additions that both understand.

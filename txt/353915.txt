@@ -1,0 +1,1 @@
+In addition to refinement checks, It can perform deadlock check and livelock check.

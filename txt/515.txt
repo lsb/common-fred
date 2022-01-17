@@ -1,0 +1,1 @@
+"""Anzac"" was built to the British Battle class destroyer design."

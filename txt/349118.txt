@@ -1,0 +1,1 @@
+If a player is tagged, then that player becomes It.

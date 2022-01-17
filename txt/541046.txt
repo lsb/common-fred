@@ -1,0 +1,1 @@
+Some reaction may occur in a battery even if no external current is flowing.

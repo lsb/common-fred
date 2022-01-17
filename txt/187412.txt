@@ -1,0 +1,1 @@
+Bing Maps was based on existing Microsoft technologies such as Microsoft MapPoint, and TerraServer.

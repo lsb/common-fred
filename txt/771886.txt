@@ -1,0 +1,1 @@
+We then reverse an error by applying a corrective operation based on the syndrome.

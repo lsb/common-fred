@@ -1,0 +1,1 @@
+By making this subset small enough, any nearby stationary points could be excluded.

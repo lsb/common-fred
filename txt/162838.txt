@@ -1,0 +1,1 @@
+An infinite Engel expansion in which all terms are equal is a geometric series.

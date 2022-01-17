@@ -1,0 +1,1 @@
+It allows the operator to reduce vibration-induced motion blur during exposure.

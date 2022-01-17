@@ -1,0 +1,1 @@
+This total will have one complete circle for every vertex in the polyhedron.

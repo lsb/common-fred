@@ -1,0 +1,1 @@
+Without this, the final signal would be noisy or distorted.

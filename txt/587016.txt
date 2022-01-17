@@ -1,0 +1,1 @@
+The boundary operator thus satisfies a weakened kind of idempotence.

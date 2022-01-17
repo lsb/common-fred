@@ -1,0 +1,1 @@
+Each message was assumed to begin with the shift mode in lower case.

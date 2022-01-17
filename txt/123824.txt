@@ -1,0 +1,1 @@
+A contract can also be void due to the impossibility of its performance.

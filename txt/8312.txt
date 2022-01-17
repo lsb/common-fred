@@ -1,0 +1,1 @@
+"""Thirdeye Magazine"", an online zine, reinforces the perception of Bizarro writing as purposefully absurd."

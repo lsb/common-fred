@@ -1,0 +1,1 @@
+If a player was killed while playing the game, they simply respawn.

@@ -1,0 +1,1 @@
+In between the extremes are moderate windows, such as Hamming and Hann.

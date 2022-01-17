@@ -1,0 +1,1 @@
+To help maintain the desired consistency, the typical page may employ a grid system.

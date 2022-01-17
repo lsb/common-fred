@@ -1,0 +1,1 @@
+It is a special case of hierarchy of bounded alternating Turing machine.

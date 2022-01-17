@@ -1,0 +1,1 @@
+"This equation reduces to Maxwell's equations as a special case; see gauge theory."

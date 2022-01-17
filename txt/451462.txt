@@ -1,0 +1,1 @@
+Method inheritance is included in type inheritance.

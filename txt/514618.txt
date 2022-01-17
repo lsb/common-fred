@@ -1,0 +1,1 @@
+Segments of the hypermedia are identified through a process of pattern matching.

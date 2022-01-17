@@ -1,0 +1,1 @@
+"""Gartel"" is Yiddish for ""belt""."

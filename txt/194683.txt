@@ -1,0 +1,1 @@
+Broadly speaking, nodes with children are harder to delete.

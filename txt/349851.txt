@@ -1,0 +1,1 @@
+If the player escapes the house with the urn, the player wins.

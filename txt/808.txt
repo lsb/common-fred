@@ -1,0 +1,1 @@
+"""Benefactor"" is a mix between a puzzle game and a platform game."

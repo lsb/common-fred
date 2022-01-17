@@ -1,0 +1,1 @@
+Some expansion cards take up more than one slot space.

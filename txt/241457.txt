@@ -1,0 +1,1 @@
+Fare control for each platform is at platform level.

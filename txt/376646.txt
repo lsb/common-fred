@@ -1,0 +1,1 @@
+It features a comprehensive instruction set, separate register files and independent execution hardware.

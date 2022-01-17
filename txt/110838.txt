@@ -1,0 +1,1 @@
+"This is a generalization of Heron's formula for the area of a triangle."

@@ -1,0 +1,1 @@
+Following is an example program in Java language, using that class.

@@ -1,0 +1,1 @@
+A vertex with no incident edges is itself a connected component.

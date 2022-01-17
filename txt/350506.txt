@@ -1,0 +1,1 @@
+Image editors typically have provisions to create a histogram of the image being edited.

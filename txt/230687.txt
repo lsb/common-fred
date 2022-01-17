@@ -1,0 +1,1 @@
+Each data mart is dedicated to a specific business function or region.

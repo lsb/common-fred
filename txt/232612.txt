@@ -1,0 +1,1 @@
+Early processors used a wire for each bit of the address width.

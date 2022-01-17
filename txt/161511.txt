@@ -1,0 +1,1 @@
+An additive category is an abstraction of the properties of the category of modules.

@@ -1,0 +1,1 @@
+It causes missing textures, errors in geometry and models, and minimal performance benefits.

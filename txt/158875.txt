@@ -1,0 +1,1 @@
+Alternatively, one may consider the domain with a half-open interval topology.

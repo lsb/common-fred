@@ -1,0 +1,1 @@
+A set of values is then observed, each value associated with a spatial location.

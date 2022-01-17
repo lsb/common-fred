@@ -1,0 +1,1 @@
+Some Cybiko programs will not run unless the Expansion Memory is plugged in.

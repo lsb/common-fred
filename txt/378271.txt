@@ -1,0 +1,1 @@
+It has a spiral shape and moves in a corkscrew motion.

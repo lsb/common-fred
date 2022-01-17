@@ -1,0 +1,1 @@
+Confusingly, different sources refer to either matrix as the Walsh matrix.

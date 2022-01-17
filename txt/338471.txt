@@ -1,0 +1,1 @@
+However, some games might still require administrative rights before PunkBuster will function correctly.

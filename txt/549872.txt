@@ -1,0 +1,1 @@
+Such instructions may have greater latency, however, than the bit-twiddling solution.

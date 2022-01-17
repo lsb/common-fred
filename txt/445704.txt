@@ -1,0 +1,1 @@
+Many thermodynamic equations are expressed in terms of partial derivatives.

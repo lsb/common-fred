@@ -1,0 +1,1 @@
+The multi-player mode allows players to occupy individual crew stations on the same vessel.

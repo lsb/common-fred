@@ -1,0 +1,1 @@
+The uniform real version of the conjecture is equivalent to the standard real version.

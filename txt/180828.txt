@@ -1,0 +1,1 @@
+Badimaya is a suffixing language with fairly free word order.

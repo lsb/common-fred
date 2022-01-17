@@ -1,0 +1,1 @@
+The approximate scattered field is then obtained by an integral over these approximate currents.

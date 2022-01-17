@@ -1,0 +1,1 @@
+WinZip Self-Extractor Personal Edition now creates Zip files that span multiple removable disks.

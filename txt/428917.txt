@@ -1,0 +1,1 @@
+Lack of wing stiffness also resulted in aileron reversal which was discovered and fixed.

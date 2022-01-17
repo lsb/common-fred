@@ -1,0 +1,1 @@
+The Virtual File System interface allows a modular implementation, reflected in a simple protocol.

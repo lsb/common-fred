@@ -1,0 +1,1 @@
+Additionally, workspaces refer to the grouping of windows in some window managers.

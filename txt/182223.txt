@@ -1,0 +1,1 @@
+Base mass storage was whatever came in the basic configuration.

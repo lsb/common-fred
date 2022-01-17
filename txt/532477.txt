@@ -1,0 +1,1 @@
+Similar methods may be used to solve the Volterra equations.

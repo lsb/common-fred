@@ -1,0 +1,1 @@
+"Such language forms usually consist of special data types, like ""color"" and ""normal""."

@@ -1,0 +1,1 @@
+"""Mitzpeh"" literally means an observation point but the term has a much broader connotation."

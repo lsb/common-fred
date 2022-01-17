@@ -1,0 +1,1 @@
+"""Der Club"" plays in the communally-owned Max-Morlock-Stadion."

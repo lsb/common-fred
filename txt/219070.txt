@@ -1,0 +1,1 @@
+Deduplication algorithms look for redundancy in sequences of bytes across comparison windows.

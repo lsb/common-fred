@@ -1,0 +1,1 @@
+Enemy ships are encountered while in space.

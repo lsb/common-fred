@@ -1,0 +1,1 @@
+"However, if 'thoughts' is a file, then 'wozniak' can edit it."

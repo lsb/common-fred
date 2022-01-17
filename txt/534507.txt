@@ -1,0 +1,1 @@
+Sites are a general setting for defining sheaves.

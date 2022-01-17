@@ -1,0 +1,1 @@
+"""Aloha"" and ""Woolaroc"" took off uneventfully, and ""Miss Doran"" succeeded on her second attempt."

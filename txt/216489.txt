@@ -1,0 +1,1 @@
+Currently, the web version of Google Earth is only available for Google Chrome.

@@ -1,0 +1,1 @@
+Priam created a proprietary storage algorithm that could double the disk storage.

@@ -1,0 +1,1 @@
+This limits the diffusion rate of oxygen to the Part electrode.

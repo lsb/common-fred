@@ -1,0 +1,1 @@
+Negative differential resistance devices are widely used to make electronic oscillators.

@@ -1,0 +1,1 @@
+The infrared slit viewer can also be used for imaging or photometry.

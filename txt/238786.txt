@@ -1,0 +1,1 @@
+Every Boolean algebra can be represented as a field of sets.

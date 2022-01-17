@@ -1,0 +1,1 @@
+Video output was black-and-white, character-based.

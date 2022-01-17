@@ -1,0 +1,1 @@
+A game must be won by at least two points.

@@ -1,0 +1,1 @@
+File transfers were still allowed but not on a large scale.

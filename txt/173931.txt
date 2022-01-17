@@ -1,0 +1,1 @@
+As the motor spins, the pick wheel rotates.

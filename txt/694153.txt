@@ -1,0 +1,1 @@
+There are several inequivalent definitions of almost periodic functions.

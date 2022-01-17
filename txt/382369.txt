@@ -1,0 +1,1 @@
+It is a recursive but terminating algorithm, allowing it to avoid infinite recursion.

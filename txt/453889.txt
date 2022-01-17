@@ -1,0 +1,1 @@
+Modern languages usually come with standard libraries that implement the most common data structures.

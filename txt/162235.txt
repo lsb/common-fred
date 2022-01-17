@@ -1,0 +1,1 @@
+An empty pile will be filled up immediately by a card from the stock.

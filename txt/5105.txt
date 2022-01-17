@@ -1,0 +1,1 @@
+"""Nephila"" seem to prefer more open habitat such as second-growth scrub or forest edges."

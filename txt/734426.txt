@@ -1,0 +1,1 @@
+This is true for applications which are dynamically as opposed to statically linked.

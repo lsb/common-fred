@@ -1,0 +1,1 @@
+The action is turn based throughout the game phases.

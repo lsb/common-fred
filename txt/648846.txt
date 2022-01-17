@@ -1,0 +1,1 @@
+The player can have more than one Research Assistant.

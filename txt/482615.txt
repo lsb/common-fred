@@ -1,0 +1,1 @@
+Other applications can use it to achieve platform independence.

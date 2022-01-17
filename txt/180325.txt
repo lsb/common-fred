@@ -1,0 +1,1 @@
+Axioms may be treated as conditions that must be met before the statement applies.

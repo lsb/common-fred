@@ -1,0 +1,1 @@
+Pin temperature is measured where the pin projects from the engagement surface.

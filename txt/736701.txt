@@ -1,0 +1,1 @@
+This method was a common visual effect when bump mapping was first introduced.

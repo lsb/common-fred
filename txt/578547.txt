@@ -1,0 +1,1 @@
+The airborne receiver decoded that and started to transmit the day code.

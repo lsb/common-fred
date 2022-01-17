@@ -1,0 +1,1 @@
+"""Engelhardt"" is a stony S-type asteroid and a member of the Phocaea family."

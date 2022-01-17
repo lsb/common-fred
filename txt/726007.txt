@@ -1,0 +1,1 @@
+This built-in administrator account is created with a blank password.

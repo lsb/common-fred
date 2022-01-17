@@ -1,0 +1,1 @@
+Minimum interrupt latency is largely determined by the interrupt controller circuit and its configuration.

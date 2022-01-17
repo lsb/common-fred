@@ -1,0 +1,1 @@
+It also provides information about partitions content.

@@ -1,0 +1,1 @@
+For example, one can define surface material properties such as friction.

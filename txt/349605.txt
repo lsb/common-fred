@@ -1,0 +1,1 @@
+If so, the record inherits the field from the previous record.

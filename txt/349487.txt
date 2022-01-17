@@ -1,0 +1,1 @@
+If not, then the sender increments the counter and tries the hash again.

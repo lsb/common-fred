@@ -1,0 +1,1 @@
+"""K"" tablets on a blue border run along the trim line at regular intervals."

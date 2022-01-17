@@ -1,0 +1,1 @@
+The centralised architecture model is a relatively simple and easy to manage solution.

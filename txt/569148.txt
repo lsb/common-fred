@@ -1,0 +1,1 @@
+The Nagel point of the medial triangle is the incenter of its reference triangle.

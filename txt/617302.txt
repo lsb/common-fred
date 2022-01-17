@@ -1,0 +1,1 @@
+The front end consists of two stages: fetch and decode.

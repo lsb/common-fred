@@ -1,0 +1,1 @@
+Another value is set for the end of the animation.

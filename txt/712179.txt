@@ -1,0 +1,1 @@
+They are limited in their maximum scan speed and thus temporal resolution.

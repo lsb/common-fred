@@ -1,0 +1,1 @@
+"""LosLynx"" is the unofficial rallying cry of the Minnesota Lynx."

@@ -1,0 +1,1 @@
+"Non-linear elements will not follow Ohm's law."

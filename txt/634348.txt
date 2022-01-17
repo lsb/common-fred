@@ -1,0 +1,1 @@
+The method of proof we shall use is commonly referred to as diagram chasing.

@@ -1,0 +1,1 @@
+The method also applies to n-th order equations.

@@ -1,0 +1,1 @@
+Catalog terminals query the collection of the entire library system.

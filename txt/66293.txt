@@ -1,0 +1,1 @@
+"Mutations that are not ""germline"" are somatic mutations, which are also called ""acquired mutations""."

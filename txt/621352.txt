@@ -1,0 +1,1 @@
+The heavy lifting of data transmit and receive is handled by the offload device.

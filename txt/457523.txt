@@ -1,0 +1,1 @@
+Most of the data processing on the telescope is done by conventional single-board computers.

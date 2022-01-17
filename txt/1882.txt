@@ -1,0 +1,1 @@
+"""Doc"" Smith, Edmond Hamilton, John W. Campbell, E. Hoffmann Price, and Otis Adelbert Kline."

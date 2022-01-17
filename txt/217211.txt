@@ -1,0 +1,1 @@
+Damage is taken by touching enemies and their projectiles and certain other obstacles.

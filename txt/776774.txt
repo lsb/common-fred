@@ -1,0 +1,1 @@
+When playing the practice mode, the enemies are less aggressive.

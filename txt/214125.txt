@@ -1,0 +1,1 @@
+Countries can restrict or expand the amount of float available to trade a currency.

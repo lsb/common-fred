@@ -1,0 +1,1 @@
+This system awards positions to parties based on their number of councillors.

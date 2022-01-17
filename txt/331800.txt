@@ -1,0 +1,1 @@
+Hitting a landscape or another ship destroys the vessel.

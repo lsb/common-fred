@@ -1,0 +1,1 @@
+Each time a fly is captured it is worth two points.

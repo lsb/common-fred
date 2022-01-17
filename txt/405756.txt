@@ -1,0 +1,1 @@
+It uses six-sided dice, to resolve actions.

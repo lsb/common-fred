@@ -1,0 +1,1 @@
+"The software industry's offering of threads lacks consistency."

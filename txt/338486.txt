@@ -1,0 +1,1 @@
+However, some object-oriented languages allow a custom destructor method to be implemented, if desired.

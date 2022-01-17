@@ -1,0 +1,1 @@
+Also, extra balls are disabled if the software supports it.

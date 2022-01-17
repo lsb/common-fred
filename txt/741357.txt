@@ -1,0 +1,1 @@
+This stops the class from being reusable if other algorithms are required.

@@ -1,0 +1,1 @@
+This enables a molten pool to form more rapidly, reducing tap-to-tap times.

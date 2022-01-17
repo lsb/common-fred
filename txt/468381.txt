@@ -1,0 +1,1 @@
+Node C just propagates the new reference level.

@@ -1,0 +1,1 @@
+Scaffolds assemble signaling components of a cascade into complexes.

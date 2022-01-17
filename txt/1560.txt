@@ -1,0 +1,1 @@
+"""Cornu aspersum"" is a primarily a herbivore with a wide range of host plants."

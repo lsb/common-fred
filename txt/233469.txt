@@ -1,0 +1,1 @@
+Editors that are running through a command-line interpreter, however, may or may not be.

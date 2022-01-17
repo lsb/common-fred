@@ -1,0 +1,1 @@
+"The grid has not changed, but its ""appearance"" for the observer has."

@@ -1,0 +1,1 @@
+Additional criteria include a numerical representation signifying length, width and height of the vehicle.

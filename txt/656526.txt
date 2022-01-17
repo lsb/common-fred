@@ -1,0 +1,1 @@
+The resistance and conductance contribute to the loss in a transmission line.

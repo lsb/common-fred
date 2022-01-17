@@ -1,0 +1,1 @@
+Trees can be easily evaluated in a recursive manner.

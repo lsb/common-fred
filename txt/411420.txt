@@ -1,0 +1,1 @@
+It was originally created as a fork of the Roxen Challenger server.

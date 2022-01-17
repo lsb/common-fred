@@ -1,0 +1,1 @@
+In practice, this is solved by disabling preemption or by priority inheritance.

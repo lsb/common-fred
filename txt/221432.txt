@@ -1,0 +1,1 @@
+Developers could easily experiment with new protocols by inventing new contact names.

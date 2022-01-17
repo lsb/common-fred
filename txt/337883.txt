@@ -1,0 +1,1 @@
+However, non-zero vectors in a cyclic representation may fail to be cyclic.

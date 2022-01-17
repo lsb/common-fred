@@ -1,0 +1,1 @@
+This is the basis of the optical band gap in a photonic crystal.

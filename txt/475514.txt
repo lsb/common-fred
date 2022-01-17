@@ -1,0 +1,1 @@
+On other platforms, this type of instruction is known as Halt and Catch Fire.

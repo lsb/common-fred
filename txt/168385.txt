@@ -1,0 +1,1 @@
+Apotome and limma are the two kinds of semitones defined in Pythagorean tuning.

@@ -1,0 +1,1 @@
+This record is used to compile statistics for each player and team.

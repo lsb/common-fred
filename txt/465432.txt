@@ -1,0 +1,1 @@
+New playable characters are unlocked after the player beats them in trick battles.

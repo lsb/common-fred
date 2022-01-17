@@ -1,0 +1,1 @@
+The decompressor computes the inverse transform based on this reduced number of Fourier coefficients.

@@ -1,0 +1,1 @@
+"""Ethnologue"" reports the following locations."

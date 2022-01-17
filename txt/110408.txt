@@ -1,0 +1,1 @@
+"This envelope alters the filter's cutoff frequency and its amount is variable."

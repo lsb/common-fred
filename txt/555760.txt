@@ -1,0 +1,1 @@
+That rule has associated probabilistic bounds on the generalization error.

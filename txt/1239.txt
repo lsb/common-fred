@@ -1,0 +1,1 @@
+"""Carl Vinson""s call sign is ""Gold Eagle""."

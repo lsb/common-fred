@@ -1,0 +1,1 @@
+Other buttons allow the user to tag or recommend the currently playing track.

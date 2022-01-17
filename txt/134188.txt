@@ -1,0 +1,1 @@
+A quantum computer is another model of computation that is inherently probabilistic.

@@ -1,0 +1,1 @@
+A magnetic compass points to magnetic north, not geographic north.

@@ -1,0 +1,1 @@
+Most networks today use the timestamping approach.

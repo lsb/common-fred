@@ -1,0 +1,1 @@
+It also offers local weather to computer users via the WeatherBug service.

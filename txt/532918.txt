@@ -1,0 +1,1 @@
+Simple algorithms include random choice or round robin.

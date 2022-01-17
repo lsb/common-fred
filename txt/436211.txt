@@ -1,0 +1,1 @@
+Linking R is used, but intrusive R is not permitted.

@@ -1,0 +1,1 @@
+The ammeter and oil pressure gauges were changed to warning lights.

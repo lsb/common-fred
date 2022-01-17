@@ -1,0 +1,1 @@
+"""Ring"" was released to critical acclaim."

@@ -1,0 +1,1 @@
+The game board is divided into thirteen squares, each with a different effect.

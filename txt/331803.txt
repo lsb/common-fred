@@ -1,0 +1,1 @@
+Hitting times like the second example above can be important examples of stopping times.

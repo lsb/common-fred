@@ -1,0 +1,1 @@
+"""Gamma Pegasi"" is the star's Bayer designation."

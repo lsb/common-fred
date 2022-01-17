@@ -1,0 +1,1 @@
+"Temperature, ""T"", is assumed to be constant in the following treatment."

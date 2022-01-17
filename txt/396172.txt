@@ -1,0 +1,1 @@
+It is specifically based on the use of Bayesian probability to summarize evidence.

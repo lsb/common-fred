@@ -1,0 +1,1 @@
+It uses a videogame-style hand controller to make it more familiar to young operators.

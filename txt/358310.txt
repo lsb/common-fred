@@ -1,0 +1,1 @@
+In many programming languages, string concatenation is a binary infix operator.

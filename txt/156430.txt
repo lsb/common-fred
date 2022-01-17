@@ -1,0 +1,1 @@
+All video formats incorporate their own metadata.

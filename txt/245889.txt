@@ -1,0 +1,1 @@
+Fluorescent lamps using conventional magnetic ballasts flicker at twice the supply frequency.

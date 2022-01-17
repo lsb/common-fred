@@ -1,0 +1,1 @@
+Also, the notion of derivative can be extended to arbitrary functions between Banach spaces.

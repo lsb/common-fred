@@ -1,0 +1,1 @@
+"""Sowa"" means salt in the language of the San."

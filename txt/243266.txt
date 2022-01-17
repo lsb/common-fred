@@ -1,0 +1,1 @@
+FileMaker files are compatible between Mac and Windows.

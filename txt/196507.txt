@@ -1,0 +1,1 @@
+Business continuity testing plans may document scenarios for each identified threats and impact scenarios.

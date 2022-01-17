@@ -1,0 +1,1 @@
+If the included checksum matches the calculated checksum, then the number is valid.

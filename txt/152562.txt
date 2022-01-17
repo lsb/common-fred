@@ -1,0 +1,1 @@
+All blinking characters on the screen blink in sync.

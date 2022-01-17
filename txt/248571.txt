@@ -1,0 +1,1 @@
+For instance, objects behind the camera do not have to be drawn.

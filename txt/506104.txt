@@ -1,0 +1,1 @@
+Rialto enables Single Page Application development, and is available under open source Apache License.

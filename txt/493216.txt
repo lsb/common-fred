@@ -1,0 +1,1 @@
+Pins are numbered counter-clockwise from the index dot.

@@ -1,0 +1,1 @@
+The control store usually has a register on its outputs.

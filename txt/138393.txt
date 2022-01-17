@@ -1,0 +1,1 @@
+A voice network includes call gateways in addition to the Wi-Fi access points.

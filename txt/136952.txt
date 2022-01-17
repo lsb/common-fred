@@ -1,0 +1,1 @@
+A strict programming language is one in which user-defined functions are always strict.

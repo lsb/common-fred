@@ -1,0 +1,1 @@
+"""The Economist"" describes it as ""an elite finishing school for aspiring Eurocrats."

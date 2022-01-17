@@ -1,0 +1,1 @@
+Also included were tools for visual portlet and portal development.

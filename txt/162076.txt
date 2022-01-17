@@ -1,0 +1,1 @@
+An effect system is typically an extension of a type system.

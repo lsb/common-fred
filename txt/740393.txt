@@ -1,0 +1,1 @@
+This sensitive test detects arsine generated in the presence of arsenic.

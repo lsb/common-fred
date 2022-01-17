@@ -1,0 +1,1 @@
+The four primary levels of the code are: Segment, Family, Class and Commodity.

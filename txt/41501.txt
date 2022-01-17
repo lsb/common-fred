@@ -1,0 +1,1 @@
+"Here ""K"" is a field and ""S"" is a vector space over that field."

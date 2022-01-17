@@ -1,0 +1,1 @@
+Moreover, some kinds of blocks cannot have other blocks stacked on top of them.

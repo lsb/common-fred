@@ -1,0 +1,1 @@
+In addition, all variables are treated as global variables.

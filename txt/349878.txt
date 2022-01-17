@@ -1,0 +1,1 @@
+If the proximity space is separated, the resulting topology is Hausdorff.

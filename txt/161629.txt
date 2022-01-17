@@ -1,0 +1,1 @@
+An alternate network configuration to virtual circuit is datagram.

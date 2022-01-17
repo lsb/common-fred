@@ -1,0 +1,1 @@
+A time-memory trade-off cryptanalysis attack, such as a rainbow table, is therefore feasible.

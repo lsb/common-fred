@@ -1,0 +1,1 @@
+This ensures that the sensitive data of travelers cannot be read without their consent.

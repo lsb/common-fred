@@ -1,0 +1,1 @@
+"Let ""R"" be a ring and let ""G"" be a monoid."

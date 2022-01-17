@@ -1,0 +1,1 @@
+"Property list files are often used to store a user's settings."

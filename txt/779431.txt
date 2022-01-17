@@ -1,0 +1,1 @@
+While the data must still be written back eventually, the write-back may be deferred.

@@ -1,0 +1,1 @@
+It intercepts and destroys incoming missiles and rockets with a shotgun-like blast.

@@ -1,0 +1,1 @@
+Recall is the ratio of relevant results returned to all relevant results.

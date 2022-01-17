@@ -1,0 +1,1 @@
+"Suppose that ""D"" is a smooth divisor on ""X""."

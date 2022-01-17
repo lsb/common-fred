@@ -1,0 +1,1 @@
+Mouse vendors also use other extended formats, often without providing public documentation.

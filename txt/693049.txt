@@ -1,0 +1,1 @@
+There are many types of Neural Network modelling techniques in machine learning.

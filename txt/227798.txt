@@ -1,0 +1,1 @@
+During load conditions, as previously stated, the coupling is proportional to the input torque.

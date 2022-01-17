@@ -1,0 +1,1 @@
+Korean numerals may be used as prompts for commands or for counting repetition exercises.

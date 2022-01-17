@@ -1,0 +1,1 @@
+This removes the need to explicitly check the result of an allocation.

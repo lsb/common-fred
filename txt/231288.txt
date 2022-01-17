@@ -1,0 +1,1 @@
+Each of the individual targets produces a frequency shift according to its radial velocity.

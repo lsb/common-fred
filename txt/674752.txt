@@ -1,0 +1,1 @@
+The third is what makes the proof zero-knowledge.

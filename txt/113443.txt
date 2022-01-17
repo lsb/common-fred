@@ -1,0 +1,1 @@
+"Three such systems are Libsafe, and the ""StackGuard"" and ""ProPolice"" gcc patches."

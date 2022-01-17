@@ -1,0 +1,1 @@
+"This kind of memory is termed ""Central Storage""."

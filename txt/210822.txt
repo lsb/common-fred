@@ -1,0 +1,1 @@
+Compared to semi-distributed search engines, the YaCy-network has a decentralised architecture.

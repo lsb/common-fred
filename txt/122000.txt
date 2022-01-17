@@ -1,0 +1,1 @@
+A blood-oxygen monitor displays the percentage of blood that is loaded with oxygen.

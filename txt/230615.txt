@@ -1,0 +1,1 @@
+Each component is treated by Windows Installer as a unit.

@@ -1,0 +1,1 @@
+"Forming the plane dual of a statement is known as ""dualizing"" the statement."

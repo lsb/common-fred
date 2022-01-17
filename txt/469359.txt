@@ -1,0 +1,1 @@
+Normally, only the current state is captured.

@@ -1,0 +1,1 @@
+Often design of a particular instrument involves tradeoffs between ceiling effects and floor effects.

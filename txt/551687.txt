@@ -1,0 +1,1 @@
+Swfdec is a library that can be used to play Flash files.

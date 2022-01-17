@@ -1,0 +1,1 @@
+Internet Explorer comes as an integrated component of Windows that cannot be uninstalled.

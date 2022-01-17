@@ -1,0 +1,1 @@
+The latter two can be done with a construction based on the intercept theorem.

@@ -1,0 +1,1 @@
+Technically, multiple attestation does not guarantee authenticity, but only determines antiquity.

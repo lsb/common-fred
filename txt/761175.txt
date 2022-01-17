@@ -1,0 +1,1 @@
+Typically not very many functions will satisfy this assumption.

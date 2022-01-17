@@ -1,0 +1,1 @@
+Locating services is done through a lookup service.

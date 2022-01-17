@@ -1,0 +1,1 @@
+It utilizes a plug-in based architecture making it a general platform for signal processing.

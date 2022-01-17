@@ -1,0 +1,1 @@
+To turn this into an algorithm, only finitely many frequencies are solved for.

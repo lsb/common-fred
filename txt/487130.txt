@@ -1,0 +1,1 @@
+Packet switching shares available network bandwidth between multiple communication sessions.

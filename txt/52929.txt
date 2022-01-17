@@ -1,0 +1,1 @@
+"It introduced the utility programs ""rdjpgcom"" and ""wrjpgcom"" for handling embedded text comments."

@@ -1,0 +1,1 @@
+"Due to this springiness, this type of dummy is considered an ""alive"" dummy."

@@ -1,0 +1,1 @@
+Proxy measurements can be used to reconstruct the temperature record before the historical period.

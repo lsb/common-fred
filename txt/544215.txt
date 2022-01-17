@@ -1,0 +1,1 @@
+Sparse mode assumes relatively fewer receivers.

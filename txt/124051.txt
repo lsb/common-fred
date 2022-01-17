@@ -1,0 +1,1 @@
+A crate must be safely secured to avoid damage during transport.

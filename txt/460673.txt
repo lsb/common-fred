@@ -1,0 +1,1 @@
+Multistation Access Units contain relays to short out non-operating stations.

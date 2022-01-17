@@ -1,0 +1,1 @@
+The Oracle User Productivity Kit application provides a content-development, deployment, and maintenance platform.

@@ -1,0 +1,1 @@
+A variant type of fake book contains only the chord progressions to the songs.

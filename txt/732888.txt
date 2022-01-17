@@ -1,0 +1,1 @@
+This is further described in the article geometry optimization.

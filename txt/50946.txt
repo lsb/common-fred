@@ -1,0 +1,1 @@
+"In this article, let ""R"" be a commutative ring and ""M"" an ""R""-module."

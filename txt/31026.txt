@@ -1,0 +1,1 @@
+"Formations are collected into ""groups"" while groups may be collected into ""supergroups""."

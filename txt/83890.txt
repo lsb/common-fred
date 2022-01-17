@@ -1,0 +1,1 @@
+"The ""primary service area"" is the area served by a station's strongest signal."

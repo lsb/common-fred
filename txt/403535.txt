@@ -1,0 +1,1 @@
+It requires that the d bands of the electronic structure be filled.

@@ -1,0 +1,1 @@
+In addition to jumping, the player can control Simon to move while crouching.

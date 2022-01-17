@@ -1,0 +1,1 @@
+Stucco rendered properties are represented in both brick and frame structures.

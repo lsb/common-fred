@@ -1,0 +1,1 @@
+Servo tabs move in the opposite direction of the control surface.

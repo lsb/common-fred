@@ -1,0 +1,1 @@
+Now consider a differential system with the same supply voltage.

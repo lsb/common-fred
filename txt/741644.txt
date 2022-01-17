@@ -1,0 +1,1 @@
+This swarming architecture offers savings in bandwidth and processor usage.

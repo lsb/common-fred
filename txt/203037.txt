@@ -1,0 +1,1 @@
+Cartan subalgebras exist for finite-dimensional Lie algebras whenever the base field is infinite.

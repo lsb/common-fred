@@ -1,0 +1,1 @@
+Each place always has a longitude and a latitude.

@@ -1,0 +1,1 @@
+In practice, simple idealized thermodynamic cycles are usually made out of four thermodynamic processes.

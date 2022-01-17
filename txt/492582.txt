@@ -1,0 +1,1 @@
+Photoresistors can be placed in streetlights to control when the light is on.

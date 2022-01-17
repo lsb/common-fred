@@ -1,0 +1,1 @@
+A diagram in the notation consists of several shapes linked together by lines.

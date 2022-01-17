@@ -1,0 +1,1 @@
+First, the extreme events observed in each year must be independent from year-to-year.

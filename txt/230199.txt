@@ -1,0 +1,1 @@
+Dying three times sends the player back to the first section of the level.

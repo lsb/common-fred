@@ -1,0 +1,1 @@
+"This trust between several systems is often known as ""Circle of Trust""."

@@ -1,0 +1,1 @@
+This difference arises with Unicode which includes multi-byte characters.

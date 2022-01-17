@@ -1,0 +1,1 @@
+If the bar reaches zero, Lee wakes up and the player loses a life.

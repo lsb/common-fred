@@ -1,0 +1,1 @@
+Parachutes deployed into wakes suffer dynamic pressure deficits which reduce their expected drag forces.

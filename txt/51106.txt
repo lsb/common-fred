@@ -1,0 +1,1 @@
+"In this way, the server ""electronically enforces"" the Client Access licensing."

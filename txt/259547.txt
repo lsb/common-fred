@@ -1,0 +1,1 @@
+GoLive incorporated a largely modeless workflow that relied heavily on drag-and-drop.

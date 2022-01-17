@@ -1,0 +1,1 @@
+Inadequate coverage can lead to vignetting.

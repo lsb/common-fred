@@ -1,0 +1,1 @@
+An ideal Hookean spring, for example, would display a straight diagonal force curve.

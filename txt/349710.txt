@@ -1,0 +1,1 @@
+If the catheti of a right triangle have equal lengths, the triangle is isosceles.

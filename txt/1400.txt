@@ -1,0 +1,1 @@
+"""Chungam"" is the Malayalam equivalent of ""tax""."

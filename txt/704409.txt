@@ -1,0 +1,1 @@
+These can generate an impedance equivalent to a negative inductance or capacitance.

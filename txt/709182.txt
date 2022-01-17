@@ -1,0 +1,1 @@
+These types include glues and fibers.

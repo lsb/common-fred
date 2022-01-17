@@ -1,0 +1,1 @@
+"Programmers use and build upon Karel's simple vocabulary of commands to accomplish programming tasks."

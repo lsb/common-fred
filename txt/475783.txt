@@ -1,0 +1,1 @@
+On the client side some configuration also needs to happen.

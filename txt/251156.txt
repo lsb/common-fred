@@ -1,0 +1,1 @@
+Fortunately, D and C algorithms that are time-efficient often have relatively small recursion depth.

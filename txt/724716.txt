@@ -1,0 +1,1 @@
+This allows users, for example, to bold every hyperlink on every page they visit.

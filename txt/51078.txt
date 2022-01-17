@@ -1,0 +1,1 @@
+"In this system, quantities larger than two are referred to simply as ""many""."

@@ -1,0 +1,1 @@
+This yields secondary and tertiary elements for each sign.

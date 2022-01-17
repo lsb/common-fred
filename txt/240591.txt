@@ -1,0 +1,1 @@
+External metrics are applicable to running software.

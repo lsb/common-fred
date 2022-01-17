@@ -1,0 +1,1 @@
+Early central heating thermostats were guilty of self-exciting oscillation because they responded too quickly.

@@ -1,0 +1,1 @@
+"""Pittsburgh City Paper""s slogan is ""All Paper, No Plastic."

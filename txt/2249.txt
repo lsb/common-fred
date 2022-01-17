@@ -1,0 +1,1 @@
+"""Evitability"" is entirely compatible with, and actually requires, human action being deterministic."

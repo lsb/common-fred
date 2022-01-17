@@ -1,0 +1,1 @@
+For non-compact oriented manifolds, one has to replace cohomology by cohomology with compact support.

@@ -1,0 +1,1 @@
+"Every root of a polynomial equation whose coefficients are ""algebraic numbers"" is again algebraic."

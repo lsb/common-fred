@@ -1,0 +1,1 @@
+When a player receives a red card, they are dismissed from the game entirely.

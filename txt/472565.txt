@@ -1,0 +1,1 @@
+Object-oriented databases tend to be used in complex, niche applications.

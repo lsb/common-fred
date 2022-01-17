@@ -1,0 +1,1 @@
+This also permits propeller pods with the propulsion motors inside the pods.

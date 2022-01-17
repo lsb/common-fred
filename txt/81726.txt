@@ -1,0 +1,1 @@
+"Techniques which can be employed include ""Pantelides algorithm"" and ""dummy derivative index reduction method""."

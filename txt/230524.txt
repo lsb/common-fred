@@ -1,0 +1,1 @@
+Each centre has a number of departments and departmental managements.

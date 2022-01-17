@@ -1,0 +1,1 @@
+The controls consists of an eight way joystick and two attack buttons.

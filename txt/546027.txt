@@ -1,0 +1,1 @@
+State changes trigger events called reactions, that in turn change other states.

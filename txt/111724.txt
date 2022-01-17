@@ -1,0 +1,1 @@
+"This operator ""V"" is sometimes called the Julia operator of ""T""."

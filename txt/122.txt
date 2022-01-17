@@ -1,0 +1,1 @@
+"""A"" would send the packet right back to ""B"", creating a loop."

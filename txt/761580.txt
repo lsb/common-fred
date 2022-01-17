@@ -1,0 +1,1 @@
+Ultimately, the Mozilla core developers concluded that the old code could not be salvaged.

@@ -1,0 +1,1 @@
+It is implemented as a Django app.

@@ -1,0 +1,1 @@
+Well known algorithms for computing global illumination include path tracing, photon mapping and radiosity.

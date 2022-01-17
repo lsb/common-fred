@@ -1,0 +1,1 @@
+This shear is given by the off-diagonal elements of the stress tensor.

@@ -1,0 +1,1 @@
+Their compact representation is comparable with Tomita’s compact representation of bottom-up parsing.

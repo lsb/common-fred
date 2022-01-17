@@ -1,0 +1,1 @@
+Similarly, union is commutative, so the sets can be written in any order.

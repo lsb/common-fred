@@ -1,0 +1,1 @@
+The danger occurs when the trader attempts to exit his position.

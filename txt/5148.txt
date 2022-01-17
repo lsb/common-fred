@@ -1,0 +1,1 @@
+"""Newsweek"" magazine called it ""the year's best browse."

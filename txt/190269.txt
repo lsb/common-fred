@@ -1,0 +1,1 @@
+Boss monsters, on the other hand, do not respawn after being killed.

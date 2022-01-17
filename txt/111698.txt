@@ -1,0 +1,1 @@
+"This notation is convenient in proving Boltzmann's H-theorem of statistical mechanics."

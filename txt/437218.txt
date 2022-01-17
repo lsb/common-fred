@@ -1,0 +1,1 @@
+Loading cables to meet the Heaviside condition is no longer a common practice.

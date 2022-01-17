@@ -1,0 +1,1 @@
+This generality is used in preconditioned gradient descent methods.

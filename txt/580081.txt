@@ -1,0 +1,1 @@
+The algorithms are indeed adaptations of the index calculus method.

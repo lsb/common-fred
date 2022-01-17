@@ -1,0 +1,1 @@
+Some divide the state by lines of latitude making northern, central and southern sections.

@@ -1,0 +1,1 @@
+It describes the functions and interrelationships of a system.

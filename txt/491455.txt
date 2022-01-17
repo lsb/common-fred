@@ -1,0 +1,1 @@
+Permanent virtual circuits eliminate the need for repeated call set-up and clearing.

@@ -1,0 +1,1 @@
+By generating several words in sequence, a lengthy passphrase can be constructed.

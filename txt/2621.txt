@@ -1,0 +1,1 @@
+"""Gehinom"" is fairly well defined in rabbinic literature."

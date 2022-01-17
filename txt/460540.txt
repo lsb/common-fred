@@ -1,0 +1,1 @@
+Multi-mode optical fiber can be built with either graded index or step index.

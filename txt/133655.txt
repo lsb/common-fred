@@ -1,0 +1,1 @@
+A plot may be any size, usually marked out in square meters.

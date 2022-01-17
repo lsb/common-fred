@@ -1,0 +1,1 @@
+Now, it becomes possible to add more information to the original relationship.

@@ -1,0 +1,1 @@
+The original sequence is reconstructed from the reads using sequence assembly software.

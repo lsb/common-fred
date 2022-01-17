@@ -1,0 +1,1 @@
+"It also introduces 'parenting contracts', which are mainly intended to cover child truancy."

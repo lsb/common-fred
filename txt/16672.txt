@@ -1,0 +1,1 @@
+"Applications can store and request passwords by using the ""libgnome-keyring"" library."

@@ -1,0 +1,1 @@
+Converters exist from Windows Event Log as well as other log formats to syslog.

@@ -1,0 +1,1 @@
+Both the tap and its unterminated branch cause unwanted signal reflections, also called echoes.

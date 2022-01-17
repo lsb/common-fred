@@ -1,0 +1,1 @@
+"""Cigarman"" was written by Sam Gross, and drawn by Randy Jones."

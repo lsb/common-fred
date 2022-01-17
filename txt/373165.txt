@@ -1,0 +1,1 @@
+It becomes visible only after word wrapping at the end of a line.

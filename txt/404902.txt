@@ -1,0 +1,1 @@
+It subsumes several optimizations that have been proposed earlier.

@@ -1,0 +1,1 @@
+These conversion formulas express an inverse relation between the Bernoulli and the Euler numbers.

@@ -1,0 +1,1 @@
+Normally, when an item is quenched, the final temperature is ambient.

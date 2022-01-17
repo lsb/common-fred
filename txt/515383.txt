@@ -1,0 +1,1 @@
+Sequential packet writing fills the disc with packets from bottom up.

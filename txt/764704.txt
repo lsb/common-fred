@@ -1,0 +1,1 @@
+Use the factory pattern and an iterator to step through the array.

@@ -1,0 +1,1 @@
+When it is constant, it is simply due to incorrect zeroing of the instrument.

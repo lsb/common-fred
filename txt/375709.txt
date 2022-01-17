@@ -1,0 +1,1 @@
+It detects physical file system errors and silently fixes them on the fly.

@@ -1,0 +1,1 @@
+The user can rate the titles during or after playback.

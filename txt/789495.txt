@@ -1,0 +1,1 @@
+Zocchihedra are designed to handle percentage rolls in games, particularly in role-playing games.

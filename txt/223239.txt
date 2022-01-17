@@ -1,0 +1,1 @@
+Distributed moderation comes in two types: user moderation and spontaneous moderation.

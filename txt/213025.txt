@@ -1,0 +1,1 @@
+Conversely, the tie case can be derived from the non-tie case.

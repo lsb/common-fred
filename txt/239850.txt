@@ -1,0 +1,1 @@
+Examples of location parameters include the mean, the median, and the mode.

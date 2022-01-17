@@ -1,0 +1,1 @@
+There exist two kinds of lookback options: with floating strike and with fixed strike.

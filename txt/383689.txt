@@ -1,0 +1,1 @@
+It is also equivalent to the Wilcoxon test of ranks.

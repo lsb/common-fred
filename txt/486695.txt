@@ -1,0 +1,1 @@
+Overdiagnosis inflates both the numerator and denominator of the survival statistic.

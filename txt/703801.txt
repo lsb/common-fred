@@ -1,0 +1,1 @@
+These are signals commonly used to interconnect two hub boards, or redundant processor boards.

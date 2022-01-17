@@ -1,0 +1,1 @@
+The condition of compact support is stronger than the condition of vanishing at infinity.

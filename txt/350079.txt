@@ -1,0 +1,1 @@
+If this action is transitive, then the space is said to be homogeneous.

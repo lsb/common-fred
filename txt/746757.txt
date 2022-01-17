@@ -1,0 +1,1 @@
+Though drift electric fields are normally uniform, non-uniform drift fields can also be used.

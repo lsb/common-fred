@@ -1,0 +1,1 @@
+Navigation tools such as on-screen menus are not included.

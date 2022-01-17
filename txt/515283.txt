@@ -1,0 +1,1 @@
+Sensor signals were conditioned by amplifiers or converters located in measuring racks.

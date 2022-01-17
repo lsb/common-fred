@@ -1,0 +1,1 @@
+In Euclidean -space, every ball is bounded by a hypersphere.

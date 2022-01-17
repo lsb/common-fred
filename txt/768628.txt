@@ -1,0 +1,1 @@
+Waiting riders are picked up on a first come, first go basis.

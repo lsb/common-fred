@@ -1,0 +1,1 @@
+Since the arm uses strings and actuators, no motors were used at the joints.

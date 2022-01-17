@@ -1,0 +1,1 @@
+No more than two consonants are allowed in a consonant cluster.

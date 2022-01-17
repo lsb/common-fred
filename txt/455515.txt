@@ -1,0 +1,1 @@
+More weight can have negative effects on acceleration, climbing, payload, and range.

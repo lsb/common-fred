@@ -1,0 +1,1 @@
+The emitter follower output stages could also be used to perform wired-or logic.

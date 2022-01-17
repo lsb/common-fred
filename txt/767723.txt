@@ -1,0 +1,1 @@
+Virtual appliances are a subset of software appliances.

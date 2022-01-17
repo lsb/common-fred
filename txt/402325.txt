@@ -1,0 +1,1 @@
+It originated as a Java client able to configure and manage databases.

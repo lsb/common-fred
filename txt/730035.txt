@@ -1,0 +1,1 @@
+This greatly reduced the work involved in building and launching the ships.

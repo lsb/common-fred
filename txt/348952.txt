@@ -1,0 +1,1 @@
+Identity-based encryption remained an open problem for many years.

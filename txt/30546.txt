@@ -1,0 +1,1 @@
+"For example, an energy blast would need the following components: ""Damage Rating"" and ""Range""."

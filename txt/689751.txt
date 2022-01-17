@@ -1,0 +1,1 @@
+Then Symbolics Common Lisp became the default Lisp dialect for writing software with Genera.

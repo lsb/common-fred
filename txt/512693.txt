@@ -1,0 +1,1 @@
+Scilab Enterprises also develops and maintains the Scilab software.

@@ -1,0 +1,1 @@
+"""That's Entertainment"" is an acoustic ballad."

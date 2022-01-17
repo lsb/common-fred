@@ -1,0 +1,1 @@
+"""Menyanthes trifoliata"" has a horizontal rhizome with alternate, trifoliate leaves."

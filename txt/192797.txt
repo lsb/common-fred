@@ -1,0 +1,1 @@
+Both types consist of a stack of three boards, with interconnects.

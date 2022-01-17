@@ -1,0 +1,1 @@
+More generally: all uniformly convex Banach spaces are reflexive according to the Milman-Pettis theorem.

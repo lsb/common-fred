@@ -1,0 +1,1 @@
+Handle types, however, behave more like objects.

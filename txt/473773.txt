@@ -1,0 +1,1 @@
+Often these functions possess properties that implicitly extend them to more than two arguments.

@@ -1,0 +1,1 @@
+This generalizes both concepts under a single operator in the theory.

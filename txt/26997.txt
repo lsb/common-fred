@@ -1,0 +1,1 @@
+"Drop a perpendicular from ""A"" onto ""D"" on ""t""."

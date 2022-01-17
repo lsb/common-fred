@@ -1,0 +1,1 @@
+"Error detecting codes can be optimised to detect ""burst errors"", or ""random errors""."

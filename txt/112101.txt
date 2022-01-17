@@ -1,0 +1,1 @@
+"This scheduling algorithm first selects those processes that have the smallest ""slack time""."

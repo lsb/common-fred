@@ -1,0 +1,1 @@
+"""Philosophy Now"" also regularly features book reviews, fiction, cartoons, and readers' letters."

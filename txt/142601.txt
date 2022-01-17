@@ -1,0 +1,1 @@
+Active rangefinding methods include laser, radar, sonar, lidar and ultrasonic rangefinding.

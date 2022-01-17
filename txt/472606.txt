@@ -1,0 +1,1 @@
+Oblong follows a strict rectangular grid and uses only straight lines of equal width.

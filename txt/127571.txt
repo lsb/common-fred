@@ -1,0 +1,1 @@
+A hollow sphere centered on the point would have its entire interior surface illuminated.

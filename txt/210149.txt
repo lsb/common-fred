@@ -1,0 +1,1 @@
+Command Prompt interacts with the user through a command-line interface.

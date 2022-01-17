@@ -1,0 +1,1 @@
+Data is represented by a variable-length string of characters terminated by a Record mark.

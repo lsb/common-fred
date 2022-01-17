@@ -1,0 +1,1 @@
+NaNs are not necessarily generated in all the above cases.

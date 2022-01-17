@@ -1,0 +1,1 @@
+Metaphorically this is what a database system is doing - managing data.

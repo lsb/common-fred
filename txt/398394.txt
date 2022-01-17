@@ -1,0 +1,1 @@
+It is the smallest number with exactly seven divisors.

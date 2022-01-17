@@ -1,0 +1,1 @@
+Organisations that are part of a larger company are excluded, such as holding companies.

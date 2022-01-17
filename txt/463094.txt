@@ -1,0 +1,1 @@
+Navigation techniques changed as the customer moved around the site.

@@ -1,0 +1,1 @@
+Xerox developed macro procedures in PostScript language dictionaries to make page control easier.

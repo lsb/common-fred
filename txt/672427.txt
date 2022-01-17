@@ -1,0 +1,1 @@
+The table is straight forward for the odd prime powers.

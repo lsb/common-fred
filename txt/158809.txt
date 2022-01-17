@@ -1,0 +1,1 @@
+Alternative splicing results in multiple transcript variants encoding the same protein.

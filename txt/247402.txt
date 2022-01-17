@@ -1,0 +1,1 @@
+For a sound source, unlike sound pressure, sound power is neither room-dependent nor distance-dependent.

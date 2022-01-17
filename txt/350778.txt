@@ -1,0 +1,1 @@
+Implementations of the main variant can vary in regard to stalemate.

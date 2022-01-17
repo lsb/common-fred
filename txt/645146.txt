@@ -1,0 +1,1 @@
+The packet was also suffixed with a single-byte checksum of the data bytes.

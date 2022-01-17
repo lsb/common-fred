@@ -1,0 +1,1 @@
+This is done through a structure that varies by league.

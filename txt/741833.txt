@@ -1,0 +1,1 @@
+This technique can be easily performed on grey images or edge images.

@@ -1,0 +1,1 @@
+This functions much like a standard magnetic heading indicator, turning as required.

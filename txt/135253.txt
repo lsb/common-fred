@@ -1,0 +1,1 @@
+A semiprime is either a square of a prime or square-free.

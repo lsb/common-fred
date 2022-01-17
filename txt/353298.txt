@@ -1,0 +1,1 @@
+In a data warehouse, dimensions provide structured labeling information to otherwise unordered numeric measures.

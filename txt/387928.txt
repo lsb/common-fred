@@ -1,0 +1,1 @@
+It is fully extensible and does not need any manual handling of the methods.

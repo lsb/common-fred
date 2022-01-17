@@ -1,0 +1,1 @@
+It is capable of tracking soldiers, vehicles and helicopters.

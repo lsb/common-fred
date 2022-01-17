@@ -1,0 +1,1 @@
+"Usually, a schematic representation of the block's contents is printed on its top."

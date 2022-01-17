@@ -1,0 +1,1 @@
+Non-editable text boxes can serve the purpose of simply displaying text.

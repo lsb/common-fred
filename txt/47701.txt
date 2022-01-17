@@ -1,0 +1,1 @@
+"If ""X"" and ""Y"" are independent, then their covariance is zero."

@@ -1,0 +1,1 @@
+"By construction the disc algebra is a closed subalgebra of the Hardy space ""H""."

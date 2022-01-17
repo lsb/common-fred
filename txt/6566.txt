@@ -1,0 +1,1 @@
+"""Se piri"" is smaller than ""hyang piri"" but has the same structure and range."

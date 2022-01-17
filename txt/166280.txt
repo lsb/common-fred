@@ -1,0 +1,1 @@
+Another approach to demographic inference relies on the allele frequency spectrum.

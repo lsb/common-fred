@@ -1,0 +1,1 @@
+The message code comprises one or more bytes.

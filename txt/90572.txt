@@ -1,0 +1,1 @@
+"The conjecture asserts that every ""n"" has a well-defined total stopping time."

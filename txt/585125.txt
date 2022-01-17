@@ -1,0 +1,1 @@
+The benefit of traffic-flow security was lost each time new cards were inserted.

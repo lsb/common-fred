@@ -1,0 +1,1 @@
+Analytical gradients for Davidson corrections are in general not available in quantum chemistry programs.

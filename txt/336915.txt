@@ -1,0 +1,1 @@
+However, in general it will not be closed under differences of sets.

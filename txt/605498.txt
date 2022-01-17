@@ -1,0 +1,1 @@
+The dot-notation indicates the time derivative of the variable in question.

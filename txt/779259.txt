@@ -1,0 +1,1 @@
+While recording is very fast, saving images is considerably slower.

@@ -1,0 +1,1 @@
+The plane is controlled by joystick and has two weapons: a cannon and missiles.

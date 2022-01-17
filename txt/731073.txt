@@ -1,0 +1,1 @@
+This includes all communication by radio, telephone, wire, cable and satellite.

@@ -1,0 +1,1 @@
+Turn-based combat is conducted, with each combatant acting in order of their speed statistic.

@@ -1,0 +1,1 @@
+Multiclass classification methods include multinomial probit and multinomial logit.

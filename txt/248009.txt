@@ -1,0 +1,1 @@
+For example, in chess, only one player can move the white pieces.

@@ -1,0 +1,1 @@
+"Schemes are locally ringed spaces obtained by ""gluing together"" spectra of commutative rings."

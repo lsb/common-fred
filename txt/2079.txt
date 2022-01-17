@@ -1,0 +1,1 @@
+"""Elaeagnus umbellata"" contains the carotenoid, lycopene."

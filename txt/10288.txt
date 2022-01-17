@@ -1,0 +1,1 @@
+"A common and useful defuzzification technique is ""center of gravity""."

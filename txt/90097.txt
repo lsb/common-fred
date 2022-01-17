@@ -1,0 +1,1 @@
+"The column ""Colonel location"" denotes the pass where the col height is located."

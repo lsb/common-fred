@@ -1,0 +1,1 @@
+There are also provisions to remotely trigger actions, such as starting and stopping recording.

@@ -1,0 +1,1 @@
+"Let ""X"" be a Banach space and ""Y"" be a normed vector space."

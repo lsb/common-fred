@@ -1,0 +1,1 @@
+Players connect to other players through their client, instead of through a central server.

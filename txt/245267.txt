@@ -1,0 +1,1 @@
+Fixups are designed to support relocation of the program as a complete unit.

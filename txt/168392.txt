@@ -1,0 +1,1 @@
+Apparent power is the product of the rms values of voltage and current.

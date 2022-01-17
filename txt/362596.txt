@@ -1,0 +1,1 @@
+In the early sections of the game, the bots simply stand around the level.

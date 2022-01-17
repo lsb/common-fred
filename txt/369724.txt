@@ -1,0 +1,1 @@
+Iomega Zip drives were prone to developing misaligned heads.

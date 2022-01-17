@@ -1,0 +1,1 @@
+Some keyboard drivers include a configuration option to deactivate the Caps Lock key.

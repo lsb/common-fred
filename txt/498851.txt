@@ -1,0 +1,1 @@
+Production mining is further broken down into two methods, long hole and short hole.

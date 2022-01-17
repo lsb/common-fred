@@ -1,0 +1,1 @@
+Note that perspective triangles need not be similar.

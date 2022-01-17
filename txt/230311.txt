@@ -1,0 +1,1 @@
+Each District consists of a girl scout company and a boy scout company.

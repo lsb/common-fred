@@ -1,0 +1,1 @@
+First, it provides a means to make a program more portable.

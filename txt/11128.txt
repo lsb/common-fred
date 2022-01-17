@@ -1,0 +1,1 @@
+"A person's contrast sensitivity function is contrast sensitivity as a function of spatial frequency."

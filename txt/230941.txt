@@ -1,0 +1,1 @@
+Each half-trainset consists of a power car and four intermediate-trailers.

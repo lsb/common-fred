@@ -1,0 +1,1 @@
+"""Matte Kudasai"" means ""please wait"" in Japanese."

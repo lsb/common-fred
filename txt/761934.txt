@@ -1,0 +1,1 @@
+Under certain circumstances, however, word wrapping is not desired.

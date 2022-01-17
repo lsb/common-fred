@@ -1,0 +1,1 @@
+A more general definition applies for functions defined on subsets of the real line.

@@ -1,0 +1,1 @@
+A contract for interconnection within the Internet is usually called a peering agreement.

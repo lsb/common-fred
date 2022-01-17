@@ -1,0 +1,1 @@
+One such way is simply to release the encryption algorithm and key.

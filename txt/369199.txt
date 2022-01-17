@@ -1,0 +1,1 @@
+Interfaces may be incompatible, but the inner functionality should suit the need.

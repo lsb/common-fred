@@ -1,0 +1,1 @@
+Embedded processors can be broken into two broad categories.

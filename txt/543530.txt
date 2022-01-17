@@ -1,0 +1,1 @@
+Sound intensity is not the same physical quantity as sound pressure.

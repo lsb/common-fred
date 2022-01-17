@@ -1,0 +1,1 @@
+All objects can be named or renamed, as in the example above.

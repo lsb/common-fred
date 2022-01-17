@@ -1,0 +1,1 @@
+This method does not work when a ward or branch covers multiple counties.

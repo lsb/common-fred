@@ -1,0 +1,1 @@
+A first group is matrices satisfying concrete conditions of the entries, including constant matrices.

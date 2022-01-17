@@ -1,0 +1,1 @@
+Note that, in this approximation, the frequency does not depend on mass.

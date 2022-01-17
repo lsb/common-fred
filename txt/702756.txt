@@ -1,0 +1,1 @@
+Therefore, the electric field cannot be the gradient of any potential.

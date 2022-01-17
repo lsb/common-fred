@@ -1,0 +1,1 @@
+A group of devices are connected via Bluetooth technology in an ad hoc fashion.

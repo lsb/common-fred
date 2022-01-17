@@ -1,0 +1,1 @@
+The robots operate on solar power and can communicate between each other.

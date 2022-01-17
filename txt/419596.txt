@@ -1,0 +1,1 @@
+Its three basic information types are Task, Concept, and Reference.

@@ -1,0 +1,1 @@
+G series agents are known as non-persistent, while the V series are persistent.

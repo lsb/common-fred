@@ -1,0 +1,1 @@
+Other properties can be more conveniently captured as formal specifications.

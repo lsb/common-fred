@@ -1,0 +1,1 @@
+For the Cotton tensor is identically zero.

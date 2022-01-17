@@ -1,0 +1,1 @@
+Recently, commercial bug tracking systems have also begun to integrate with distributed version control.

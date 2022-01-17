@@ -1,0 +1,1 @@
+Queuing theory has been devised to assist in design of service facilities waiting lines.

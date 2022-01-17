@@ -1,0 +1,1 @@
+To speed up execution, some runtime systems feature just-in-time compilation to machine code.

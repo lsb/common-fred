@@ -1,0 +1,1 @@
+The associative memory stores both the address and content of the memory word.

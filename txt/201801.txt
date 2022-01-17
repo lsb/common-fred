@@ -1,0 +1,1 @@
+CanariCam is designed as a diffraction-limited imager.

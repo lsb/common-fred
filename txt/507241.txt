@@ -1,0 +1,1 @@
+Roads with all neighbouring districts connect the city.

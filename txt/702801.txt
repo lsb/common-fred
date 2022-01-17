@@ -1,0 +1,1 @@
+Therefore, the process capability involves only common cause variation and not special cause variation.

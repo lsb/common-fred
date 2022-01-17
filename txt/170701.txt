@@ -1,0 +1,1 @@
+As a Johnson solid with all faces equilateral triangles, it is also a deltahedron.

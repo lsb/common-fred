@@ -1,0 +1,1 @@
+Failure of the mixer can result in localized heating, which initiates thermal runaway.

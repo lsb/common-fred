@@ -1,0 +1,1 @@
+Working solutions can only be used once and will not keep even if unused.

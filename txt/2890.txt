@@ -1,0 +1,1 @@
+"""Hammering Man"" has been installed in various cities around the world."

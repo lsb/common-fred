@@ -1,0 +1,1 @@
+For example, invalid dot gov for Idaho would be an unacceptable domain name.

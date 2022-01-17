@@ -1,0 +1,1 @@
+This model may be obtained from a retarded motion expansion truncated at the second-order.

@@ -1,0 +1,1 @@
+It is especially useful for mobile workers, or others that work on multiple computers.

@@ -1,0 +1,1 @@
+The subscriber may switch between calls, typically by using the hook flash signal.

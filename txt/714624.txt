@@ -1,0 +1,1 @@
+They contain shields, health and primary and secondary weapon power-ups.

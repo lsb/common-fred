@@ -1,0 +1,1 @@
+When the overview is tapped, it takes the user to the Wikipedia article.

@@ -1,0 +1,1 @@
+Systems display structural properties but are not structures themselves.

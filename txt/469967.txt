@@ -1,0 +1,1 @@
+Not all mathematical structures are F-algebras.

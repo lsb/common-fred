@@ -1,0 +1,1 @@
+The rotating flux in the motor produces a voltage on the third terminal.

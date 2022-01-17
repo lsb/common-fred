@@ -1,0 +1,1 @@
+Push-pull circuits are widely used in many amplifier output stages.

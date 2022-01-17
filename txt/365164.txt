@@ -1,0 +1,1 @@
+In this case the sample is illuminated and detected from all sides simultaneously.

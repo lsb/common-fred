@@ -1,0 +1,1 @@
+Objects and classes can inherit from multiple classes.

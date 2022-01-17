@@ -1,0 +1,1 @@
+"The term ""interactive framerate"" is often used to measure how interactive a visualization is."

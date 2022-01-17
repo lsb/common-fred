@@ -1,0 +1,1 @@
+Homogeneous polynomials also define homogeneous functions.

@@ -1,0 +1,1 @@
+As in the above example, the multiplication of intervals often only requires two multiplications.

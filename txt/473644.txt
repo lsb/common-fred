@@ -1,0 +1,1 @@
+Often an index must be rebuilt whenever changes are made to files.

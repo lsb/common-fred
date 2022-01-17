@@ -1,0 +1,1 @@
+Rotating the actuator turns the disc either parallel or perpendicular to the flow.

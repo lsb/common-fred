@@ -1,0 +1,1 @@
+Setting each parameter to zero would give a Catmull-Rom spline.

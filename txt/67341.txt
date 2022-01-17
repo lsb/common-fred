@@ -1,0 +1,1 @@
+"Noncommuting observables are said to be ""incompatible"" and cannot in general be measured simultaneously."

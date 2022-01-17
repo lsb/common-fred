@@ -1,0 +1,1 @@
+When a slider is pushed in, the corresponding pipe sounds.

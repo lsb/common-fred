@@ -1,0 +1,1 @@
+In those cases, the Langevin equation, which looks at particle acceleration, must be used.

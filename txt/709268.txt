@@ -1,0 +1,1 @@
+These values are used to create shake maps by seismologists around the world.

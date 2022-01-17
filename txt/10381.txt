@@ -1,0 +1,1 @@
+"A data log can be useful in diagnosis of the patient's condition by doctors."

@@ -1,0 +1,1 @@
+Also, only a fraction of the particles brought onto a collision course actually collide.

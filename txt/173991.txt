@@ -1,0 +1,1 @@
+As the player carries on, the available time decreases.

@@ -1,0 +1,1 @@
+Download accelerators allowed users to stop and resume partial downloads.

@@ -1,0 +1,1 @@
+The Poisson summation formula holds in Euclidean space of arbitrary dimension.

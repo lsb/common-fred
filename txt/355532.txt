@@ -1,0 +1,1 @@
+In both cases, the quantization is a result of the complex amplitude continuity.

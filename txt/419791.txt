@@ -1,0 +1,1 @@
+Its volatility must be low enough to make it flash-resistant at these high temperatures.

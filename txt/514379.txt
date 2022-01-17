@@ -1,0 +1,1 @@
+See the article on string functions for more details.

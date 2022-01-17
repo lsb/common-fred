@@ -1,0 +1,1 @@
+All small packages are sent to a series of sorting machines.

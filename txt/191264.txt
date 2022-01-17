@@ -1,0 +1,1 @@
+Both exits are served by a collector-express system.

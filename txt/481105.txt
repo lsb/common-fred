@@ -1,0 +1,1 @@
+Operational errors are inadvertent human errors.

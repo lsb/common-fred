@@ -1,0 +1,1 @@
+Drop shadows can also be dynamically created by rendering software.

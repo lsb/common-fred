@@ -1,0 +1,1 @@
+Otherwise, the end-entity certificate is considered untrusted.

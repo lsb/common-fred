@@ -1,0 +1,1 @@
+A correction factor appears to account for the possibility of torsion phenomena.

@@ -1,0 +1,1 @@
+Initially page movement was performed using relatively expensive instructions, by paging subsystem code.

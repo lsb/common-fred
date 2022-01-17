@@ -1,0 +1,1 @@
+Ehrhart polynomials can be studied for their own sake.

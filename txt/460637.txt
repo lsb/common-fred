@@ -1,0 +1,1 @@
+Multiple scripts may be placed inside an object, where they all execute simultaneously.

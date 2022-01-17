@@ -1,0 +1,1 @@
+The clock rate of an incoming T-carrier is extracted from its bipolar line code.

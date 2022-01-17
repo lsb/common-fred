@@ -1,0 +1,1 @@
+"""Linstead Hall"" at Imperial College is named in his honour."

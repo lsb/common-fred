@@ -1,0 +1,1 @@
+"Suppose that ""X"" is a locally convex Hausdorff space."

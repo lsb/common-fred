@@ -1,0 +1,1 @@
+Some methods are much cleaner in artifacts than other methods.

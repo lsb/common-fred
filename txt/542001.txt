@@ -1,0 +1,1 @@
+Some window managers provide a titlebar button to access the functionality.

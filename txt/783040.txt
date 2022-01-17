@@ -1,0 +1,1 @@
+With more points, random deviations from a line will be less pronounced.

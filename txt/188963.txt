@@ -1,0 +1,1 @@
+Bogofilter ignores non-text attachments, such as images.

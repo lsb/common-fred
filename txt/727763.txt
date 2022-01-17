@@ -1,0 +1,1 @@
+This cycle of events continues until the trigger is released.

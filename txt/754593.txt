@@ -1,0 +1,1 @@
+Tools designed for safely handling hot objects are usually called tongs.

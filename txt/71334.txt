@@ -1,0 +1,1 @@
+"Peterson's hoist, including its location."

@@ -1,0 +1,1 @@
+Shannon suggested using a combination of S-box and P-box transformation-a product cipher.

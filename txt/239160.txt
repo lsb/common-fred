@@ -1,0 +1,1 @@
+Every user can write into one of these slots at any time.

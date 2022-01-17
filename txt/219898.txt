@@ -1,0 +1,1 @@
+Depending on the location of the chamber, a seed can grow by reaching light.

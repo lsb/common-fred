@@ -1,0 +1,1 @@
+"Interaction between players is indirect, in that one cannot directly impact another player's expeditions."

@@ -1,0 +1,1 @@
+"""School Song"" is an acrostic that spells out the alphabet phonetically."

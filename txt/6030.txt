@@ -1,0 +1,1 @@
+"""Proteus"" includes pathogens responsible for many human urinary tract infections."

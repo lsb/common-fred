@@ -1,0 +1,1 @@
+For some algorithms protection against side-channel attacks is not necessary.

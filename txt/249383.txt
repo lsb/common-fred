@@ -1,0 +1,1 @@
+For some non-classical logics, the deduction theorem does not hold.

@@ -1,0 +1,1 @@
+This version, as the previous ones, does not neglect performance, and a lot of updates have been made in this respect.

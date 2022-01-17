@@ -1,0 +1,1 @@
+Arrays of other types and structures can be used in essentially the same way.

@@ -1,0 +1,1 @@
+It considers the horizontal dimension as time.

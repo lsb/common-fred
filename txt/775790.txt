@@ -1,0 +1,1 @@
+When a cell splits, two cells of identical genotype result.

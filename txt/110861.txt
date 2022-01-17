@@ -1,0 +1,1 @@
+"This is a surface of revolution for which the ""Bacaloglu curvature"" is constant."

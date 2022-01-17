@@ -1,0 +1,1 @@
+There is a hierarchy of clocks in a network, reflecting their quality.

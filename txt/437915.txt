@@ -1,0 +1,1 @@
+Logical topologies describe how signals act on the network.

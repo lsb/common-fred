@@ -1,0 +1,1 @@
+Decidable subsets of first-order logic are also studied in the framework of description logics.

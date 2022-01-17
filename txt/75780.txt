@@ -1,0 +1,1 @@
+"Shannon's theorem also implies that no lossless compression scheme can shorten ""all"" messages."

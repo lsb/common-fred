@@ -1,0 +1,1 @@
+"The game also utilizes the cartridge's battery-backed memory for saving the player's progress."

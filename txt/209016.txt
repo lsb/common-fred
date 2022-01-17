@@ -1,0 +1,1 @@
+Code coverage is one consideration in the safety certification of avionics equipment.

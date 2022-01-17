@@ -1,0 +1,1 @@
+Its interface is a notepad with a wiki-like linking system to connect notes together.

@@ -1,0 +1,1 @@
+"The cubes can also detect distances to the user's hands and fingers."

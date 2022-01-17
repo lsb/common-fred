@@ -1,0 +1,1 @@
+"""Val Camonica"" is derived from the Latin ""Vallis Camunnorum"", ""Valley of the Camunni."

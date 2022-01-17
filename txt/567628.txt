@@ -1,0 +1,1 @@
+The Lisp Machine Manual describes the Lisp Machine Lisp language in detail.

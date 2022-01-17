@@ -1,0 +1,1 @@
+Up to four diskette drives are supported in a single system.

@@ -1,0 +1,1 @@
+All web applications that are multilingual and have a Catalan version shall be displayed in Catalan.

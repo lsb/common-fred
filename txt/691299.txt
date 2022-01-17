@@ -1,0 +1,1 @@
+There are also command-line tools to perform functions such as Spotlight searches.

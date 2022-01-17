@@ -1,0 +1,1 @@
+Additive disjunction represents alternative occurrence of resources, the choice of which the machine controls.

@@ -1,0 +1,1 @@
+A scenario has a goal, which is usually functional.

@@ -1,0 +1,1 @@
+As an integer number, it can be represented by the first seven digits.

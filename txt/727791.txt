@@ -1,0 +1,1 @@
+This data can be queried, transformed, exported and returned to a calling system.

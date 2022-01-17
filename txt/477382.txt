@@ -1,0 +1,1 @@
+One common class of barotropic model used in astrophysics is a polytropic fluid.

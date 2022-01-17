@@ -1,0 +1,1 @@
+The intuition is the pattern-matching process that quickly suggests feasible courses of action.

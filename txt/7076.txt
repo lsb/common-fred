@@ -1,0 +1,1 @@
+"""State and Main"" received favorable reviews from critics."

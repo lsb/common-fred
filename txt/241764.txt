@@ -1,0 +1,1 @@
+Fast user switching in Windows is based on Remote Desktop Services technology.

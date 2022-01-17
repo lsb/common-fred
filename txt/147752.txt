@@ -1,0 +1,1 @@
+After substantial cryptanalysis, the algorithm is considered broken.

@@ -1,0 +1,1 @@
+In metrizable spaces, every open set is an F set.

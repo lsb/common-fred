@@ -1,0 +1,1 @@
+Upon the completion of each level, the game displays the Engrish message Congraturation!

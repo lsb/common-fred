@@ -1,0 +1,1 @@
+Outlook add-ins are small helping programs for the Microsoft Outlook application.

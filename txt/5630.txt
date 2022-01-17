@@ -1,0 +1,1 @@
+"""Paging"" is the one-to-one communication between the mobile and the base station."

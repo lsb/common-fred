@@ -1,0 +1,1 @@
+Imperative procedures with side effects violate referential transparency and therefore are not cleanly composable.

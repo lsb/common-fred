@@ -1,0 +1,1 @@
+The Cartan-Karlhede algorithm therefore acts as a kind of generalization of the Petrov classification.

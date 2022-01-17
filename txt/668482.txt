@@ -1,0 +1,1 @@
+The standard has changed little with time, so compatibility problems are rare.

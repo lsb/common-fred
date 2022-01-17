@@ -1,0 +1,1 @@
+This also applies for an operator that acts on such functions.

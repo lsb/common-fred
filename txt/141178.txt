@@ -1,0 +1,1 @@
+Abstractly, coalgebras are generalizations, or duals, of finite-dimensional unital associative algebras.

@@ -1,0 +1,1 @@
+Context switching can be performed primarily by software or hardware.

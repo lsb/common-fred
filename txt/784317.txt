@@ -1,0 +1,1 @@
+Without inline functions, the compiler decides which functions to inline.

@@ -1,0 +1,1 @@
+In most languages, the language or libraries can facilitate some sort of cloning.

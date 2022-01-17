@@ -1,0 +1,1 @@
+Policy statements may also be extracted from a centralized policy server.

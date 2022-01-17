@@ -1,0 +1,1 @@
+Static linking must be performed when any modules are recompiled.

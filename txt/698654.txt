@@ -1,0 +1,1 @@
+There is fairly good software support for Vorbis metadata-often referred to as comments.

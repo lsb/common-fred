@@ -1,0 +1,1 @@
+A pair of connections is needed for a circuit.

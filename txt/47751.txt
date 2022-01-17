@@ -1,0 +1,1 @@
+"If an opponent's piece is removed, it is captured."

@@ -1,0 +1,1 @@
+When the time runs out, the player with the most particles wins.

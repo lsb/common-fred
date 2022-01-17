@@ -1,0 +1,1 @@
+The Kolmogorov-Smirnov test can be modified to serve as a goodness of fit test.

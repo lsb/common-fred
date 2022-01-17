@@ -1,0 +1,1 @@
+"Pieces always rest on the points of intersection of the board's grid lines."

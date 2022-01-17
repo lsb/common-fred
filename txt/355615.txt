@@ -1,0 +1,1 @@
+In brief, each square of the chessboard has a two-digit designation.

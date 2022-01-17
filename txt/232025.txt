@@ -1,0 +1,1 @@
+Each value is sampled and held, using a common sample clock.

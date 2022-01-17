@@ -1,0 +1,1 @@
+This channel may provide unicast, multicast or broadcast communication service.

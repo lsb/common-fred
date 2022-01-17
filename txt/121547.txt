@@ -1,0 +1,1 @@
+A barotropic flow is a generalization of a barotropic atmosphere.

@@ -1,0 +1,1 @@
+Typically, one corner of the quantized matrix is filled with zeros.

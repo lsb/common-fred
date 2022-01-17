@@ -1,0 +1,1 @@
+The protocol also supports non-personal calendars, such as calendars for sites or organizations.

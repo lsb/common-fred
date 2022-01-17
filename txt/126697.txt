@@ -1,0 +1,1 @@
+A ground formula or ground clause is a formula without free variables.

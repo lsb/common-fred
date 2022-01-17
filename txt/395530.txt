@@ -1,0 +1,1 @@
+It is similar to the concept of lexical analysis for computer languages.

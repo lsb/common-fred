@@ -1,0 +1,1 @@
+"""Q"" can be evaluated numerically for spherical particles using Mie theory."

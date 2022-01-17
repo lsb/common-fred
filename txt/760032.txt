@@ -1,0 +1,1 @@
+Two popular separators are the space character and the comma.

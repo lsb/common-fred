@@ -1,0 +1,1 @@
+Various scripting languages have taken their cues from HyperTalk.

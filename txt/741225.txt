@@ -1,0 +1,1 @@
+This static position derivative is called the Eulerian derivative.

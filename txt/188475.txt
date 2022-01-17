@@ -1,0 +1,1 @@
+Blorenge is composed in layer-cake fashion of a number of different rock types.

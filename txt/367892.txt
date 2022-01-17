@@ -1,0 +1,1 @@
+Initially, different server software would use different ways to exchange this information with scripts.

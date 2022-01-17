@@ -1,0 +1,1 @@
+Movement also helps; the figure may be moving against a static environment.

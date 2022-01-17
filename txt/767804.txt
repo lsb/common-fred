@@ -1,0 +1,1 @@
+Visibility graphs have therefore been extended to the realm of time series analysis.

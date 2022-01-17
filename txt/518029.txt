@@ -1,0 +1,1 @@
+Shake exposed its node graph architecture graphically.

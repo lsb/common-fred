@@ -1,0 +1,1 @@
+This was used to indicate yes, true, or confirmed on items in a list.

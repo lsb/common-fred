@@ -1,0 +1,1 @@
+Since the noise is common-mode, shielding has very little effect, even with differential pairs.

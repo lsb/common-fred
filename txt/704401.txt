@@ -1,0 +1,1 @@
+These can be used to calculate a depth map through advanced image processing techniques.

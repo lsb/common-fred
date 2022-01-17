@@ -1,0 +1,1 @@
+Greater hardware support, which allowed substantial speed improvements, came with later processor models.

@@ -1,0 +1,1 @@
+Photo Story originally was based on a Microsoft Research project in photo sharing.

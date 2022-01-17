@@ -1,0 +1,1 @@
+The most used techniques are variants of backtracking, constraint propagation, and local search.

@@ -1,0 +1,1 @@
+Consider what happens when someone sends a message to the list.

@@ -1,0 +1,1 @@
+Upgrading causes the options to fire their own homing balls, and increases their power.

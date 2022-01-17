@@ -1,0 +1,1 @@
+With external memory, B and C are used as address and data bus.

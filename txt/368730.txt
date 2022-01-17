@@ -1,0 +1,1 @@
+Instead, jets of functions between two manifolds belong to a jet bundle.

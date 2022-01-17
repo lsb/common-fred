@@ -1,0 +1,1 @@
+"""Wormwood"", a twice-yearly journal, is devoted to discussion of fantastic, supernatural and decadent literature."

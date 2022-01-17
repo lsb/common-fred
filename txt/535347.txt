@@ -1,0 +1,1 @@
+Sling uses an Amazon Web Services-based infrastructure to support encoding, relaying streams and analytics.

@@ -1,0 +1,1 @@
+For more recent and state-of-the-art techniques, Kaldi toolkit can be used.

@@ -1,0 +1,1 @@
+Thirty-two of the original one-bit processors shared each numeric processor.

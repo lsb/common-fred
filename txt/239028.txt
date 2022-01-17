@@ -1,0 +1,1 @@
+Every outerplanar graph is also a subgraph of a series-parallel graph.

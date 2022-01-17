@@ -1,0 +1,1 @@
+The circuit generates a sinusoidal wave at its output.

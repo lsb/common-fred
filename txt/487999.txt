@@ -1,0 +1,1 @@
+Park Assist helps the driver parallel park the vehicle.

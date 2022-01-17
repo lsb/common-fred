@@ -1,0 +1,1 @@
+Branches allow for parts of software to be developed in parallel.

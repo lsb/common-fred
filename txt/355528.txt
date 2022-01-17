@@ -1,0 +1,1 @@
+In both cases, only the message body is encrypted.

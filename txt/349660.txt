@@ -1,0 +1,1 @@
+If the Hessian matrix is singular, then the second derivative test is inconclusive.

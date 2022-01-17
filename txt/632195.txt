@@ -1,0 +1,1 @@
+The majority of data transfer happens between peers.

@@ -1,0 +1,1 @@
+Echo cancelers are available as both software and hardware implementations.

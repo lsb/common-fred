@@ -1,0 +1,1 @@
+That situation arises in the context of the Circular convolution theorem.

@@ -1,0 +1,1 @@
+There are four types of buildings; Triple Core, Chevron, Tower and Town House.

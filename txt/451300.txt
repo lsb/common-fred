@@ -1,0 +1,1 @@
+Message passing may be implemented by various mechanisms, including channels.

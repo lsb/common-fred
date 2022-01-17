@@ -1,0 +1,1 @@
+Errors in compressed data may be detected and skipped.

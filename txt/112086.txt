@@ -1,0 +1,1 @@
+"This rule preserves causality, a feature missing from previous ""triangulation"" theories."

@@ -1,0 +1,1 @@
+Windows Workgroups are more suitable for small or home-office networks.

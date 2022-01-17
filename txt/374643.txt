@@ -1,0 +1,1 @@
+It consists of a string of lakes connected by short manmade cuts.

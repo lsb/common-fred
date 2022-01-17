@@ -1,0 +1,1 @@
+Normally, they define exchange formats that allow operations between different applications.

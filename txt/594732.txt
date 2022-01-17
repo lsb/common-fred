@@ -1,0 +1,1 @@
+The code can calculate reflection, transmission, absorption, infrared cooling rate, and flux spectra.

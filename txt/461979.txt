@@ -1,0 +1,1 @@
+Myrinet includes a number of fault-tolerance features, mostly backed by the switches.

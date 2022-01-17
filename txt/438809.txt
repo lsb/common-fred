@@ -1,0 +1,1 @@
+LotusScript is similar to Visual Basic.

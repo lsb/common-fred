@@ -1,0 +1,1 @@
+In particular, every ample line bundle is nef.

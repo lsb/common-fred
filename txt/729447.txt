@@ -1,0 +1,1 @@
+This flow is accounted for by the diffusion term in the vorticity transport equation.

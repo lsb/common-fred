@@ -1,0 +1,1 @@
+Any finite-dimensional vertex algebra is commutative.

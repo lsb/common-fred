@@ -1,0 +1,1 @@
+"Autoconf transforms the instructions in ""configure dot ac"" into a portable configure script."

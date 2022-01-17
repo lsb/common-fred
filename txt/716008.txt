@@ -1,0 +1,1 @@
+They had a different S-Spec number which can be found in Intel errata documentation.

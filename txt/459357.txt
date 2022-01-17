@@ -1,0 +1,1 @@
+Movement is determined by an included spinner which make the game purely on luck.

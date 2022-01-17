@@ -1,0 +1,1 @@
+"Kyle's lambda is named from Pete Kyle's famous paper on market microstructure."

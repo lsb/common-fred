@@ -1,0 +1,1 @@
+These techniques depend on the index type, and take advantage of its structure.

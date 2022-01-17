@@ -1,0 +1,1 @@
+Indeed, a foreign key may itself be a compound key.

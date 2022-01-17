@@ -1,0 +1,1 @@
+"""Enterprise application suite"" is an alternate name for such systems."

@@ -1,0 +1,1 @@
+This assay is commonly used to calculate binding constant of molecules to receptors.

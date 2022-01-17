@@ -1,0 +1,1 @@
+"""Light Up"" is played on a rectangular grid of white and black cells."

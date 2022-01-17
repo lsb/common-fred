@@ -1,0 +1,1 @@
+A copy of the information return is also sent directly to the payee.

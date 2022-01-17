@@ -1,0 +1,1 @@
+These are details that require a context to determine their validity and behaviour.

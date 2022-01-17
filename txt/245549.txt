@@ -1,0 +1,1 @@
+Flicker was also an issue with early white-background displays.

@@ -1,0 +1,1 @@
+The closer the damping pad, the shorter the reverb time.

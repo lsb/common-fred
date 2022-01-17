@@ -1,0 +1,1 @@
+An automatic train operation system allows a single individual to operate the train.

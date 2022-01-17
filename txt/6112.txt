@@ -1,0 +1,1 @@
+"""R"" is the partial derivative of ""R"" with respect to ""s""."

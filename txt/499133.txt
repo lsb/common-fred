@@ -1,0 +1,1 @@
+Programs can be saved using the Famicom Data Recorder cassette tape drive.

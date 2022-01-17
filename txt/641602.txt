@@ -1,0 +1,1 @@
+The object, the location of the object, and the viewer.

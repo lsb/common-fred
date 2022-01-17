@@ -1,0 +1,1 @@
+In contrast, hard zoning restricts actual communication across a fabric.

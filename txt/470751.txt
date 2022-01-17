@@ -1,0 +1,1 @@
+Note that traditional chess programs can only handle, at most, a few variants.

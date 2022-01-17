@@ -1,0 +1,1 @@
+In gauge theories the gauge fields couple to conserved currents.

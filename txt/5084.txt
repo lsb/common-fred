@@ -1,0 +1,1 @@
+"""Navigator of the Seas"" is the first of the second generation of ""Voyager""-class vessels."

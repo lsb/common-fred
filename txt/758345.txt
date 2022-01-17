@@ -1,0 +1,1 @@
+Two complete airframes were built for static and repeated load testing.

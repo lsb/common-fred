@@ -1,0 +1,1 @@
+Cycle stealing mode is useful for controllers that monitor data in real time.

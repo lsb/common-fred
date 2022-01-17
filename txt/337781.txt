@@ -1,0 +1,1 @@
+However, names may also contain characters which only occur as parts of names.

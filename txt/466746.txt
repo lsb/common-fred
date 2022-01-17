@@ -1,0 +1,1 @@
+No alternative verification for the term was given, making it a self-referential claim.

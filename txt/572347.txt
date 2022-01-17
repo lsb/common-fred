@@ -1,0 +1,1 @@
+The Rotopress is a continuously compacting garbage truck.

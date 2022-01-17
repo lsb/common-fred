@@ -1,0 +1,1 @@
+"""Hero"" lost her mainmast and mizzenmast, and ""Worcester"" lost her maintopmast."

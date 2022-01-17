@@ -1,0 +1,1 @@
+This specific type of search is called greedy best-first search or pure heuristic search.

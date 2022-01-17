@@ -1,0 +1,1 @@
+The Vasicek model was further extended in the Hull-White model.

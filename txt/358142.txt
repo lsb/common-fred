@@ -1,0 +1,1 @@
+In low level information flow analysis, each variable is usually assigned a security level.

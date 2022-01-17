@@ -1,0 +1,1 @@
+It is assumed that by this time internal soft-stripping had started.

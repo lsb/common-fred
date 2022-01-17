@@ -1,0 +1,1 @@
+It maintains a list of electors, through enumeration that occurs before an election.

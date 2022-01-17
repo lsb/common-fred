@@ -1,0 +1,1 @@
+Thus, a related effort is targeted towards preventing spoofed packets; known as ingress filtering.

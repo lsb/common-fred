@@ -1,0 +1,1 @@
+A vector field whose curl is zero is called irrotational.

@@ -1,0 +1,1 @@
+Simply put, digitizing is replacing an object by a discrete set of its points.

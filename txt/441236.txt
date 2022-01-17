@@ -1,0 +1,1 @@
+Making the display wider risked cutting off characters due to overscan.

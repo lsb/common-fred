@@ -1,0 +1,1 @@
+By controlling the J gate voltage, two-qubit operations are possible.

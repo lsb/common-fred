@@ -1,0 +1,1 @@
+Notated chess moves are presented in the table from left to right.

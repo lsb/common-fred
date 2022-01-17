@@ -1,0 +1,1 @@
+Halbach cylinders give a static field.

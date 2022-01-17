@@ -1,0 +1,1 @@
+This variable is set to indicate the present time.

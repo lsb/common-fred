@@ -1,0 +1,1 @@
+The Nabaztag device acts as a client to the France-based servers.

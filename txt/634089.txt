@@ -1,0 +1,1 @@
+The memory arbiter must then decide which request to service first.

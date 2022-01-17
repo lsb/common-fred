@@ -1,0 +1,1 @@
+Thus, for example, a complete graph with equal weights describes a Moran process.

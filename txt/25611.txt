@@ -1,0 +1,1 @@
+"Dehn's result continues to be valid for spherical geometry and hyperbolic geometry."

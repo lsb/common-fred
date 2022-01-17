@@ -1,0 +1,1 @@
+MultiFinder could be enabled or disabled, with a reboot.

@@ -1,0 +1,1 @@
+However, most shapes require more points to describe with quadratic curves than cubics.

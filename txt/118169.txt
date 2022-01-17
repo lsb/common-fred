@@ -1,0 +1,1 @@
+"Whether a star is circumpolar depends upon the observer's latitude."

@@ -1,0 +1,1 @@
+Holding down will not substitute for the Windows key in these combinations.

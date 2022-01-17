@@ -1,0 +1,1 @@
+Factor includes a large standard library, written entirely in the language.

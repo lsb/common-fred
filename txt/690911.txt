@@ -1,0 +1,1 @@
+There are a few situations when this is desired behavior.

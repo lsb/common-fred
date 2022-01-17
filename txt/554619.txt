@@ -1,0 +1,1 @@
+Text files can contain plain text, but they are not limited to such.

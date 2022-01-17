@@ -1,0 +1,1 @@
+"The script distinguishes the vowels ""a"", ""e"", ""i"" and ""u""."

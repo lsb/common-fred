@@ -1,0 +1,1 @@
+This is done by double clicking clip names in the Clip Library sidebar.

@@ -1,0 +1,1 @@
+Inclusion maps in geometry come in different kinds: for example embeddings of submanifolds.

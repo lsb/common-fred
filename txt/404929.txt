@@ -1,0 +1,1 @@
+It superseded edlin, the standard editor in earlier versions.

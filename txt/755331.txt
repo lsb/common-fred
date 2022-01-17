@@ -1,0 +1,1 @@
+Track circuits can detect some but not all broken rails.

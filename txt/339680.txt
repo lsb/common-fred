@@ -1,0 +1,1 @@
+However, the process always starts from zero amplitude and builds up.

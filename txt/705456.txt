@@ -1,0 +1,1 @@
+These facets are created by the previous removal of blades from the core.

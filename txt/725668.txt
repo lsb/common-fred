@@ -1,0 +1,1 @@
+This behavior is appropriate for traditional cable modems, but not for cable set-top boxes.

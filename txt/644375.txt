@@ -1,0 +1,1 @@
+The other hand draws off a packet from the top of the deck.

@@ -1,0 +1,1 @@
+James Massey recognized its application to linear feedback shift registers and simplified the algorithm.

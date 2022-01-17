@@ -1,0 +1,1 @@
+Further see the derivative of the exponential map.

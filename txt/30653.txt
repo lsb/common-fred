@@ -1,0 +1,1 @@
+"For instance temperature can be either ""too low"", ""good"" or ""too high""."

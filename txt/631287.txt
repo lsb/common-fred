@@ -1,0 +1,1 @@
+The main concepts in behavioral perspective are states and transitions between states.

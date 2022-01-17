@@ -1,0 +1,1 @@
+G phase ends when the cell moves into the S phase of interphase.

@@ -1,0 +1,1 @@
+Modern compilers can often detect many of the constructs traditionally warned about by lint.

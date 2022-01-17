@@ -1,0 +1,1 @@
+The Paddle scanning process can take the majority of a video frame to complete.

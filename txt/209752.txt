@@ -1,0 +1,1 @@
+Color tubes use three different phosphors which emit red, green, and blue light respectively.

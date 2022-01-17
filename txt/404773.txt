@@ -1,0 +1,1 @@
+It states that every analytic subvariety of a complex projective space is algebraic.

@@ -1,0 +1,1 @@
+Each artist occupies a column.

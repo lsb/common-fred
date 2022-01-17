@@ -1,0 +1,1 @@
+For a floating object, only the submerged volume displaces water.

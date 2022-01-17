@@ -1,0 +1,1 @@
+A generalized term for the Euclidean norm is the L norm or L distance.

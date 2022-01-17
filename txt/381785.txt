@@ -1,0 +1,1 @@
+It is a low level language and resembles assembly.

@@ -1,0 +1,1 @@
+Anechoic tiles were added later to reduce noise levels.

@@ -1,0 +1,1 @@
+We may also define functions on discontinuous stochastic processes.

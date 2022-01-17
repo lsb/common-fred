@@ -1,0 +1,1 @@
+The variables of build date and design revision number are semi-independent.

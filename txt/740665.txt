@@ -1,0 +1,1 @@
+This signal is then run through a graphic equaliser to occasionally change its timbre.

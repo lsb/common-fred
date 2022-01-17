@@ -1,0 +1,1 @@
+There is a more general concept: the homotopy category of a model category.

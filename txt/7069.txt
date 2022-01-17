@@ -1,0 +1,1 @@
+"""Starsiege"" received ""generally favorable reviews"" according to the review aggregation website GameRankings."

@@ -1,0 +1,1 @@
+Parametric macromodels, often released by manufacturers, can be imported as-is into the simulator.

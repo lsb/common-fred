@@ -1,0 +1,1 @@
+Its main use is to find lateral equations.

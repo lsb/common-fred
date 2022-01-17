@@ -1,0 +1,1 @@
+Users now benefit from a progress bar, undo support, and an archive creation wizard.

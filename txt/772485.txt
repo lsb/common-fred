@@ -1,0 +1,1 @@
+Websites should enable encryption to prevent malicious attackers.

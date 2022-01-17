@@ -1,0 +1,1 @@
+Each player interacts in a turn at the same time.

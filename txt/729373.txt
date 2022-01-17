@@ -1,0 +1,1 @@
+This filter affects self-censored search engines, since their censorship is filtering websites, not keywords.

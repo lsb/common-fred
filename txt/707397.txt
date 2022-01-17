@@ -1,0 +1,1 @@
+These photocathode devices do not detect temperatures, but rather infrared radiation variances.

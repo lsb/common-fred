@@ -1,0 +1,1 @@
+The observability and controllability of a system are mathematical duals.

@@ -1,0 +1,1 @@
+All processes have inherent statistical variability which can be evaluated by statistical methods.

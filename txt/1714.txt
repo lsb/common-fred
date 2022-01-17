@@ -1,0 +1,1 @@
+"""David and Lisa"" has received positive reviews from critics."

@@ -1,0 +1,1 @@
+In this way, the file remained available even after the original sender went offline.

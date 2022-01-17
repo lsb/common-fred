@@ -1,0 +1,1 @@
+Multipoint evaluation can be obtained faster than with the above formulas.

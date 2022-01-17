@@ -1,0 +1,1 @@
+Like Chess, Accasta has a fixed initial setup and various different pieces.

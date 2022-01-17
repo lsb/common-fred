@@ -1,0 +1,1 @@
+Spells, however, cost exhaustion points and differ in the number of points they cost.

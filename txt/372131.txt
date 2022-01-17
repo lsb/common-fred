@@ -1,0 +1,1 @@
+It also must be shown that the series converges in some sense.

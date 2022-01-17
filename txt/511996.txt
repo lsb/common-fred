@@ -1,0 +1,1 @@
+Scanning a QR code is trivial and requires absolutely no skill.

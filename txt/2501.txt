@@ -1,0 +1,1 @@
+"""Freedom"" refers to the free and open source software provided."

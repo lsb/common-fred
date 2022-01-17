@@ -1,0 +1,1 @@
+"""Mathetes"" is not a proper name; it simply means ""a disciple."

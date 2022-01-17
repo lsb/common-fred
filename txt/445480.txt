@@ -1,0 +1,1 @@
+Many song charts designed for keyboard are unable to be passed using a pad.

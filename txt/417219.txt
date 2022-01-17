@@ -1,0 +1,1 @@
+Its generalization to higher dimension is known as the Veronese variety.

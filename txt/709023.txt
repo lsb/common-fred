@@ -1,0 +1,1 @@
+These tunnels can provide encapsulated connectivity over existing infrastructure to another infrastructure.

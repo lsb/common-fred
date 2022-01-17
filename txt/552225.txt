@@ -1,0 +1,1 @@
+Tactics refer to the subset of behaviors within a given genetic strategy.

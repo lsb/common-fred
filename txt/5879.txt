@@ -1,0 +1,1 @@
+"""Poka-yoke"", a Japanese term, was coined by Shigeo Shingo, a quality expert."

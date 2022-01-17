@@ -1,0 +1,1 @@
+A standard specifies both a physical connector and how it is wired.

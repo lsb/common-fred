@@ -1,0 +1,1 @@
+The scoring algorithm is an iterative method for numerically determining the maximum likelihood estimator.

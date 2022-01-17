@@ -1,0 +1,1 @@
+"In this section, ""R"" is an integral domain."

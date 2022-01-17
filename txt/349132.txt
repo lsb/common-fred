@@ -1,0 +1,1 @@
+If a score line is present, the knife is safe.

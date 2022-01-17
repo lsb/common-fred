@@ -1,0 +1,1 @@
+When they click a link or open an attachment, another tracking code is activated.

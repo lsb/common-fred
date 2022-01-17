@@ -1,0 +1,1 @@
+"""Praemunire"" in classical Latin means ""to fortify""."

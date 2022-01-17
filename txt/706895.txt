@@ -1,0 +1,1 @@
+These metrics function similarly to the bore and stroke measurements of a piston engine.

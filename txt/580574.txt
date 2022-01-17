@@ -1,0 +1,1 @@
+The annealing temperature during a polymerase chain reaction determines the specificity of primer annealing.

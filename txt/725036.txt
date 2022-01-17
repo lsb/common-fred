@@ -1,0 +1,1 @@
+This approach makes it compatible with plain Web browsers.

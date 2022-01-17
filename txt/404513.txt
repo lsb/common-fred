@@ -1,0 +1,1 @@
+It specifies communication for clients of a common X server.

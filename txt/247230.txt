@@ -1,0 +1,1 @@
+For a failed bid, the game value is credited to each opponent.

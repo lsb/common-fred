@@ -1,0 +1,1 @@
+Hamachi creates a single broadcast domain between all clients.

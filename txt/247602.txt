@@ -1,0 +1,1 @@
+For better compatibility, ignore leading and trailing whitespace, and take the first six digits.

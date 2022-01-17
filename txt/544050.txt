@@ -1,0 +1,1 @@
+Spacecraft radiators necessarily must use radiation only to reject heat.

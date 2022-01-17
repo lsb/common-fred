@@ -1,0 +1,1 @@
+For monochromatic images, the term intensity histogram may be used instead.

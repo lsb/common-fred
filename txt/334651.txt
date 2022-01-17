@@ -1,0 +1,1 @@
+However they only produce partials matching the odd harmonics, at least in theory.

@@ -1,0 +1,1 @@
+This modulation is a kind of continuous-phase frequency shift keying.

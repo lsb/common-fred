@@ -1,0 +1,1 @@
+The app, in its current function, however, seems to give only geotagged photo results.

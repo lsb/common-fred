@@ -1,0 +1,1 @@
+Every point in physical space has an isovist associated with it.

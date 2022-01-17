@@ -1,0 +1,1 @@
+The player can set custom rules.

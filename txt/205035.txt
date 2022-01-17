@@ -1,0 +1,1 @@
+Charge recombination causes a drop in the external quantum efficiency.

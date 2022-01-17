@@ -1,0 +1,1 @@
+A multiplicative scrambler is recursive, and a multiplicative descrambler is non-recursive.

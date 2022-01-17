@@ -1,0 +1,1 @@
+The direct current drives a three-phase inverter, which powers two asynchronous three-phase induction motors.

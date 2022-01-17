@@ -1,0 +1,1 @@
+Sibling calls do not appear in a stack trace.

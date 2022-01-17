@@ -1,0 +1,1 @@
+Microkernels reduce the number of functionalities provided by the kernel.

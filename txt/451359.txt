@@ -1,0 +1,1 @@
+Metafun can also be used with stand alone MetaPost.

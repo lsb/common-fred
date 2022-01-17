@@ -1,0 +1,1 @@
+This decreases the amount of physical damage done in a disrupted landscape.

@@ -1,0 +1,1 @@
+Messages with different facilities may be handled differently.

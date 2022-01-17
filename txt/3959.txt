@@ -1,0 +1,1 @@
+"""Jabberwocky"" received a mixed response from critics."

@@ -1,0 +1,1 @@
+An interlock prevents firing unless the toggle is fully closed.

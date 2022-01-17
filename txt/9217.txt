@@ -1,0 +1,1 @@
+"""X-Men Legends"" is played as an action role-playing game."

@@ -1,0 +1,1 @@
+"Fargo is a free browser-based outliner which syncs with a user's Dropbox account."

@@ -1,0 +1,1 @@
+On any existing machine, this is more efficient than division or remainder computations.

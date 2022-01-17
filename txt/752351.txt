@@ -1,0 +1,1 @@
+To use contrast variation, different components of a system must scatter differently.

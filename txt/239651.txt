@@ -1,0 +1,1 @@
+Exact placement of the pads does not appear important.

@@ -1,0 +1,1 @@
+Resources may be storable or non storable.

@@ -1,0 +1,1 @@
+"""Carnosine"" and carnitine were discovered by Russian chemist Vladimir Gulevich."

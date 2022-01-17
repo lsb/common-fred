@@ -1,0 +1,1 @@
+Just drop a module into your MacroSystem directory, turn your microphone off and on, and it will attempt to load it.

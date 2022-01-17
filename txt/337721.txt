@@ -1,0 +1,1 @@
+However, most isotropic yield criteria correspond to convex yield surfaces.

@@ -1,0 +1,1 @@
+An elementary version of polyadic algebra is described in monadic Boolean algebra.

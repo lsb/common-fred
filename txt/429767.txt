@@ -1,0 +1,1 @@
+Languages have different ways of dealing with these problems of repeated inheritance.

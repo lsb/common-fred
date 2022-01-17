@@ -1,0 +1,1 @@
+"""The Cookie Monster"" develops many ideas of mind uploads and neural simulations."

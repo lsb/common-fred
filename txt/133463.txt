@@ -1,0 +1,1 @@
+A phase comparison can be made by connecting two signals to a two-channel oscilloscope.

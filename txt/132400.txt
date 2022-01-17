@@ -1,0 +1,1 @@
+A normal reference in Java is known as a strong reference.

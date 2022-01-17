@@ -1,0 +1,1 @@
+"""Inhomogeneous histories"" are multiple-time propositions which cannot be represented by a homogeneous history."

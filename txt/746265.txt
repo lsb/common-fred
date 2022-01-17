@@ -1,0 +1,1 @@
+Those browsers that interpret soft hyphens must observe the following semantics.

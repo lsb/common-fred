@@ -1,0 +1,1 @@
+It excludes the letters I, L, and O to avoid confusion with digits.

@@ -1,0 +1,1 @@
+In general, encryption provides protection against malicious entities.

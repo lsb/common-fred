@@ -1,0 +1,1 @@
+Printer output is emulated and is displayed on screen.

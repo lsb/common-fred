@@ -1,0 +1,1 @@
+Other phases, including shapes such as ellipsoids, cylinders, and bilayers, are also possible.

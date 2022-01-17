@@ -1,0 +1,1 @@
+Finish rendering refers to the process, and final rendering refers to the schedule.

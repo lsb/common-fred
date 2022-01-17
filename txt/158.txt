@@ -1,0 +1,1 @@
+"""Access Hollywood"" primarily focuses on news in the music, television, and film industries."

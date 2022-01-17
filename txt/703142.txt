@@ -1,0 +1,1 @@
+These advantages make some calculations more efficient in ternary than binary.

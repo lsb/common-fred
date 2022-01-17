@@ -1,0 +1,1 @@
+Two fields are called arithmetically equivalent if they have the same Dedekind zeta function.

@@ -1,0 +1,1 @@
+"The standard part function implements Fermat's adequality."

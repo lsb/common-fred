@@ -1,0 +1,1 @@
+When reading from a raw socket, the headers are usually included.

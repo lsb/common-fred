@@ -1,0 +1,1 @@
+Instead, they rely on graphic software to rasterize images.

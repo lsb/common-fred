@@ -1,0 +1,1 @@
+A core set of functionality not likely to change is also identified and established.

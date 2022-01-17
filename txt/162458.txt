@@ -1,0 +1,1 @@
+An example of such a system is a mass on a surface with friction.

@@ -1,0 +1,1 @@
+It also introduced the Common Gateway Interface, allowing for the creation of dynamic websites.

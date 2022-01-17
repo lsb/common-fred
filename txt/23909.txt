@@ -1,0 +1,1 @@
+"Combat in ""Stronghold"" is based on a strength and hit point system."

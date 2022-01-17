@@ -1,0 +1,1 @@
+This approach to allocating the fractional seats is called the largest remainder method.

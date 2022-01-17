@@ -1,0 +1,1 @@
+"""Channels holding a broadcasting license for the terrestrial network are marked """"""."

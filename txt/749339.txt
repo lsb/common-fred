@@ -1,0 +1,1 @@
+Thus two vertices may be connected by more than one edge.

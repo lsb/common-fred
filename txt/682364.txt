@@ -1,0 +1,1 @@
+The validity of the Euclidean algorithm can be proven by a two-step argument.

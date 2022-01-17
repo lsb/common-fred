@@ -1,0 +1,1 @@
+The file format has been reverse-engineered and documentation of it is freely available.

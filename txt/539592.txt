@@ -1,0 +1,1 @@
+Some models come in sub-types with lenses added to give them a low magnification.

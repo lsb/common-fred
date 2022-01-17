@@ -1,0 +1,1 @@
+Each level contains various obstacles and enemies that the players must deal with.

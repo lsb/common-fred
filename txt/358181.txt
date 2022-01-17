@@ -1,0 +1,1 @@
+In many applications, this root system will arise from a semisimple Lie algebra.

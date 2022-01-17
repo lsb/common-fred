@@ -1,0 +1,1 @@
+The racial skill that a hero learns is dependent on their native faction.

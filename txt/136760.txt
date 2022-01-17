@@ -1,0 +1,1 @@
+A state machine generally has no notion of such a progression.

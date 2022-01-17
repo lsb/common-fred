@@ -1,0 +1,1 @@
+The original MacPaint was programmed as a single-document interface.

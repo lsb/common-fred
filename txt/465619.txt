@@ -1,0 +1,1 @@
+Newer versions of the system include a reloading feature for multiple firings.

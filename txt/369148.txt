@@ -1,0 +1,1 @@
+Interdigital transducer acts as sender and as receiver.

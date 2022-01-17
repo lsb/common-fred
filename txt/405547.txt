@@ -1,0 +1,1 @@
+It traverses the town, and leaves heading north.

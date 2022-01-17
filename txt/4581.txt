@@ -1,0 +1,1 @@
+"""Maigh Nuad"" is the modern spelling."

@@ -1,0 +1,1 @@
+"A fully orthogonal architecture may not be the most ""bit efficient"" architecture."

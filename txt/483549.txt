@@ -1,0 +1,1 @@
+Other languages, including C, were supported in later releases of the system.

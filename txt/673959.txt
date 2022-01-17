@@ -1,0 +1,1 @@
+The term pre-rendered refers to anything that is not rendered in real-time.

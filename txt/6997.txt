@@ -1,0 +1,1 @@
+"""Specific"" properties are expressed on a per mass basis."

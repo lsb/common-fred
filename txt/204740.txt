@@ -1,0 +1,1 @@
+Changed words in recorded clips result also in an error.

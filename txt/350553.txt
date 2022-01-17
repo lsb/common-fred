@@ -1,0 +1,1 @@
+Imagine a simple loop that sets an array to the identity matrix.

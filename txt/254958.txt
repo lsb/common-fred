@@ -1,0 +1,1 @@
+Functional protocols allow the customization of applications to end user preferences.

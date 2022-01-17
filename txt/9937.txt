@@ -1,0 +1,1 @@
+"A ""diagonal matrix"" is one whose off-diagonal entries are all zero."

@@ -1,0 +1,1 @@
+The Hartree-Fock procedure is used to obtain the coefficients of the expansion.

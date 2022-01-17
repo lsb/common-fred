@@ -1,0 +1,1 @@
+Upon restarting, the Xbox detects the clock is invalid and the process repeats.

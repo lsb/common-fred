@@ -1,0 +1,1 @@
+It then assigns a random date to each individual.

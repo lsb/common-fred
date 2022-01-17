@@ -1,0 +1,1 @@
+"""Sophie's Choice"" has been banned in some high schools in the United States."

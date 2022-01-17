@@ -1,0 +1,1 @@
+Different compilers vary in how complex a function they can manage to inline.

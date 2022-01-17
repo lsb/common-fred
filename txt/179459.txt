@@ -1,0 +1,1 @@
+Attributes may be specified anywhere in a normal line.

@@ -1,0 +1,1 @@
+Most configurations use different storages for data and metadata.

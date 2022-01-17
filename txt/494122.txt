@@ -1,0 +1,1 @@
+Players select the stage and the number of available extra lives at the start.

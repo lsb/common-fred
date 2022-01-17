@@ -1,0 +1,1 @@
+"""Panax"" species are characterized by the presence of ginsenosides and gintonin."

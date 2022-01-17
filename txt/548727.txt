@@ -1,0 +1,1 @@
+Subdivision modeling requires no additional operators and works directly on the polygonal geometry.

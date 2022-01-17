@@ -1,0 +1,1 @@
+It converts each to the symbol appropriate to the platform on which it executes.

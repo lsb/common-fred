@@ -1,0 +1,1 @@
+This is intended to protect the exchange against loss.

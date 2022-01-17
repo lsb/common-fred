@@ -1,0 +1,1 @@
+"""Club Fed"" is a pun on the ""Club Med"" chain of all-inclusive resorts."

@@ -1,0 +1,1 @@
+It uses a Window Maker-style interface to present a graphical login screen.

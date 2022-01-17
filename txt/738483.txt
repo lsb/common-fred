@@ -1,0 +1,1 @@
+This procedure gives the calling program control over the environment of the called program.

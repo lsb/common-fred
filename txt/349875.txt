@@ -1,0 +1,1 @@
+If the prog.bak file does not already exist, the cp command creates it.

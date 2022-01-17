@@ -1,0 +1,1 @@
+A router may monitor all traffic that it routes.

@@ -1,0 +1,1 @@
+BizTalk uses adapters for communications with different protocols, message formats, and specific software products.

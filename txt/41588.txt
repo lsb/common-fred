@@ -1,0 +1,1 @@
+"Hermann's algorithm for primary decomposition is still in contemporary use."

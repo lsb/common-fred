@@ -1,0 +1,1 @@
+Transitions at the period boundaries do not carry information.

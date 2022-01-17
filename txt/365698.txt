@@ -1,0 +1,1 @@
+In this situation, a representation need not be a direct sum of irreducible representations.

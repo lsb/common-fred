@@ -1,0 +1,1 @@
+This makes it possible to efficiently code periodic signals, such as voiced sounds.

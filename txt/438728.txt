@@ -1,0 +1,1 @@
+Losing one restarts the room if any are left, the floor if not.

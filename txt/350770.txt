@@ -1,0 +1,1 @@
+Implementation of a renderer including these effects is correspondingly simpler.

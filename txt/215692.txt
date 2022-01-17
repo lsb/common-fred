@@ -1,0 +1,1 @@
+Cube maps provide a fairly straightforward and efficient solution to rendering stable specular highlights.

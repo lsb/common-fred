@@ -1,0 +1,1 @@
+An Eulerian circuit is a directed closed path which visits each edge exactly once.

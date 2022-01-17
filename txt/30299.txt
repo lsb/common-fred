@@ -1,0 +1,1 @@
+"Food and first-aid kits located throughout the game can replenish the player's health."

@@ -1,0 +1,1 @@
+Thus the critical current oscillates as a function of the applied flux.

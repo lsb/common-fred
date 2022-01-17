@@ -1,0 +1,1 @@
+Typically, the pump source is itself another mode-locked laser.

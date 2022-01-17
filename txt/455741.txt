@@ -1,0 +1,1 @@
+Moreover, under mild additional conditions the convergence is uniform.

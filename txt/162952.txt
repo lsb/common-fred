@@ -1,0 +1,1 @@
+An interpreter is computer software that transforms and then executes the indicated operations.

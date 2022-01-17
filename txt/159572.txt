@@ -1,0 +1,1 @@
+Although the harmonic series does diverge, it does so very slowly.

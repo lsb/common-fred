@@ -1,0 +1,1 @@
+Observables preserve the superselection sectors.

@@ -1,0 +1,1 @@
+Simics has the ability to execute a system in forward and reverse direction.

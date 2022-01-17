@@ -1,0 +1,1 @@
+In many cases one aspect of the comparison is implied rather than made explicit.

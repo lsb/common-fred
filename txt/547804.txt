@@ -1,0 +1,1 @@
+Strength experience can only be used to modify three attributes: Physique, Health, and Toughness.

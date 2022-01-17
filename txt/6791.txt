@@ -1,0 +1,1 @@
+"""SimCity"" inspired a new genre of video games."

@@ -1,0 +1,1 @@
+Signals are very small, and typically are measured in microvolts or nanovolts.

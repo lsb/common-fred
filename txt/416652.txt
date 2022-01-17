@@ -1,0 +1,1 @@
+Its data structures were strings, numbers and a few other specialized things.

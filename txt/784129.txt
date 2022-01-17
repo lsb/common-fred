@@ -1,0 +1,1 @@
+Within the infantry class, there are four support classes with special abilities.

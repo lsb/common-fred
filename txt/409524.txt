@@ -1,0 +1,1 @@
+It was intended to be easy to use behind firewalls.

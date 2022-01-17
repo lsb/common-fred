@@ -1,0 +1,1 @@
+One major difference was that C News was written with portability in mind.

@@ -1,0 +1,1 @@
+"Suppose ""A"" is a set and ""C"" is a class of sets."

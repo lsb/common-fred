@@ -1,0 +1,1 @@
+Content Indexing is now a part of Internet Information Server and Windows Desktop Search.

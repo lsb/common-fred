@@ -1,0 +1,1 @@
+In such scenarios, two-level adaptive predictor works more efficiently than a saturation counter.

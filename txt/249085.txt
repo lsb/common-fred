@@ -1,0 +1,1 @@
+For non-simple arrangements the maximum number of triangles is similar but more tightly bounded.

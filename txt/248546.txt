@@ -1,0 +1,1 @@
+For instance, among the additional ranks of class are superclass, subclass and infraclass.

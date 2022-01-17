@@ -1,0 +1,1 @@
+In-place algorithm updates input sequence only through replacement or swapping of elements.

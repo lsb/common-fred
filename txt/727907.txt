@@ -1,0 +1,1 @@
+This definition also applies unchanged to left modules and to vector spaces.

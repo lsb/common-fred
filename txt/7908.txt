@@ -1,0 +1,1 @@
+"""The Pleasure of the Text"" was written in French and later translated into English."

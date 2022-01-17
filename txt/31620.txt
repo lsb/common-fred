@@ -1,0 +1,1 @@
+"From this point of view, is a ""H""-space with respect to concatenation of loops."

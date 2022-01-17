@@ -1,0 +1,1 @@
+Redundancy is used, here, to increase the chance of recovering from channel errors.

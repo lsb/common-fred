@@ -1,0 +1,1 @@
+Several ontology languages support expressions in first-order logic and allow general predicates.

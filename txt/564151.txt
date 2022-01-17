@@ -1,0 +1,1 @@
+The Ganeti solution stack relies on the Linux Logical Volume Manager.

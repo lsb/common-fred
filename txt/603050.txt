@@ -1,0 +1,1 @@
+The definitions can be generalized to functions and even sets of functions.

@@ -1,0 +1,1 @@
+Induction axioms are also implicit, and are needed only to prove program properties.

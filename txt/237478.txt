@@ -1,0 +1,1 @@
+Evaluating an empty array or hash in scalar context yields undef, which is false.

@@ -1,0 +1,1 @@
+"This includes control of the project's schedule, languages, algorithms, tools, frameworks and coding style."

@@ -1,0 +1,1 @@
+It can convert from any of these encodings to any other, through Unicode conversion.

@@ -1,0 +1,1 @@
+And see Complex quadratic polynomial for the chaotic behavior in the general iteration.

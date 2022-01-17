@@ -1,0 +1,1 @@
+"So ""f"" is one-one and hence a homeomorphism on the closure of ""D""."

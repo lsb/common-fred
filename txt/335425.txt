@@ -1,0 +1,1 @@
+However, a buffer may be used when moving data between processes within a computer.

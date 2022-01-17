@@ -1,0 +1,1 @@
+Further, the objects persist in very large, flat virtual memory, called a single-level store.

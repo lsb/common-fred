@@ -1,0 +1,1 @@
+"""Solar Jetman"" was developed in-joint by Mancunian developer Zippo Games and Leicestershire-based Rare."

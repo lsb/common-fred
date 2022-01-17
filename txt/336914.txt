@@ -1,0 +1,1 @@
+However, in general it fails to commute strictly with composition of morphisms.

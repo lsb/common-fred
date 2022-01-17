@@ -1,0 +1,1 @@
+The article breaks each exported item into a percentage of all the different exports.

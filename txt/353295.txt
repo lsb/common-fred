@@ -1,0 +1,1 @@
+In a cumbersome way, points on the tape could be marked and jumped to.

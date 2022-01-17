@@ -1,0 +1,1 @@
+"""Brothers in Arms"" deals with the senselessness of war."

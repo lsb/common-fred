@@ -1,0 +1,1 @@
+Abruptness of sentiment, may very well coincide with length of line.

@@ -1,0 +1,1 @@
+"Yaw changes the direction the aircraft's nose is pointing, left or right."

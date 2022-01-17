@@ -1,0 +1,1 @@
+The “Mamdani Implication Operator” is used in control engineering, for example.

@@ -1,0 +1,1 @@
+Accessing files is primarily an issue for the host computer.

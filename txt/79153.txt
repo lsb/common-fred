@@ -1,0 +1,1 @@
+"So, Behlendorf patched the open-source code to support HotWired's requirements."

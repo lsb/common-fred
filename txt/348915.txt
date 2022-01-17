@@ -1,0 +1,1 @@
+Ideally, one might hope to transpose a matrix with minimal additional storage.

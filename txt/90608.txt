@@ -1,0 +1,1 @@
+"The contest typically ends when one of the opponents' score reaches zero."

@@ -1,0 +1,1 @@
+Torpedoes can be made to move toward ships using acoustic homing.

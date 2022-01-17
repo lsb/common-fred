@@ -1,0 +1,1 @@
+Employees who need access to the secret are usually required to sign non-disclosure agreements.

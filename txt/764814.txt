@@ -1,0 +1,1 @@
+Users need to de-select unlicensed packs after installing the agent on a target database.

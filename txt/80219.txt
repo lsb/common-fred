@@ -1,0 +1,1 @@
+"Sparse files are supported, but files are never ""sparsified"" by removing zero-filled blocks."

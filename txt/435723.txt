@@ -1,0 +1,1 @@
+Likewise, among real matrices, all orthogonal, symmetric, and skew-symmetric matrices are normal.

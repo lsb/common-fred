@@ -1,0 +1,1 @@
+"For example, I can say ""score test word"" to print ""test word"", or ""camel test word"" to print ""testWord""."

@@ -1,0 +1,1 @@
+"Erlang's main strength is support for concurrency."

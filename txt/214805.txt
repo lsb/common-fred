@@ -1,0 +1,1 @@
+Creatures can only drop items which the game producers have installed them to drop.

@@ -1,0 +1,1 @@
+A navigation bridge would be used for the actual conning of the ship.

@@ -1,0 +1,1 @@
+"""Gain media"" with wide spectra allow tuning of the laser frequency."

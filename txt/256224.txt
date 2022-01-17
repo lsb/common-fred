@@ -1,0 +1,1 @@
+Gameplay consists of moving rings to flip Reversi-like discs.

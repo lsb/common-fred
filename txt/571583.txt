@@ -1,0 +1,1 @@
+The R state has a higher affinity for the ligand than the T state.

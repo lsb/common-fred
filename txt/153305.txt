@@ -1,0 +1,1 @@
+All instruments have an upper and a lower working limit.

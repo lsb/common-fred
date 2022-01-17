@@ -1,0 +1,1 @@
+Internal conversion coefficients can be looked up from tables, but this is time-consuming.

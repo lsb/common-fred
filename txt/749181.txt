@@ -1,0 +1,1 @@
+Thus the Stiefel-Whitney class is the unique functor satisfying the four axioms above.

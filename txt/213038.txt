@@ -1,0 +1,1 @@
+Conversions to and from a decimal character format are required for all formats.

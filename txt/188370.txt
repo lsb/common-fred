@@ -1,0 +1,1 @@
+Blocks marked as such remain unallocated from then on.

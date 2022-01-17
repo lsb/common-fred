@@ -1,0 +1,1 @@
+It is often praised for its in-depth coverage of Linux kernel internals.

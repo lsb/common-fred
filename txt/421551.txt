@@ -1,0 +1,1 @@
+JavaScript supports implicit and explicit delegation.

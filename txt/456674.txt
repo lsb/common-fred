@@ -1,0 +1,1 @@
+Most database servers respond to a query language.

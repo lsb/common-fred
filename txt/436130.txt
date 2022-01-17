@@ -1,0 +1,1 @@
+Linear logic lends itself to many different presentations, explanations and intuitions.

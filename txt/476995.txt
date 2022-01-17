@@ -1,0 +1,1 @@
+Once the missile has travelled six meters, the sustainer motor ignites.

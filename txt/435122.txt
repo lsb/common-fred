@@ -1,0 +1,1 @@
+Like any density, charge density can depend on position.

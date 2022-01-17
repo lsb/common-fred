@@ -1,0 +1,1 @@
+Authenticode is a code signing technology.

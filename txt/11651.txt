@@ -1,0 +1,1 @@
+"A term vector ""t"" has a specific weight for a certain ""R""."

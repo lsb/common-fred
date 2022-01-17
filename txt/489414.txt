@@ -1,0 +1,1 @@
+Patterns like these can be cataloged and matched against single-letter repeats in the ciphertext.

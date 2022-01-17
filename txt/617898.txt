@@ -1,0 +1,1 @@
+The game ends when one team has lost both kings or chooses to concede.

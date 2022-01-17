@@ -1,0 +1,1 @@
+Delaunay continued to work in a mostly abstract style.

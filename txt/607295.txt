@@ -1,0 +1,1 @@
+The empty string is usually represented similarly to other strings.

@@ -1,0 +1,1 @@
+Dancers should each be facing their partner at the start of the move.

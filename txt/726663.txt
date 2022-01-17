@@ -1,0 +1,1 @@
+This change is detected and converted to an electric signal by a custom-built photodetector.

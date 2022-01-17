@@ -1,0 +1,1 @@
+Each channel can have several parameters altered, such as pitch, volume, waveform, and filtering.

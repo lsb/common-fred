@@ -1,0 +1,1 @@
+Noisy environments can be simulated using parameters of the simulator.

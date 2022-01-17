@@ -1,0 +1,1 @@
+A representative disk is a three-dimensional volume element of a solid of revolution.

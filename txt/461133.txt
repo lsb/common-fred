@@ -1,0 +1,1 @@
+MusicBrainz Picard is an open-source software application for tagging digital audio recordings.

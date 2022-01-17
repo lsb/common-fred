@@ -1,0 +1,1 @@
+Coolstreaming is a data-centric design of peer-to-peer streaming overlay.

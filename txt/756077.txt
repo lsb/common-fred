@@ -1,0 +1,1 @@
+Transforming this into voxels introduces some loss and distortions.

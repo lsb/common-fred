@@ -1,0 +1,1 @@
+Kino has been included in several Linux distributions, including Debian, Puppy Linux and Ubuntu.

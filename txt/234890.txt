@@ -1,0 +1,1 @@
+Elias delta coding does not code zero or negative integers.

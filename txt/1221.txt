@@ -1,0 +1,1 @@
+"""Capitalism Lab"" has many new features, improvements and a new concept of challenge games."

@@ -1,0 +1,1 @@
+A polling interval defines how often the network device sends interface counters.

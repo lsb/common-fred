@@ -1,0 +1,1 @@
+Play passes back and forth, with each player rolling both dice.

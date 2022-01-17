@@ -1,0 +1,1 @@
+The goalkeeper should run forward so as to attempt to tackle him.

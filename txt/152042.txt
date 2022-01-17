@@ -1,0 +1,1 @@
+Algebraic methods treat many types of graphs efficiently.

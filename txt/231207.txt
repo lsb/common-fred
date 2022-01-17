@@ -1,0 +1,1 @@
+Each municipality has a council composed of councilors in terms of population size.

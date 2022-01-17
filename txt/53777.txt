@@ -1,0 +1,1 @@
+"It is just a means to notify the user ""you have X new messages""."

@@ -1,0 +1,1 @@
+We can constrain the amplitude so that the signal gets clipped.

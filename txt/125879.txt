@@ -1,0 +1,1 @@
+A forward declaration is therefore needed to accomplish this.

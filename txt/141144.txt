@@ -1,0 +1,1 @@
+Absolute encoders can determine their position at power-on, but are more complicated and expensive.

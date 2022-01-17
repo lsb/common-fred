@@ -1,0 +1,1 @@
+When touched these icons allow the player who touched them to boost.

@@ -1,0 +1,1 @@
+Characters were built of line segments specified by display list subroutines.

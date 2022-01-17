@@ -1,0 +1,1 @@
+A better way to approach this problem is through the use of parallel cutting.

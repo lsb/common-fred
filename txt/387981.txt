@@ -1,0 +1,1 @@
+It is generally beneficial to minimize the variance of codeword length.

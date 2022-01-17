@@ -1,0 +1,1 @@
+The elements understood only by bash were called bashisms.

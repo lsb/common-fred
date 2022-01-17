@@ -1,0 +1,1 @@
+A simple tide clock will always be least reliable near the quarter moon.

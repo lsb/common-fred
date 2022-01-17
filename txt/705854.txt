@@ -1,0 +1,1 @@
+These graphs are also called multiply rooted graphs.

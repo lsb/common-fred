@@ -1,0 +1,1 @@
+Router, and the style of lines between them indicate the type of connection.

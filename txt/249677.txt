@@ -1,0 +1,1 @@
+For the game, a complete development system called Adventure Game Interpreter was developed.

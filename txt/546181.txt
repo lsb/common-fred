@@ -1,0 +1,1 @@
+Statistical analysis to detect the period uses ciphertext letters.

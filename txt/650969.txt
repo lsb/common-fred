@@ -1,0 +1,1 @@
+The primary component shows the behavior of a slow irregular variable.

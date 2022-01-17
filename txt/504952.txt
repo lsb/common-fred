@@ -1,0 +1,1 @@
+Reporting software is used to generate human-readable reports from various data sources.

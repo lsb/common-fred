@@ -1,0 +1,1 @@
+It may be given in degrees, time, or rotations depending on the application.

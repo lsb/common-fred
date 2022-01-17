@@ -1,0 +1,1 @@
+Illuminant and white point are separate concepts.

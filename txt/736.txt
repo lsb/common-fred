@@ -1,0 +1,1 @@
+"""Barre City"" is almost completely surrounded by ""Barre Town"", which is a separate municipality."

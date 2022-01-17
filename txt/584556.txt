@@ -1,0 +1,1 @@
+The basic idea behind eye tracker interaction is that you look somewhere on the screen.

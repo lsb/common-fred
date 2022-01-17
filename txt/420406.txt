@@ -1,0 +1,1 @@
+I’ve separated the factors that could raise an error in memory.

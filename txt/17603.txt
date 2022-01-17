@@ -1,0 +1,1 @@
+"As we saw previously, this is equivalent to a list of ""n"" equations."

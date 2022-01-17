@@ -1,0 +1,1 @@
+"If everything works, you'll see a window pop up after starting."

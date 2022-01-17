@@ -1,0 +1,1 @@
+Also the empty family of sets is pairwise disjoint.

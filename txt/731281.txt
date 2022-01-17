@@ -1,0 +1,1 @@
+This induces a current in the coil which can be registered on the galvanometer.

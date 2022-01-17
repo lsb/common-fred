@@ -1,0 +1,1 @@
+This updating mechanism replaced the Apple Software Update utility.

@@ -1,0 +1,1 @@
+Red-black trees are simpler to implement, so tend to be used instead.

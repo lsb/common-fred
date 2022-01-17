@@ -1,0 +1,1 @@
+Vector editors are often contrasted with bitmap editors, and their capabilities complement each other.

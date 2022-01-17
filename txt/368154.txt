@@ -1,0 +1,1 @@
+Inserting the keys in random order often produces a well-balanced tree.

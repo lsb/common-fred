@@ -1,0 +1,1 @@
+First we take the root containing the minimum element and remove it.

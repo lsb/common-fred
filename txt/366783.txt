@@ -1,0 +1,1 @@
+Indeed, the firewalls and routers can be considered bastion hosts.

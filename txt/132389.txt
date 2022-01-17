@@ -1,0 +1,1 @@
+A non-removable optical anti-aliasing filter is located in front of the image sensor.

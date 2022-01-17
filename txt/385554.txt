@@ -1,0 +1,1 @@
+It is based on the stroke order of a word, not pronunciation.

@@ -1,0 +1,1 @@
+"The higher the branching factor, the faster this ""explosion"" occurs."

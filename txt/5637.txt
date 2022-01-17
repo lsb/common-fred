@@ -1,0 +1,1 @@
+"""Pallenis maritima"" is a protected plant in southern France."

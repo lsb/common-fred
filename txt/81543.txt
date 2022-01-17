@@ -1,0 +1,1 @@
+"Taking this path in the ""uniform"" spanning tree gives a random simple path."

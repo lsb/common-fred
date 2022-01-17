@@ -1,0 +1,1 @@
+Only comments, constants, and new identifiers may be entered as text.

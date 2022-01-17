@@ -1,0 +1,1 @@
+"""Music Sounds Better with You"" contains a sample of ""Fate"" performed by Chaka Khan."

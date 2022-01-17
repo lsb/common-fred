@@ -1,0 +1,1 @@
+"This property prevents utterances from being corroborated in the immediate 'here' and 'now."

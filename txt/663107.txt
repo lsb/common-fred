@@ -1,0 +1,1 @@
+The server is free to coalesce compatible operations to improve performance.

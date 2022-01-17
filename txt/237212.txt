@@ -1,0 +1,1 @@
+Ethernet nodes implement unicast by ignoring packets not directly addressed to them.

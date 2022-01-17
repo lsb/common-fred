@@ -1,0 +1,1 @@
+Free logics may also allow models that have an empty domain.

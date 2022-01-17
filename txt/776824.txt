@@ -1,0 +1,1 @@
+When rendering sequential frames in parallel there will be a lag for interactive sessions.

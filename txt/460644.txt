@@ -1,0 +1,1 @@
+Multiple statements could be placed on a single line using as the statement separator.

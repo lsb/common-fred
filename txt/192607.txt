@@ -1,0 +1,1 @@
+Both the bombs and missiles can be controlled after firing.

@@ -1,0 +1,1 @@
+Pallet boxes are pallets with four pallet walls on top and possibly a lid.

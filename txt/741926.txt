@@ -1,0 +1,1 @@
+This tends not to change with frequency, but does change with temperature and voltage.

@@ -1,0 +1,1 @@
+This generalizes concepts such as quotient sets, quotient groups, and quotient spaces.

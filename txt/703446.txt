@@ -1,0 +1,1 @@
+These are commonly used to hold inheritances for the benefit of children, for example.

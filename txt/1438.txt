@@ -1,0 +1,1 @@
+"""Cleveland Scene"" employs regular columnists as well as freelance journalists."

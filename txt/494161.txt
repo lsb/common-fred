@@ -1,0 +1,1 @@
+Players win matches by eliminating all enemy unit producing structures.

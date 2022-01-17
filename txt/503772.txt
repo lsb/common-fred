@@ -1,0 +1,1 @@
+Reflective circular symmetry has all dihedral symmetry, Dih as subgroup symmetries.

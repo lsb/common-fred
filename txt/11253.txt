@@ -1,0 +1,1 @@
+"A read-only version of TextMaker is available free-of-charge as ""TextMaker Viewer""."

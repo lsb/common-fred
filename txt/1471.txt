@@ -1,0 +1,1 @@
+"""Coins"" are the measure of story power in Universalis."

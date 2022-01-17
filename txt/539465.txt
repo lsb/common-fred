@@ -1,0 +1,1 @@
+Some manufacturers deploy physical authentication tokens in the form of a flash drive.

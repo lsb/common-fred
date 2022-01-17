@@ -1,0 +1,1 @@
+Datagram mode is connectionless; the application is responsible for error detection and recovery.

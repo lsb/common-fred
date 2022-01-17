@@ -1,0 +1,1 @@
+"A major reason for the compiler's portability lay in its structure."

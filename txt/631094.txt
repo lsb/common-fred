@@ -1,0 +1,1 @@
+The main advantage of hash tables over other table data structures is speed.

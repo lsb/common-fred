@@ -1,0 +1,1 @@
+Cello also had sub-par performance in accessing the Internet and processing hypermedia documents.

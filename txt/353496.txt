@@ -1,0 +1,1 @@
+In a structure, all of its data members are stored in contiguous memory locations.

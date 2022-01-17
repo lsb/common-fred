@@ -1,0 +1,1 @@
+"""Knights of the Old Republic"" begins with Revan awaking on a starship under attack."

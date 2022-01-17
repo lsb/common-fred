@@ -1,0 +1,1 @@
+The magnetization is often not listed as a material parameter for commercially available ferromagnets.

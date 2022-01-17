@@ -1,0 +1,1 @@
+Modulators essentially take an input signal and attach it to a specific frequency.

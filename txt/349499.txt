@@ -1,0 +1,1 @@
+If one block fails, the second can cover.

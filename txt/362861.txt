@@ -1,0 +1,1 @@
+In the example shown above, this offset is six letters.

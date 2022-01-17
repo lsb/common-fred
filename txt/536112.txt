@@ -1,0 +1,1 @@
+Smooth numbers have a number of applications to cryptography.

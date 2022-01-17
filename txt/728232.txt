@@ -1,0 +1,1 @@
+This display is only officially compatible with Macs that have the Mini DisplayPort connector.

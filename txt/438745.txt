@@ -1,0 +1,1 @@
+Lossy compression methods, especially when used at low bit rates, introduce compression artifacts.

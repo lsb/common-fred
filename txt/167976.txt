@@ -1,0 +1,1 @@
+Any of the axioms of an inner product may be weakened, yielding generalized notions.

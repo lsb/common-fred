@@ -1,0 +1,1 @@
+"Like ""Rogue"", dungeons are randomly generated whenever a new game is started."

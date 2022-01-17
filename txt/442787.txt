@@ -1,0 +1,1 @@
+Many attempts have been made to make C string handling less error prone.

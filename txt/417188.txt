@@ -1,0 +1,1 @@
+Its function was to abstract the identity of the account owner from the accounts.

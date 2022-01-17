@@ -1,0 +1,1 @@
+Interfaces describing the software’s intentions are therefore often a good idea.

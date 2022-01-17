@@ -1,0 +1,1 @@
+In general, an edge can be of almost arbitrary shape, and may include junctions.

@@ -1,0 +1,1 @@
+The new standard specified that gigabit Ethernet over copper wiring requires autonegotiation.

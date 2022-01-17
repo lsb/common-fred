@@ -1,0 +1,1 @@
+These two modes are called constant height mode and constant current mode, respectively.

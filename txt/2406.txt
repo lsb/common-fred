@@ -1,0 +1,1 @@
+"""Flip tricks"" are a subset of aerials which are all based on the ollie."

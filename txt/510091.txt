@@ -1,0 +1,1 @@
+SafeCast with old versions of TrueCrypt can leave a machine in an unbootable state.

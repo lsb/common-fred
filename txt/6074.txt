@@ -1,0 +1,1 @@
+"""Pygostyle"" is of Ancient Greek origin, literally meaning ""rump pillar""."

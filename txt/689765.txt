@@ -1,0 +1,1 @@
+Then a head centered reference frame is identical to a world centered reference frame.

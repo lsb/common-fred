@@ -1,0 +1,1 @@
+During tape copying a slight speed error was inadvertently introduced.

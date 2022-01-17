@@ -1,0 +1,1 @@
+Extract the relevant data and check if he correspond to our statics.

@@ -1,0 +1,1 @@
+Destroying some enemies released power-ups the player could catch to enhance their ship.

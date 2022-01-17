@@ -1,0 +1,1 @@
+It is used as a more visual alternative to the ps command.

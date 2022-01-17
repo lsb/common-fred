@@ -1,0 +1,1 @@
+If the mobile phase is a gas, then the pressure correction must be applied.

@@ -1,0 +1,1 @@
+Each level is a puzzle in which a number of rats must be exterminated.

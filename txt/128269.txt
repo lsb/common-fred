@@ -1,0 +1,1 @@
+A left-invertible element is left-cancellative, and analogously for right and two-sided.

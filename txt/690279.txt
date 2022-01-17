@@ -1,0 +1,1 @@
+Then the ratio between the recorded time and the reference time is computed.

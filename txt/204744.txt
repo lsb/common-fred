@@ -1,0 +1,1 @@
+Changes are calculated for each industry in the analysis, both regionally and nationally.

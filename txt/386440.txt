@@ -1,0 +1,1 @@
+It is conjectured that the integer factorization problem is not self-reducible.

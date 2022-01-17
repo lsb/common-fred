@@ -1,0 +1,1 @@
+First, he creates a database of rulers, containing relevant information on each of them.

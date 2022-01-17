@@ -1,0 +1,1 @@
+Then all neighborhoods of the origin contain circles that are not nullhomotopic.

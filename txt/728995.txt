@@ -1,0 +1,1 @@
+This exhausts the bankroll and the martingale cannot be continued.

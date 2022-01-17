@@ -1,0 +1,1 @@
+The map is subdivided into a hexagonal tiling, small regular hexagons of identical size.

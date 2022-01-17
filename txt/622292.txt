@@ -1,0 +1,1 @@
+The homogeneous Poisson process can be defined and generalized in different ways.

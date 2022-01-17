@@ -1,0 +1,1 @@
+When a team loses control of all their control points, they cannot respawn.

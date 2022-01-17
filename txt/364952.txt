@@ -1,0 +1,1 @@
+In these cases, there may be external and internal producers.

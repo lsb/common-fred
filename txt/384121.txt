@@ -1,0 +1,1 @@
+It is also possible for human players to race against one another via DirectPlay.

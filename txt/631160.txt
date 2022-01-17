@@ -1,0 +1,1 @@
+The main box contains the team abbreviations, stacked on top of the team scores.

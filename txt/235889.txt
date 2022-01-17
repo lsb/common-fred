@@ -1,0 +1,1 @@
+Energy released is measured in Joule per mole.

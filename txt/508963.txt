@@ -1,0 +1,1 @@
+Route ends are given for each route except for branching.

@@ -1,0 +1,1 @@
+ThreadX is generally used in real-time embedded systems, especially in deeply embedded systems.

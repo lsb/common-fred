@@ -1,0 +1,1 @@
+The semigroup operation is concatenation of strings, which is clearly associative.

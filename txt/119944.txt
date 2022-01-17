@@ -1,0 +1,1 @@
+"You didn't set the indicator before leaving the roundabout."

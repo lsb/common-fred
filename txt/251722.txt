@@ -1,0 +1,1 @@
+Four of the stories are robot stories, while five are Multivac stories.

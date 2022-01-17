@@ -1,0 +1,1 @@
+This definition is valid for any function, but most used for convex functions.

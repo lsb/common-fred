@@ -1,0 +1,1 @@
+Elastic response of rubber-like materials are often modeled based on the Mooney-Rivlin model.

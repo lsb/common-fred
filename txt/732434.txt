@@ -1,0 +1,1 @@
+This is because Smalltalk is a very simple language and is easy to learn.

@@ -1,0 +1,1 @@
+"Buddy stores allow fighterbomber aircraft to be reconfigured for ""buddy tanking"" other aircraft."

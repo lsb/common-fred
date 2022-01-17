@@ -1,0 +1,1 @@
+"An induction motor's rotor can be either wound type or squirrel-cage type."

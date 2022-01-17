@@ -1,0 +1,1 @@
+In some versions, the order of the first four stages are randomized.

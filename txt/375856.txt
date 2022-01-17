@@ -1,0 +1,1 @@
+It displays poor selectivity since it only has one tuned circuit.

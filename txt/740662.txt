@@ -1,0 +1,1 @@
+This signal indicates the address bus is valid.

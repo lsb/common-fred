@@ -1,0 +1,1 @@
+"The applications could therefore not ""see"" how much memory the computer was equipped with."

@@ -1,0 +1,1 @@
+The serial digital output varies among manufacturers.

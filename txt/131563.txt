@@ -1,0 +1,1 @@
+A modal dialog interrupts the main workflow.

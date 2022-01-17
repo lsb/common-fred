@@ -1,0 +1,1 @@
+The system rejects if any of the clauses are not satisfied.

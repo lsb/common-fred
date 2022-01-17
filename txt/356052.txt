@@ -1,0 +1,1 @@
+In cryptography, this attack is called a collision attack.

@@ -1,0 +1,1 @@
+"In ""Proofs and Types"" coherent spaces are called coherence spaces."

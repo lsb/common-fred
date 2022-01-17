@@ -1,0 +1,1 @@
+These do not drag parts of their body on the ground.

@@ -1,0 +1,1 @@
+A common non-parametric technique is the periodogram.

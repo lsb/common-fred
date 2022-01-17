@@ -1,0 +1,1 @@
+It uses set pairs of tones that are used to carry the information.

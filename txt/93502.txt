@@ -1,0 +1,1 @@
+"The generalized Maxwell's equations possess a certain symmetry, called a ""duality transformation""."

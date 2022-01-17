@@ -1,0 +1,1 @@
+"It also introduced the concept of a ""system transaction"" and a ""user transaction""."

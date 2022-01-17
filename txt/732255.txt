@@ -1,0 +1,1 @@
+This is an algebraic form of Bott periodicity.

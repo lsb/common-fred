@@ -1,0 +1,1 @@
+A viaduct is made up of multiple bridges connected into one longer structure.

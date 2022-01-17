@@ -1,0 +1,1 @@
+A probabilistic context free grammar consists of terminal and nonterminal variables.

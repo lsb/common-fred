@@ -1,0 +1,1 @@
+Afterwards, the execution phase processes each executable statement sequentially.

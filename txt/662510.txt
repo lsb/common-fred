@@ -1,0 +1,1 @@
+The semiperimeter is the sum of the inradius and twice the circumradius.

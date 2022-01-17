@@ -1,0 +1,1 @@
+A modern pyrometer has an optical system and a detector.

@@ -1,0 +1,1 @@
+"""Lemonade"", the first single, was a hit."

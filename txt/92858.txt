@@ -1,0 +1,1 @@
+"The flags represent students' countries of origin, not governments."

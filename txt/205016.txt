@@ -1,0 +1,1 @@
+Characters without a corresponding Unicode glyph are represented by abbreviations for their names.

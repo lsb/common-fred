@@ -1,0 +1,1 @@
+"Maximum load for not or very slowly rotating bearings is called ""static"" maximum load."

@@ -1,0 +1,1 @@
+The router sends the packet out any link of that group which is idle.

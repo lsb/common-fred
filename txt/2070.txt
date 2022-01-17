@@ -1,0 +1,1 @@
+"""Ehkoli"" is a Chinook word for ""whale""."

@@ -1,0 +1,1 @@
+On Fedora and Arch, the words file is provided by the words package.

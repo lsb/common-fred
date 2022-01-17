@@ -1,0 +1,1 @@
+Each marine falls into one of four classes: explosives, special weapons, technical, or medic.

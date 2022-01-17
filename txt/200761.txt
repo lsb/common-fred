@@ -1,0 +1,1 @@
+Calculate the transmission proportion in cases where it’s appropriate.

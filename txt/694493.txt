@@ -1,0 +1,1 @@
+There are slight differences between different amplifier designs in how the slewing phenomenon occurs.

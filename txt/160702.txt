@@ -1,0 +1,1 @@
+Among patient factors are: age, sex, and lean body mass.

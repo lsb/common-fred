@@ -1,0 +1,1 @@
+Similar in form to list comprehensions, set comprehensions generate Python sets instead of lists.

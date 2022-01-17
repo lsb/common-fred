@@ -1,0 +1,1 @@
+This doubles the value of the game.

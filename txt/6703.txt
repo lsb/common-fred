@@ -1,0 +1,1 @@
+"""Share"" also features a plugin system."

@@ -1,0 +1,1 @@
+Many optical systems require that vibration of optical elements be kept small.

@@ -1,0 +1,1 @@
+Magnetic tape is inherently non-linear in nature due to hysteresis of the magnetic material.

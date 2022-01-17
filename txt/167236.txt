@@ -1,0 +1,1 @@
+Another special case of time hierarchies is the logarithmic hierarchy.

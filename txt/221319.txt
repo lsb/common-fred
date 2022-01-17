@@ -1,0 +1,1 @@
+Detecting rootkits is a major challenge for anti-virus programs.

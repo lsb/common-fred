@@ -1,0 +1,1 @@
+The use of server-side fonts is currently considered deprecated in favour of client-side fonts.

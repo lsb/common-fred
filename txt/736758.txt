@@ -1,0 +1,1 @@
+This minimizes the effect by filling the black pixel perimeters with adjacent light.

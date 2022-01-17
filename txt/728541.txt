@@ -1,0 +1,1 @@
+This effectively disables access to administrative shares.

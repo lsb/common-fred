@@ -1,0 +1,1 @@
+Kerberos was designed to handle authentication in a more secure manner.

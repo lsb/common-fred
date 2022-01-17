@@ -1,0 +1,1 @@
+Similar to the original language, this implementation features Karel in a grid world.

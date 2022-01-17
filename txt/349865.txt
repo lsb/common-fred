@@ -1,0 +1,1 @@
+If the precursor is deferred, the feature in the heir will be deferred.

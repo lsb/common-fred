@@ -1,0 +1,1 @@
+Multiple granularity locking is usually used with non-strict two-phase locking to guarantee serializability.

@@ -1,0 +1,1 @@
+It obeys the same rules of manipulation as the Legendre symbol.

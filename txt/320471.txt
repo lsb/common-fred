@@ -1,0 +1,1 @@
+Higher difficulties increase the number, speed, and health of monsters.

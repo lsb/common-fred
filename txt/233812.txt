@@ -1,0 +1,1 @@
+Effective masses can be derived from band structure computations.

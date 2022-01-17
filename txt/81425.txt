@@ -1,0 +1,1 @@
+"Sylvester's matrices have a number of special properties."

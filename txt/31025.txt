@@ -1,0 +1,1 @@
+"Format bugs arise because C's argument passing conventions are not type-safe."

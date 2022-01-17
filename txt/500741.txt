@@ -1,0 +1,1 @@
+Queens are placed at the right side of kings.

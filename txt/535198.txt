@@ -1,0 +1,1 @@
+Slashdot and Fotolog use Boa to serve images.

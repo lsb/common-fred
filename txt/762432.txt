@@ -1,0 +1,1 @@
+Unfortunately the new leftmost-rightmost algorithm had a fatal flaw.

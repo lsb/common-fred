@@ -1,0 +1,1 @@
+A goal task is a task of satisfying a condition.

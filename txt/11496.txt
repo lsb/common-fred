@@ -1,0 +1,1 @@
+"A small category ""C"" is complete if and only if it is cocomplete."

@@ -1,0 +1,1 @@
+Mechanisms other than atom-photon interaction can produce spectral lines.

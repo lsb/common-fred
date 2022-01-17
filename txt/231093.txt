@@ -1,0 +1,1 @@
+Each line in the script contains a single command.

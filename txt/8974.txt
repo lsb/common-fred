@@ -1,0 +1,1 @@
+"""Weezer"" incorporates the genres alternative rock and power pop."

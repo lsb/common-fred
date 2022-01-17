@@ -1,0 +1,1 @@
+This result is a consequence of the Bartlett decomposition theorem.

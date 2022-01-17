@@ -1,0 +1,1 @@
+This implies that the high-level security proofs hold for the kernel executable.

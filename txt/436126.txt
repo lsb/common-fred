@@ -1,0 +1,1 @@
+Linear bounded automata are acceptors for the class of context-sensitive languages.

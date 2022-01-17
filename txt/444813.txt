@@ -1,0 +1,1 @@
+Many on-premises software implementations take longer - along with numerous testing and training sessions.

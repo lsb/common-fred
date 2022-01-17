@@ -1,0 +1,1 @@
+Some Emerson classes are run strictly while others are more relaxed.

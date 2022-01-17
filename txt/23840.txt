@@ -1,0 +1,1 @@
+"Collinearity is a linear association between ""two"" explanatory variables."

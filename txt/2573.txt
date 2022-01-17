@@ -1,0 +1,1 @@
+"""Galerians: Ash"" received ""mixed"" reviews according to the review aggregation website Metacritic."

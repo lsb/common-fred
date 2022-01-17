@@ -1,0 +1,1 @@
+Actions are performed with lines that extend between these lifelines.

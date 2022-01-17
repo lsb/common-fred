@@ -1,0 +1,1 @@
+"Executable programs were stored in a ""Core Image Library""."

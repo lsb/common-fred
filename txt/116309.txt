@@ -1,0 +1,1 @@
+"Voice dictation latency is high enough that it's almost always an advantage to accomplish everything in a single command."

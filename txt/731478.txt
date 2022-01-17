@@ -1,0 +1,1 @@
+This introduces unintended motion from frame to frame as the film is projected.

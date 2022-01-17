@@ -1,0 +1,1 @@
+"""Nicandra physalodes"" contains nicandrenones, a group of the steroidal lactones known as withanolides."

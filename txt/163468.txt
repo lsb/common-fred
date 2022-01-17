@@ -1,0 +1,1 @@
+An unprogrammed polyfuse would be registered as a logical one.

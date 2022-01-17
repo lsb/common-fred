@@ -1,0 +1,1 @@
+Parentheses in mathematics signify a different precedence of operators.

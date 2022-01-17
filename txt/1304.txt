@@ -1,0 +1,1 @@
+"""Chambers Book of Days"" mentions the event entering local legend."

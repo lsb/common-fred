@@ -1,0 +1,1 @@
+At each iteration, each vector is split into two new vectors.

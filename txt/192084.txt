@@ -1,0 +1,1 @@
+Both point-to-point and collective communication are supported.

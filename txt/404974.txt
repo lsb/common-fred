@@ -1,0 +1,1 @@
+It supports three different styles of overlays, although I prefer the circles.

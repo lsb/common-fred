@@ -1,0 +1,1 @@
+This can be formalized by the first-order arithmetical formula presented above.

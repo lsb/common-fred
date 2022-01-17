@@ -1,0 +1,1 @@
+It seems to depend on gemination, but it has apparently not been systematically investigated.

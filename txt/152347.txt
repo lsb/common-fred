@@ -1,0 +1,1 @@
+All Schatten norms are sub-multiplicative.

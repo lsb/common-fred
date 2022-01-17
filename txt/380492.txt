@@ -1,0 +1,1 @@
+It identifies skins and leathers in items of clothing, by establishing quality, kind and treatments.

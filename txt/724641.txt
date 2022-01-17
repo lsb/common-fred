@@ -1,0 +1,1 @@
+This allows secure transmission of information from one party to another.

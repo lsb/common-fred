@@ -1,0 +1,1 @@
+Large linear features may be sectioned at intervals along their lengths.

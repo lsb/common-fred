@@ -1,0 +1,1 @@
+It is the two-dimensional version of the integer lattice, denoted as Z.

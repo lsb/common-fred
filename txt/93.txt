@@ -1,0 +1,1 @@
+"""A corporation could be wealthier than a country"" is problematic."

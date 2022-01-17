@@ -1,0 +1,1 @@
+"So-called ""decitrig"" models use decimal fractions of degrees instead."

@@ -1,0 +1,1 @@
+"""The King is dead"" is the announcement of a monarch who has just died."

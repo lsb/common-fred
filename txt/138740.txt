@@ -1,0 +1,1 @@
+A widget that cannot respond to such events is considered disabled.

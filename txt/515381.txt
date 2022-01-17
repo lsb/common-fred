@@ -1,0 +1,1 @@
+Sequential media representation is the primary concern that is addressed by this format.

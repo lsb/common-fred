@@ -1,0 +1,1 @@
+One of the implementation goals was to maximize compatibility with existing open standards.

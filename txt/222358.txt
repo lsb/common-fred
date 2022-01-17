@@ -1,0 +1,1 @@
+Different power sensors can be used for different frequencies or power levels.

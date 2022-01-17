@@ -1,0 +1,1 @@
+"This is an example of a ""lag"" in a Start-Start relationship."

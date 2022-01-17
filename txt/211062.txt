@@ -1,0 +1,1 @@
+Components could then be integrated and wired into a bidimensional or tridimensional compact grid.

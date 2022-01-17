@@ -1,0 +1,1 @@
+Afterwards, intersection calculations are carried out with one or more clipping boundaries.

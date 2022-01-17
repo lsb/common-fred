@@ -1,0 +1,1 @@
+Monte Carlo and quasi-Monte Carlo methods are stated in a similar way.

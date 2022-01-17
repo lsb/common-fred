@@ -1,0 +1,1 @@
+The first versions of Slackware were developed by Patrick Volkerding alone.

@@ -1,0 +1,1 @@
+Fission is an audio file editor designed to be simple and user-friendly.

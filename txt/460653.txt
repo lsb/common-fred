@@ -1,0 +1,1 @@
+Multiple websites can be set as a start page, to open in different tabs.

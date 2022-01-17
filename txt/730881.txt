@@ -1,0 +1,1 @@
+This implies that reflexivity is a prerequisite for polynomial reflexivity.

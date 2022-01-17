@@ -1,0 +1,1 @@
+Finite verbs are marked for subject person, number, and gender.

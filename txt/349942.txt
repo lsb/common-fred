@@ -1,0 +1,1 @@
+If the top member is sufficiently stiff then this vertical element may be eliminated.

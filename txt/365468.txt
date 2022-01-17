@@ -1,0 +1,1 @@
+In this mode, the player can configure the options for gameplay before each game.

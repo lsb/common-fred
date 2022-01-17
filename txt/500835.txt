@@ -1,0 +1,1 @@
+Quicksort can be expressed as follows.

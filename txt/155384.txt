@@ -1,0 +1,1 @@
+All the above compression techniques have some drawbacks.

@@ -1,0 +1,1 @@
+In case of multiple layers the mouseover event is triggered by the uppermost layer.

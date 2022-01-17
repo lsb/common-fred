@@ -1,0 +1,1 @@
+A sensor is a device that receives and responds to a signal or stimulus.

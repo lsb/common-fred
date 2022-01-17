@@ -1,0 +1,1 @@
+This construct provides a relatively simple means of comparing instructional conditions.

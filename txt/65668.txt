@@ -1,0 +1,1 @@
+"Most customization is done in ""softcode"" rather than by directly modifying the hardcode."

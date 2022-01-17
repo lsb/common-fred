@@ -1,0 +1,1 @@
+It also provides facilities for structures and multi-dimensional arrays.

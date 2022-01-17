@@ -1,0 +1,1 @@
+Each market maker is assigned two or more stocks.

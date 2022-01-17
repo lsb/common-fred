@@ -1,0 +1,1 @@
+This feature, direly needed by Lazarus, became the main highlight of the branch.

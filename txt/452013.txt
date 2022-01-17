@@ -1,0 +1,1 @@
+Micropolygons allow a renderer to create a highly detailed image.

@@ -1,0 +1,1 @@
+Unlike in the round-robin, a match in double-elimination cannot be tied.

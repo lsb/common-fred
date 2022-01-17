@@ -1,0 +1,1 @@
+It also provides a way to check the version of DirectX that is present.

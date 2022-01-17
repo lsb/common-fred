@@ -1,0 +1,1 @@
+A rectangle is cyclic: all corners lie on a single circle.

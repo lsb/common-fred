@@ -1,0 +1,1 @@
+Wedges can be created from decomposition of other polyhedra.

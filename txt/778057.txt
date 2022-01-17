@@ -1,0 +1,1 @@
+Where multiple fact tables are used, these are arranged as a fact constellation schema.

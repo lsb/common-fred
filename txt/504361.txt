@@ -1,0 +1,1 @@
+Relative to the center of momentum frame the total momentum equals zero.

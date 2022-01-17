@@ -1,0 +1,1 @@
+Any desired arbitration logic is placed on the daughter cards.

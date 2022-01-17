@@ -1,0 +1,1 @@
+Indeed, very weak assumptions suffice to obtain such a kind of converse.

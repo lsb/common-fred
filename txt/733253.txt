@@ -1,0 +1,1 @@
+This is normally just Ethernet, but again, there are many other possible solutions.

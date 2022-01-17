@@ -1,0 +1,1 @@
+In discrete-time Markov Decision Processes, decisions are made at discrete time intervals.

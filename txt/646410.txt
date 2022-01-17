@@ -1,0 +1,1 @@
+The partial pressure of each component gas adds to the overall barometric pressure.

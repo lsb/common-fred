@@ -1,0 +1,1 @@
+A charge amplifier is an example of current integrator.

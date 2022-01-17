@@ -1,0 +1,1 @@
+It can also issue requests for specific information from the sensors.

@@ -1,0 +1,1 @@
+The Live mode allows it to work without any installation.

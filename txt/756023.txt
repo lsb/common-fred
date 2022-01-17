@@ -1,0 +1,1 @@
+Transatlantic connections are mostly obtained with two or three hops.

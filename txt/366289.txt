@@ -1,0 +1,1 @@
+In wide rectangular channels, the hydraulic radius is approximated by the flow depth.

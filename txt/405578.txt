@@ -1,0 +1,1 @@
+It turns out that the irreducible varieties correspond to prime ideals.

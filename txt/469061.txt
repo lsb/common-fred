@@ -1,0 +1,1 @@
+Nonetheless, the principle is useful in reasoning about the design of class hierarchies.

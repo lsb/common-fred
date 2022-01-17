@@ -1,0 +1,1 @@
+Some documentation may refer to setting the jumpers to on, off, closed, or open.

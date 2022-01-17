@@ -1,0 +1,1 @@
+"""Parashot"" listed here are based upon Kimhi's notes on the codex."

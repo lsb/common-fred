@@ -1,0 +1,1 @@
+Sometimes cold callers use a fake caller id number. Be wary.

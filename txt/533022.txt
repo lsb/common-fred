@@ -1,0 +1,1 @@
+Simulation, therefore, is the process of running a model.

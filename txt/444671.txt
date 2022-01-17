@@ -1,0 +1,1 @@
+Many of these features require that the bot be a channel operator.

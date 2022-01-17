@@ -1,0 +1,1 @@
+For example, univariate data are composed of a single scalar component.

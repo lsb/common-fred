@@ -1,0 +1,1 @@
+Hard coding is especially problematic in preparing the software for translation to other languages.

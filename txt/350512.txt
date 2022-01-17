@@ -1,0 +1,1 @@
+Image registration and invariant representations could both be done in a computationally very efficient way.

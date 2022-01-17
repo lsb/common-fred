@@ -1,0 +1,1 @@
+Two copies of the modulated input signals are created.

@@ -1,0 +1,1 @@
+It can be used when the right-mouse button is not present on a mouse.

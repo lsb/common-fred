@@ -1,0 +1,1 @@
+The rim edge is now a circular, uneven ring of ridges.

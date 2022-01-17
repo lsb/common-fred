@@ -1,0 +1,1 @@
+These depend upon the pilot knowing that a missile has been launched.

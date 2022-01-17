@@ -1,0 +1,1 @@
+"""Sorayoi"" is short for ""Sorewayoi,"" meaning ""that's good."

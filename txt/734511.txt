@@ -1,0 +1,1 @@
+This is useful to operate switches which open doors or turn off obstacles.

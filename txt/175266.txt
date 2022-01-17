@@ -1,0 +1,1 @@
+Asynchronous logic is the logic required for the design of asynchronous digital systems.

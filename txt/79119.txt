@@ -1,0 +1,1 @@
+"So the sole output is ""Hello, world!""."

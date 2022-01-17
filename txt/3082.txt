@@ -1,0 +1,1 @@
+"""Herzblut"" is a German compound word literally meaning ""heart-blood"" or ""blood of the heart""."

@@ -1,0 +1,1 @@
+Collision resistance is accomplished in part by generating very large hash values.

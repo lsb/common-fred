@@ -1,0 +1,1 @@
+Part failure can be documented during unattended monitoring.

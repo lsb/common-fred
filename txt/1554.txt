@@ -1,0 +1,1 @@
+"""Cooley High"" was a critical and commercial success."

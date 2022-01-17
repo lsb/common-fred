@@ -1,0 +1,1 @@
+The player colors various dinosaurs by using the provided dinosaur images and palettes.

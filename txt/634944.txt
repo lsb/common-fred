@@ -1,0 +1,1 @@
+The model does allow for what is called inheritance in object oriented terms.

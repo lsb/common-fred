@@ -1,0 +1,1 @@
+After placing a tile, add each number on the tile to score.

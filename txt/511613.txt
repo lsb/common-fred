@@ -1,0 +1,1 @@
+Sasser spreads by exploiting the system through a vulnerable port.

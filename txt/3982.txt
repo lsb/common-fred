@@ -1,0 +1,1 @@
+"""Jangadas"" and boats can take tourists to these pools."

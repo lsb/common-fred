@@ -1,0 +1,1 @@
+Typically used in human computed tomography systems.

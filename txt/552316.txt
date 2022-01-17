@@ -1,0 +1,1 @@
+Tail ending in a simple laterally compressed point.

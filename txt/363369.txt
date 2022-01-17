@@ -1,0 +1,1 @@
+In the last few years, systems sending kanban signals electronically have become more widespread.

@@ -1,0 +1,1 @@
+The project is cross-platform, and runs on a wide variety of hardware configurations.

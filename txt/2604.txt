@@ -1,0 +1,1 @@
+"""Garshuni"" comes from the word ""grasha"" which literally translates as ""pulling""."

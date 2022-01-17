@@ -1,0 +1,1 @@
+However if one excludes this case then there is a version of unique factorization.

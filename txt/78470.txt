@@ -1,0 +1,1 @@
+"Simpler pattern-matching systems like Apple Computer's AppleScript system did just as well."

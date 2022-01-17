@@ -1,0 +1,1 @@
+He also notes that no word contains more than one long vowel.

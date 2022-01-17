@@ -1,0 +1,1 @@
+Forward contracts can be used to hedge or cover exposure to foreign exchange risk.

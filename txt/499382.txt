@@ -1,0 +1,1 @@
+Properties and methods of the ancestor are inherited by the parent.

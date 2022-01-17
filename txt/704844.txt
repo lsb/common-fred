@@ -1,0 +1,1 @@
+These conserved sequences are assumed to be of functional importance within related proteins.

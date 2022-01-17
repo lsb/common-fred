@@ -1,0 +1,1 @@
+It is also less sensitive to image noise than point-wise methods.

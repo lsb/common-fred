@@ -1,0 +1,1 @@
+These three closure properties show that the linear languages form a full trio.

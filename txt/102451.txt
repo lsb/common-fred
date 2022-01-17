@@ -1,0 +1,1 @@
+"The subgroup ""M"" is the stabilizer of a point."

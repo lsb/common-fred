@@ -1,0 +1,1 @@
+Encoding depends on the language as well.

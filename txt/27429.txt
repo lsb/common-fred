@@ -1,0 +1,1 @@
+"During one's turn, a player can make between one and three moves."

@@ -1,0 +1,1 @@
+If the road occupies multiple zones, then the furthest-anticlockwise zone is the correct one.

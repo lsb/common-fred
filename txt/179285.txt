@@ -1,0 +1,1 @@
+Attackers attack, and Defenders either Dodge or Parry the attack.

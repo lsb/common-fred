@@ -1,0 +1,1 @@
+If a pure frequency oscillation is maintained, these small lock-in intervals can accumulate.

@@ -1,0 +1,1 @@
+"A detector, or detection system, can be characterized by a ""paralyzable"" or ""non-paralyzable"" behaviour."

@@ -1,0 +1,1 @@
+Parallax can create both green and yellow objects or creatures.

@@ -1,0 +1,1 @@
+"This amounts to replace ""irreducible"" by ""square-free"" in the preceding description of the outcome."

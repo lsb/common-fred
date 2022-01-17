@@ -1,0 +1,1 @@
+The server could also display legacy SunView applications, although this functionality was not well-supported.

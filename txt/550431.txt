@@ -1,0 +1,1 @@
+Suggestions have been made to use hash trees in trusted computing systems.

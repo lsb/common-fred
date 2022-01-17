@@ -1,0 +1,1 @@
+On Mac, Sticky Keys is pressed only once on the shift key.

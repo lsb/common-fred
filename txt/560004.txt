@@ -1,0 +1,1 @@
+The Chan-Paton factors have become a special case of a more general concept.

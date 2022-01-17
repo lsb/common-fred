@@ -1,0 +1,1 @@
+To avoid overfitting, smaller decision trees should be preferred over larger ones.

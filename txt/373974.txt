@@ -1,0 +1,1 @@
+It can be used to modify the pitch and duration of a speech signal.

@@ -1,0 +1,1 @@
+This can be calculated when two database tables are to be joined.

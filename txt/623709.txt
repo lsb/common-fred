@@ -1,0 +1,1 @@
+The index is based on prices generated in the electronic trading system Xetra.

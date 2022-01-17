@@ -1,0 +1,1 @@
+For each partition, each agent has one or more pieces which they weakly prefer.

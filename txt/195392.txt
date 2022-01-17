@@ -1,0 +1,1 @@
+Btrieve is essentially a database that uses keys and indexes to organise data.

@@ -1,0 +1,1 @@
+Switch-mode supplies replaced linear supplies due to cost, weight, and size improvement.

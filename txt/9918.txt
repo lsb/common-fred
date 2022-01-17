@@ -1,0 +1,1 @@
+"A ""change"" is a movement from this baseline state to a next state."

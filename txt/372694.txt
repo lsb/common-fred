@@ -1,0 +1,1 @@
+It also uses particle graphics for various effects.

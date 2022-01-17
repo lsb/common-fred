@@ -1,0 +1,1 @@
+System-wide undo support should cover all aspects of the system.

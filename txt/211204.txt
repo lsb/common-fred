@@ -1,0 +1,1 @@
+Computerized kiosks may store data locally, or retrieve it from a computer network.

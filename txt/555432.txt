@@ -1,0 +1,1 @@
+That is, information present in the source is inevitably lost when observing the source.

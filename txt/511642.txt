@@ -1,0 +1,1 @@
+Satellite bandwidth is shared by all users.

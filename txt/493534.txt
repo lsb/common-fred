@@ -1,0 +1,1 @@
+Planetary population generates production, especially when assisted by factories.

@@ -1,0 +1,1 @@
+"By Schur's lemma, the irreducible representations of ""T"" are one dimensional."

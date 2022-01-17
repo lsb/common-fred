@@ -1,0 +1,1 @@
+In practice the ordered exponential is used in matrix and operator algebras.

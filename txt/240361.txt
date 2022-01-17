@@ -1,0 +1,1 @@
+Experimental analysis of proteins typically requires expression and purification of proteins.

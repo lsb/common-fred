@@ -1,0 +1,1 @@
+After starting the program the user sees two panels with file lists.

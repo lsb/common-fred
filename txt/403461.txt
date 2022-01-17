@@ -1,0 +1,1 @@
+It represents an extension of the Karplus-Strong algorithm.

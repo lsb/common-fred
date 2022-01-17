@@ -1,0 +1,1 @@
+This was done to improve aircraft handling by providing a counter-rotating propeller facility.

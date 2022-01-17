@@ -1,0 +1,1 @@
+"""Yes, Charley,"" said Tom, ""almost quite bright."""

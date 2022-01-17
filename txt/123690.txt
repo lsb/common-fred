@@ -1,0 +1,1 @@
+A computer security model is implemented through a computer security policy.

@@ -1,0 +1,1 @@
+The argument above shows that any subcollection of sets will have nonempty intersection.

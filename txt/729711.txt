@@ -1,0 +1,1 @@
+This gained StoryServer a degree of scalability that most products were incapable of matching.

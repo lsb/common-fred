@@ -1,0 +1,1 @@
+In integrals, the Einstein summation convention is used.

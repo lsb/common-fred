@@ -1,0 +1,1 @@
+"Unlike most side-scrolling games, ""Walker"" is controlled from right to left."

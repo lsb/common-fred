@@ -1,0 +1,1 @@
+It was implemented largely in C with little assembly code.

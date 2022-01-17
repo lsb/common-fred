@@ -1,0 +1,1 @@
+A navigation channel and lock were also part of the original facility design.

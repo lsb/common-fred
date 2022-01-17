@@ -1,0 +1,1 @@
+In particular, the endomorphism ring of a simple module is a division ring.

@@ -1,0 +1,1 @@
+The site administrator can add or remove tabs by using JavaScript or installing extensions.

@@ -1,0 +1,1 @@
+The engine supports integration with both Xfire and GameSpy Arcade for multiplayer match finding.

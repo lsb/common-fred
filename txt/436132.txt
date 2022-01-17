@@ -1,0 +1,1 @@
+Linear power circuits are widespread as voltage regulators, audio amplifiers, and radio frequency amplifiers.

@@ -1,0 +1,1 @@
+Not every photon which encounters an atom or ion will photoionize it.

@@ -1,0 +1,1 @@
+Balances are made sensitive to the fraction of a grain.

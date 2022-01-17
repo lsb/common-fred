@@ -1,0 +1,1 @@
+Data consists of network signaling and user traffic.

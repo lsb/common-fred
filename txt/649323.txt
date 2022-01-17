@@ -1,0 +1,1 @@
+The pointer is not incremented as it would be required for a memory-to-memory copy.

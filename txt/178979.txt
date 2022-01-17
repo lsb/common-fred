@@ -1,0 +1,1 @@
+At times, a hawk will fly through the maze, trying to catch the player.

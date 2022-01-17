@@ -1,0 +1,1 @@
+Thus constructed, the accelerometer can measure full motion of the device in three dimensions.

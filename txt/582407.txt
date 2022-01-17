@@ -1,0 +1,1 @@
+The article seems to propose replacing the method of approximate nearest neighbor search.

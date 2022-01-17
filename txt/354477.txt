@@ -1,0 +1,1 @@
+In addition, losing-trick count predictions assume that all suits will break normally.

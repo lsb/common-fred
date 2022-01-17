@@ -1,0 +1,1 @@
+Its specification is publicly documented and there are free software reference implementations available.

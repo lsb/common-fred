@@ -1,0 +1,1 @@
+Its software stack interfaces with open source third-party software.

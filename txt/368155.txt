@@ -1,0 +1,1 @@
+Inserts can be balanced or unbalanced.

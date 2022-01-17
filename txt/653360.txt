@@ -1,0 +1,1 @@
+The purpose of this cursor to indicate text can be highlighted, inserted, or changed.

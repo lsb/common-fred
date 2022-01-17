@@ -1,0 +1,1 @@
+There was also a plan to have automatic recognition and indexing of images.

@@ -1,0 +1,1 @@
+"""Ethnologue"" lists the following dialects of Angami."

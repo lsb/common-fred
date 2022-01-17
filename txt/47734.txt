@@ -1,0 +1,1 @@
+"If I want to dictate variable or function names from code, I just use ""cap"", ""no caps"", and ""no space"" to help."

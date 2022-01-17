@@ -1,0 +1,1 @@
+One drawback is an approximate doubling of the base-emitter voltage.

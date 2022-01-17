@@ -1,0 +1,1 @@
+Program jumps also worked with named labels.

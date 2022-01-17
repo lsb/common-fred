@@ -1,0 +1,1 @@
+Draw a horizontal line down the middle of the paper.

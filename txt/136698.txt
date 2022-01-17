@@ -1,0 +1,1 @@
+A spring and ratchet returns the handle to its original position after each engagement.

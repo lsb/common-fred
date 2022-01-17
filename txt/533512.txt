@@ -1,0 +1,1 @@
+Since the haversine formula uses sines it avoids that problem.

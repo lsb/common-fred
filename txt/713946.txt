@@ -1,0 +1,1 @@
+They both report a coverage metric, measured as a percentage.

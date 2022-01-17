@@ -1,0 +1,1 @@
+An occupancy sensor detects the presence of an entity within a certain space.

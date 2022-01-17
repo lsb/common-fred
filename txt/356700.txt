@@ -1,0 +1,1 @@
+In finite-dimensions, one essentially deals with square matrices.

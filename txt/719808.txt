@@ -1,0 +1,1 @@
+They provide a time reference for editing, synchronization and identification.

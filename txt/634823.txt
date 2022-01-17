@@ -1,0 +1,1 @@
+The mission of some levels is to access and read certain terminals.

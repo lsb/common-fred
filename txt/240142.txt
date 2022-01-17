@@ -1,0 +1,1 @@
+Execution continues until no more matches can be found.

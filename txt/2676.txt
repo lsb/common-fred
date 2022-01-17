@@ -1,0 +1,1 @@
+"""Ginkgo"" trees produce ovulate, pollen-bearing structures."

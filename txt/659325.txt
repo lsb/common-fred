@@ -1,0 +1,1 @@
+The rows of the Hadamard matrices are the Walsh functions.

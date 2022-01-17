@@ -1,0 +1,1 @@
+An absurdity constraint is used in the logic of model transformations.

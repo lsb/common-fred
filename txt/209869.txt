@@ -1,0 +1,1 @@
+Columns may be stacked rather than cascaded, thus obscuring not-yet-active cards.

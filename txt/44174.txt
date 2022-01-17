@@ -1,0 +1,1 @@
+"However, half-duplex operation for gigabit speed isn't supported by any existing hardware."

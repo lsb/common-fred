@@ -1,0 +1,1 @@
+Pressure fields occur in both static and dynamic fluid mechanics.

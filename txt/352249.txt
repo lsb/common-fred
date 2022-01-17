@@ -1,0 +1,1 @@
+In Legends, each player has a turbo gauge that refills itself slowly and automatically.

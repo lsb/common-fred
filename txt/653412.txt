@@ -1,0 +1,1 @@
+The quad flat-pack has connections only around the periphery of the package.

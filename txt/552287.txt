@@ -1,0 +1,1 @@
+Tags are used to define forms, images, and hyper-linking.

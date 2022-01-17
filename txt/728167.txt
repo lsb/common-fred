@@ -1,0 +1,1 @@
+This diffusion proceeds in an ordered fashion, analytically determinable from the diffusion equation.

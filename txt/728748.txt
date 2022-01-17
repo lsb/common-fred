@@ -1,0 +1,1 @@
+This ensures maximum portability of the images.

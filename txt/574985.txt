@@ -1,0 +1,1 @@
+The Thury numbers were rounded to three significant figures.

@@ -1,0 +1,1 @@
+"A matrix scheme is also an example of an 'exploding queue' in queueing theory."

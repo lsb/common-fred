@@ -1,0 +1,1 @@
+The SuperCollider language allows users to construct cross-platform graphical user interfaces for applications.

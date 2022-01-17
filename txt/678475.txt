@@ -1,0 +1,1 @@
+The tracks on the loop curve are partially broken up.

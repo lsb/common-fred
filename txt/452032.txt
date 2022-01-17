@@ -1,0 +1,1 @@
+Microsoft Windows support is currently not a primary project goal.

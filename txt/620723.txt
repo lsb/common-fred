@@ -1,0 +1,1 @@
+The gyrator-capacitor model is a lumped-element model for analysis of magnetic fields.

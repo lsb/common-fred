@@ -1,0 +1,1 @@
+These algebras include certain quotients of the group algebras of braid groups.

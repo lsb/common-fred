@@ -1,0 +1,1 @@
+This allows the device to choose to connect to the optimal network.

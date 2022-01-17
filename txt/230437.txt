@@ -1,0 +1,1 @@
+Each blade can rotate itself around a vertical axis.

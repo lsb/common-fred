@@ -1,0 +1,1 @@
+Each Attraction is split into a category.

@@ -1,0 +1,1 @@
+Then the encoder divides the image into zoom levels, subbands, subblocks and bitplanes.

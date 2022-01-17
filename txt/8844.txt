@@ -1,0 +1,1 @@
+"""Walls"" will kill the snake, if it runs into them."

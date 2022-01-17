@@ -1,0 +1,1 @@
+The game is composed of simple side-scrolling platform levels.

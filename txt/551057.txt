@@ -1,0 +1,1 @@
+Suppose we are given a monotonic path, which may happen to cross the diagonal.

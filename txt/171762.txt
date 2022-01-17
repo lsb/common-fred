@@ -1,0 +1,1 @@
+As a result, power analysis attacks combine elements of algorithmic cryptanalysis and implementation security.

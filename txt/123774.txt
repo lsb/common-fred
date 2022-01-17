@@ -1,0 +1,1 @@
+A constraint graph is a factor graph where all factors are constraints.

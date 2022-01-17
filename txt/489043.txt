@@ -1,0 +1,1 @@
+Passing the output through a simple hash function can remedy this weakness.

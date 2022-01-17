@@ -1,0 +1,1 @@
+Shell scripts typically execute commands and capture their exit statuses.

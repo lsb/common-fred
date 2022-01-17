@@ -1,0 +1,1 @@
+This produces the same sound as the string alone, differing only in timbre.

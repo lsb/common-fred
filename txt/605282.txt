@@ -1,0 +1,1 @@
+The documentation for Keras is available in Japanese.

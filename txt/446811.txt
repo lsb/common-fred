@@ -1,0 +1,1 @@
+Markup validation is an important step towards ensuring the technical quality of web pages.

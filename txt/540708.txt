@@ -1,0 +1,1 @@
+Some packets can be hundreds of bits in length.

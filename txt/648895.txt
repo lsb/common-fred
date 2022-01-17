@@ -1,0 +1,1 @@
+The player controls the protagonist Tex from a first person perspective.

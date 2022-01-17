@@ -1,0 +1,1 @@
+In multiplayer games, extra shield and energy pickups are also dropped upon death.

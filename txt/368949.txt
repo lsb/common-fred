@@ -1,0 +1,1 @@
+Instructions consisted of twenty bits: an eight-bit instruction code and twelve bits for addressing.

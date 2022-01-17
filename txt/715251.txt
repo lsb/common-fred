@@ -1,0 +1,1 @@
+They each represent different tradeoffs of time, effort, cost and vulnerabilities found.

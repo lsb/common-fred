@@ -1,0 +1,1 @@
+The goal is to discover how the system behaves under sustained use.

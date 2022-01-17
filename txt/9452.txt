@@ -1,0 +1,1 @@
+"""Zephyr"" is the eighth ship of thirteen in the ""Cyclone""-class."

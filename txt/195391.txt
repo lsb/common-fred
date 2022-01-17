@@ -1,0 +1,1 @@
+Btrieve allows for duplicate key values in an index.

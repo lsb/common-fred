@@ -1,0 +1,1 @@
+Second-strike capabilities can be further strengthened by implementing fail-deadly mechanisms.

@@ -1,0 +1,1 @@
+"Note that the user's name is never transmitted in unencrypted clear text, improving privacy."

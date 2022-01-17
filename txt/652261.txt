@@ -1,0 +1,1 @@
+The programmer can only define additional constructors with one or more arguments.

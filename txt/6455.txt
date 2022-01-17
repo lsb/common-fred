@@ -1,0 +1,1 @@
+"""Saint Roch"" was specially constructed to be able to survive being frozen-in all winter."

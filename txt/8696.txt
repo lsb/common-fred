@@ -1,0 +1,1 @@
+"""V. cardui"" establishes territories within areas sheltered by hedgerows."

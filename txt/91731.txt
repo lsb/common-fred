@@ -1,0 +1,1 @@
+"The equation in Ptolemy's theorem is never true with non-cyclic quadrilaterals."

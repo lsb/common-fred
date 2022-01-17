@@ -1,0 +1,1 @@
+Broker-dealers usually bid on their own behalf to prevent failed auctions from happening.

@@ -1,0 +1,1 @@
+These algorithms tend to be more effective and faster than pixel-based texture synthesis methods.

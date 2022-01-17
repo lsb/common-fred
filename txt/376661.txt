@@ -1,0 +1,1 @@
+It features a larger resolution and several additional opcodes which make programming easier.

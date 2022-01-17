@@ -1,0 +1,1 @@
+This version also removed the copy protection from the floppy disk release.

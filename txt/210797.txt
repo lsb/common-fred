@@ -1,0 +1,1 @@
+Compare with metadata, which is usually also hidden, but is used for different purposes.

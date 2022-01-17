@@ -1,0 +1,1 @@
+If one message is known, the solution is trivial.

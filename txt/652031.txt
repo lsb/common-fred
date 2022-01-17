@@ -1,0 +1,1 @@
+The program also offers limited support for audio and video embedding, and ActionScript scripting.

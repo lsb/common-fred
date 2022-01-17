@@ -1,0 +1,1 @@
+I highly recommend starting with this approach, since it gives you many of the niceties of a Linux environment.

@@ -1,0 +1,1 @@
+In some cases, one may wish to compare different Kaplan-Meier curves.

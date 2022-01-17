@@ -1,0 +1,1 @@
+The theorem can be applied to inheritance as well, in expectation.

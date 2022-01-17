@@ -1,0 +1,1 @@
+Together, these modes allow the blitter to draw individual flat-shaded polygons.

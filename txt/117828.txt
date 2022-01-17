@@ -1,0 +1,1 @@
+"When a player's deck runs out of cards, that player automatically loses the duel."

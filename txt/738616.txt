@@ -1,0 +1,1 @@
+This process may be repeated to produce an arbitrarily long mat.

@@ -1,0 +1,1 @@
+"""This article is translated from that on the German Wikipedia"""

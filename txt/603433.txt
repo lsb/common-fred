@@ -1,0 +1,1 @@
+The design also improves the detection of pulse-modulated transmission mode signals.

@@ -1,0 +1,1 @@
+"If it trades below its lowest ""n"" periods low, then a short is established."

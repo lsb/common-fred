@@ -1,0 +1,1 @@
+Measurements included surface roughness and later mapping of shadowed regions near the poles.

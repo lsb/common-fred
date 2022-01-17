@@ -1,0 +1,1 @@
+"A bridge graft uses scions to 'bridge' the gap."

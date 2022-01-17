@@ -1,0 +1,1 @@
+"""Forbes"" annually places Fisk on its ""America's Top Colleges"" list."

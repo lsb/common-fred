@@ -1,0 +1,1 @@
+These two concessions in scaling down the prototype make for reliable running.

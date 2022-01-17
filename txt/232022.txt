@@ -1,0 +1,1 @@
+Each user-defined function carries certain properties or characteristics.

@@ -1,0 +1,1 @@
+Thus a pronic number is squarefree if and only if and are also squarefree.

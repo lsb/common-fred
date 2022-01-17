@@ -1,0 +1,1 @@
+Particles which exhibit symmetric states are called bosons.

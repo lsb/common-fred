@@ -1,0 +1,1 @@
+This allows for the possibility of horizontal inheritance.

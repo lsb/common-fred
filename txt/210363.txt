@@ -1,0 +1,1 @@
+Common Lisp uses an empty list for false, and any other value for true.

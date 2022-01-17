@@ -1,0 +1,1 @@
+Because of the identity above, the distribution is properly normalized.

@@ -1,0 +1,1 @@
+Fixed-rate mortgages are characterized by amount of loan, interest rate, compounding frequency, and duration.

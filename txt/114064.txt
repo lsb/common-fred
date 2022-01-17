@@ -1,0 +1,1 @@
+"To render well in ClearType, the letters ""O"" and ""Q"" are slightly squared-off."

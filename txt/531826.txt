@@ -1,0 +1,1 @@
+Shutter speeds are not a factor in the calculation of guide numbers.

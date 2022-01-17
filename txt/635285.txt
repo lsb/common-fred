@@ -1,0 +1,1 @@
+The monster appears after the mark and pursues the player downhill at high speed.

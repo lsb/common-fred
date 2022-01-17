@@ -1,0 +1,1 @@
+Crow also proposed the shadow volume technique for generating geometrically accurate shadows.

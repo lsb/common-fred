@@ -1,0 +1,1 @@
+Invisible walls often have an infinite height in order to make them unpassable.

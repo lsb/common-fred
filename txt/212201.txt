@@ -1,0 +1,1 @@
+Consider the simple experiment where a fair coin is tossed four times.

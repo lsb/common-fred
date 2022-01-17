@@ -1,0 +1,1 @@
+Furthermore the engine is enhanced and the window layout modified.

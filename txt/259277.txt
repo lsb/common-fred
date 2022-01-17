@@ -1,0 +1,1 @@
+Glibc is used in systems that run many different kernels and different hardware architectures.

@@ -1,0 +1,1 @@
+"""Sheesh Mahal"", in Urdu language, literally means 'Crystal Palace'."

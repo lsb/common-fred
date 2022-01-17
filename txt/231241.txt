@@ -1,0 +1,1 @@
+Each object or library could have access controlled on a user-by-user basis.

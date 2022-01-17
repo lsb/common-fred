@@ -1,0 +1,1 @@
+This allows the computer to triangulate the two stations and the target.

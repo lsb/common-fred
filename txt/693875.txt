@@ -1,0 +1,1 @@
+There are programmable joysticks that can emulate keyboard input.

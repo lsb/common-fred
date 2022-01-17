@@ -1,0 +1,1 @@
+The KdV equation is an asymptotic model of the propagation of nonlinear dispersive waves.

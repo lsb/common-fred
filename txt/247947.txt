@@ -1,0 +1,1 @@
+For example, continuous spell-checking as the user types is problematic.

@@ -1,0 +1,1 @@
+A calibration header is sent before the image.

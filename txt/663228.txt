@@ -1,0 +1,1 @@
+The session report records the test session.

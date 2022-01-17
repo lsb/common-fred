@@ -1,0 +1,1 @@
+Setting or clearing a peripheral bit takes two clocks.

@@ -1,0 +1,1 @@
+It is the number of molecules taking part in this reaction.

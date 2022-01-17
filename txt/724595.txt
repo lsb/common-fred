@@ -1,0 +1,1 @@
+This allows gesso to remain flexible enough to use on canvas.

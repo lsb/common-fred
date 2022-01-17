@@ -1,0 +1,1 @@
+Shift registers can have both parallel and serial inputs and outputs.

@@ -1,0 +1,1 @@
+It is expected that Moorgate-bound services will utilise this platform.

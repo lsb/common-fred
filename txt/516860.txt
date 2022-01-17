@@ -1,0 +1,1 @@
+Several more recent proof tools like Isabelle are based on this idea.

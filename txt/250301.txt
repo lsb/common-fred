@@ -1,0 +1,1 @@
+For trunk line isolation, a resistive inductive device known as splitter is used.

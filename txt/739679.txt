@@ -1,0 +1,1 @@
+This restricts the number of carriages which have direct access to the platform.

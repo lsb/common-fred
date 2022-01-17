@@ -1,0 +1,1 @@
+"Then the logarithm of random variable ""Y"" is normally distributed, hence the name."

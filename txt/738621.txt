@@ -1,0 +1,1 @@
+This process of embedding code can be done while viewing the surrounding generated code.

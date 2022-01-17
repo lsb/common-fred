@@ -1,0 +1,1 @@
+Some respellings may fail in accents lacking the horse-hoarse merger.

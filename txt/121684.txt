@@ -1,0 +1,1 @@
+A benchmark is a more thorough way of measuring and comparing computer performance.

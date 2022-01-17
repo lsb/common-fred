@@ -1,0 +1,1 @@
+"""GamePro"" gave the Genesis version a mixed review."

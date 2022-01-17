@@ -1,0 +1,1 @@
+"A sensor's accuracy may be considerably worse than its resolution."

@@ -1,0 +1,1 @@
+The operator controls refueling operations through a digital fly-by wire system.

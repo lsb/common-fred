@@ -1,0 +1,1 @@
+The lower-ranked tile in each hand is never used to break a tie.

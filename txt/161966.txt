@@ -1,0 +1,1 @@
+An authenticator token must be prepared in advance that this program uses.

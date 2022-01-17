@@ -1,0 +1,1 @@
+A similar implementation that followed this was the game Core War.

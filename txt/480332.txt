@@ -1,0 +1,1 @@
+Only one pass through the sequential files would be needed for the updates.

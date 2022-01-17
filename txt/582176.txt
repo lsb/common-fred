@@ -1,0 +1,1 @@
+The arithmetic mean is often mistakenly used in places calling for the harmonic mean.

@@ -1,0 +1,1 @@
+DjVu divides a single image into many different images, then compresses them separately.

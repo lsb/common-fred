@@ -1,0 +1,1 @@
+For instance, every function that has bounded first derivatives is Lipschitz.

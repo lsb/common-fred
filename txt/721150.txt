@@ -1,0 +1,1 @@
+They then applied the defined solarisation curve to real time video images.

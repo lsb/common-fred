@@ -1,0 +1,1 @@
+Two variables are perfectly collinear if there is an exact linear relationship between them.

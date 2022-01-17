@@ -1,0 +1,1 @@
+An adversary could elongate or shorten the calculated delays in most ping implementations.

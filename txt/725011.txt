@@ -1,0 +1,1 @@
+This approach can be related to fitting the model by maximum likelihood.

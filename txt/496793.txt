@@ -1,0 +1,1 @@
+Precision measures the proportion of search results that are relevant to the query.

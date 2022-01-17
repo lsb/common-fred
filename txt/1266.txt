@@ -1,0 +1,1 @@
+"""Catch points"" are used where track follows a rising gradient."

@@ -1,0 +1,1 @@
+The Smith-Waterman algorithm is motivated by giving scores for matches and mismatches.

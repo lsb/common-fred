@@ -1,0 +1,1 @@
+"""Aperture"" is published four times a year, in Spring, Summer, Fall, and Winter."

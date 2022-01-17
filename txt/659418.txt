@@ -1,0 +1,1 @@
+The rule breaks down under certain conditions.

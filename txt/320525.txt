@@ -1,0 +1,1 @@
+Higher-current devices with greater junction area tend to possess higher capacitance.

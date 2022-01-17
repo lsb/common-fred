@@ -1,0 +1,1 @@
+The lifetimes can be recovered using time-correlated single photon counting or phase-modulation fluorimetry.

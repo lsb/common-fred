@@ -1,0 +1,1 @@
+Strafe-jumping requires a specific combination of mouse and keyboard input.

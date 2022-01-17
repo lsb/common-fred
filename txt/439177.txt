@@ -1,0 +1,1 @@
+Lower bitrate codecs allow more users, but they also have more distortion.

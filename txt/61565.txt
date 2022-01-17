@@ -1,0 +1,1 @@
+"Let ""A"" be a symmetric square matrix of order ""n"" with real entries."

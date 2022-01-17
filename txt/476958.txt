@@ -1,0 +1,1 @@
+Once the computational domain and the grid materials are established, a source is specified.

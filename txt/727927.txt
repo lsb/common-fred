@@ -1,0 +1,1 @@
+This deflector redirects thrust forces forward to provide reverse thrust.

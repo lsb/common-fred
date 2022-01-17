@@ -1,0 +1,1 @@
+The second is an orthogonal line passing through the centroid of the chosen face.

@@ -1,0 +1,1 @@
+In other words, three Koch curves make a Koch snowflake.

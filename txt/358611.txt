@@ -1,0 +1,1 @@
+In most implementations, many worksheets may be located within a single spreadsheet.

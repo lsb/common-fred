@@ -1,0 +1,1 @@
+Each subsector has a list of segs associated with it.

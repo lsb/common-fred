@@ -1,0 +1,1 @@
+Hamilton defined a quaternion as the quotient of two vectors.

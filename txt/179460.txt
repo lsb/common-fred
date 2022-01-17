@@ -1,0 +1,1 @@
+Attributes such as colors or line styles can be selected in various ways.

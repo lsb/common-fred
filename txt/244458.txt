@@ -1,0 +1,1 @@
+First, consider binary product functor, which is a bifunctor.

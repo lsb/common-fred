@@ -1,0 +1,1 @@
+Certain rooms contain typewriters that the player may use to save the game.

@@ -1,0 +1,1 @@
+Manpage documentation is far poorer in modern Linux systems.

@@ -1,0 +1,1 @@
+Linux can also be booted with Boot Camp.

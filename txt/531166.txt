@@ -1,0 +1,1 @@
+Shortest remaining time is advantageous because short processes are handled very quickly.

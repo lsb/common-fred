@@ -1,0 +1,1 @@
+Bandwidth is calculated by taking transfers per second and multiplying by eight.

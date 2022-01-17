@@ -1,0 +1,1 @@
+It can make unscheduled adjustments but does not usually do so.

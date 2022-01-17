@@ -1,0 +1,1 @@
+An equaliser is a generalization of the coincidence set.

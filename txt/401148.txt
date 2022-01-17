@@ -1,0 +1,1 @@
+It may be extended by defining new compression profiles dedicated to specific protocol headers.

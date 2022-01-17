@@ -1,0 +1,1 @@
+Each log size has a number and color associated with it.

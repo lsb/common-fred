@@ -1,0 +1,1 @@
+They can be nested, non-nested or overlapping.

@@ -1,0 +1,1 @@
+Mandatory fields are Title, Version, Entered-date, Description, Author and Primary-site.

@@ -1,0 +1,1 @@
+Having selected a gear, the player must roll the appropriate die for that gear.

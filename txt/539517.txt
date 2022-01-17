@@ -1,0 +1,1 @@
+Some measurements exclude the first foot-rollout.

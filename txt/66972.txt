@@ -1,0 +1,1 @@
+"Next, the number of votes is divided by the assigned seats ""plus one""."

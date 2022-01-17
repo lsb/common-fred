@@ -1,0 +1,1 @@
+Resolving such conflicts requires network-configuration changes that violate the zero-configuration goal.

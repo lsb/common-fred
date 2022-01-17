@@ -1,0 +1,1 @@
+Stability is sometimes achieved by including numerical diffusion.

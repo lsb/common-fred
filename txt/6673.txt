@@ -1,0 +1,1 @@
+"""Sergeant"" is derived from the same source, though developing an entirely different meaning."

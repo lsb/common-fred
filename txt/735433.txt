@@ -1,0 +1,1 @@
+This level of abstraction revealed connections between geometry and abstract algebra.

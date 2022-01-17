@@ -1,0 +1,1 @@
+A common aim of statistical analysis is to produce information about some chosen population.

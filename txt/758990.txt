@@ -1,0 +1,1 @@
+Two likelihood functions are equivalent if one is a scalar multiple of the other.

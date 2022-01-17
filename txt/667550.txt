@@ -1,0 +1,1 @@
+The space may have varying elevation and physical obstacles.

@@ -1,0 +1,1 @@
+Some card readers have their own numeric keypad.

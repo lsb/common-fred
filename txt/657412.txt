@@ -1,0 +1,1 @@
+The results would be identical provided the statistics chosen are jointly sufficient statistics.

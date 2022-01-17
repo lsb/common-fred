@@ -1,0 +1,1 @@
+Decoding is usually done by a simple majority decision for each code word.

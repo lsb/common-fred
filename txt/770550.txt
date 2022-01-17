@@ -1,0 +1,1 @@
+We begin by using the upper threshold to find the start of an edge.

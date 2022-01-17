@@ -1,0 +1,1 @@
+"To begin the game, one player must be picked as the game's ""searcher""."

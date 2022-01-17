@@ -1,0 +1,1 @@
+"The name of the hospital, for example, is echoed by the Beatles' ""Hey Jude""."

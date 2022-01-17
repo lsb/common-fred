@@ -1,0 +1,1 @@
+The new flag would be used alongside the current state flag.

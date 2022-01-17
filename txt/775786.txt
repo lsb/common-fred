@@ -1,0 +1,1 @@
+When a Null is passed into this function, the function returns Null.

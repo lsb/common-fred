@@ -1,0 +1,1 @@
+This flaw is fixed in the Kerberos protocol by the inclusion of a timestamp.

@@ -1,0 +1,1 @@
+With this solution an external terminal was no longer needed.

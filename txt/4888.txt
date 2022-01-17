@@ -1,0 +1,1 @@
+"""Monsieur,"" he cried, ""something has been taken from this room."""

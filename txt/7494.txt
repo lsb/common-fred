@@ -1,0 +1,1 @@
+"""The Blenheim Sun"" is a twice-weekly free newspaper distributed each Wednesday and Friday."

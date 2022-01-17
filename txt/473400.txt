@@ -1,0 +1,1 @@
+Of those, only represents one sound value while each of the others has two.

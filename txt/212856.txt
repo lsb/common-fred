@@ -1,0 +1,1 @@
+Control is available using brake toggles for roll and a hand-held throttle for pitch.

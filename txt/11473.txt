@@ -1,0 +1,1 @@
+"A single thread of the weft, crossing the warp, is called a ""pick""."

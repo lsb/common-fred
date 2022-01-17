@@ -1,0 +1,1 @@
+The Lilliefors test represents a special case of this for the normal distribution.

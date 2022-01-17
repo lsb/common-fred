@@ -1,0 +1,1 @@
+It uses plug-ins to handle other file formats and filter processes.

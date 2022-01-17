@@ -1,0 +1,1 @@
+"""Populous: The Beginning"" takes place before the first two games in the series."

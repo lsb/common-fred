@@ -1,0 +1,1 @@
+"""Hyptiotheca"" is an unusual hyolithid, in that it lacks clavicles."

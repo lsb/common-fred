@@ -1,0 +1,1 @@
+Also, any induced subgraph of a bipartite graph remains bipartite.

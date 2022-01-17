@@ -1,0 +1,1 @@
+"Each ""house"" consists of five consecutive floors of a tower."

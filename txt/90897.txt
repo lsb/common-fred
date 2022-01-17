@@ -1,0 +1,1 @@
+"The critical height depends on the Young's modulus, mismatch size, and surface tension."

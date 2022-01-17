@@ -1,0 +1,1 @@
+The midrange is highly sensitive to outliers and ignores all but two data points.

@@ -1,0 +1,1 @@
+Some systems directly support multi-threading in hardware.

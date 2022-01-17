@@ -1,0 +1,1 @@
+Mask filters containing only charcoal are ineffective, and effective filters are quickly saturated.

@@ -1,0 +1,1 @@
+It follows in particular that every cokernel is an epimorphism.

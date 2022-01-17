@@ -1,0 +1,1 @@
+De Bruijn sequences can also be constructed using shift registers or via finite fields.

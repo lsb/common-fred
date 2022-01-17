@@ -1,0 +1,1 @@
+In some cases a vCard is automatically attached.

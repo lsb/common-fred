@@ -1,0 +1,1 @@
+If they are given values outside that range, an error results.

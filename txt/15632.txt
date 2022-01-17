@@ -1,0 +1,1 @@
+"An operation of arity ""n"" is a mapping from ""B"" to ""B""."

@@ -1,0 +1,1 @@
+The animation in the introduction to this topic takes advantage of this optimization.

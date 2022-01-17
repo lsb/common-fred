@@ -1,0 +1,1 @@
+A terminal emulator inside a graphical user interface is often called a terminal window.

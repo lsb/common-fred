@@ -1,0 +1,1 @@
+"If ""X"" and ""Y"" are independent, with finite second moments, then they are uncorrelated."

@@ -1,0 +1,1 @@
+Text programs are easier to write, smaller, and run faster.

@@ -1,0 +1,1 @@
+The winner is the remaining player left after all the others have gone bankrupt.

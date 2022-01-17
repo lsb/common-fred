@@ -1,0 +1,1 @@
+It indicates an input phosphor depth-dependent response of the imaging system.

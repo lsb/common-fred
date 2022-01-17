@@ -1,0 +1,1 @@
+The asymptotics of plane partitions was worked out by E. M. Wright.

@@ -1,0 +1,1 @@
+"""Namlook"" is ""Koolman"", a phonetic rendering of his real name, spelled backwards."

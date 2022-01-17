@@ -1,0 +1,1 @@
+Note that estimating the heat transfer coefficient may be quite complicated.

@@ -1,0 +1,1 @@
+It became clear that there were two basic issues causing the problem.

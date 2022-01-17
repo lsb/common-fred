@@ -1,0 +1,1 @@
+The characters who are not speaking rarely move, saving time in the animation process.

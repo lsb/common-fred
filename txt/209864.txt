@@ -1,0 +1,1 @@
+Column separation is a phenomenon that can occur during a water-hammer event.

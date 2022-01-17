@@ -1,0 +1,1 @@
+There are several challenges to consider when licensing proprietary software in multi-tenant virtual environments.

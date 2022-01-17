@@ -1,0 +1,1 @@
+Each enumerated value is a string that for brevity represents a specific meaning.

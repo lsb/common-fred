@@ -1,0 +1,1 @@
+"Such supermatrices represent linear transformations of a super vector space over ""K""."

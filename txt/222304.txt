@@ -1,0 +1,1 @@
+Different hash variants exist.

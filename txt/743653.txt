@@ -1,0 +1,1 @@
+This was designed to make it more difficult for jury tampering to succeed.

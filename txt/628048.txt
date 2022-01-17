@@ -1,0 +1,1 @@
+The law of proportionate growth gives rise to a distribution that is log-normal.

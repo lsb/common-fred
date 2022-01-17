@@ -1,0 +1,1 @@
+Chess strategy and tactics involve many patterns from opening to checkmate.

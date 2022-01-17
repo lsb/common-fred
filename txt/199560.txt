@@ -1,0 +1,1 @@
+By dropping this assumption, general covariance became compatible with determinism.

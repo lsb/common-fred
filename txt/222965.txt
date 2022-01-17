@@ -1,0 +1,1 @@
+Discovering broken links might be done manually or automatically.

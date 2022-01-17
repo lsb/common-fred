@@ -1,0 +1,1 @@
+By computing pulses from all the wires, the particle trajectory can be found.

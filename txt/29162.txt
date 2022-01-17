@@ -1,0 +1,1 @@
+"Every subset of an algebra ""generates"" a subalgebra: the smallest subalgebra containing the set."

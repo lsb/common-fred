@@ -1,0 +1,1 @@
+The integral and differential forms are mathematically equivalent, by the divergence theorem.

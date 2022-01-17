@@ -1,0 +1,1 @@
+"""Blind Ambition"" was developed from one of those scripts."

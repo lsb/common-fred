@@ -1,0 +1,1 @@
+"""It's like ""Forrest Gump"" without the bogus theme-park politics."

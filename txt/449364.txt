@@ -1,0 +1,1 @@
+Mean longitude, like mean anomaly, does not measure an angle between any physical objects.

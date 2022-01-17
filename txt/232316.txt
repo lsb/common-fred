@@ -1,0 +1,1 @@
+Earlier models of memory are primarily based on the postulates of Hebbian learning.

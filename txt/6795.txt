@@ -1,0 +1,1 @@
+"""Simplified English"" is sometimes used as a generic term for a controlled language."

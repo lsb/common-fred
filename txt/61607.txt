@@ -1,0 +1,1 @@
+"Let ""X"" be a smooth projective variety over a number field ""K""."

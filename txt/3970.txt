@@ -1,0 +1,1 @@
+"""Jacobean"" derives from the New Latin ""Jacobaeus"", cognate with James and Jacob."

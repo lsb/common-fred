@@ -1,0 +1,1 @@
+If the original space is Euclidean, then the superior dimension space is a real projective space.

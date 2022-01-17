@@ -1,0 +1,1 @@
+Divisions may be infantry, airborne, cavalry, mechanized, armoured or aviation.

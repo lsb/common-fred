@@ -1,0 +1,1 @@
+It used a stacking window manager that allowed overlapping windows.

@@ -1,0 +1,1 @@
+A compression level value may be supplied that trades-off speed with compression.

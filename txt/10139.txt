@@ -1,0 +1,1 @@
+"A Unix process' file descriptor table is an example of a C-list."

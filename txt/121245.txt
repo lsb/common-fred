@@ -1,0 +1,1 @@
+A Schwarz triangle is represented graphically by a triangular graph.

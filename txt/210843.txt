@@ -1,0 +1,1 @@
+Compared with other examples of columnar jointing, the Postpile has more hexagonal columns.

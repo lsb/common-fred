@@ -1,0 +1,1 @@
+With these definitions, the algebraic spaces form a category.

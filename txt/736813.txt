@@ -1,0 +1,1 @@
+This model became the most frequently used model to describe relational databases.

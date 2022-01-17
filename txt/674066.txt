@@ -1,0 +1,1 @@
+The terminators might be strings or unique single symbols.

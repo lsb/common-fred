@@ -1,0 +1,1 @@
+"""Orthopraxy"" is the older and more common term, and is parallel to ""orthodoxy""."

@@ -1,0 +1,1 @@
+In this test, each taster describes each product by means of a questionnaire.

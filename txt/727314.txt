@@ -1,0 +1,1 @@
+This conserves memory, a necessity in resource constrained devices like smart cards.

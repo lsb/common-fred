@@ -1,0 +1,1 @@
+"""Niblack"" and ""Ludlow"" received official credit for sinking the enemy submarine."

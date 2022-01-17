@@ -1,0 +1,1 @@
+Decision tree learning is the construction of a decision tree from class-labeled training tuples.

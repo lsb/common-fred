@@ -1,0 +1,1 @@
+"""Pyramania"", a song from the album, mocked the idea of pyramid power."

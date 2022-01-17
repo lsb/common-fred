@@ -1,0 +1,1 @@
+An established communication session may involve more than one message in each direction.

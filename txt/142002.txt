@@ -1,0 +1,1 @@
+According to some, this follows from the isolation property of transactions.

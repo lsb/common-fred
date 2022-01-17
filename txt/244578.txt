@@ -1,0 +1,1 @@
+First, we describe how Euler originally discovered the result.

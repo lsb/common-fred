@@ -1,0 +1,1 @@
+This reaction is exploited in the Lucas test.

@@ -1,0 +1,1 @@
+Commonly we have experience with macroscopic temperatures, which involve a huge number of particles.

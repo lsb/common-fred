@@ -1,0 +1,1 @@
+Heuristics can be considered to reduce the complexity of clinical judgements in healthcare.

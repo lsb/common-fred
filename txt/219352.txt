@@ -1,0 +1,1 @@
+Delays can be further broken down into compensable or non-compensable delays.

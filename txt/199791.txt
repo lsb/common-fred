@@ -1,0 +1,1 @@
+By reading a file change log, they can avoid this scan.

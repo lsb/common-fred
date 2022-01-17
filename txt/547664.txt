@@ -1,0 +1,1 @@
+Strategic functions were split off to various joint arrangements.

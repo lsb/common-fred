@@ -1,0 +1,1 @@
+It performed adequately, but only in applications that used little floating point math.

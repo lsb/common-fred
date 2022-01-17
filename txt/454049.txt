@@ -1,0 +1,1 @@
+Modular arithmetic is often used to calculate checksums that are used within identifiers.

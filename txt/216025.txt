@@ -1,0 +1,1 @@
+Current shunts are considered more accurate and cheaper than Hall effect devices.

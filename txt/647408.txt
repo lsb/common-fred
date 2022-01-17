@@ -1,0 +1,1 @@
+The perforations represent note control data.

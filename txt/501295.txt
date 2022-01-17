@@ -1,0 +1,1 @@
+Radiofax is transmitted in single sideband which is a refinement of amplitude modulation.

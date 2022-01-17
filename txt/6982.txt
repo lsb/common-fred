@@ -1,0 +1,1 @@
+"""Span"" refers to the longest spans without any ground support."

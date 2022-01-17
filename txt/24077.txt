@@ -1,0 +1,1 @@
+"Complex frequency is given the symbol ""s"" and is, in general, a complex number."

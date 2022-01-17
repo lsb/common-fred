@@ -1,0 +1,1 @@
+Data pass in and out of computers via peripheral devices.

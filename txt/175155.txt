@@ -1,0 +1,1 @@
+Association represents the static relationship shared among the objects of two classes.

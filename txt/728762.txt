@@ -1,0 +1,1 @@
+This ensures the uniqueness of the special bit sequence in the comma codes.

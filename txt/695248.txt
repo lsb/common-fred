@@ -1,0 +1,1 @@
+There are two main kinds of semiconductor memory, volatile and non-volatile.

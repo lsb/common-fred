@@ -1,0 +1,1 @@
+Such modification would render the checksum invalid.

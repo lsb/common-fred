@@ -1,0 +1,1 @@
+Throughout this article the constant of integration is omitted for brevity.

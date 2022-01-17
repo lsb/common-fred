@@ -1,0 +1,1 @@
+Its main new addition is the Groups feature, much like persistent grouped conversations.

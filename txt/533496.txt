@@ -1,0 +1,1 @@
+Since the entire application heap was dissolved when the application quit, fragmentation was minimized.

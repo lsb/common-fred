@@ -1,0 +1,1 @@
+Topologically, this map is a two-to-one covering map.

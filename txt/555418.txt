@@ -1,0 +1,1 @@
+That is, an intertwiner is just an equivariant linear map between two linear representations.

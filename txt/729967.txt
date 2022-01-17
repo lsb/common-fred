@@ -1,0 +1,1 @@
+This gives the macro some of the power of a function.

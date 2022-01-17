@@ -1,0 +1,1 @@
+In between fixed calibration points, interpolation is used, usually linear.

@@ -1,0 +1,1 @@
+More natural learning problems may also be viewed as instances of semi-supervised learning.

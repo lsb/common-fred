@@ -1,0 +1,1 @@
+With affine closure, positive and negative infinities are treated as different values.

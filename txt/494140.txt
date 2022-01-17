@@ -1,0 +1,1 @@
+Players total up the points in their hand.

@@ -1,0 +1,1 @@
+"Now consider the coefficient of ""x"" in the product."

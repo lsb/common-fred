@@ -1,0 +1,1 @@
+In addition, there were a number of security problems with the implementation.

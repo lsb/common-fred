@@ -1,0 +1,1 @@
+The streak shall terminate if the player has a sacrifice fly and no hit.

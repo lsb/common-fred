@@ -1,0 +1,1 @@
+In practice the cycle is not divided in discrete steps as described above.

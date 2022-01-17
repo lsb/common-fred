@@ -1,0 +1,1 @@
+Here x and t are the space and time coordinates, respectively.

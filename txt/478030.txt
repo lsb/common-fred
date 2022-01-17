@@ -1,0 +1,1 @@
+One more series may be permitted for the polygamma functions.

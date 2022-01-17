@@ -1,0 +1,1 @@
+Instruction fetch occurs during the first stage, decode and issue during the second.

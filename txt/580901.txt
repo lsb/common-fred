@@ -1,0 +1,1 @@
+The applied field where the data line crosses zero is the coercivity.

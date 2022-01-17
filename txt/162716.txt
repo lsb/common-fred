@@ -1,0 +1,1 @@
+An important example of this is a contract that adjusts for inflation.

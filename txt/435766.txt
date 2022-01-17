@@ -1,0 +1,1 @@
+Likewise, the correlations can be placed in a correlation matrix.

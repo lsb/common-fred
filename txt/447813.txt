@@ -1,0 +1,1 @@
+Mathematically it is a four-vector, and is Lorentz covariant.

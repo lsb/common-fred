@@ -1,0 +1,1 @@
+An important advance in the theory of simple modules was the Jacobson density theorem.

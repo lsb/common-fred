@@ -1,0 +1,1 @@
+If the axiom of choice holds, then every successor cardinal is regular.

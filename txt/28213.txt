@@ -1,0 +1,1 @@
+"Edges have ""p"" vertices arranged like a regular polygon, and vertex figures are ""r""-gonal."

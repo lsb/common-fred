@@ -1,0 +1,1 @@
+"""People"" magazine ran a story on the T-shirt."

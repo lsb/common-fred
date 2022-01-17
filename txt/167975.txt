@@ -1,0 +1,1 @@
+Any number of playing pieces may occupy the same space at the same time.

@@ -1,0 +1,1 @@
+This unordered sum is called the Kirchhoff index of the graph.

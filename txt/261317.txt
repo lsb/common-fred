@@ -1,0 +1,1 @@
+Grayscale images have many shades of gray in between.

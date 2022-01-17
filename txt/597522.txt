@@ -1,0 +1,1 @@
+The computers were used to pre-compute guidance and aiming control information.

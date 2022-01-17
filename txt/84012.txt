@@ -1,0 +1,1 @@
+"The ""windowed"" Macintosh version includes a wide variety of graphics drawing commands."

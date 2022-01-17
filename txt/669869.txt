@@ -1,0 +1,1 @@
+The steering was also improved so that it weights up with speed.

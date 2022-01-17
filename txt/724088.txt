@@ -1,0 +1,1 @@
+This accelerates the particle, imparting energy to it in the form of increased velocity.

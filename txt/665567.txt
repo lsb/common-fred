@@ -1,0 +1,1 @@
+The size of the rope dictates the size of the twine.

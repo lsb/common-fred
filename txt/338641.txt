@@ -1,0 +1,1 @@
+However, text input relies on specific keyboard encodings or input devices.

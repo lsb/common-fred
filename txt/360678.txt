@@ -1,0 +1,1 @@
+In some deathmatch modes power-ups will not respawn at all.

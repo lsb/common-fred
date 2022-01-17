@@ -1,0 +1,1 @@
+Separate low-voltage transformer windings supply lighting and the motors driving auxiliary machinery.

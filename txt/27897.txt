@@ -1,0 +1,1 @@
+"Each flag or combination of flags has a preassigned meaning or ""code""."

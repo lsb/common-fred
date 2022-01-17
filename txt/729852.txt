@@ -1,0 +1,1 @@
+This generalizes to the method of characteristics, and is also used in integral transforms.

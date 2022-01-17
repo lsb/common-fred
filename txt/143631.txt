@@ -1,0 +1,1 @@
+Additionally, globally ambiguous sentences are as simple to process as syntactically unambiguous sentences.

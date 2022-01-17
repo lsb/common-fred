@@ -1,0 +1,1 @@
+"Links external to Wikipedia are opened in the user's regular browser."

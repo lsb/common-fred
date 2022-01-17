@@ -1,0 +1,1 @@
+This usually involves using database techniques such as spatial indices.

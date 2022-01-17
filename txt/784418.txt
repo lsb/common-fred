@@ -1,0 +1,1 @@
+Without this level of protection, only passwords with high complexity would provide sufficient protection.

@@ -1,0 +1,1 @@
+"""Emergency Rations"" received positive reviews from critics."

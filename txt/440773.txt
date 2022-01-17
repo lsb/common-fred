@@ -1,0 +1,1 @@
+Mail-Client against Mail-server, phone against network, Bluetooth headset against Bluetooth phone.

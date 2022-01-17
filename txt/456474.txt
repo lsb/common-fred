@@ -1,0 +1,1 @@
+Most autoinjectors are spring-loaded syringes.

@@ -1,0 +1,1 @@
+"The widely used two's complement encoding does not allow a negative zero."

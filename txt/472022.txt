@@ -1,0 +1,1 @@
+Number of component shares is variable.

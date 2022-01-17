@@ -1,0 +1,1 @@
+All colossally abundant numbers are also superabundant numbers, but the converse is not true.

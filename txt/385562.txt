@@ -1,0 +1,1 @@
+It is basically organized in form of distributed nodes, coordinated by a central node.

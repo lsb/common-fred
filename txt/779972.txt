@@ -1,0 +1,1 @@
+White should have an edge in most lines.

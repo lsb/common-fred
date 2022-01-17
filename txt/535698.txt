@@ -1,0 +1,1 @@
+Smaller states with few cases may have circuit benches established.

@@ -1,0 +1,1 @@
+Should Tails fall, bump into objects or touch the ground, he loses a life.

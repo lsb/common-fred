@@ -1,0 +1,1 @@
+"""By train:"" Take the Karatsu Line either from Karatsu Station or Kubota Station."

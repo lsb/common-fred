@@ -1,0 +1,1 @@
+Diffraction uses something referred to as the Huygens-Fresnel principle.

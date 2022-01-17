@@ -1,0 +1,1 @@
+"""P. scabers"" loses water by diffusion through its permeable exoskeleton."

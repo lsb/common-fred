@@ -1,0 +1,1 @@
+This means the virtual work of the constraint forces must be zero as well.

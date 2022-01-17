@@ -1,0 +1,1 @@
+"Schnirelmann's constant is the lowest number C with this property."

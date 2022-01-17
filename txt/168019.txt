@@ -1,0 +1,1 @@
+Any reference can be blessed into being an object of a particular class.

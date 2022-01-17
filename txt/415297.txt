@@ -1,0 +1,1 @@
+Its architecture style is quite simple and colonial.

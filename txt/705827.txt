@@ -1,0 +1,1 @@
+These give more assistance as the vehicle slows down, and less at faster speeds.

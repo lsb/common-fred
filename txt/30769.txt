@@ -1,0 +1,1 @@
+"For positive definite ""Q"", the ellipsoid method solves the problem in polynomial time."

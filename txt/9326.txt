@@ -1,0 +1,1 @@
+"""You are a Yale legend"" is the opening sentence of the citation honoring Hill."

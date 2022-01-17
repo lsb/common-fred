@@ -1,0 +1,1 @@
+Punctuation should preferably hang outside the measure.

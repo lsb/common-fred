@@ -1,0 +1,1 @@
+"""Surveillance"", ""target acquisition"" and ""reconnaissance"" are methods of obtaining this information."

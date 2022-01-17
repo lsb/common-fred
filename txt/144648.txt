@@ -1,0 +1,1 @@
+Affymetrix GeneChip Operating Software is a software system for managing Affymetrix microarray data.

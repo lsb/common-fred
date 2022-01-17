@@ -1,0 +1,1 @@
+However, any differentiable surface can be approximated by a bunch of small flat surfaces.

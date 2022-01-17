@@ -1,0 +1,1 @@
+A radio transmitter design has to meet certain requirements.

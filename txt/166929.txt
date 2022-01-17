@@ -1,0 +1,1 @@
+Another negative side of pre-rendered assets is that changes cannot be made during gameplay.

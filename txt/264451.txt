@@ -1,0 +1,1 @@
+Harmonics often occur in power systems as a consequence of non-linear loads.

@@ -1,0 +1,1 @@
+"The graphs with no ""K"" minor are the series-parallel graphs and their subgraphs."

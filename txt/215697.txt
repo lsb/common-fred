@@ -1,0 +1,1 @@
+Cubes may be of various sizes and bit depths.

@@ -1,0 +1,1 @@
+"They also receive and process each player's input."

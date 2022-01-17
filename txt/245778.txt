@@ -1,0 +1,1 @@
+Flow metering accuracy is easily compromised if there are liquids in the gas stream.

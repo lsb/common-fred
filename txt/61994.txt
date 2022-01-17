@@ -1,0 +1,1 @@
+"Like many emulator implementations of ""NetPlay"", it uses the now inactive Kaillera networking library."

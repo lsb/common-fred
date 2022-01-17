@@ -1,0 +1,1 @@
+This facility is used mostly for real-time applications, such as video streaming.

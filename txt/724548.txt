@@ -1,0 +1,1 @@
+This allows better decoupling between the behavior and the class that uses the behavior.

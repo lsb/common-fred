@@ -1,0 +1,1 @@
+If the standing end goes through the loop, it will close under load.

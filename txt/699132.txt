@@ -1,0 +1,1 @@
+There is no need to represent the table in either the encoder or decoder.

@@ -1,0 +1,1 @@
+Nucleotide similarity matrices are used to align nucleic acid sequences.

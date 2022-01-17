@@ -1,0 +1,1 @@
+In binary, the palindromic primes include the Mersenne primes and the Fermat primes.

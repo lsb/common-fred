@@ -1,0 +1,1 @@
+This can surprise new bc users unaware of this fact.

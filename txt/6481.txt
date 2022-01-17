@@ -1,0 +1,1 @@
+"""Samaritan Snare"" was written by Robert L. McCullough from an outside pitch."

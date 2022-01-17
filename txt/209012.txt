@@ -1,0 +1,1 @@
+Code Co-op is a distributed revision control system of the replicated type.

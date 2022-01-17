@@ -1,0 +1,1 @@
+If the sequence reaches one of these numbers, it will repeat indefinitely.

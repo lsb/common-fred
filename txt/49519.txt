@@ -1,0 +1,1 @@
+"In general these circuits don't have simple mathematical solutions."

@@ -1,0 +1,1 @@
+"The core also utilized a rod configuration called ""skewed divergent"" for ease of maintenance."

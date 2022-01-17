@@ -1,0 +1,1 @@
+Every positive rational number has a unique finite Engel expansion.

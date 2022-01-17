@@ -1,0 +1,1 @@
+"The same move can be both ""check"" and ""garde"" simultaneously."

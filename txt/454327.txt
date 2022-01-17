@@ -1,0 +1,1 @@
+Money Base, denoted by B, is the summation of currency and reserves.

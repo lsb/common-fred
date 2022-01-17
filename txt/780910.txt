@@ -1,0 +1,1 @@
+Wikia has now released the entire Grub package under an open source software license.

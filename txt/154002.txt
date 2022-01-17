@@ -1,0 +1,1 @@
+All of these procedures can be examined for various properties like monotonicity.

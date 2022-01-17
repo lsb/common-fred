@@ -1,0 +1,1 @@
+Two more parameters can be added to form the generalized beta prime distribution.

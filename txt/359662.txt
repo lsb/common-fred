@@ -1,0 +1,1 @@
+In protected mode a segment can not be both writable and executable.

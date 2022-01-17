@@ -1,0 +1,1 @@
+In that case the iteration should be bypassed; otherwise, division by zero may result.

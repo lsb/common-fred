@@ -1,0 +1,1 @@
+We can find quadratic residues or verify them using the above formula.

@@ -1,0 +1,1 @@
+"""Ricotta salata"" is sold in wheels, decorated by a delicate basket-weave pattern."

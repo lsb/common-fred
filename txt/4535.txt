@@ -1,0 +1,1 @@
+"""M. japonicus"" is an autumn kigo used in haiku."

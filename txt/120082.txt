@@ -1,0 +1,1 @@
+"You must expect to fail sometimes; please don't quit."

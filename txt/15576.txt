@@ -1,0 +1,1 @@
+"An ind-object in ""C"" is a pro-object in ""C""."

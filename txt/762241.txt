@@ -1,0 +1,1 @@
+Underfitting would occur, for example, when fitting a linear model to non-linear data.

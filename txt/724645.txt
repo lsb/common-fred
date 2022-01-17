@@ -1,0 +1,1 @@
+This allows smaller features to be read and written.

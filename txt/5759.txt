@@ -1,0 +1,1 @@
+"""Peto"" maneuvered and fired three torpedoes; two hits causing severe damage."

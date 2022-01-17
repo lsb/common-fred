@@ -1,0 +1,1 @@
+"""InfoWorld"" rejected this column, but an online news service published it."

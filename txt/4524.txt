@@ -1,0 +1,1 @@
+"""Lurking Horror"" was the only horror game ever released by Infocom."

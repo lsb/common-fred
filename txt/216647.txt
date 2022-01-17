@@ -1,0 +1,1 @@
+Custom column plugins known from Total Commander are not supported.

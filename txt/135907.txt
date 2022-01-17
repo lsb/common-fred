@@ -1,0 +1,1 @@
+A single-density disk controller was used to keep costs down.

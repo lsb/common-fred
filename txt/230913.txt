@@ -1,0 +1,1 @@
+Each genetic locus is always represented by two letters.

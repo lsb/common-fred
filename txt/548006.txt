@@ -1,0 +1,1 @@
+Structural parameters are underlying parameters in a model or class of models.

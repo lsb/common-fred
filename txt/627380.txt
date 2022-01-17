@@ -1,0 +1,1 @@
+The last one to log in takes ownership.

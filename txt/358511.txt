@@ -1,0 +1,1 @@
+In molecular dynamics simulations, a reaction coordinate is called collective variable.

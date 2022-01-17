@@ -1,0 +1,1 @@
+A repunit prime is a repunit that is also a prime number.

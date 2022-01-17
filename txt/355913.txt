@@ -1,0 +1,1 @@
+In contrast to linear algebraic groups, every abelian variety is commutative.

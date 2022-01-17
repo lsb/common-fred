@@ -1,0 +1,1 @@
+"""Molotov"" lyrics are in Russian, Portuguese, and a final verse in English."

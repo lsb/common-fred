@@ -1,0 +1,1 @@
+"By Schur's lemma, this will be a multiple of the identity for irreducible representations."

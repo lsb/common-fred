@@ -1,0 +1,1 @@
+It is useful for creating a complete or partial image of a Linux system.

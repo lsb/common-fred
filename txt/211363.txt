@@ -1,0 +1,1 @@
+Condensed fonts no longer include italic variants.

@@ -1,0 +1,1 @@
+It is quite practical to design hot-swap circuits that can operate at that speed.

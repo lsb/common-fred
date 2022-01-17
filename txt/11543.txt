@@ -1,0 +1,1 @@
+"A special case of typed languages are the ""single-type"" languages."

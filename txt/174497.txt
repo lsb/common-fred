@@ -1,0 +1,1 @@
+As with all azimuthal projections, angles from the tangent point are preserved.

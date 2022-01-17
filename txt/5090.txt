@@ -1,0 +1,1 @@
+"""Nedd"" is named after the author Nedd Willard, a mentor."

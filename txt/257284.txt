@@ -1,0 +1,1 @@
+Generally, authentication can be shown in one of two ways.

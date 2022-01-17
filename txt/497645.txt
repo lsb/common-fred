@@ -1,0 +1,1 @@
+Prewritten Lua bindings exist for most popular programming languages, including other scripting languages.

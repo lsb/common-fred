@@ -1,0 +1,1 @@
+In another case it might produce a true circle.

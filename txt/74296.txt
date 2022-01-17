@@ -1,0 +1,1 @@
+"Ryser's computational result for permanents also generalizes."

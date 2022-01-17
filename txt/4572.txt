@@ -1,0 +1,1 @@
+"""Mahaprana"" translates to ""aspirated""."

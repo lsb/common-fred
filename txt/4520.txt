@@ -1,0 +1,1 @@
+"""Lunar Pool"" can either be played alone, against another player, or against the computer."

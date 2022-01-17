@@ -1,0 +1,1 @@
+Many kinds of gotchas are not detected by compilers, however.

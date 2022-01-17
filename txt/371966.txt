@@ -1,0 +1,1 @@
+It also includes the design of reinforcement systems, such as rock bolting patterns.

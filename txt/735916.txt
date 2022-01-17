@@ -1,0 +1,1 @@
+This makes floating-point preferable in situations where the dynamic range is large or unpredictable.

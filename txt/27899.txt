@@ -1,0 +1,1 @@
+"Each game features an ""Arcade"", ""Versus"" and ""Training"" mode."

@@ -1,0 +1,1 @@
+Multitenancy reduces this overhead by amortizing it over many customers.

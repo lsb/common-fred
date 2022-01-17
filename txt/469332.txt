@@ -1,0 +1,1 @@
+Normally there are tools to raise, lower, smooth or erode the terrain.

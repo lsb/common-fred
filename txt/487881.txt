@@ -1,0 +1,1 @@
+Parasitic drag is drag caused by moving a solid object through a fluid.

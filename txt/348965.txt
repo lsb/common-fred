@@ -1,0 +1,1 @@
+Idle time between batches is known as downtime.

@@ -1,0 +1,1 @@
+The host drive was usually mapped to the letter H: by the compression driver.

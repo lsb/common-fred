@@ -1,0 +1,1 @@
+Additionally, black cells cannot be adjacent, although they can be diagonal to one another.

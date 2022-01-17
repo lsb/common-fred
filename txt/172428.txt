@@ -1,0 +1,1 @@
+As an example, consider the projectile problem mentioned above.

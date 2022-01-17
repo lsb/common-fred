@@ -1,0 +1,1 @@
+Unlike current yield, it does not vary with the market price of the security.

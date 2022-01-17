@@ -1,0 +1,1 @@
+Species diversity takes into account both species richness and species evenness.

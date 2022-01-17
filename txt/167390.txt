@@ -1,0 +1,1 @@
+Another variable physical phenomenon that is easy to measure is clock drift.

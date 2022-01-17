@@ -1,0 +1,1 @@
+A single mode fiber laser has a linewidth of a few kHz.

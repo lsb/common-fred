@@ -1,0 +1,1 @@
+We can then choose to group and order the indices either row-major or column-major.

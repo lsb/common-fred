@@ -1,0 +1,1 @@
+These statements extend to the derived functors Ext and Tor.

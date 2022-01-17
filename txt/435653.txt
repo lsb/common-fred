@@ -1,0 +1,1 @@
+Like the simple bridge, a multiport bridge typically uses store and forward operation.

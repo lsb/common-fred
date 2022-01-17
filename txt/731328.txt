@@ -1,0 +1,1 @@
+This information may then be used by the client to validate the subject certificate.

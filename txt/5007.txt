@@ -1,0 +1,1 @@
+"""My Name Is Earl"" is set in fictional Camden County."

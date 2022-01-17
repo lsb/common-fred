@@ -1,0 +1,1 @@
+It measures the sigma distance of actual data from the average.

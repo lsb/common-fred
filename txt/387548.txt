@@ -1,0 +1,1 @@
+It is expressed as a percentage or a normalized value.

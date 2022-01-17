@@ -1,0 +1,1 @@
+"Theory of all voltammetric methods is based on solutions of Fick's equation."

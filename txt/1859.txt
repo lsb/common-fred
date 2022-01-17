@@ -1,0 +1,1 @@
+"""Disarm"" was written by Billy Corgan."

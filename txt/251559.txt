@@ -1,0 +1,1 @@
+Four faces around the vertex in the pattern p.q.r.q.

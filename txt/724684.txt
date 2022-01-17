@@ -1,0 +1,1 @@
+This allows the player greater control when picking sets of notes on non-adjacent strings.

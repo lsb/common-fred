@@ -1,0 +1,1 @@
+An illegal prime is a kind of illegal number.

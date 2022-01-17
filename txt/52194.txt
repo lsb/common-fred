@@ -1,0 +1,1 @@
+"It can be used in place of Sybase's db-lib or ct-lib libraries."

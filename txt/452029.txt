@@ -1,0 +1,1 @@
+Microsoft Windows has specific module calls to trap program errors.

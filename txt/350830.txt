@@ -1,0 +1,1 @@
+Importantly also, taking the derivative reduces the algebraic degree of the function.

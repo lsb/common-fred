@@ -1,0 +1,1 @@
+In addition, interrupt handlers and threads exist to run in response to hardware interrupts.

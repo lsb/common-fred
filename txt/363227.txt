@@ -1,0 +1,1 @@
+In the future, both may eventually give way to Unicode.

@@ -1,0 +1,1 @@
+The townspeople are represented by an elected mayor and borough council.

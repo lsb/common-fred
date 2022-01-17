@@ -1,0 +1,1 @@
+Speech recognition systems need to work for people with speech impediments.

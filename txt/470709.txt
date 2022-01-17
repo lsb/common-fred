@@ -1,0 +1,1 @@
+Note that the registration reminder dialogue box is not shown in this case.

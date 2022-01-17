@@ -1,0 +1,1 @@
+The series of mathematical manipulations results in any given card producing a unique number.

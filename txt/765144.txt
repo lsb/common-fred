@@ -1,0 +1,1 @@
+Usually, each phase, frequency or amplitude encodes an equal number of bits.

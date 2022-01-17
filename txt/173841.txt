@@ -1,0 +1,1 @@
+As the electron beam hits the shadow mask in these areas it heats unevenly.

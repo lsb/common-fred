@@ -1,0 +1,1 @@
+"Methods that violate both versions include Copeland's method and the Slater rule."

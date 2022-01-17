@@ -1,0 +1,1 @@
+In addition, the address operator always produces a valid, usable result.

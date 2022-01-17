@@ -1,0 +1,1 @@
+In Lagrangian mechanics, a different set of coordinates are used, called the generalized coordinates.

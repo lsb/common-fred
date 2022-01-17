@@ -1,0 +1,1 @@
+"After the data is modified, the cache block is in the ""M"" state."

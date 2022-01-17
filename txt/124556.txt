@@ -1,0 +1,1 @@
+A discriminated union type is a type-safe version of C unions.

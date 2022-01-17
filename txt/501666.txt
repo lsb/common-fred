@@ -1,0 +1,1 @@
+Ralink allows the use and redistribution of firmware, but does not allow its modification.

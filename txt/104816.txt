@@ -1,0 +1,1 @@
+"The voltage is usually applied to the actuator by means of a 'tether'."

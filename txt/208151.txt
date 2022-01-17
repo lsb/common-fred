@@ -1,0 +1,1 @@
+Clearly, any sequence with a modulus of Cauchy convergence is a Cauchy sequence.

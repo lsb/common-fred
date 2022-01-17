@@ -1,0 +1,1 @@
+This allows the images to be defined along a tree structure.

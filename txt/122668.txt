@@ -1,0 +1,1 @@
+A button was pressed to display the time.

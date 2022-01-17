@@ -1,0 +1,1 @@
+Diffeomorphism invariance of the worldsheet implies additionally that the stress tensor vanishes.

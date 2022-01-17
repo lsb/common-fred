@@ -1,0 +1,1 @@
+Blind deconvolution algorithms often make use of high-order statistics, with moments higher than two.

@@ -1,0 +1,1 @@
+Sometimes one square of the grid will itself be subdivided into a finer grid.

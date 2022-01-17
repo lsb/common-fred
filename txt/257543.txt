@@ -1,0 +1,1 @@
+Geographic weighted regression is one technique to deal with such data.

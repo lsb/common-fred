@@ -1,0 +1,1 @@
+Reflection coefficients can be read directly from the chart as they are unitless parameters.

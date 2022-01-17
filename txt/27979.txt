@@ -1,0 +1,1 @@
+"Each state's activities association has its own process for determining the state's vote."

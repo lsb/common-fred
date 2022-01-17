@@ -1,0 +1,1 @@
+"The set of ""k""-derivations from ""A"" to ""M"", is a module over ""k""."

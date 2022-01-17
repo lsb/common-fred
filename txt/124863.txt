@@ -1,0 +1,1 @@
+A drive with a different encoding mechanism would need different patterns.

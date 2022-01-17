@@ -1,0 +1,1 @@
+It involves cohomology groups with coefficients in homotopy groups to define obstructions to extensions.

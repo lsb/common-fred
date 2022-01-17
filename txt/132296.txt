@@ -1,0 +1,1 @@
+A new template can be used to add missing pushpin images to the program.

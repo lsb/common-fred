@@ -1,0 +1,1 @@
+A full window management and application launching system existed, controlled by JavaScript code.

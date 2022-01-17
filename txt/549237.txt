@@ -1,0 +1,1 @@
+Subsequently, the service provider requests the actual assertion via a back channel.

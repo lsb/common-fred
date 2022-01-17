@@ -1,0 +1,1 @@
+This reduces the time separation between instruments to a set of constant intervals.

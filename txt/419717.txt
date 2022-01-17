@@ -1,0 +1,1 @@
+Its universal representative is obtained using the machinery of equivariant differential forms.

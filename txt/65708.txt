@@ -1,0 +1,1 @@
+"Most norms on Hilbert space operators studied are defined using ""s""-numbers."

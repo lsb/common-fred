@@ -1,0 +1,1 @@
+After encoding, a colon is placed before and after the data.

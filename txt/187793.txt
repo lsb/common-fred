@@ -1,0 +1,1 @@
+Bit error ratio is a unitless performance measure, often expressed as a percentage.

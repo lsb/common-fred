@@ -1,0 +1,1 @@
+Plarex, a heavier-duty version of Helox, backed by fabric, was developed for workwear.

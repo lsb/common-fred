@@ -1,0 +1,1 @@
+In addition, all major web browsers have some form of built-in web feed aggregator.

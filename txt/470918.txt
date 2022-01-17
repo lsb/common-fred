@@ -1,0 +1,1 @@
+Notes were split off into a stand-alone application in this version, called Notes.

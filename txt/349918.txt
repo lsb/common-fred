@@ -1,0 +1,1 @@
+If the space is compact, then there exist partitions satisfying both requirements.

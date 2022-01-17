@@ -1,0 +1,1 @@
+In practice, the scope of the broadcast is limited to a broadcast domain.

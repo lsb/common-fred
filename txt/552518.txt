@@ -1,0 +1,1 @@
+Taking Kolmogorov quotients, we see that all normal T spaces are Tychonoff.

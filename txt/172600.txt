@@ -1,0 +1,1 @@
+As each transaction requires funds to be checked, accounts cannot be overdrawn.

@@ -1,0 +1,1 @@
+Vivisimo specialized in federated search and document clustering.

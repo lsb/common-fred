@@ -1,0 +1,1 @@
+An adaptive beamforming system relies on principals of wave propagation and phase relationships.

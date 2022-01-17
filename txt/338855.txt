@@ -1,0 +1,1 @@
+However, the SpeedLoader bridge utilizes specially manufactured strings.

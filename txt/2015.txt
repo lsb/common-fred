@@ -1,0 +1,1 @@
+"""Durbar Hall"" is situated directly under the double-dome of the main building."

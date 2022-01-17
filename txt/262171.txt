@@ -1,0 +1,1 @@
+Group Policy settings are enforced voluntarily by the targeted applications.

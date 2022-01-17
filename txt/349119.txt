@@ -1,0 +1,1 @@
+If a player loses three lives the game is over.

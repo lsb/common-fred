@@ -1,0 +1,1 @@
+The rake is very coarse, so can only be used for raking coarse material.

@@ -1,0 +1,1 @@
+Moreover, an additional key is negotiated which can be used for another data channel.

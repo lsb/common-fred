@@ -1,0 +1,1 @@
+When the main battery failed, it effectively short-circuited the auxiliary battery, killing the spacecraft.

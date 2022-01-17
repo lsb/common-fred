@@ -1,0 +1,1 @@
+Only the contacts which are not in a subfolder are synchronized.

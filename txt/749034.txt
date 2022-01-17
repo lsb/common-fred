@@ -1,0 +1,1 @@
+Thus for a given pump, the most critical tubing dimension becomes the wall thickness.

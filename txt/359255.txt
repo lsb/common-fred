@@ -1,0 +1,1 @@
+In particular, all Mersenne numbers are strobogrammatic in binary.

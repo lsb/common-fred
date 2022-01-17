@@ -1,0 +1,1 @@
+This creates potential interference issues with adjacent channels.

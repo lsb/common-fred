@@ -1,0 +1,1 @@
+This method requires no public key infrastructure.

@@ -1,0 +1,1 @@
+"The player's ship fires bullets upwards continuously, which are used to attack the enemies."

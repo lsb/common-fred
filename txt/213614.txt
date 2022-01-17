@@ -1,0 +1,1 @@
+Corporate Guardian is a stand-alone web proxy, cache and filtering solution.

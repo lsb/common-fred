@@ -1,0 +1,1 @@
+"This is also known as a ""sliding dot product"" or ""sliding inner-product""."

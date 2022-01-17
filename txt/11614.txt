@@ -1,0 +1,1 @@
+"A subcover of ""C"" is a subset of ""C"" that still covers ""X""."

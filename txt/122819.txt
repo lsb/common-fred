@@ -1,0 +1,1 @@
+A casper can be performed either when standing still or when moving.

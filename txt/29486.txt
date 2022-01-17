@@ -1,0 +1,1 @@
+"Fatal and non-fatal wounds to the player's character were realistically implemented."

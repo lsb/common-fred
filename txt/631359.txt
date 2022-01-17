@@ -1,0 +1,1 @@
+The main disadvantage of this style of case is the lack of heat sinking.

@@ -1,0 +1,1 @@
+"""Otama"" was the last Australian ""Oberon"" to leave service."

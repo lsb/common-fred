@@ -1,0 +1,1 @@
+Multiplayer capability was also considered before being dropped.

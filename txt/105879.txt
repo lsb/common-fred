@@ -1,0 +1,1 @@
+"Then ""X"" is said to be a Moore space."

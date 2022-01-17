@@ -1,0 +1,1 @@
+Stalin is intended for production use in generating an optimized executable.

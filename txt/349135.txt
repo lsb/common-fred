@@ -1,0 +1,1 @@
+If a shot is too late, it will score as a miss.

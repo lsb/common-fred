@@ -1,0 +1,1 @@
+A famous special case of the Bernoulli equation is the logistic differential equation.

@@ -1,0 +1,1 @@
+Lightly pulling on the trigger will fire a single shot.

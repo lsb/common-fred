@@ -1,0 +1,1 @@
+After hibernating, the hardware is powered down like a regular shutdown.

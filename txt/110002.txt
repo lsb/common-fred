@@ -1,0 +1,1 @@
+"This binary relation is called the ""accessibility relation""."

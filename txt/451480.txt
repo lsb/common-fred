@@ -1,0 +1,1 @@
+Methods of alignment credibility estimation for gapped sequence alignments are available in the literature.

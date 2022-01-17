@@ -1,0 +1,1 @@
+In quantum mechanics, diagonalization provides a discrete set of microstates with specific energies.

@@ -1,0 +1,1 @@
+Both embedded and server modes are available.

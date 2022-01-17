@@ -1,0 +1,1 @@
+"Strictly speaking, the model functor ends in the ""category"" of all large categories."

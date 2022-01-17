@@ -1,0 +1,1 @@
+"This protects ship's electronics against electromagnetic pulse."

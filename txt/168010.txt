@@ -1,0 +1,1 @@
+Any polygon has as many corners as it has sides.

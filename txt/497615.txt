@@ -1,0 +1,1 @@
+Previously, the citizens were counted based on their usual place of residence.

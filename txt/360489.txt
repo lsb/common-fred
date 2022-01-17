@@ -1,0 +1,1 @@
+In some cases segments or a portion of the segments disappear.

@@ -1,0 +1,1 @@
+Selection sort can be implemented as a stable sort.

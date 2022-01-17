@@ -1,0 +1,1 @@
+Each challenge solves to the location where the next challenge can be found.

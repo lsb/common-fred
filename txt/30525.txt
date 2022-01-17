@@ -1,0 +1,1 @@
+"For example, Perl's polymorphic typing and closure mechanisms are often called ""magic""."

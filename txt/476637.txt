@@ -1,0 +1,1 @@
+Once a cask is opened, it should be consumed within three days.

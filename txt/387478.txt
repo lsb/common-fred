@@ -1,0 +1,1 @@
+It is essentially a beefed up square taper spindle with splines instead of tapers.

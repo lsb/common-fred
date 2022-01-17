@@ -1,0 +1,1 @@
+It has a constrained type system for object-oriented programming, a form of dependent types.

@@ -1,0 +1,1 @@
+"E has two ways of sending messages: the ""immediate call"" and the ""eventual send""."

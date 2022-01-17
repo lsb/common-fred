@@ -1,0 +1,1 @@
+Stale entries are those entries that have not been updated for a while.

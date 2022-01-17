@@ -1,0 +1,1 @@
+"I'd propose a dictionary attack instead of brute force."

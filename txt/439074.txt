@@ -1,0 +1,1 @@
+Low contrast candidate points and edge response points along an edge are discarded.

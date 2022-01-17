@@ -1,0 +1,1 @@
+As a trivial example, a machine implementing a finitary decision tree will always halt.

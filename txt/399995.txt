@@ -1,0 +1,1 @@
+It is written in Lua Language itself however is quite basic.

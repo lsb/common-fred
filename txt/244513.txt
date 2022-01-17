@@ -1,0 +1,1 @@
+First, since the real numbers are totally ordered, they carry an order topology.

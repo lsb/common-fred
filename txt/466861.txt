@@ -1,0 +1,1 @@
+No coalescing can occur until the cellar is exhausted.

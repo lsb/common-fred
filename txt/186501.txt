@@ -1,0 +1,1 @@
+Best-first algorithms are often used for path finding in combinatorial search.

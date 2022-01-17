@@ -1,0 +1,1 @@
+"""Stumpies"" exhibiting basic herding instincts can be trained to compete in herding trials."

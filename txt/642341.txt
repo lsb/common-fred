@@ -1,0 +1,1 @@
+The on-board computer continuously monitors the transferred data and the maximum permissible speed.

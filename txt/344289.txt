@@ -1,0 +1,1 @@
+I formalised the drawing into a line and put a circle round it.

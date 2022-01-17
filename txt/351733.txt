@@ -1,0 +1,1 @@
+In Firefox, it was used for browsing history data and form history data.

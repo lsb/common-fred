@@ -1,0 +1,1 @@
+Power signalling is provided throughout, being controlled from Dandenong.

@@ -1,0 +1,1 @@
+A special tool is provided to password-protect the most important parts of the package.

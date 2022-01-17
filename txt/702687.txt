@@ -1,0 +1,1 @@
+Therefore, polymer capacitors can handle higher ripple current.

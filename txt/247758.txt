@@ -1,0 +1,1 @@
+For each word in the passphrase, five rolls of the dice are required.

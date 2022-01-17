@@ -1,0 +1,1 @@
+Rules can modify the collection of facts, or they can execute any Java code.

@@ -1,0 +1,1 @@
+"""Combustion"" refers to burning fuel with an oxidizer, to supply the heat."

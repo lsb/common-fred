@@ -1,0 +1,1 @@
+Recovery data uses the same block size as the input data.

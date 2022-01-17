@@ -1,0 +1,1 @@
+"""Cricket"" also runs contests and publishes work by its readers."

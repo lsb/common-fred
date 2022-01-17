@@ -1,0 +1,1 @@
+Each extension impacts the score of the alignment by either increasing or decreasing it.

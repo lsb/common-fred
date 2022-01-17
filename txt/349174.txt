@@ -1,0 +1,1 @@
+If an item is deleted altogether, its permalink can frequently not be reused.

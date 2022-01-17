@@ -1,0 +1,1 @@
+"In the above inequalities, a single parameter, ""J"", is used to account for jitter."

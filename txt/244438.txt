@@ -1,0 +1,1 @@
+First you need to square x, and then take the cube root.

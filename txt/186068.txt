@@ -1,0 +1,1 @@
+Bernoulli equations are special because they are nonlinear differential equations with known exact solutions.

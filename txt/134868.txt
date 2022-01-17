@@ -1,0 +1,1 @@
+A runlevel defines the state of the machine after boot.

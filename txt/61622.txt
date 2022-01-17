@@ -1,0 +1,1 @@
+"Let ""k"" denote the number of the row currently being filled."

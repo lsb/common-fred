@@ -1,0 +1,1 @@
+A similar construction applies to cohomology groups, this time increasing degree by one.

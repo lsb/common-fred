@@ -1,0 +1,1 @@
+Thus, the three vectors are linearly dependent.

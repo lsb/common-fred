@@ -1,0 +1,1 @@
+"Let the ""type variable a"" denote the type of elements in the lists."

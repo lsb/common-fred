@@ -1,0 +1,1 @@
+Mathematically, there is no separate formula for deceleration: both are changes in velocity.

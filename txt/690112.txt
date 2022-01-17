@@ -1,0 +1,1 @@
+Then one inserts an anti-aliasing filter ahead of the sampler.

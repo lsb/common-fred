@@ -1,0 +1,1 @@
+For more information about this critical facet of video codec design, see B-frames.

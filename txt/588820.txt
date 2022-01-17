@@ -1,0 +1,1 @@
+The camera is put in standby mode between shots to reduce power.

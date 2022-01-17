@@ -1,0 +1,1 @@
+Fish fall downwards whenever possible, while chickens run to the left if not blocked.

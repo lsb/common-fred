@@ -1,0 +1,1 @@
+Gegenbauer polynomials also appear in the theory of Positive-definite functions.

@@ -1,0 +1,1 @@
+"Let ""G"" denote a compact simply-connected Lie group and ""g"" its simple Lie algebra."

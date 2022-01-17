@@ -1,0 +1,1 @@
+In that case, the signature information becomes part of the embedded manifest file.

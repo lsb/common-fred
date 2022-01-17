@@ -1,0 +1,1 @@
+Steering is via direct side levers with Ackerman steering compensation.

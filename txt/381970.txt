@@ -1,0 +1,1 @@
+It is a more general version of the linear classifier.

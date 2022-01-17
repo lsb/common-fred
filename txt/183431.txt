@@ -1,0 +1,1 @@
+Because of their use in applying software patches, however, the dispatch tables were retained.

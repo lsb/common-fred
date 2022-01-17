@@ -1,0 +1,1 @@
+Suppose that each bidder, receives a signal regarding the value of the object.

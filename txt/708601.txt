@@ -1,0 +1,1 @@
+These subalgebras are useful, for example, in classifying spacetimes in general relativity.

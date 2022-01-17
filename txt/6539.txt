@@ -1,0 +1,1 @@
+"""Schwing- und Älplerfest"" successfully took place."

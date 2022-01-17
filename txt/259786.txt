@@ -1,0 +1,1 @@
+Gold accrues as the player steps on gems or currency.

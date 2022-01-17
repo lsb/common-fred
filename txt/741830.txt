@@ -1,0 +1,1 @@
+This technique also proves that every noncontracting grammar is context-sensitive.

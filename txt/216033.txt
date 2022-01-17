@@ -1,0 +1,1 @@
+Current transformers are the current sensing units of the power system.

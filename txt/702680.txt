@@ -1,0 +1,1 @@
+Therefore, optimal policy consist several actions which belong to a finite set of actions.

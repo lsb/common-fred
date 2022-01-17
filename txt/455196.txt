@@ -1,0 +1,1 @@
+More precisely, a unitary transformation is an isomorphism between two Hilbert spaces.

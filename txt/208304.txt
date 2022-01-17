@@ -1,0 +1,1 @@
+Clifford conjugation is the combined action of grade involution and reversion.

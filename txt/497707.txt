@@ -1,0 +1,1 @@
+Prices are taken from the electronic Xetra trading system.

@@ -1,0 +1,1 @@
+Dispersion severely limits the rate that Morse can be sent because of intersymbol interference.

@@ -1,0 +1,1 @@
+Each track has a unique shape, containing various obstacles, hazards, and short-cuts.

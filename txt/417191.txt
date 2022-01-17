@@ -1,0 +1,1 @@
+Its functional design mimics Adobe Acrobat Distiller to behave as a virtual printer.

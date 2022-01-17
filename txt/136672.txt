@@ -1,0 +1,1 @@
+A sphere of known size and density is allowed to descend through the liquid.

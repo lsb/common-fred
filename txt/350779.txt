@@ -1,0 +1,1 @@
+Implementing multiported register files with hundreds of entries requires a large area.

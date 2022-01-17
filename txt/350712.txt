@@ -1,0 +1,1 @@
+Immunity to one capsule type does not result in immunity to the other types.

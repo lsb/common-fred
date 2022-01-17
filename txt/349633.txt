@@ -1,0 +1,1 @@
+If such a chain is found, the instance cannot be satisfiable.

@@ -1,0 +1,1 @@
+The various programming paradigms address the issue of cross-cutting concerns to different degrees.

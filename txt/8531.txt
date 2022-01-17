@@ -1,0 +1,1 @@
+"""Trivia"" is the plural of ""trivium"", ""a public place."

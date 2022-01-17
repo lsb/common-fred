@@ -1,0 +1,1 @@
+Protein structures can be grouped based on their similarity or a common evolutionary origin.

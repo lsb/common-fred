@@ -1,0 +1,1 @@
+Note that the angle of view also depends on the aspect ratio.

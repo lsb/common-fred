@@ -1,0 +1,1 @@
+Another is hiding how instances of these concrete classes are created and combined.

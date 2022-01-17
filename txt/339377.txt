@@ -1,0 +1,1 @@
+However, the latency due to propagation increases significantly with distance.

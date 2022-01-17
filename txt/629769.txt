@@ -1,0 +1,1 @@
+The loader assists the gunner, especially by reloading the launch tubes whenever necessary.

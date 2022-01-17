@@ -1,0 +1,1 @@
+These may be replaced simply by creating new constants.

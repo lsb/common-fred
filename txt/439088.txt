@@ -1,0 +1,1 @@
+Low power radios and small antennas can be used to establish communications.

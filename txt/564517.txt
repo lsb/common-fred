@@ -1,0 +1,1 @@
+The God object is an example of an anti-pattern.

@@ -1,0 +1,1 @@
+"Whether a radiator is isotropic is independent of whether it obeys Lambert's law."

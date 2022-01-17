@@ -1,0 +1,1 @@
+Arch is largely based around binary packages.

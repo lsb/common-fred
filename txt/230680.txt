@@ -1,0 +1,1 @@
+Each crossing of metal lines is a ferroelectric capacitor and defines a memory cell.

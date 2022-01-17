@@ -1,0 +1,1 @@
+This was the only way to associate mnemonic names with variables.

@@ -1,0 +1,1 @@
+Lower number indicates the tolar has a higher value.

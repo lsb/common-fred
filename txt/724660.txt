@@ -1,0 +1,1 @@
+This allows the composition to be augmented, effectively adding state-like elements.

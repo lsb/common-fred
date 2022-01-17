@@ -1,0 +1,1 @@
+StumbleUpon also works with some independent Mozilla-based browsers.

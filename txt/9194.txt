@@ -1,0 +1,1 @@
+"""Worchester"" was named after two previous ships of that name, honoring Worcester, Massachusetts."

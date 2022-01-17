@@ -1,0 +1,1 @@
+Meta-model protocols allow classes to be created and deleted.

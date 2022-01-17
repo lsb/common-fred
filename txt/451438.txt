@@ -1,0 +1,1 @@
+Meteorology includes atmospheric chemistry and atmospheric physics with a major focus on weather forecasting.

@@ -1,0 +1,1 @@
+"""Exterior orientation"" and ""Translation"" are also used as synonyms to pose."

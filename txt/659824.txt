@@ -1,0 +1,1 @@
+The same identifier can be independently defined in multiple namespaces.

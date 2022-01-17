@@ -1,0 +1,1 @@
+"It, therefore, instructs the wireless protocol to transmit the data packet to ""B""."

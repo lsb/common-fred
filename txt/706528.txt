@@ -1,0 +1,1 @@
+These languages are dynamically typed, and are reflective.

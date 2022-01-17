@@ -1,0 +1,1 @@
+Devices can also be clustered or daisy-chained.

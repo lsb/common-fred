@@ -1,0 +1,1 @@
+Thus, number fields and the field of complex numbers C are of characteristic zero.

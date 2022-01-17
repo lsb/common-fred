@@ -1,0 +1,1 @@
+When implemented as such, a switch statement essentially becomes a perfect hash.

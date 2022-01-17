@@ -1,0 +1,1 @@
+First, you need to install an extension that labels clickable elements on the page.

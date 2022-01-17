@@ -1,0 +1,1 @@
+Animations of players are neat, but they slow down a bit.

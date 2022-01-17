@@ -1,0 +1,1 @@
+The window contents in the buffers are then converted to DirectX textures.

@@ -1,0 +1,1 @@
+Cross coloration is non-existent and only a few very minor areas of aliasing occur.

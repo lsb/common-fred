@@ -1,0 +1,1 @@
+Like the name suggests, non-zero values cannot be adjacent.

@@ -1,0 +1,1 @@
+If it has been altered, the program exits with a segmentation fault.

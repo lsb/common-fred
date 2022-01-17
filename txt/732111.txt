@@ -1,0 +1,1 @@
+This is achieved by a combination of scrambling and encryption.

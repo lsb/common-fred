@@ -1,0 +1,1 @@
+Depending up on the present network condition the mobile agent chooses its path.

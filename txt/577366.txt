@@ -1,0 +1,1 @@
+The above equations have ignored the influence of the spectroscopic line shape.

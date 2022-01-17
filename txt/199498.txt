@@ -1,0 +1,1 @@
+By contrast, sockets and other network protocols assume that direct connections always exist.

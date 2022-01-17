@@ -1,0 +1,1 @@
+The technology allows maps to be totally unique, without any repeated terrain tiles.

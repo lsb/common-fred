@@ -1,0 +1,1 @@
+Global value numbering works by assigning a value number to variables and expressions.

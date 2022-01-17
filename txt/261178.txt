@@ -1,0 +1,1 @@
+Graphviz is free software licensed under the Eclipse Public License.

@@ -1,0 +1,1 @@
+It should also successfully predict other indicators of the variable.

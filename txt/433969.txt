@@ -1,0 +1,1 @@
+Let us show the algorithm behaviour for the case with small number of errors.

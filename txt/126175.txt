@@ -1,0 +1,1 @@
+A generic fantasy game, it can represent armies from a wide variety of settings.

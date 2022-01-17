@@ -1,0 +1,1 @@
+The composition and dimensions of resistors can be selected to provide desired values.

@@ -1,0 +1,1 @@
+It is fired by manually rotating a crank handle and pulling a firing trigger.

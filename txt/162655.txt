@@ -1,0 +1,1 @@
+An hourly service operates in each direction Monday-Saturday.

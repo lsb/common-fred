@@ -1,0 +1,1 @@
+In addition, the mask effectively reduces the dynamic range of the original negative.

@@ -1,0 +1,1 @@
+Patches to security issues in a computer program are also sometimes called errata.

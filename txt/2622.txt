@@ -1,0 +1,1 @@
+"""Gel highlighters"" contain a gel stick rather than a felt tip."

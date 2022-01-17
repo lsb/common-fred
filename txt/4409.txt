@@ -1,0 +1,1 @@
+"""Lithops"" leaves may shrink and disappear below ground level during drought."

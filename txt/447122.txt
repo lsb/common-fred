@@ -1,0 +1,1 @@
+Martin Fowler lists this as one of his refactorings at refactoring dot com.

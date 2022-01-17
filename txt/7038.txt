@@ -1,0 +1,1 @@
+"""SsangYong"", literally translated, means ""Double Dragon""."

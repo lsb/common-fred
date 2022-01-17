@@ -1,0 +1,1 @@
+Its virtual machine makes use of string threading.

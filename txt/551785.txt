@@ -1,0 +1,1 @@
+Switching off the field allows release of the trapped cells into a separate container.

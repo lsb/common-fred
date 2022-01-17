@@ -1,0 +1,1 @@
+The Republic player does not know which token represents which leader.

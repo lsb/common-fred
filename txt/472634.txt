@@ -1,0 +1,1 @@
+Observe that the grammar does not have left recursions.

@@ -1,0 +1,1 @@
+It supports backing up from all storage engines.

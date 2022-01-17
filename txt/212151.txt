@@ -1,0 +1,1 @@
+Consider a collection of bombs, of which some are duds.

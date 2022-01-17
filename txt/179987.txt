@@ -1,0 +1,1 @@
+Automata theory is a subject matter that studies properties of various types of automata.

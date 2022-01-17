@@ -1,0 +1,1 @@
+A document ballot voting system can allow for manual or electronic tabulation.

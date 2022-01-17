@@ -1,0 +1,1 @@
+Tables are compound data structures that may contain any of the regular data types.

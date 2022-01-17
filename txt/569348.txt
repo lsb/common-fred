@@ -1,0 +1,1 @@
+The NavPix image contains the latitude and longitude information within the Exif metadata.

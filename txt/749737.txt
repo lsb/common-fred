@@ -1,0 +1,1 @@
+Thus, the data rate is four times the baud rate.

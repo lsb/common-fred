@@ -1,0 +1,1 @@
+A modal test consists of an acquisition phase and an analysis phase.

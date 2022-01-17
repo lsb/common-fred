@@ -1,0 +1,1 @@
+"""Idel-Ural"" means ""Volga-Ural"" in the Tatar language."

@@ -1,0 +1,1 @@
+A rooted tree itself has been defined by some authors as a directed graph.

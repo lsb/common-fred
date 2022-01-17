@@ -1,0 +1,1 @@
+Avalanche diodes generate radio frequency noise.

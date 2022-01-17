@@ -1,0 +1,1 @@
+ResKnife can export resource data to flat files and supports third-party plug-in editors.

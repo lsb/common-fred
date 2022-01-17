@@ -1,0 +1,1 @@
+With appropriate hardware, both encryption and decryption should be transparent.

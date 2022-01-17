@@ -1,0 +1,1 @@
+Elasticity theory primarily develops formalisms for the mechanics of solid bodies and materials.

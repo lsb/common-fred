@@ -1,0 +1,1 @@
+This article will try to list the inconsistencies between the major user agents.

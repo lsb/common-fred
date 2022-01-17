@@ -1,0 +1,1 @@
+Deferred synchronous invocations are submitted without having to wait for a response.

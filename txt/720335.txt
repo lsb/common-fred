@@ -1,0 +1,1 @@
+They roll dice and move around the board, trying to collect jobs and apartments.

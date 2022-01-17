@@ -1,0 +1,1 @@
+In general, analog computers are limited by non-ideal effects.

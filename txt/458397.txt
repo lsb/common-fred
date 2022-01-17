@@ -1,0 +1,1 @@
+Most programming languages support various types of data, for example: real, integer or Boolean.

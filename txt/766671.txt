@@ -1,0 +1,1 @@
+VeriSign generates and distributes the zone file to the various root server operators.

@@ -1,0 +1,1 @@
+In shuffleboard, one tries to score, prevent the opponent from scoring, or both.

@@ -1,0 +1,1 @@
+Various options for synchronous multi-master replication exist.

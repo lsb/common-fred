@@ -1,0 +1,1 @@
+A special case exists, if there is enough energy to power the system directly.

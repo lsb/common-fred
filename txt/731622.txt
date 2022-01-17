@@ -1,0 +1,1 @@
+This is a community-supported project offering SlackBuilds for building software not included with Slackware.

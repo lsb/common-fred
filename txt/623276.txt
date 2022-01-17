@@ -1,0 +1,1 @@
+The image processor has a lot of complex tasks to execute.

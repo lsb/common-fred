@@ -1,0 +1,1 @@
+"Other geodesics are governed by Clairaut's relation."

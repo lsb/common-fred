@@ -1,0 +1,1 @@
+The height of the entire stack of residues is the information measured in bits.

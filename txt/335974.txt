@@ -1,0 +1,1 @@
+However, deadlocks become an unfortunate side-effect of locking in databases.

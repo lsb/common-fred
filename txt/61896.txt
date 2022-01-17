@@ -1,0 +1,1 @@
+"Ligand-receptor interactions are typically ""polar positive"", ""polar negative"" or ""hydrophobic""."

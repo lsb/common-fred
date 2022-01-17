@@ -1,0 +1,1 @@
+It successfully discriminated three brands of orange juice beverage.

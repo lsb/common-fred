@@ -1,0 +1,1 @@
+Celsius is a common temperature scale.

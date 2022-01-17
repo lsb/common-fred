@@ -1,0 +1,1 @@
+Each syllable conveys information about how the drummer is to play a particular note.

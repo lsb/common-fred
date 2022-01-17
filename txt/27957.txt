@@ -1,0 +1,1 @@
+"Each player's piece is moved according to throws of one or two dice."

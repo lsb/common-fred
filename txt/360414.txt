@@ -1,0 +1,1 @@
+In software architecture, design languages are related to architecture description languages.

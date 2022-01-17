@@ -1,0 +1,1 @@
+In another context, there is often a tradeoff between temporal resolution and computer storage.

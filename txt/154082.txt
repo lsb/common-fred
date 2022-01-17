@@ -1,0 +1,1 @@
+All openMosix nodes are inherently equal and each can be, simultaneously, parent and child.

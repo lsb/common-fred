@@ -1,0 +1,1 @@
+The value returned from the java function will be passed to the callback method.

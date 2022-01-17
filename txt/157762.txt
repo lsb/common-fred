@@ -1,0 +1,1 @@
+Also improved were port openings for expansion cards.

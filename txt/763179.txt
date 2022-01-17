@@ -1,0 +1,1 @@
+Unlike low-level instruction caches, query recycling uses an optimizer to pre-select instructions to cache.

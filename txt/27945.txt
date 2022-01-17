@@ -1,0 +1,1 @@
+"Each of these component modules processes one bit field or ""slice"" of an operand."

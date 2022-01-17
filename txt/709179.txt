@@ -1,0 +1,1 @@
+These types can be used for precision works.

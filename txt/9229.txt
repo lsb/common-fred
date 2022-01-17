@@ -1,0 +1,1 @@
+"""Xara Xtreme Pro"" was renamed ""Xara Designer Pro""."

@@ -1,0 +1,1 @@
+All functional programming languages are expression-oriented.

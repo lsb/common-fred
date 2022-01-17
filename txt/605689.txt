@@ -1,0 +1,1 @@
+The driver for that file system must be compiled statically into the kernel.

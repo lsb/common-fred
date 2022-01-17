@@ -1,0 +1,1 @@
+Battles end when one party either dies or lets their back touch the ground.

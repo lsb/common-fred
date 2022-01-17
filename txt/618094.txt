@@ -1,0 +1,1 @@
+The game is won when all cards are built onto the foundations.

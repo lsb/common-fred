@@ -1,0 +1,1 @@
+"""Hypnotic Lights"" is excluded because it is mostly a technical demo."

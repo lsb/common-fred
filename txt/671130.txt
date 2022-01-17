@@ -1,0 +1,1 @@
+The subdifferential is always a nonempty convex compact set.

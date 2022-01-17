@@ -1,0 +1,1 @@
+Instead the application developers have to create these artifacts manually.

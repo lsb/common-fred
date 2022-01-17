@@ -1,0 +1,1 @@
+"If the letter wasn't in the puzzle, control passed to the opposing team."

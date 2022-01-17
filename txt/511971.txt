@@ -1,0 +1,1 @@
+Scaling is a linear transformation, and a special case of homothetic transformation.

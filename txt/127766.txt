@@ -1,0 +1,1 @@
+A key must be selected before using a cipher to encrypt a message.

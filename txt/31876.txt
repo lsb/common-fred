@@ -1,0 +1,1 @@
+"Galeon made use of Gecko's features including configuration options and standards support."

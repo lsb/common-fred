@@ -1,0 +1,1 @@
+The game engine can also be extended via a set of Python bindings.

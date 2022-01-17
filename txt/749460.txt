@@ -1,0 +1,1 @@
+Thus, any exciting frequency lower than the cutoff frequency will attenuate, rather than propagate.

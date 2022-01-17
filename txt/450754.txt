@@ -1,0 +1,1 @@
+Memory capacity was doubled and a few new functions introduced such as immobilizer compatibility.

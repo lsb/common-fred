@@ -1,0 +1,1 @@
+A code which attains the Hamming bound is said to be a perfect code.

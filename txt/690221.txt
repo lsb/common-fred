@@ -1,0 +1,1 @@
+Then the centroid of the figure is the weighted average of the three points.

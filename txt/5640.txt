@@ -1,0 +1,1 @@
+"""Pan-pan medico"" is no longer in official use."

@@ -1,0 +1,1 @@
+Support for new script systems was added by so-called Language Kits.

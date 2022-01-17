@@ -1,0 +1,1 @@
+A tableau is open if at least one branch is not closed.

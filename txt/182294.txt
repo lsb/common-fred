@@ -1,0 +1,1 @@
+Based on sequence and secondary structure prediction analyses identified the coiled-coil domains of keratins.

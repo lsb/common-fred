@@ -1,0 +1,1 @@
+Similarly, regular morphisms between varieties are interpreted as holomorphic mappings between analytic spaces.

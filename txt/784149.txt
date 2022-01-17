@@ -1,0 +1,1 @@
+Within the nozzles, the flow changes from laminar, to supersonic and molecular.

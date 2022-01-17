@@ -1,0 +1,1 @@
+The Cyclops system provides a receiver with a billion simultaneous narrow channel outputs.

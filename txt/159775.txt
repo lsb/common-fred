@@ -1,0 +1,1 @@
+AltiVec was also used in some embedded systems for high-performance digital signal processing.

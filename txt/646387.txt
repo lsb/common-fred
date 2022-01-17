@@ -1,0 +1,1 @@
+The parser is mechanically generated from a formal grammar for the language.

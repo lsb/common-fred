@@ -1,0 +1,1 @@
+The topmost node in a tree is called the root node.

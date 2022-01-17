@@ -1,0 +1,1 @@
+Reed pipes are scaled according to different formulas than for flue pipes.

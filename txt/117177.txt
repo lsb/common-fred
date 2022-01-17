@@ -1,0 +1,1 @@
+"Weber's law is used in haptic devices and robotic applications."

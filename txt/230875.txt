@@ -1,0 +1,1 @@
+Each flavor cycle can be represented by a vertex.

@@ -1,0 +1,1 @@
+I rely on automatic formatting in my text editor to keep the code neat.

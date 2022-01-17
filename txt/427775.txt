@@ -1,0 +1,1 @@
+Knots with symmetries are known to have restricted Alexander polynomials.

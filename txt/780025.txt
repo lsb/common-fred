@@ -1,0 +1,1 @@
+White, on move, must retreat his king, when Black is out of danger.

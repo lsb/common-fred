@@ -1,0 +1,1 @@
+"""Orochi"" means ""giant snake"" or ""serpent""."

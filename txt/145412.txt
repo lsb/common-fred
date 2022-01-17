@@ -1,0 +1,1 @@
+After amplification, the detected signals are accumulated in integrators.

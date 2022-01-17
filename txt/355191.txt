@@ -1,0 +1,1 @@
+In an optical mesh network, protecting multicast lightpaths is one of the key concerns.

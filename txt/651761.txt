@@ -1,0 +1,1 @@
+The processor starts in big-endian mode.

@@ -1,0 +1,1 @@
+If he hits an enemy, it is destroyed and points are scored.

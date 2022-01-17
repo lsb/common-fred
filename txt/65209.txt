@@ -1,0 +1,1 @@
+"Modern usage almost always uses ""range"" to mean ""image""."

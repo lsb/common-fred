@@ -1,0 +1,1 @@
+It is sometimes called a boxcar filter, especially when followed by decimation.

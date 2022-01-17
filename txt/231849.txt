@@ -1,0 +1,1 @@
+Each sub-region may be composed of anywhere between two and ten units.

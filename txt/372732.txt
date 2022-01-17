@@ -1,0 +1,1 @@
+It also writes to the Windows Security Log.

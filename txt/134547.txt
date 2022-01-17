@@ -1,0 +1,1 @@
+A relational database consists of sets of tuples with the same attributes.

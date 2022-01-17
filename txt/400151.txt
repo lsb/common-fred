@@ -1,0 +1,1 @@
+It lacks a clear object model, which makes continued support and improvement difficult.

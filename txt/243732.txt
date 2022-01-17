@@ -1,0 +1,1 @@
+Finally, the outputs of these four filters are added.

@@ -1,0 +1,1 @@
+"In classical mechanics, forces can only change a particle's momentum."

@@ -1,0 +1,1 @@
+In theory this process should also reduce bus bandwidth requirements.

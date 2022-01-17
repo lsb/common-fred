@@ -1,0 +1,1 @@
+However, the circuit will behave differently if a load is added.

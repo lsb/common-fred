@@ -1,0 +1,1 @@
+For most applications, the farad is an impractically large unit of capacitance.

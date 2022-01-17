@@ -1,0 +1,1 @@
+If recognition confidence is high, the best result is played to the caller.

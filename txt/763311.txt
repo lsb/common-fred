@@ -1,0 +1,1 @@
+Unlike previous ports, this version is based directly on the arcade originals.

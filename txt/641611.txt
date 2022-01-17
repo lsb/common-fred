@@ -1,0 +1,1 @@
+The objective is to connect seven cards with your goal element.

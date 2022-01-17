@@ -1,0 +1,1 @@
+A traction link from motor to the vehicle frame transmits tractive forces.

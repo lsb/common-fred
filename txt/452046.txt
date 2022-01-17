@@ -1,0 +1,1 @@
+Microsoft just announced they have open sourced their machine learning framework for dot net.

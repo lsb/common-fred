@@ -1,0 +1,1 @@
+Amount knob that sets an envelope to the frequency modulation.

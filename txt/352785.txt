@@ -1,0 +1,1 @@
+In Rayleigh fading, the amplitude gain is characterized by a Rayleigh distribution.

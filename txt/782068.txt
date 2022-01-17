@@ -1,0 +1,1 @@
+Windows uses the paging file as temporary storage for the memory dump.

@@ -1,0 +1,1 @@
+Another class of semigroups forming medial magmas are the normal bands.

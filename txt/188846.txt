@@ -1,0 +1,1 @@
+Bochner characterized classical orthogonal polynomials in terms of their recurrence relations.

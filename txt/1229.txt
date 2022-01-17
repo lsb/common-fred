@@ -1,0 +1,1 @@
+"""Car and Driver"" refused, saying it might be faster because of the new driver."

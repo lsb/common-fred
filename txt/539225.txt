@@ -1,0 +1,1 @@
+Some important methods of statistical inference use resampling from the observed data.

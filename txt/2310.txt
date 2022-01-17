@@ -1,0 +1,1 @@
+"""Fantastique"" itself is more of an introduction piece than ""Entrance"" is."

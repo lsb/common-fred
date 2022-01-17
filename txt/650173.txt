@@ -1,0 +1,1 @@
+The power take-off allows implements to draw energy from the engine.

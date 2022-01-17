@@ -1,0 +1,1 @@
+Stronger notions of inaccessibility can be defined using cofinality.

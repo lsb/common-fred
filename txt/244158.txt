@@ -1,0 +1,1 @@
+Fire control integrates a laser telemeter and a thermal camera.

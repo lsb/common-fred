@@ -1,0 +1,1 @@
+"""The Eagles"" is the name of the school magazine published by the school."

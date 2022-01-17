@@ -1,0 +1,1 @@
+There is a method computing the width of the border.

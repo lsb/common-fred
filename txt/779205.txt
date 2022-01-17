@@ -1,0 +1,1 @@
+While one image is being shown, the projection of its mate is blocked.

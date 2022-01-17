@@ -1,0 +1,1 @@
+When pressing select to give up, Lolo does not actually die this time.

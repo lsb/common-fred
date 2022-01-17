@@ -1,0 +1,1 @@
+An annihilation operator lowers the number of particles in a given state by one.

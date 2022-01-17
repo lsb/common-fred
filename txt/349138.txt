@@ -1,0 +1,1 @@
+If a step cannot be completed, the protocol immediately stops.

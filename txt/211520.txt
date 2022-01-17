@@ -1,0 +1,1 @@
+Conformance of types is defined by the familiar rules for polymorphism in object-oriented programming.

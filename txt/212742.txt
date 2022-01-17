@@ -1,0 +1,1 @@
+Continuum models must often be discretized in order to obtain a numerical solution.

@@ -1,0 +1,1 @@
+"""Stasiland"" is being developed for the stage by The National Theatre in London."

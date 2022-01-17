@@ -1,0 +1,1 @@
+These formal products do not necessarily commute with other operators or products.

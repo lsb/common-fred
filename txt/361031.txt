@@ -1,0 +1,1 @@
+In such a case, this defines the inverse distribution function or quantile function.

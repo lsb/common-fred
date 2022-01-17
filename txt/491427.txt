@@ -1,0 +1,1 @@
+Perl is also now supported running under Microsoft Windows and several other operating systems.

@@ -1,0 +1,1 @@
+"Additional buttons permitted adjusting the player's guitar volume and feedback effects in the game."

@@ -1,0 +1,1 @@
+Controls work as four interface buttons located below the screen.

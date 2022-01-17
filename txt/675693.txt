@@ -1,0 +1,1 @@
+The tone stops when the first dialed digit is recognized.

@@ -1,0 +1,1 @@
+Token threaded code is notably compact, without much special effort by a programmer.

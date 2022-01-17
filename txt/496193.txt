@@ -1,0 +1,1 @@
+Postconditions are sometimes tested using assertions within the code itself.

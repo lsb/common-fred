@@ -1,0 +1,1 @@
+The primary phosphor will emit photons following absorption of the transferred energy.

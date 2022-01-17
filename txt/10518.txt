@@ -1,0 +1,1 @@
+"A fifth category, ""Other"", appears when third-party preference panes are installed."

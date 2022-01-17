@@ -1,0 +1,1 @@
+"""Pepper Ann"" stars adolescents and charts their ups and downs at Hazelnut Middle School."

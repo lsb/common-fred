@@ -1,0 +1,1 @@
+Station sectors all have a planet within the sector.

@@ -1,0 +1,1 @@
+Therefore, applications running fixed clocks will drift apart over time and glitches will occur.

@@ -1,0 +1,1 @@
+There is also Sequence Dice which uses dice instead of cards.

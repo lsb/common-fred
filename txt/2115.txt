@@ -1,0 +1,1 @@
+"""Empire"" gave the film two out of five stars."

@@ -1,0 +1,1 @@
+"Source transformations are easy to compute using Ohm's law."

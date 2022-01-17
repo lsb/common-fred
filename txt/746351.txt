@@ -1,0 +1,1 @@
+Those functions are a subset of the ones delegated to a core city.

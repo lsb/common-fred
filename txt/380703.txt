@@ -1,0 +1,1 @@
+It includes handshaking to negotiate authentication, encryption and maximum message size.

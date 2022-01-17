@@ -1,0 +1,1 @@
+Coverage is the entire area to cover all related rectangles.

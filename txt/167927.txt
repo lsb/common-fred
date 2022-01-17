@@ -1,0 +1,1 @@
+Any finite product in a preadditive category must also be a coproduct, and conversely.

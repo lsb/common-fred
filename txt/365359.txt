@@ -1,0 +1,1 @@
+In this example, the image has been split into two component images.

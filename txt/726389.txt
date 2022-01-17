@@ -1,0 +1,1 @@
+This capability inherently supports multi-tenancy within a single operating system image.

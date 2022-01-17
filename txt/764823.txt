@@ -1,0 +1,1 @@
+Users of this software can also recover their system to a Hyper-V virtual machine.

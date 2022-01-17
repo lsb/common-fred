@@ -1,0 +1,1 @@
+"Riemann approximating sums can be used to approximate the contour integral uniformly over ""K""."

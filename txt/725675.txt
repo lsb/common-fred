@@ -1,0 +1,1 @@
+This behavior is very different from the expected equipartition of energy.

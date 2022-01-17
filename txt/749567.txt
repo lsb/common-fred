@@ -1,0 +1,1 @@
+Thus, it allows a multicast routing topology different from the unicast routing topology.

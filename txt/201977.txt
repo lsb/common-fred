@@ -1,0 +1,1 @@
+Canonical forms are generally used to make operating with equivalence classes more effective.

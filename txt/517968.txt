@@ -1,0 +1,1 @@
+Shaders provide a programmable alternative to this hard-coded approach.

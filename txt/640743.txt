@@ -1,0 +1,1 @@
+The non-replicating design was modified to include all subsystems necessary for self-replication.

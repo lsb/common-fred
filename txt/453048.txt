@@ -1,0 +1,1 @@
+Minkowski sums are used in motion planning of an object among obstacles.

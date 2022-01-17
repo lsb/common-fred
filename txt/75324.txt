@@ -1,0 +1,1 @@
+"Selectivity filters are designed to ""select"" a channel."

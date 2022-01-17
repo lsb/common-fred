@@ -1,0 +1,1 @@
+This compositional element operates within the picture in a number of ways.

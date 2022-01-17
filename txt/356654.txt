@@ -1,0 +1,1 @@
+In fact, this is the free monoid over the set of list elements.

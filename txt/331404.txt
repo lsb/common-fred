@@ -1,0 +1,1 @@
+Historical analogues to modern side-channel attacks are known.

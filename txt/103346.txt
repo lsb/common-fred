@@ -1,0 +1,1 @@
+"The theorem states that this is the ""only"" case of two consecutive powers."

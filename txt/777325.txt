@@ -1,0 +1,1 @@
+When the meter is depleted entirely the game is over.

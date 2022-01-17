@@ -1,0 +1,1 @@
+Most of these factories suffered badly in the transition process.

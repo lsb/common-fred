@@ -1,0 +1,1 @@
+"The same operation applied again restores the original ""P""."

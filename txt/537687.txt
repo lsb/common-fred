@@ -1,0 +1,1 @@
+Some Compact Flash memory cards will not work.

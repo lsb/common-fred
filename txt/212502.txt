@@ -1,0 +1,1 @@
+Consumable food items appearing in the production are also considered props.

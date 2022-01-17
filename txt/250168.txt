@@ -1,0 +1,1 @@
+For this reason, multiple root servers are distributed worldwide across the Internet.

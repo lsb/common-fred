@@ -1,0 +1,1 @@
+The control signal was used to synchronize the moving heads for playback.

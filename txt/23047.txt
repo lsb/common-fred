@@ -1,0 +1,1 @@
+"Characters are evaluated based on three ""Stats"", against which all action checks are made."

@@ -1,0 +1,1 @@
+Each weapon also has its own damage rating and range.

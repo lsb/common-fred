@@ -1,0 +1,1 @@
+The three types of delay clocks differ in how the delay is implemented.

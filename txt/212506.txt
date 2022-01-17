@@ -1,0 +1,1 @@
+Consumer and supplier prices should also drop accordingly.

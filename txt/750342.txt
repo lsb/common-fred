@@ -1,0 +1,1 @@
+Timing the recipe begins when the selected pressure is reached.

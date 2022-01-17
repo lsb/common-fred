@@ -1,0 +1,1 @@
+Maximal outerplanar graphs are also formed as the graphs of polygon triangulations.

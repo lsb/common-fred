@@ -1,0 +1,1 @@
+In case of Exchange Server, only emails, calendar, contacts and tasks may be synchronized.

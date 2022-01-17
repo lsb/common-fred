@@ -1,0 +1,1 @@
+Each link has two transmission channels, one for each direction.

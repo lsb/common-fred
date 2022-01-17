@@ -1,0 +1,1 @@
+Slew rate can also be measured in degrees per second.

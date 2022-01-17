@@ -1,0 +1,1 @@
+With more than one table, the result set will be every combination of rows.

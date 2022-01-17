@@ -1,0 +1,1 @@
+"Also, a ""toy"" language is distinguished from domain-specific languages and esoteric programming languages."

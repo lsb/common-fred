@@ -1,0 +1,1 @@
+"To avoid this ambiguity, the less abbreviated terms ""lsbit"" or ""lsbyte"" are often used."

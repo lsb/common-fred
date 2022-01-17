@@ -1,0 +1,1 @@
+A simplified packet data model is the greedy source model.

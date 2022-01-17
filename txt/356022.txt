@@ -1,0 +1,1 @@
+In cooperative mode, the second player takes the place of the combat bots.

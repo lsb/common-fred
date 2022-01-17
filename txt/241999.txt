@@ -1,0 +1,1 @@
+Feasible successors are also recorded in the topology table.

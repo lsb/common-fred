@@ -1,0 +1,1 @@
+"""Xenopus"" membrane polarity is established with the first cell cleavage."

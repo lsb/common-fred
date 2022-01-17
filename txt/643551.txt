@@ -1,0 +1,1 @@
+The original Chunky consisted of a one piece section that was not sectionalized.

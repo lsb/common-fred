@@ -1,0 +1,1 @@
+It should be usable for both phonemic and narrow phonetic transcription.

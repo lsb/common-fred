@@ -1,0 +1,1 @@
+"""Limnos"" beach has also two restaurants and a patisserie."

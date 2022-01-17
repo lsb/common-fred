@@ -1,0 +1,1 @@
+Many combinatorial identities arise from double counting methods or the method of distinguished element.

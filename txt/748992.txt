@@ -1,0 +1,1 @@
+Thus characters are encoded in pairs over the same section of the barcode.

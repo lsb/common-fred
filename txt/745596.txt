@@ -1,0 +1,1 @@
+This would remove all duplication of type checks and traversal steps.

@@ -1,0 +1,1 @@
+There are several movement types, ranging from simple walking to airborne flight.

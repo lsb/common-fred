@@ -1,0 +1,1 @@
+The developer may mix graphical and programmatic ribbon development as is convenient.

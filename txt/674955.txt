@@ -1,0 +1,1 @@
+The three difficulty modes determine how many health points Johnny has.

@@ -1,0 +1,1 @@
+This is the probability mass function of a binomial distribution.

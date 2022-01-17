@@ -1,0 +1,1 @@
+In practice it does not have any impact on delivery throughput.

@@ -1,0 +1,1 @@
+"""King-Size Homer"" was written by Dan Greaney, and directed by Jim Reardon."

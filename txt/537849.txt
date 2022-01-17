@@ -1,0 +1,1 @@
+Some act as sensors of osmotic pressure, volume, stretch, and vibration.

@@ -1,0 +1,1 @@
+Therefore, any integer linear combination of binomial coefficient polynomials is integer-valued too.

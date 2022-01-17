@@ -1,0 +1,1 @@
+The first column represents a forwarded symbol that will store its location in memory.

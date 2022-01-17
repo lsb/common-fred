@@ -1,0 +1,1 @@
+"The proof uses the above-mentioned, proof-theoretic Herbrand's theorem."

@@ -1,0 +1,1 @@
+It is also able to open some files in external text editors.

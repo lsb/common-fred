@@ -1,0 +1,1 @@
+Internal security uses type safety instead of hardware memory protection.

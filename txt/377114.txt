@@ -1,0 +1,1 @@
+It follows that both extended Euclidean algorithms are widely used in cryptography.

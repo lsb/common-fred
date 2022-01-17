@@ -1,0 +1,1 @@
+To calibrate the motion capturing system, please do a T-pose.

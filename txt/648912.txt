@@ -1,0 +1,1 @@
+The player has an energy bar that slowly depletes over time.

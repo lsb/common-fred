@@ -1,0 +1,1 @@
+An expression with side effects does not normally have the property of referential transparency.

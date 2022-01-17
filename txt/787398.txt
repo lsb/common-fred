@@ -1,0 +1,1 @@
+You can speak a label to click on an element.

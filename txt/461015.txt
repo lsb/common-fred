@@ -1,0 +1,1 @@
+Musgrave designed the initial fractal-based programs on which Bryce was based.

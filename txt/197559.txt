@@ -1,0 +1,1 @@
+But in practice this character encoding is unused on the Internet.

@@ -1,0 +1,1 @@
+Distributions are another type of open-source project.

@@ -1,0 +1,1 @@
+Therefore, regular semantics is a weaker property than an atomic semantics.

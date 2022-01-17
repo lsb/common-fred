@@ -1,0 +1,1 @@
+This signal is used infrequently.

@@ -1,0 +1,1 @@
+This solution stops the bullets in a total different way.

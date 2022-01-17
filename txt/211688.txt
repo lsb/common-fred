@@ -1,0 +1,1 @@
+Conkeror emphasizes Emacs-derived key bindings and keyboard-based browser navigation.

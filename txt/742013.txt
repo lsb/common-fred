@@ -1,0 +1,1 @@
+This the algebraic translation of the preceding definition.

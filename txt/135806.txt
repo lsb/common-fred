@@ -1,0 +1,1 @@
+A simple opisometer consists of a toothed wheel of known circumference on a handle.

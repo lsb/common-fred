@@ -1,0 +1,1 @@
+A variable length space can be inserted between the code words.

@@ -1,0 +1,1 @@
+Quests can be linked together to form quest series or chains.

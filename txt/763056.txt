@@ -1,0 +1,1 @@
+Unlike Pico, nano uses meta keys to toggle its behavior.

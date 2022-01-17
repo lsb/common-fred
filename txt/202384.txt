@@ -1,0 +1,1 @@
+Card counters must accurately know exactly when to hit, stand, split, or double down.

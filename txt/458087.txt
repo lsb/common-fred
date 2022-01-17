@@ -1,0 +1,1 @@
+Most of these bowling centers use a string type pinsetter similar to five pin.

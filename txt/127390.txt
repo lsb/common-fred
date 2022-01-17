@@ -1,0 +1,1 @@
+A handle is an abstract reference, and may be represented in various ways.

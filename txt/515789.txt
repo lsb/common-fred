@@ -1,0 +1,1 @@
+Settlement is the delivery of securities to complete trades.

@@ -1,0 +1,1 @@
+In particular, the truth set of first-order arithmetic is implicitly arithmetical but not arithmetical.

@@ -1,0 +1,1 @@
+A team can win a match by a certain number of wickets.

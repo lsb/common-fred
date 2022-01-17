@@ -1,0 +1,1 @@
+"Most commercial imaging software is ""user-friendly"" and ""automatic"" but may not create bit-identical images."

@@ -1,0 +1,1 @@
+The subproblem is a new problem created to identify a new variable.

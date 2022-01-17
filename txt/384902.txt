@@ -1,0 +1,1 @@
+It is an authenticated encryption algorithm designed to provide both authentication and confidentiality.

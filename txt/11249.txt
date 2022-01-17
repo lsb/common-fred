@@ -1,0 +1,1 @@
+"A rake receiver utilizes multiple correlators to separately detect ""M"" strongest multipath components."

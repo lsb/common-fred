@@ -1,0 +1,1 @@
+With two-rail track, when the track reverses on itself, this causes a short circuit.

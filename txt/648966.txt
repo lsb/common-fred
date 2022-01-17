@@ -1,0 +1,1 @@
+The player opens and closes the hand over the hole to change the pitch.

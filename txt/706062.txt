@@ -1,0 +1,1 @@
+These icons have their own context-sensitive menus and support drag and drop behaviour.

@@ -1,0 +1,1 @@
+If the bomb explodes, players must restart.

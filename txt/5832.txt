@@ -1,0 +1,1 @@
+"""Planet Simpson"" author Chris Turner called the joke ""unmistakably Simpsonian""."

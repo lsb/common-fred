@@ -1,0 +1,1 @@
+If using the Windows firewall, users only need to open a single port.

@@ -1,0 +1,1 @@
+A single image can serve thousands of nodes.

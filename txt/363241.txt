@@ -1,0 +1,1 @@
+In the game, two types of scores are possible: points and goals.

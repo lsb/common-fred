@@ -1,0 +1,1 @@
+"A program called ""Graphics Exhibitor"" was included for creating slideshow presentations from KoalaPainter drawings."

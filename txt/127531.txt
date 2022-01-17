@@ -1,0 +1,1 @@
+A hinge joint can be considered a modified sellar joint, with reduced movement.

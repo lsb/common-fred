@@ -1,0 +1,1 @@
+"Real-time programs must guarantee response within specified time constraints, often referred to as ""deadlines""."

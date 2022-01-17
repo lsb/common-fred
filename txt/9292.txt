@@ -1,0 +1,1 @@
+"""Yes,"" said L., ""that is pretty plain sailing."""

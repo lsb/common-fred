@@ -1,0 +1,1 @@
+Two key-components are required for the profiling based on full-waveform inversion.

@@ -1,0 +1,1 @@
+In order to do this, the web browser must know what encoding was used.

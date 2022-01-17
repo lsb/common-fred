@@ -1,0 +1,1 @@
+The player bouncing the quarter is referred to as the shooter.

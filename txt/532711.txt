@@ -1,0 +1,1 @@
+Similarly, highly technical exceptions can be transformed into exceptions which are easier for the user to follow.

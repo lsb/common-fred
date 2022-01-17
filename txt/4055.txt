@@ -1,0 +1,1 @@
+"""Jump, Little Children"" was the last song played."

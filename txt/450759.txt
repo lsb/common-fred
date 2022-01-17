@@ -1,0 +1,1 @@
+Memory indexing may be used in some cases to optimise removal.

@@ -1,0 +1,1 @@
+Each observed interval may over- or underestimate the true proportion.

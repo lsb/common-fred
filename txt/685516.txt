@@ -1,0 +1,1 @@
+The wgatray dot exe process itself can be firewall blocked, without apparent problems.

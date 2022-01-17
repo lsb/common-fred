@@ -1,0 +1,1 @@
+Meetro had planned to also display the local weather and nearby geotagged photos.

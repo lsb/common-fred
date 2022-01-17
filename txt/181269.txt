@@ -1,0 +1,1 @@
+Ballistic apogee is the highest altitude in the trajectory of a projectile.

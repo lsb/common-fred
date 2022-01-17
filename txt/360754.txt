@@ -1,0 +1,1 @@
+In some modes of operation, it does not deallocate freed buffers.

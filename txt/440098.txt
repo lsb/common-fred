@@ -1,0 +1,1 @@
+MacIdris ran as an application under the Finder or Multifinder.

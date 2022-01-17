@@ -1,0 +1,1 @@
+"Pressing B passes the ball, while A shoots at the opponent's goal."

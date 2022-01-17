@@ -1,0 +1,1 @@
+Here a hyperrational is by definition a ratio of two hyperintegers.

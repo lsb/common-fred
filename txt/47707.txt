@@ -1,0 +1,1 @@
+"If ""b"" is a prime power, then the ring is also a field."

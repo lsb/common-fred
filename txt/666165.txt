@@ -1,0 +1,1 @@
+The software consists of both client and server components, and a desktop client.

@@ -1,0 +1,1 @@
+A random dot-product graph associates with each vertex a real vector.

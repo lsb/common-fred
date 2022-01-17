@@ -1,0 +1,1 @@
+A significant portion of the audio processing unit was devoted to this resampling engine.

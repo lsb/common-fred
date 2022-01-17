@@ -1,0 +1,1 @@
+"""People versus Collins"" is a more recent example."

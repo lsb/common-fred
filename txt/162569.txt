@@ -1,0 +1,1 @@
+An experimental implementation of bitrate peeling can be found here.

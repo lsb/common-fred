@@ -1,0 +1,1 @@
+This order relation can be used for comparison of the topologies.

@@ -1,0 +1,1 @@
+Any sort of saturated molecule can be the starting point for generating isolobal fragments.

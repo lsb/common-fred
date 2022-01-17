@@ -1,0 +1,1 @@
+Image registration could be easily incorporated into low-power embedded devices.

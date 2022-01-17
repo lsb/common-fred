@@ -1,0 +1,1 @@
+The Shapley value is characterized by a collection of desirable properties.

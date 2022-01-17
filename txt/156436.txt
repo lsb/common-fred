@@ -1,0 +1,1 @@
+All visual field locations are stimulated in parallel with their individual stimulus sequence.

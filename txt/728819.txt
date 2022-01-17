@@ -1,0 +1,1 @@
+This equation is derived from kinetic theory of gases using Maxwell-Boltzmann distribution function.

@@ -1,0 +1,1 @@
+This method takes longer to count the score at the end of each hand.

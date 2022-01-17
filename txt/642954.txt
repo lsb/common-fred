@@ -1,0 +1,1 @@
+The operator sets the faders into their positions based on the cue sheets.

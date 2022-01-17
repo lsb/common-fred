@@ -1,0 +1,1 @@
+In paraxial approximation, the calculations can be done using ray transfer matrix analysis.

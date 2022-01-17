@@ -1,0 +1,1 @@
+Applying the dominated convergence theorem yields the desired.

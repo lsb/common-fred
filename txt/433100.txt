@@ -1,0 +1,1 @@
+Left and right primitive ideals are always two-sided ideals.

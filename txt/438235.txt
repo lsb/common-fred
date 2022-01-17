@@ -1,0 +1,1 @@
+Longer sequences are easier to detect than short sequences.

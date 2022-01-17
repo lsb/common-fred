@@ -1,0 +1,1 @@
+Cospectral graphs need not be isomorphic, but isomorphic graphs are always cospectral.

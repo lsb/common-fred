@@ -1,0 +1,1 @@
+It uses two Merced buses, one for every four processor slots.

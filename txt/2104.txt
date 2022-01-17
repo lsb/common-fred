@@ -1,0 +1,1 @@
+"""Emerald"" here simply means ""green coloured"" in Thai."

@@ -1,0 +1,1 @@
+Coloured Petri Nets allow tokens to have a data value attached to them.

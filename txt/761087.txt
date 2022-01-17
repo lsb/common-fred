@@ -1,0 +1,1 @@
+Typical examples are systems described by partial differential equations or by delay differential equations.

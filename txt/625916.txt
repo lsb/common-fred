@@ -1,0 +1,1 @@
+The key does not actually open a lock as such.

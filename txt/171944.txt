@@ -1,0 +1,1 @@
+As a result, the topology satisfies the axioms of a sigma algebra.

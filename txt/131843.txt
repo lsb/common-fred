@@ -1,0 +1,1 @@
+A multicast address is associated with a group of interested receivers.

@@ -1,0 +1,1 @@
+It is the work of Ken Thompson with Dennis Ritchie.

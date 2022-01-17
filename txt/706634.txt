@@ -1,0 +1,1 @@
+These lights may be attached to the body and may blink.

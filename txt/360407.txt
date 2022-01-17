@@ -1,0 +1,1 @@
+In social choice theory, tournaments naturally arise as majority relations of preference profiles.

@@ -1,0 +1,1 @@
+Unicode treats the Gaelic script as a font variant of the Latin alphabet.

@@ -1,0 +1,1 @@
+Runway orientation is determined from historical data of the prevailing winds in the area.

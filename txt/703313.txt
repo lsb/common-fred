@@ -1,0 +1,1 @@
+These are Fighter, Cleric, Wizard, and Thief.

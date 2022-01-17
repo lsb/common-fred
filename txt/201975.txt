@@ -1,0 +1,1 @@
+Canonical coordinates are used in the Hamiltonian formulation of classical mechanics.

@@ -1,0 +1,1 @@
+Dihedral angles are used to specify the molecular conformation.

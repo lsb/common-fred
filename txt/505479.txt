@@ -1,0 +1,1 @@
+Resilient Packet Ring is a new technology for packet-switched self-healing ring networks.

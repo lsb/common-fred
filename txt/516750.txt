@@ -1,0 +1,1 @@
+Several machines share some common elements, such as a grouphead and a portafilter.

@@ -1,0 +1,1 @@
+The active edge table entries have X and other parameter information incremented.

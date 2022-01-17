@@ -1,0 +1,1 @@
+"Let ""T"" be a subset of the vertex set of a graph."

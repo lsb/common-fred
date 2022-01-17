@@ -1,0 +1,1 @@
+All variables in the language are first class objects.

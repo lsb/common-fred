@@ -1,0 +1,1 @@
+"Calculating a Schreier generator is a simple matter of applying Schreier's subgroup lemma."

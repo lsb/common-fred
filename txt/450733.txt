@@ -1,0 +1,1 @@
+Memoization is used to ensure that every hash table is only computed once.

@@ -1,0 +1,1 @@
+Hybrid models are a combination of peer-to-peer and client-server models.

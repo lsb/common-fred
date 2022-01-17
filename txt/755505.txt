@@ -1,0 +1,1 @@
+Traditional engines return the links to the pages that appear most relevant.

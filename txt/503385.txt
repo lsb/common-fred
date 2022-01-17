@@ -1,0 +1,1 @@
+Recursion is allowed, but nesting functions is not.

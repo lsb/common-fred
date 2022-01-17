@@ -1,0 +1,1 @@
+Then the magnitude of the force is proportional to the angle of the bar.

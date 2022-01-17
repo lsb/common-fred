@@ -1,0 +1,1 @@
+Edible items, when ingested, result in comments on their flavor.

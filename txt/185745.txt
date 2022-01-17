@@ -1,0 +1,1 @@
+Bentley created the data structure called the quadtree.

@@ -1,0 +1,1 @@
+Each flavor cycle contributes N because there are N such flavors to sum over.

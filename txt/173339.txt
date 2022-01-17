@@ -1,0 +1,1 @@
+As seen in the examples above tori can be represented as linear groups.

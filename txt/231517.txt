@@ -1,0 +1,1 @@
+Each plant produces either functionally male flowers or functionally female flowers.

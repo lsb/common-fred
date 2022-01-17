@@ -1,0 +1,1 @@
+The dimension of the resulting variety is multiplied by the degree of the extension.

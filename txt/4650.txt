@@ -1,0 +1,1 @@
+"""Mark"" and ""space"" are terms describing logic levels in teleprinter circuits."

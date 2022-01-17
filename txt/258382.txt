@@ -1,0 +1,1 @@
+Gibbons defines a problem as a request for information about an incompletely known model.

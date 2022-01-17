@@ -1,0 +1,1 @@
+Communication with the Roche Cobas Mira is done via the integrated control panel.

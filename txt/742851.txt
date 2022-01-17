@@ -1,0 +1,1 @@
+This variable initially is the closure that iterates through all elements of the list.

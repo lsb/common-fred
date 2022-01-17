@@ -1,0 +1,1 @@
+This configuration is common with twisted pair cable and optical fibre cable.

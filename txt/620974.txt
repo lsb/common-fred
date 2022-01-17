@@ -1,0 +1,1 @@
+The harmonic frequencies are exact integer multiples of the fundamental frequency.

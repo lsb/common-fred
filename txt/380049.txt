@@ -1,0 +1,1 @@
+It has the capability to use radars for target acquisition and range.

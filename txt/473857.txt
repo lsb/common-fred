@@ -1,0 +1,1 @@
+Often, program synthesis employs techniques from formal verification.

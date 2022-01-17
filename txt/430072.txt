@@ -1,0 +1,1 @@
+Larger amounts of texture memory allow for more detailed scenes.

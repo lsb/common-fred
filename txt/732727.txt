@@ -1,0 +1,1 @@
+This is done typically to eliminate unneeded area to limit the computational burden.

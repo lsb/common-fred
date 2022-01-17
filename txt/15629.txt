@@ -1,0 +1,1 @@
+"An onscreen radar marks enemies in the dragon's immediate surroundings as red dots."

@@ -1,0 +1,1 @@
+"""C. difficile"" is transmitted from person to person by the fecal-oral route."

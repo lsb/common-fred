@@ -1,0 +1,1 @@
+Since child processes inherit the credentials from the parent, they can signal each other.

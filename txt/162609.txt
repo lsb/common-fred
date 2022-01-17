@@ -1,0 +1,1 @@
+An extensive-form trembling hand perfect equilibrium is also a sequential equilibrium.

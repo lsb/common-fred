@@ -1,0 +1,1 @@
+Euler proved this by showing that its simple continued fraction expansion is infinite.

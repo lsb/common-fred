@@ -1,0 +1,1 @@
+Four prototypes were completed, one of which was used only for static testing.

@@ -1,0 +1,1 @@
+Interneurons can be further broken down into two groups: local interneurons, and relay interneurons.

@@ -1,0 +1,1 @@
+An isometry of the Euclidean plane is a distance-preserving transformation of the plane.

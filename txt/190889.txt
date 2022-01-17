@@ -1,0 +1,1 @@
+Both authentication methods were successfully reverse engineered within months of release.

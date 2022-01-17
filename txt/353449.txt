@@ -1,0 +1,1 @@
+In a right triangle, the circumcenter is the midpoint of the hypotenuse.

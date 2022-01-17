@@ -1,0 +1,1 @@
+The successor function is used in the Peano axioms which define the natural numbers.

@@ -1,0 +1,1 @@
+Caching policy differs between browsers.

@@ -1,0 +1,1 @@
+Since each of these clocks is highly accurate, they necessarily agree to high order.

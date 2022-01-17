@@ -1,0 +1,1 @@
+"""Butterflies"" is written in the time signature of common time."

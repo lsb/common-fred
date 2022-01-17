@@ -1,0 +1,1 @@
+One can easily prove that the restricted product is itself a locally compact group.

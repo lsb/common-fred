@@ -1,0 +1,1 @@
+Therefore, the recycled aggregate satisfies the absorption specification.

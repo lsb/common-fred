@@ -1,0 +1,1 @@
+Luckily, parallelization is possible, so the project can benefit from running on multiple machines.

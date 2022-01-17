@@ -1,0 +1,1 @@
+Completing the level without this upgrade results in a score bonus.

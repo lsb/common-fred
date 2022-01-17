@@ -1,0 +1,1 @@
+Deciding what elements within the cluster to use is the second stage.

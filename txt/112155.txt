@@ -1,0 +1,1 @@
+"This service operates using the PacketCable technology over the company's cable network."

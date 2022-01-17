@@ -1,0 +1,1 @@
+"Other systems used are the ""iroha"" ordering, and, for kanji, the radical ordering."

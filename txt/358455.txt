@@ -1,0 +1,1 @@
+In modern computers, the interpretation of keypresses is generally left to the software.

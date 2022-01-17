@@ -1,0 +1,1 @@
+"It features a bar code, linked to the customer's personal profile."

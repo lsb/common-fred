@@ -1,0 +1,1 @@
+In Ethernet networks, the algorithm is commonly used to schedule retransmissions after collisions.

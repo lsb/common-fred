@@ -1,0 +1,1 @@
+MetaData only import allows only the importing of MetaData.

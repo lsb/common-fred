@@ -1,0 +1,1 @@
+Provenance refers to the origin of records, essentially who created them.

@@ -1,0 +1,1 @@
+Solving a puzzle will immediately transport the player character to the next screen.

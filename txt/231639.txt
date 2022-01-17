@@ -1,0 +1,1 @@
+Each release includes the Eclipse Platform and several other Eclipse projects.

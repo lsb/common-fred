@@ -1,0 +1,1 @@
+"So ""f"" has a global minimum at ""Y"" say."

@@ -1,0 +1,1 @@
+The minigame system enables users to create configurable and self-contained gameplay modes.

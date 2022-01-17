@@ -1,0 +1,1 @@
+"This paradigm is also called ""Independence"" architectures."

@@ -1,0 +1,1 @@
+Also it corresponds to a checkerboard pattern of two of such squares.

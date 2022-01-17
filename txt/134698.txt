@@ -1,0 +1,1 @@
+A reverse key index reverses the key value before entering it in the index.

@@ -1,0 +1,1 @@
+It allows the study of bilinear or multilinear operations via linear operations.

@@ -1,0 +1,1 @@
+Sparklines are frequently used in line with text.

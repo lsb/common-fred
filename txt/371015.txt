@@ -1,0 +1,1 @@
+It also allowed for each user to run multiple programs, and switch between them.

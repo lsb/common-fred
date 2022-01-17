@@ -1,0 +1,1 @@
+The player loses the game when all life is lost.

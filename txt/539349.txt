@@ -1,0 +1,1 @@
+Some languages have only two classes, whereas Bats has eight.

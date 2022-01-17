@@ -1,0 +1,1 @@
+Initial configurations may be sampled coarsely, and much computation time can be saved.

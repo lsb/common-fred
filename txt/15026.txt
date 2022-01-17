@@ -1,0 +1,1 @@
+"Amdahl's law applies only to the cases where the problem size is fixed."

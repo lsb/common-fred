@@ -1,0 +1,1 @@
+Starting with a fixed circle, a point O on the circle is chosen.

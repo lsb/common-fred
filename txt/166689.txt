@@ -1,0 +1,1 @@
+Another implementation is possible with Linux and iptables.

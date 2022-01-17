@@ -1,0 +1,1 @@
+Invariance by perturbation is true for larger classes than the class of compact operators.

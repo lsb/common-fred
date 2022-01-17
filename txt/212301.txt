@@ -1,0 +1,1 @@
+Constant maturity swaps can either be single currency or cross currency swaps.

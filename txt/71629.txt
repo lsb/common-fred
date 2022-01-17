@@ -1,0 +1,1 @@
+"Players can start off as ""mundanes"", ""Avatars"", or ""Adepts""."

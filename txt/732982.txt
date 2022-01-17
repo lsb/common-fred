@@ -1,0 +1,1 @@
+This is in contrast to a one-pass compiler, which traverses the program only once.

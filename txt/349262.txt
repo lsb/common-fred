@@ -1,0 +1,1 @@
+If every interface on a router is pruned, the router will also be pruned.

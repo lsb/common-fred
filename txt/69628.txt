@@ -1,0 +1,1 @@
+"Only one ""O"" device may be worn per ribbon."

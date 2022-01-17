@@ -1,0 +1,1 @@
+This means length of an object is variable depending on the observer.

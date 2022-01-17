@@ -1,0 +1,1 @@
+Shotgun sequencing reveals genes present in environmental samples.

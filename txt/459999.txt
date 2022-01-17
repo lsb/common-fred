@@ -1,0 +1,1 @@
+Much of extremal combinatorics concerns classes of sets; this is called extremal set theory.

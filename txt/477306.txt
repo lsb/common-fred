@@ -1,0 +1,1 @@
+One can create a bit-commitment scheme from any one-way function that is injective.

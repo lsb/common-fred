@@ -1,0 +1,1 @@
+Such patterns are identified by many users, ambiguously, as camel case.

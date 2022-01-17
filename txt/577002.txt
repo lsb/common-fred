@@ -1,0 +1,1 @@
+The Wolff rearrangement can be used to perform ring contractions.

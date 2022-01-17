@@ -1,0 +1,1 @@
+The local or clock time of solar noon depends on the longitude and date.

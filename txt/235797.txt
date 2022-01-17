@@ -1,0 +1,1 @@
+End- and start- tags can be omitted, because they can be inferred.

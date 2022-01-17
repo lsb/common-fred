@@ -1,0 +1,1 @@
+In tiling or tessellation problems, there are to be no gaps, nor overlaps.

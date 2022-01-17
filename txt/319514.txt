@@ -1,0 +1,1 @@
+Here the auditory words are converted into semantic words.

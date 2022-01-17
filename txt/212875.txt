@@ -1,0 +1,1 @@
+Control voltage is analog and by extension infinitely variable.

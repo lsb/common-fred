@@ -1,0 +1,1 @@
+Data pins govern the data flow propagation while sequence pins determine object execution order.

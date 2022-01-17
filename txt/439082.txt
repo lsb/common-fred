@@ -1,0 +1,1 @@
+Low integrity processes may also use Registry virtualization.

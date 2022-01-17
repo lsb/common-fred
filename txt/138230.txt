@@ -1,0 +1,1 @@
+A vertex algebra is a collection of data that satisfy certain axioms.

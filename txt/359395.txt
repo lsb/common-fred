@@ -1,0 +1,1 @@
+In phase space, quantum mechanical uncertainties can be depicted by the Wigner quasi-probability distribution.

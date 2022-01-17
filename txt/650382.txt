@@ -1,0 +1,1 @@
+The prefix field specifies the class of instruction.

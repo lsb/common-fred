@@ -1,0 +1,1 @@
+However, there are plugins for web-based posting to a Blosxom weblog, too.

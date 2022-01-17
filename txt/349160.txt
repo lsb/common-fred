@@ -1,0 +1,1 @@
+If all players are eliminated from play, then there is no winner.

@@ -1,0 +1,1 @@
+Beacons are packets sent by an access point to synchronize a wireless network.

@@ -1,0 +1,1 @@
+Microcontroller architectures vary widely.

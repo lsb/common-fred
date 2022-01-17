@@ -1,0 +1,1 @@
+One interesting caveat is when Vegas is inter-operated with other versions like Reno.

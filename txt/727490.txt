@@ -1,0 +1,1 @@
+This corresponds to half the offspring surviving; namely the half with the correct genome.

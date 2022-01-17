@@ -1,0 +1,1 @@
+For first-order theories, interpretations are commonly called structures.

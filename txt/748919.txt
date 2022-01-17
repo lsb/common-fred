@@ -1,0 +1,1 @@
+Thus Kullback-Leibler divergence measures thermodynamic availability in bits.

@@ -1,0 +1,1 @@
+Finally, the core is fleshed out with no alterations to the basic structure.

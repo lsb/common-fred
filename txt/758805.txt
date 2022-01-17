@@ -1,0 +1,1 @@
+Two graphs with the same invariants may or may not be isomorphic, however.

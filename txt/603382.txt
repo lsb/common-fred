@@ -1,0 +1,1 @@
+The derivative-free simplex method also finds a local optimum.

@@ -1,0 +1,1 @@
+Hyperorthogonal group is an archaic name for the unitary group, especially over finite fields.

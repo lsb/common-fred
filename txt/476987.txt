@@ -1,0 +1,1 @@
+Once the long-latency event completes, the thread is made available for execution again.

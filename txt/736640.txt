@@ -1,0 +1,1 @@
+This method considers the particular context of the current parser state.

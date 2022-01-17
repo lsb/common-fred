@@ -1,0 +1,1 @@
+There are customer help points, giving next train information for both platforms.

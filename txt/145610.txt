@@ -1,0 +1,1 @@
+After checking material, two events may happen-with or without material on stock.

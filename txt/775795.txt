@@ -1,0 +1,1 @@
+When a circuit is complete a current can flow through it.

@@ -1,0 +1,1 @@
+The Yoix language includes safe pointers, addressing, declarations, and global and local variables.

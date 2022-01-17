@@ -1,0 +1,1 @@
+Three-bar Z characters can encode either letters or digits.

@@ -1,0 +1,1 @@
+"A movable weight allowed adjustment of the model's centre of gravity."

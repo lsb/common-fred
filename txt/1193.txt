@@ -1,0 +1,1 @@
+"""Calvin and Hobbes"" strips are distributed in different formats in different countries."

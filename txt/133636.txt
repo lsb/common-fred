@@ -1,0 +1,1 @@
+A player may continue from the beginning of the last stage they were in.

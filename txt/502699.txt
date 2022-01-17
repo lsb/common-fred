@@ -1,0 +1,1 @@
+Real numbers are defined as the equivalence classes of this relation.

@@ -1,0 +1,1 @@
+Many common distributions like the normal distribution belongs to the statistical exponential families.

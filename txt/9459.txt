@@ -1,0 +1,1 @@
+"""Zits"" comic strips are collected in two formats."

@@ -1,0 +1,1 @@
+Originally, machine code was the first and only way to program computers.

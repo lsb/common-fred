@@ -1,0 +1,1 @@
+"Equivalently, ""M"" projects onto the orthogonal complement of the column space of ""X""."

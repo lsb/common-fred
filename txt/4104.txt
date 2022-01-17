@@ -1,0 +1,1 @@
+"""Kearsarge"" was one of the ""long-hull"" ships."

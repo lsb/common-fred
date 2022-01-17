@@ -1,0 +1,1 @@
+The Integratron is based on the Multiple Wave Oscillator invented by Georges Lakhovsky.

@@ -1,0 +1,1 @@
+This means that the envelope of the output waveform is distorted.

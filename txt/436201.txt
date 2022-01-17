@@ -1,0 +1,1 @@
+Link encryption can be used with end-to-end systems by superencrypting the messages.

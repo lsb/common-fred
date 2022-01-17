@@ -1,0 +1,1 @@
+"These are all ""quasi-regular"" as all edges are isomorphic."

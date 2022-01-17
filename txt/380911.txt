@@ -1,0 +1,1 @@
+It indicates the status of the station and may indicate its geographical area.

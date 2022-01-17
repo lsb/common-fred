@@ -1,0 +1,1 @@
+It processed and charge thousands of events per second on commodity hardware.

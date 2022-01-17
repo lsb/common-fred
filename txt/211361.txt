@@ -1,0 +1,1 @@
+Condensation is a probabilistic algorithm that attempts to solve this problem.

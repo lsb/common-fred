@@ -1,0 +1,1 @@
+Logical operators are implemented as logic gates in digital circuits.

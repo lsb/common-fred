@@ -1,0 +1,1 @@
+A local bus connects the jetty and villages on an hourly circuit.

@@ -1,0 +1,1 @@
+Fossil and Veracity both include distributed bug trackers.

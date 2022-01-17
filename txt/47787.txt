@@ -1,0 +1,1 @@
+"If it has none, it can be called ""smooth"" or ""non-singular""."

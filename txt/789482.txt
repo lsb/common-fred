@@ -1,0 +1,1 @@
+Zipcar charges a one-time application fee, an annual fee, and a reservation charge.

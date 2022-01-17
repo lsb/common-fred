@@ -1,0 +1,1 @@
+Alternatively, a Fibonacci heap can perform the same decrease-priority operations in constant amortized time.

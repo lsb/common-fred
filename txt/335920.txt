@@ -1,0 +1,1 @@
+However, cognitive radio cannot occupy the same unused space all the time.

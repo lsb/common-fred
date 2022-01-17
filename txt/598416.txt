@@ -1,0 +1,1 @@
+The continuity equation describes how the density changes with time.

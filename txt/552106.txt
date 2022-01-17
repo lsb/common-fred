@@ -1,0 +1,1 @@
+Systems based on statically typed languages are technically feasible, however.

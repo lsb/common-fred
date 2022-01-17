@@ -1,0 +1,1 @@
+Combining diacritical marks are also present in many other blocks of Unicode characters.

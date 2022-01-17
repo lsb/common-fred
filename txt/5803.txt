@@ -1,0 +1,1 @@
+"""Pillow Talk"" was set in the North East of England, specifically in Teesside."

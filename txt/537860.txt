@@ -1,0 +1,1 @@
+Some actuators include an encoder and digital position readout.

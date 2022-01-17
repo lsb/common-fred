@@ -1,0 +1,1 @@
+Signal processing deals with the analysis and manipulation of signals.

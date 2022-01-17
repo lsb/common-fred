@@ -1,0 +1,1 @@
+As a packet traverses a chain, each rule in turn is examined.

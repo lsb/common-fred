@@ -1,0 +1,1 @@
+"""Radio Times"" stated, ""No preview tape was available for this episode."

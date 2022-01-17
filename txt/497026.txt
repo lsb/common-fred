@@ -1,0 +1,1 @@
+Presented devices are designed to handle only one patient.

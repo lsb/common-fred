@@ -1,0 +1,1 @@
+"Popular rules of inference in propositional logic include ""modus ponens"", ""modus tollens"", and contraposition."

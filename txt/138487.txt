@@ -1,0 +1,1 @@
+A wearer cannot confer benefits on a scapular already equipped.

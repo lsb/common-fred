@@ -1,0 +1,1 @@
+Byte pointers are supported by special instructions.

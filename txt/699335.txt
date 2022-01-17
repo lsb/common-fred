@@ -1,0 +1,1 @@
+There is no support for varying aspect ratios or force feedback controllers.

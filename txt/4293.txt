@@ -1,0 +1,1 @@
+"""Legends of Wrestling"" is an original series made specifically for the Classics service."

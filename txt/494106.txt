@@ -1,0 +1,1 @@
+Players must do operations such as occupation and city funding.

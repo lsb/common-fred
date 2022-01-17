@@ -1,0 +1,1 @@
+This measurement unit is extensively used in jitter literature.

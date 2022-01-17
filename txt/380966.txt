@@ -1,0 +1,1 @@
+It instead detects a digital watermark embedded in the images, developed by Digimarc.

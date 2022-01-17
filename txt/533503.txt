@@ -1,0 +1,1 @@
+Since the fault here is equal, the agents should receive equal blame.

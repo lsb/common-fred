@@ -1,0 +1,1 @@
+This current decade has seen vendors fully supporting geocoding and reverse geocoding globally.

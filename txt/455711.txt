@@ -1,0 +1,1 @@
+Moreover, the skewness and coefficient of variation depend only on the shape parameter.

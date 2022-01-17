@@ -1,0 +1,1 @@
+Frames encoded without information from other frames are called I-frames.

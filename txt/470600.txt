@@ -1,0 +1,1 @@
+Notably, the product of monic polynomials again is monic.

@@ -1,0 +1,1 @@
+VisSim uses a hierarchical composition to create nested block diagrams.

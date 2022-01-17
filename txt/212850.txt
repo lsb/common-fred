@@ -1,0 +1,1 @@
+Control dependencies are dependencies introduced by the code or the programming algorithm itself.

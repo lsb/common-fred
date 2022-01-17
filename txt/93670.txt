@@ -1,0 +1,1 @@
+"The graph shows a bivariate normal joint density for random variables ""X"" and ""Y""."

@@ -1,0 +1,1 @@
+Other common outputs include object position and orientation information from robot guidance systems.

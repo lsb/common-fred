@@ -1,0 +1,1 @@
+This is essentially what is embodied in the Shannon-Nyquist sampling theorem.

@@ -1,0 +1,1 @@
+"Let ""Y"", ""D"" and ""S"" be income, demand and supply for group ""i""."

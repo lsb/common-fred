@@ -1,0 +1,1 @@
+Some stack machines have a stack of limited size, implemented as a register file.

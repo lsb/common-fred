@@ -1,0 +1,1 @@
+Data takes a more direct path, reducing latency and packet loss.

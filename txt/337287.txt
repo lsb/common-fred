@@ -1,0 +1,1 @@
+However, it is possible to build lockstep systems without this requirement.

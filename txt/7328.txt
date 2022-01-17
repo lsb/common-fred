@@ -1,0 +1,1 @@
+"""Tenali Agriculture Marketyard"" is used for trading and exporting agricultural products."

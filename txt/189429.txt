@@ -1,0 +1,1 @@
+Boolean rings are absolutely flat: this means that every module over them is flat.

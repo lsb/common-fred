@@ -1,0 +1,1 @@
+However, now there are faster string sorting algorithms.

@@ -1,0 +1,1 @@
+As type is entered the editor will find text that matches.

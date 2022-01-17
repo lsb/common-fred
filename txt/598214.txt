@@ -1,0 +1,1 @@
+The constraints used in constraint programming are typically over some specific domains.

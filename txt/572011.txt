@@ -1,0 +1,1 @@
+The Riemann-Stieltjes integral can be efficiently handled using an appropriate generalization of Darboux sums.

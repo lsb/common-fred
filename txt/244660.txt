@@ -1,0 +1,1 @@
+Fish and chickens can move through force fields if entering from the appropriate direction.

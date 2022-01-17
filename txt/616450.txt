@@ -1,0 +1,1 @@
+The former is primarily used for retrieving or modifying information from databases.

@@ -1,0 +1,1 @@
+"This computer processes data from the spacesuit's various systems and provides a malfunction warning."

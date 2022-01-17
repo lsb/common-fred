@@ -1,0 +1,1 @@
+Sequence representatives allow the effective coverage of the original database with fewer sequences.

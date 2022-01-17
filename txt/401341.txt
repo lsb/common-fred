@@ -1,0 +1,1 @@
+It may, but need not, report delivery errors.

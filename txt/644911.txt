@@ -1,0 +1,1 @@
+The output from the system is in the form of spoken messages.

@@ -1,0 +1,1 @@
+Velocity is an open source software project hosted by the Apache Software Foundation.

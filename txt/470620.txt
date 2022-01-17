@@ -1,0 +1,1 @@
+Note also that the polygons must be planar.

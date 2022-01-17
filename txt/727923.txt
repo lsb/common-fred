@@ -1,0 +1,1 @@
+This definition of reentrancy differs from that of thread-safety in multi-threaded environments.

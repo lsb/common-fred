@@ -1,0 +1,1 @@
+Most rules engines function as a callable library.

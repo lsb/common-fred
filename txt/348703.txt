@@ -1,0 +1,1 @@
+I-beams may be used both as beams and as columns.

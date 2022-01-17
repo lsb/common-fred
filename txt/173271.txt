@@ -1,0 +1,1 @@
+As premise, we assume that this set is infinite and the graph is connected.

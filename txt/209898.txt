@@ -1,0 +1,1 @@
+Combat is resolved per-element, in the order desired by the active player.

@@ -1,0 +1,1 @@
+This includes external flow such as around buildings, vehicles, people, or hydraulic structures.

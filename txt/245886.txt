@@ -1,0 +1,1 @@
+Fluorescence lifetimes can be determined in the frequency domain by a phase-modulation method.

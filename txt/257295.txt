@@ -1,0 +1,1 @@
+Generally, if the fault originated in a user-mode program, the user-mode program is terminated.

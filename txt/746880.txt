@@ -1,0 +1,1 @@
+Though routers are typically dedicated hardware devices, software-based routers also exist.

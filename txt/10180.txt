@@ -1,0 +1,1 @@
+"A bolded state name links to an article about that state's election."

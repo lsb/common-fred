@@ -1,0 +1,1 @@
+Viscometers only measure under one flow condition.

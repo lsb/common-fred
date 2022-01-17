@@ -1,0 +1,1 @@
+All are really the same thing, a system call to the hypervisor below.

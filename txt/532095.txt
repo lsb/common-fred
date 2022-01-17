@@ -1,0 +1,1 @@
+Signals will have various levels and signaling schemes depending on the user terminal equipment.

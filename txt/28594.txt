@@ -1,0 +1,1 @@
+"Emotion is a library providing video-playing capabilities through the use of ""smart-objects""."

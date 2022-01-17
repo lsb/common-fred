@@ -1,0 +1,1 @@
+Another extension adds behavior to the phenotype, since behaviors are also observable characteristics.

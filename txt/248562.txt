@@ -1,0 +1,1 @@
+For instance, in a vibrating guitar string, the ends of the string are nodes.

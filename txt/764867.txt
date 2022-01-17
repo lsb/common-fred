@@ -1,0 +1,1 @@
+Using a function rather than a table also allows extending the block size.

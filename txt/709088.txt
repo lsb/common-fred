@@ -1,0 +1,1 @@
+These two have separate codepoints because they become independent letters in the Anglo-Saxon futhorc.

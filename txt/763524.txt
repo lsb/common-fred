@@ -1,0 +1,1 @@
+Unreacted monomer can be removed from unexposed regions, leaving a relief polymeric image.

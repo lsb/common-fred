@@ -1,0 +1,1 @@
+"Players' turns alternate and the space of possible moves is denoted by bound variables."

@@ -1,0 +1,1 @@
+"Combat ends when all enemy units or all of the player's units are destroyed."

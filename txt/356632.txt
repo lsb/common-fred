@@ -1,0 +1,1 @@
+In fact, the star schema is considered a special case of the snowflake schema.

@@ -1,0 +1,1 @@
+Prudent navigation relies on no single technique but instead synthesizes position from multiple inputs.

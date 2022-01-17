@@ -1,0 +1,1 @@
+These formulas are for single-frequency sine waves or narrowband signals.

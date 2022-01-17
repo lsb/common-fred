@@ -1,0 +1,1 @@
+Autofocus systems rely on one or more sensors to determine correct focus.

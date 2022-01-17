@@ -1,0 +1,1 @@
+Each row of cards may be moved to another row if its playable.

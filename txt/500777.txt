@@ -1,0 +1,1 @@
+Quest uses a distributor go to market model through Arrow and TechData.

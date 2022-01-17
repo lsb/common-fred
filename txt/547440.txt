@@ -1,0 +1,1 @@
+Store-and-forward is when data is collected, recorded, and then sent on to a provider.

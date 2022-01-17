@@ -1,0 +1,1 @@
+"""The New Yorker"" described ""Bat Boy"" as a ""giggling cult hit""."

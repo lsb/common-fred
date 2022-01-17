@@ -1,0 +1,1 @@
+Originally, Rhino compiled all JavaScript code to Java bytecode in generated Java class files.

@@ -1,0 +1,1 @@
+"""Kodama"" trains generally run over shorter distances than ""Nozomi"" and ""Hikari"" trains."

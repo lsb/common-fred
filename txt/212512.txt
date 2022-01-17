@@ -1,0 +1,1 @@
+Consumer-grade image file formats sometimes restrict dynamic range.

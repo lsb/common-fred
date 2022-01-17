@@ -1,0 +1,1 @@
+"More precise, let ""M"" and ""N"" be left ""R""-modules."

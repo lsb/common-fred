@@ -1,0 +1,1 @@
+It has some basic filtering capabilities, and natively supports several email storage protocols.

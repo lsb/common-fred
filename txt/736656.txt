@@ -1,0 +1,1 @@
+This method is biased if the non-stationary variables are cointegrated.

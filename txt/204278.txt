@@ -1,0 +1,1 @@
+Certain hero abilities can apply beneficial auras to allied units.

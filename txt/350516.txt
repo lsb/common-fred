@@ -1,0 +1,1 @@
+Image search is a specialized data search used to find images.

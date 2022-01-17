@@ -1,0 +1,1 @@
+States with a smaller energy are better than those with a greater energy.

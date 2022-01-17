@@ -1,0 +1,1 @@
+"""Kirby Air Ride"" has the players and computer-controlled racers ride on Air Ride Machines."

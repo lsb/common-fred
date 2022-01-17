@@ -1,0 +1,1 @@
+The elements may also exist in other markup languages, such as MediaWiki.

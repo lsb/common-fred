@@ -1,0 +1,1 @@
+Applying this technique leads to a self-hosting compiler.

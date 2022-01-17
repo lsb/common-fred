@@ -1,0 +1,1 @@
+"German mathematician Gerhard Hessenberg proved that Pappus's theorem implies Desargues's theorem."

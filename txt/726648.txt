@@ -1,0 +1,1 @@
+This change greatly simplified hardware error detection.

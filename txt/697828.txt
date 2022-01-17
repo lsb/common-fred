@@ -1,0 +1,1 @@
+There is also a notion of a fully time-constructible function.

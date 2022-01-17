@@ -1,0 +1,1 @@
+A variant of the previously described discriminative model is the linear-chain conditional random field.

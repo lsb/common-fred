@@ -1,0 +1,1 @@
+It is also an example of a compact abelian Lie group.

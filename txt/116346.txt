@@ -1,0 +1,1 @@
+"Voyager adds its own record, called the 'Item Record'."

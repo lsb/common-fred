@@ -1,0 +1,1 @@
+Scanned photos, for example, make use of a bitmap file format.

@@ -1,0 +1,1 @@
+Wheel graphs are planar graphs, and as such have a unique planar embedding.

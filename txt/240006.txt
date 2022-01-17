@@ -1,0 +1,1 @@
+Except for the different colors, the two solutions are equivalent and should render identically.

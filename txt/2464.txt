@@ -1,0 +1,1 @@
+"""Formosa"" means 'handsome', 'beautiful', or 'well-formed'."

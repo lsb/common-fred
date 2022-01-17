@@ -1,0 +1,1 @@
+"""Rhee Taekwon-Do"" is the spelling used in the earliest versions of the school's logo."

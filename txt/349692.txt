@@ -1,0 +1,1 @@
+If the board is larger the number of pieces increases too.

@@ -1,0 +1,1 @@
+"""Brucella"" can also be seen in bone marrow biopsies."

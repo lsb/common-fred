@@ -1,0 +1,1 @@
+To mask this, the encoder subtracts the synthesized sinusoids from the original audio signal.

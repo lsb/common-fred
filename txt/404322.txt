@@ -1,0 +1,1 @@
+It shows the color of the mushroom spores if viewed en masse.

@@ -1,0 +1,1 @@
+Such a technique can be useful for quantifying an unknown rate of convergence.

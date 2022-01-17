@@ -1,0 +1,1 @@
+"Menaechmus' original solution involves the intersection of two conic curves."

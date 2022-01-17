@@ -1,0 +1,1 @@
+Extending this method to the nonlinear multi-flexible-link case was of particular importance to robotics.

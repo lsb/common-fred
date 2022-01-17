@@ -1,0 +1,1 @@
+"Linkers can take objects from a collection called a ""library""."

@@ -1,0 +1,1 @@
+Game Maker lets people create computer games using a drag-and-drop interface.

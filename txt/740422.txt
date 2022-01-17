@@ -1,0 +1,1 @@
+This sequence of text lines may include opcodes or directives.

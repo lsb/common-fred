@@ -1,0 +1,1 @@
+A tick-less mode is provided for low power applications.

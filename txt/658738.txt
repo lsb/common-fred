@@ -1,0 +1,1 @@
+The robot could, for example, exhibit competitive behavior within the framework of a game.

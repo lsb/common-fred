@@ -1,0 +1,1 @@
+For textual data a line of text corresponds to a logical record.

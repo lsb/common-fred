@@ -1,0 +1,1 @@
+Overfitting occurs when a statistical model fits the noise rather than the signal.

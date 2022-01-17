@@ -1,0 +1,1 @@
+When a swept wing starts to stall, the outermost portions tend to stall first.

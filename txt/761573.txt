@@ -1,0 +1,1 @@
+Ultimately, some human must authenticate to create such a token.

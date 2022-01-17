@@ -1,0 +1,1 @@
+Differences arose due to three perceived problems with Self.

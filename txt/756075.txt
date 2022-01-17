@@ -1,0 +1,1 @@
+Transformers take a stream of data and change it in some way.

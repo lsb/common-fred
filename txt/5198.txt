@@ -1,0 +1,1 @@
+"""Nistaskinan"" means ""our land"" in the Atikamekw language."

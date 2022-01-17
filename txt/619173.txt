@@ -1,0 +1,1 @@
+The goal is to make libvisual a cross-platform audio visualisation framework.

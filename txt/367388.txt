@@ -1,0 +1,1 @@
+Infinite-dimensional optimization problems can be more challenging than finite-dimensional ones.

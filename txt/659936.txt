@@ -1,0 +1,1 @@
+The same statement holds over any algebraically closed field.

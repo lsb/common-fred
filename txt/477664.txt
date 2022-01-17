@@ -1,0 +1,1 @@
+One function is transformed into another, and the operation is reversible.

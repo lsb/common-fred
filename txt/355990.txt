@@ -1,0 +1,1 @@
+In contrast, the Internet Protocol model does not concern itself with such detail.

@@ -1,0 +1,1 @@
+Mathematically, spacetime symmetries are usually described by smooth vector fields on a smooth manifold.

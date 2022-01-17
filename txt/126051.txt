@@ -1,0 +1,1 @@
+A function is invertible if and only if it is a bijection.

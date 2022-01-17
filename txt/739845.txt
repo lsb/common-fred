@@ -1,0 +1,1 @@
+This results in audible smearing and pre-echo.

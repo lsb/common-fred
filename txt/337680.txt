@@ -1,0 +1,1 @@
+However, message attachments will be lost in the conversion to Thunderbird.

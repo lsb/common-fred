@@ -1,0 +1,1 @@
+Framebuffers have varied widely in the methods used to access memory.

@@ -1,0 +1,1 @@
+Note that bias is a property of the estimator, not of the estimate.

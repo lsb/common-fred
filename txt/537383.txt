@@ -1,0 +1,1 @@
+Software packages automate business rules using business logic.

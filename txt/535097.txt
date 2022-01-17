@@ -1,0 +1,1 @@
+Skiptracing is performed by collecting as much information as possible about the subject.

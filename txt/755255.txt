@@ -1,0 +1,1 @@
+Toxicokinetic profiles can change with increasing exposure duration or dose.

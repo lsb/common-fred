@@ -1,0 +1,1 @@
+This kind of sample is known as a bootstrap sample.

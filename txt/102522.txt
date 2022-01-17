@@ -1,0 +1,1 @@
+"The sum extends over all non-zero ideals ""a"" of O."

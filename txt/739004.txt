@@ -1,0 +1,1 @@
+This provides control over focus, depth of field, and perspective.

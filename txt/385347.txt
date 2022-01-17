@@ -1,0 +1,1 @@
+It is available as source code, primarily through the Solarsoft distribution system.

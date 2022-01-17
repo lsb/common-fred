@@ -1,0 +1,1 @@
+"""Charley"" Dick was educated in Akron, and worked at several stores and banks."

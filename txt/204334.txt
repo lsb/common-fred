@@ -1,0 +1,1 @@
+Certain situations can be solved exactly by elliptic functions.

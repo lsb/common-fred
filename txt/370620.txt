@@ -1,0 +1,1 @@
+Isometries are often used in constructions where one space is embedded in another space.

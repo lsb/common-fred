@@ -1,0 +1,1 @@
+"""Earache My Eye"" consists of a song, followed by a comedy skit."

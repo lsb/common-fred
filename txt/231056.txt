@@ -1,0 +1,1 @@
+Each jump operation has three different forms, depending on the size of the operand.

@@ -1,0 +1,1 @@
+"A linear code of length ""n"" transmits blocks containing ""n"" symbols."

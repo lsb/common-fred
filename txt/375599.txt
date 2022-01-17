@@ -1,0 +1,1 @@
+It defines basic elements such as investigator, subject, study, intervention.

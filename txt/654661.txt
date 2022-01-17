@@ -1,0 +1,1 @@
+The receiver detects and evaluates the intensity fluctuations of the transmitted signal, called scintillation.

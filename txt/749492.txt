@@ -1,0 +1,1 @@
+Thus, detection can be better achieved if emitters are separate from receivers.

@@ -1,0 +1,1 @@
+All gain, panning and plug-in parameters can be automated.

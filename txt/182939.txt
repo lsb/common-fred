@@ -1,0 +1,1 @@
+BeanShell supports scripted objects as simple method closures like those in Perl and JavaScript.

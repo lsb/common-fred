@@ -1,0 +1,1 @@
+For example within nouns there are two sub classes, concrete nouns and abstract nouns.

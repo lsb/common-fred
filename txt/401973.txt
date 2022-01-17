@@ -1,0 +1,1 @@
+It offers support for interlaced content and is transport independent.

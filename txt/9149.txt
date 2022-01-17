@@ -1,0 +1,1 @@
+"""Wimpkiller"" currently exists as an Internet-only publication."

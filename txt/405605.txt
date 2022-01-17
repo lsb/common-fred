@@ -1,0 +1,1 @@
+It typically occurs to signal attention for non-recoverable hardware errors.

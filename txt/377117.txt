@@ -1,0 +1,1 @@
+It follows that the entries of the inverse matrix are all integer.

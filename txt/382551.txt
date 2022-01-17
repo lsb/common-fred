@@ -1,0 +1,1 @@
+It is a small indicator that appears at the right of the menu bar.

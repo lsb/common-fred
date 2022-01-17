@@ -1,0 +1,1 @@
+"Every triangle has three distinct excircles, each tangent to one of the triangle's sides."

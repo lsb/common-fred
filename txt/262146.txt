@@ -1,0 +1,1 @@
+Ground terms are terms that contain no variables.

@@ -1,0 +1,1 @@
+Grating elements can have luminances other than that of sharp-edged bars.

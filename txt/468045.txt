@@ -1,0 +1,1 @@
+No triggers can be defined on views.

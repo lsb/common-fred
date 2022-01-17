@@ -1,0 +1,1 @@
+While there was no uninstaller, it could be deleted easily if desired.

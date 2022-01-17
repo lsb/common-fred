@@ -1,0 +1,1 @@
+This provides the direction finding capabilities of the LoJack system.

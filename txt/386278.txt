@@ -1,0 +1,1 @@
+It is common for systems to have several such segments.

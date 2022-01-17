@@ -1,0 +1,1 @@
+Flights from one point to another within the same country are called domestic flights.

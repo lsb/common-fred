@@ -1,0 +1,1 @@
+When a specific mathematical model is lacking, a sigmoid function is often used.

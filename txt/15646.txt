@@ -1,0 +1,1 @@
+"An ultrafilter on a set ""X"" may be considered as a finitely additive measure."

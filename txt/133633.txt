@@ -1,0 +1,1 @@
+A player loses if he has no legal move.

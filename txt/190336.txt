@@ -1,0 +1,1 @@
+Both Allen Bradley and Eurotherm utilised such mechanisms.

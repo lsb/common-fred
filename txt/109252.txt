@@ -1,0 +1,1 @@
+"They take a ""partitioning key"" and assign a partition based on certain criteria."

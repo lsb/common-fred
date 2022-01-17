@@ -1,0 +1,1 @@
+The integers are a discrete ordered ring, but the rational numbers are not.

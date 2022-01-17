@@ -1,0 +1,1 @@
+Cut tape segments for each occurrence of each sound were accumulated on the score.

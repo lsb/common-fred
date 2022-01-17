@@ -1,0 +1,1 @@
+A circle bundle is a special case of a sphere bundle.

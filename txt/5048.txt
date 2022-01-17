@@ -1,0 +1,1 @@
+"""Naco"" means ""nopal cactus"" in the Opata language."

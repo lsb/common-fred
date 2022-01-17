@@ -1,0 +1,1 @@
+"AppZapper is available as Shareware, which will block itself after ""zapping"" five applications."

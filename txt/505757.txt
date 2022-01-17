@@ -1,0 +1,1 @@
+Return links are often, but not always, slower than the corresponding forward links.

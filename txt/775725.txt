@@ -1,0 +1,1 @@
+When Super Pac-Man is about to revert to regular Pac-Man, he flashes white.

@@ -1,0 +1,1 @@
+This can lead to implementations that are vulnerable to a timing attack.

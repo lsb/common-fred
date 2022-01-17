@@ -1,0 +1,1 @@
+The classes have several different attributes, such as speed, armor and weapons.

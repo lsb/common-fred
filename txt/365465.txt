@@ -1,0 +1,1 @@
+In this mode every virtual address corresponds to the same real address.

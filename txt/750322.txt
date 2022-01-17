@@ -1,0 +1,1 @@
+Timesheet software allows entering time spent performing different tasks.

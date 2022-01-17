@@ -1,0 +1,1 @@
+In prior versions SquirrelMail was the default client.

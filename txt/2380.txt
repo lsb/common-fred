@@ -1,0 +1,1 @@
+"""First Monday"" generally dealt with two issues per episode."

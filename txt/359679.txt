@@ -1,0 +1,1 @@
+In purely functional programming, there are no statements; everything is an expression.

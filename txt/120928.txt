@@ -1,0 +1,1 @@
+A Gaussian or a Lanczos filter are considered good compromises.

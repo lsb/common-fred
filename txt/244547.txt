@@ -1,0 +1,1 @@
+First, the results of the rules must be added together in some way.

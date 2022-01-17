@@ -1,0 +1,1 @@
+"The topologist's sine curve ""T"" is connected but neither locally connected nor path connected."

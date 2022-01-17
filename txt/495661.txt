@@ -1,0 +1,1 @@
+Population data obtained from the sum of the populations of the districts.

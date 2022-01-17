@@ -1,0 +1,1 @@
+With semi-continuous memory memory content was only preserved if specific battery-changing rules were observed.

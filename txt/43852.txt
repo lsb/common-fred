@@ -1,0 +1,1 @@
+"However, Bourbaki's choice operator is stronger than usual: it's a ""global"" choice operator."

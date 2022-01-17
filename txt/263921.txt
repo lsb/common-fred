@@ -1,0 +1,1 @@
+Hand code must, by definition, be edited and maintained entirely by hand.

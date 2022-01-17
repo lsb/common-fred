@@ -1,0 +1,1 @@
+"A hard-core predicate captures ""in a concentrated sense"" the hardness of inverting ""f""."

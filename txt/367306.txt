@@ -1,0 +1,1 @@
+Indy is written in Java and therefore runs on most modern operating systems.

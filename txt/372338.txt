@@ -1,0 +1,1 @@
+It also provides Fault Management, Performance Management, Accounting and Security Management functions.

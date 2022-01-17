@@ -1,0 +1,1 @@
+The equality holds in the case of Gaussian distributions.

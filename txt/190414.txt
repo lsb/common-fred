@@ -1,0 +1,1 @@
+Both Fermi-Dirac and Bose-Einstein become Maxwell-Boltzmann statistics at high temperature or at low concentration.

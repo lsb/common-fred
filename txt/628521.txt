@@ -1,0 +1,1 @@
+The leftmost structure shifts to the right two cells and repeats every three generations.

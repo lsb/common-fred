@@ -1,0 +1,1 @@
+The VaR of the unchanged portfolio is no longer relevant.

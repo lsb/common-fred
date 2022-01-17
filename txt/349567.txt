@@ -1,0 +1,1 @@
+If restoration is impossible an object is regarded as consumable.

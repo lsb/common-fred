@@ -1,0 +1,1 @@
+The adapter, like any other lens, flips the image upside-down.

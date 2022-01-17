@@ -1,0 +1,1 @@
+This class is very limited; it equals the regular languages.

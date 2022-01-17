@@ -1,0 +1,1 @@
+"Informally, this is the ""local"" homology of ""X"" close to ""x""."

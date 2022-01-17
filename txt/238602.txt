@@ -1,0 +1,1 @@
+Eventually, objects converge to local maxima of density.

@@ -1,0 +1,1 @@
+In practice, however, some Unicode implementations still have difficulties with decomposed characters.

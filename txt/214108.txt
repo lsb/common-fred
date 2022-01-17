@@ -1,0 +1,1 @@
+Counting efficiency varies for different isotopes, sample compositions and scintillation counters.

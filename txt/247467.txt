@@ -1,0 +1,1 @@
+For a typical Boolean function, there are many different functionally equivalent transistor netlists.

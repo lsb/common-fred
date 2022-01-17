@@ -1,0 +1,1 @@
+If these values match, the file is presumed to be unmodified.

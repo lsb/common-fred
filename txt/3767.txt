@@ -1,0 +1,1 @@
+"""Inoculum"" is the Society's bimonthly newsletter."

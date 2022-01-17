@@ -1,0 +1,1 @@
+"""Primal"" is an old term for an irreducible hypersurface."

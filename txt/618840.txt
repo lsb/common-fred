@@ -1,0 +1,1 @@
+The geodesics are similarly invariant: that is, geodesics map to geodesics under coordinate transformation.

@@ -1,0 +1,1 @@
+Dually, the coproduct of an empty family is an initial object.

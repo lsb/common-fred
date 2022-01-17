@@ -1,0 +1,1 @@
+A program command is an action to be executed.

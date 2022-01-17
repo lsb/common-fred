@@ -1,0 +1,1 @@
+Most of what follows is about binary operators.

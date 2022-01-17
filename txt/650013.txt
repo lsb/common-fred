@@ -1,0 +1,1 @@
+The possible actions depend on the type of object, and are represented with icons.

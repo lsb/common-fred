@@ -1,0 +1,1 @@
+"Its interface is similar to that of Microsoft's Visual Studio."

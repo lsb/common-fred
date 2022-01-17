@@ -1,0 +1,1 @@
+Each image is further divided into a number of horizontal bands.

@@ -1,0 +1,1 @@
+Suppose a robot has rotary encoders on its wheels or on its legged joints.

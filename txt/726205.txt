@@ -1,0 +1,1 @@
+This can be helpful in analyzing the color characteristics of a particular source.

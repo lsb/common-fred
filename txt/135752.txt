@@ -1,0 +1,1 @@
+A similar situation holds for applying a Cayley transform to the skew-symmetric matrix.

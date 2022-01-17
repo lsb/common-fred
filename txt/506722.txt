@@ -1,0 +1,1 @@
+Riesel also discovered the Riesel numbers as well as developed the Lucas-Lehmer-Riesel test.

@@ -1,0 +1,1 @@
+Note: The examples apply when read in sequential order.

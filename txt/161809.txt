@@ -1,0 +1,1 @@
+An approval process can also be added to the workflow.

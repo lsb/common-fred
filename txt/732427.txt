@@ -1,0 +1,1 @@
+This is basically decided by the bandwidth of the error amplifier.

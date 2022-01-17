@@ -1,0 +1,1 @@
+Every locally cyclic group is abelian.

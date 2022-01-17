@@ -1,0 +1,1 @@
+Rail grinding operations occur periodically in order to prevent rail corrugation from occurring.

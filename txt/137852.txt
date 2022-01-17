@@ -1,0 +1,1 @@
+A transaction is deemed committed only after it is entered in the log.

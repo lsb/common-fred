@@ -1,0 +1,1 @@
+Each edge of a tesseract is of the same length.

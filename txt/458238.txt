@@ -1,0 +1,1 @@
+Most often, this applies to functions defined on the complex plane.

@@ -1,0 +1,1 @@
+Successive functional transformations are applied to data to arrive at the result.

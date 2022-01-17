@@ -1,0 +1,1 @@
+This can sometimes be used to exclude the possibility of certain ring homomorphisms.

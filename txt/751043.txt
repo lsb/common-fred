@@ -1,0 +1,1 @@
+To ensure correct lookups, all successor pointers must be up to date.

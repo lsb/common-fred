@@ -1,0 +1,1 @@
+"""Panic in Detroit"" was not on the album but was from the same concert."

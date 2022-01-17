@@ -1,0 +1,1 @@
+Choosing a representation to facilitate computation is critical to developing an efficient alignment mechanism.

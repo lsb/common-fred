@@ -1,0 +1,1 @@
+As expected, recall was hampered by increasing the number items in a given list.

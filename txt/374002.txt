@@ -1,0 +1,1 @@
+It can disable most unarmored and lightly armored vehicles.

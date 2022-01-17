@@ -1,0 +1,1 @@
+Tails is a security-focused Debian-based Linux distribution aimed at preserving privacy and anonymity.

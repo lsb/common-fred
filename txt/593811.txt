@@ -1,0 +1,1 @@
+The classification theorem characterizes the possible principal null directions of a bivector.

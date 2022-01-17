@@ -1,0 +1,1 @@
+Since cron is typically never restarted, this typically corresponds to the machine being booted.

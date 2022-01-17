@@ -1,0 +1,1 @@
+Deductive reasoning can be contrasted with inductive reasoning, in regards to validity and soundness.

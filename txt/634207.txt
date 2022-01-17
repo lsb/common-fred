@@ -1,0 +1,1 @@
+The mercury vapor lamp is a negative resistance device.

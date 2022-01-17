@@ -1,0 +1,1 @@
+The video and audio streams are encapsulated in Advanced Systems Format files.

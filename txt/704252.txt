@@ -1,0 +1,1 @@
+These bond prices were always guaranteed to converge in the long run.

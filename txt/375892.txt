@@ -1,0 +1,1 @@
+It does not actually carry any calls, but rather provides addressing information.

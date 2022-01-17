@@ -1,0 +1,1 @@
+Representation Terms are also used to make inferences about the requirements of a property.

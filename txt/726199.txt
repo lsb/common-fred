@@ -1,0 +1,1 @@
+This can be exploited to construct fast multiplication algorithms.

@@ -1,0 +1,1 @@
+Typically multi-agent systems research refers to software agents.

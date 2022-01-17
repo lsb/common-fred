@@ -1,0 +1,1 @@
+Fractional Brownian motion is the only self-similar Gaussian process.

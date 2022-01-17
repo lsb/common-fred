@@ -1,0 +1,1 @@
+The framework identifies the set of components necessary and helpful for enterprise modelling.

@@ -1,0 +1,1 @@
+Balloon help was deactivated by choosing Hide Balloon Help from the same menu.

@@ -1,0 +1,1 @@
+Bridged networks break up collision domains, but the network remains one large broadcast domain.

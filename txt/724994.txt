@@ -1,0 +1,1 @@
+This applies to both turn-based and real-time strategy games.

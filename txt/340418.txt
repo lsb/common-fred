@@ -1,0 +1,1 @@
+However, these characters are not included in the Unicode standard.

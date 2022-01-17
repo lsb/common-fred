@@ -1,0 +1,1 @@
+Searches could also be made with hashes instead of words and numbers.

@@ -1,0 +1,1 @@
+Diorama is currently only known to work in Linux.

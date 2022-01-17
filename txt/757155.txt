@@ -1,0 +1,1 @@
+Truth maintenance systems are used in Artificial Intelligence to implement belief revision.

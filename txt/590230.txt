@@ -1,0 +1,1 @@
+The cause was traced to a tailplane servo control system failure.

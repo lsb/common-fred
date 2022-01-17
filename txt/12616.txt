@@ -1,0 +1,1 @@
+"Adjacent zones are linked to one another via shared dividing polygons termed ""portals""."

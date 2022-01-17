@@ -1,0 +1,1 @@
+This general result of the Gibbs algorithm is then a maximum entropy probability distribution.

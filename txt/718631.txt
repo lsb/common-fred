@@ -1,0 +1,1 @@
+They make use of relays to modulate the alarm notification device as needed.

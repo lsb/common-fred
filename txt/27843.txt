@@ -1,0 +1,1 @@
+"Each ""speaker recognition"" system has two phases: Enrollment and verification."

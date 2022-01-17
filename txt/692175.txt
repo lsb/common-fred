@@ -1,0 +1,1 @@
+There are dozens of processor architectures that are currently successful in embedded systems.

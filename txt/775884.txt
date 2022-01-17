@@ -1,0 +1,1 @@
+When all enemies are killed, the player moves on to the next level.

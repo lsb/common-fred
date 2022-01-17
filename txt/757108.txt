@@ -1,0 +1,1 @@
+Truncate the spaces before and after the text.

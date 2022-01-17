@@ -1,0 +1,1 @@
+After a specific time interval the depth of penetration is measured.

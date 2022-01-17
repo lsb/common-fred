@@ -1,0 +1,1 @@
+"This allows programs like ""ls"" to ignore unmounted remote files."

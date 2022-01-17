@@ -1,0 +1,1 @@
+Firefox extensions exist that allow the users to process downloaded files with ClamWin.

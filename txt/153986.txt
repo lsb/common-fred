@@ -1,0 +1,1 @@
+All of these methods are commonly implemented in hardware for performance reasons.

@@ -1,0 +1,1 @@
+Intermedia properties include author, creation date, title, and keywords.

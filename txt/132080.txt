@@ -1,0 +1,1 @@
+A neuronal tracer may be retrograde, anterograde, or work in both directions.

@@ -1,0 +1,1 @@
+The network had previously operated as an online-only service before becoming a multicast service.

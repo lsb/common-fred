@@ -1,0 +1,1 @@
+The extra pins are a separate path to allow latched read and write operations.

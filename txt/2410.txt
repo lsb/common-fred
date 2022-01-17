@@ -1,0 +1,1 @@
+"""Flop Show"" has a distinctive opening sequence."

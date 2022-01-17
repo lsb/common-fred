@@ -1,0 +1,1 @@
+Small gadget transmitters do not need to know what is being transmitted.

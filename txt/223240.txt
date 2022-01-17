@@ -1,0 +1,1 @@
+Distributed parallel file systems stripe data over multiple servers for high performance.

@@ -1,0 +1,1 @@
+The current best-known semantic wiki software is Semantic MediaWiki, a plugin to MediaWiki.

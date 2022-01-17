@@ -1,0 +1,1 @@
+All error messages and text strings are contained in a plain text file.

@@ -1,0 +1,1 @@
+Otherwise, the changes will have to be reevaluated manually when the user restarts Emacs.

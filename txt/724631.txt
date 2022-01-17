@@ -1,0 +1,1 @@
+This allows quicker access to the lines in a time-critical situation.

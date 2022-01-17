@@ -1,0 +1,1 @@
+It can exist within a backplane or on a cable.

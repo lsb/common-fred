@@ -1,0 +1,1 @@
+After firing, it automatically returned to the horizontal loading position.

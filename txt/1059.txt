@@ -1,0 +1,1 @@
+"""Buffy"" uses both science and magic as narrative devices."

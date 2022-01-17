@@ -1,0 +1,1 @@
+"""Football squad"" may be used to be inclusive of these support and reserve players."

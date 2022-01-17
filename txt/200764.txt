@@ -1,0 +1,1 @@
+Calculating the numerical derivative of a function is one such application.

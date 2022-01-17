@@ -1,0 +1,1 @@
+"""Eureka Seven"" uses ten pieces of theme music."

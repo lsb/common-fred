@@ -1,0 +1,1 @@
+The rear panel contains ports for additional pedal inputs, to control other parameters.

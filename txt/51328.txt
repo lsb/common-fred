@@ -1,0 +1,1 @@
+"Informally, it is the amount of wasted ""space"" used to transmit certain data."

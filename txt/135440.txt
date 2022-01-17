@@ -1,0 +1,1 @@
+A ship loader is used for quarried material.

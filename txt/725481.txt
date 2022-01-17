@@ -1,0 +1,1 @@
+This avoids slow convergence in the direction of small gradient.

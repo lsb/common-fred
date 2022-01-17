@@ -1,0 +1,1 @@
+Many types of chisel have been devised, each specially suited to its intended use.

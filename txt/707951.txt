@@ -1,0 +1,1 @@
+These restrictions make the squaring function into a trapdoor permutation, eliminating the ambiguity.

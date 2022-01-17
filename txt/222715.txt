@@ -1,0 +1,1 @@
+Diophantine approximations also have important applications in the study of Diophantine equations.

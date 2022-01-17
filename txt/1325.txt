@@ -1,0 +1,1 @@
+"""Checkmate"" was George's most successful series."

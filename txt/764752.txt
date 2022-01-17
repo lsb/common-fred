@@ -1,0 +1,1 @@
+User access to the distributed database is exactly as per regular databases.

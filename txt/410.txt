@@ -1,0 +1,1 @@
+"""An Cumann Craic"" is the university's Irish language society."

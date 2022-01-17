@@ -1,0 +1,1 @@
+"This outer surface of the curve represents the ""zero-extra-power condition""."

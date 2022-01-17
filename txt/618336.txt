@@ -1,0 +1,1 @@
+The game would choose an appropriate genre for a particular section, and stream it.

@@ -1,0 +1,1 @@
+Typically only one interstitial atom is required per lattice plane of the dislocation.

@@ -1,0 +1,1 @@
+A complete instrument package that records seismic signals is called a seismograph.

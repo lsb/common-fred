@@ -1,0 +1,1 @@
+Its analogue over general inner product spaces is the Householder operator.

@@ -1,0 +1,1 @@
+Digital frequency synthesis relies on stable crystal controlled reference frequency sources.

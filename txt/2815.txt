@@ -1,0 +1,1 @@
+"""Greenwitch"" is the school's student literary magazine."

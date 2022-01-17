@@ -1,0 +1,1 @@
+These two steps are repeated until all real zeros are found for the polynomial.

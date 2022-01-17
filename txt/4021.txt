@@ -1,0 +1,1 @@
+"""Joe and Monkey"" is a member of a Boxcar Comics, a webcomic collective."

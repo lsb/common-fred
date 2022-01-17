@@ -1,0 +1,1 @@
+Displays on each platform show the next two trains.

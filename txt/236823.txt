@@ -1,0 +1,1 @@
+Errors are reported with numeric error codes.

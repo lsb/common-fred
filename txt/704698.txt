@@ -1,0 +1,1 @@
+These collections were themselves containers with their own properties.

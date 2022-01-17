@@ -1,0 +1,1 @@
+Many modern sequencers can be used to control virtual instruments implemented as software plug-ins.

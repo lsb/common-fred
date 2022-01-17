@@ -1,0 +1,1 @@
+By definition, each block fell upon an octet boundary.

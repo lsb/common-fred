@@ -1,0 +1,1 @@
+This creates a slight random phase jitter when the device is pulsed.

@@ -1,0 +1,1 @@
+This allows virtualization software to reduce overhead.

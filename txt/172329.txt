@@ -1,0 +1,1 @@
+As already noted, the Wigner function of quantum state typically takes some negative values.

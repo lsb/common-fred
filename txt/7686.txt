@@ -1,0 +1,1 @@
+"""The Grotto"" remains, connected to a hotel."

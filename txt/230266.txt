@@ -1,0 +1,1 @@
+E-mail programs such as Eudora can extract and decode MacBinary mail messages.

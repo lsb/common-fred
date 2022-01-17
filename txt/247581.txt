@@ -1,0 +1,1 @@
+For any choice of position vector R, the lattice looks exactly the same.

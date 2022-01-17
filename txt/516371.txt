@@ -1,0 +1,1 @@
+Several contributors have shifted their efforts to the Angstrom distribution or OpenEmbedded.

@@ -1,0 +1,1 @@
+The union or intersection of two Eulerian subgraphs may fail to be Eulerian.

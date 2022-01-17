@@ -1,0 +1,1 @@
+Another way to simulate nondeterminism would be to duplicate the stack as needed.

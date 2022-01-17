@@ -1,0 +1,1 @@
+When another component on the line goes active, it overrides the pull-up resistor.

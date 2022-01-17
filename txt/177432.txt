@@ -1,0 +1,1 @@
+At the end They send everything back to the client who made the query.

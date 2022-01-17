@@ -1,0 +1,1 @@
+It works against flat files, indexed files, and databases.

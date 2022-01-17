@@ -1,0 +1,1 @@
+Link state routing needs huge amount of resources to calculate routing tables.

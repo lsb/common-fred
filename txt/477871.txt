@@ -1,0 +1,1 @@
+One key is for encryption, the other one for decryption.

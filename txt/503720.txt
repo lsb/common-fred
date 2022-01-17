@@ -1,0 +1,1 @@
+Reference architecture is the basis from which information model, especially product and manufacturing models.

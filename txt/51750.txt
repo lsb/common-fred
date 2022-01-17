@@ -1,0 +1,1 @@
+"Isabelle's main proof method is a higher-order version of resolution, based on higher-order unification."

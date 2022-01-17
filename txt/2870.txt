@@ -1,0 +1,1 @@
+"""Hadith"" also refers to the speech of a person."

@@ -1,0 +1,1 @@
+"Now ""n"" is less than ""t"", and ""t"" is the least element of ""S""."

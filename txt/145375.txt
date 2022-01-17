@@ -1,0 +1,1 @@
+After all possible moves have been made, the piles are collected in reverse order.

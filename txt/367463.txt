@@ -1,0 +1,1 @@
+Information about what web standards, and technologies the browsers support, except for JavaScript.

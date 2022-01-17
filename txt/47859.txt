@@ -1,0 +1,1 @@
+"If the beam struck the target, a ""hit"" was scored."

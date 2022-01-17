@@ -1,0 +1,1 @@
+This widens all intervals equally, thereby maintaining intervallic and tonal consistency.

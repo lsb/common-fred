@@ -1,0 +1,1 @@
+Base stations can be local controlled or remote controlled.

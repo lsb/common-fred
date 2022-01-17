@@ -1,0 +1,1 @@
+The project was curated by composer Gavin Bryars for The Royal Shakespeare Company.

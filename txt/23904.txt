@@ -1,0 +1,1 @@
+"ComParser is not a ""pitch-follower"", but a ""spectrum-follower""."

@@ -1,0 +1,1 @@
+Jargon Reader can store low-volume data automatically in text and table components.

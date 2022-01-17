@@ -1,0 +1,1 @@
+When a mainline component fails, the system automatically falls back to the backup.

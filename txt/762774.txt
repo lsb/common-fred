@@ -1,0 +1,1 @@
+Unique connection names are easily recognizable because they start with the-otherwise forbidden-colon character.

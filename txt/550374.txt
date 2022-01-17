@@ -1,0 +1,1 @@
+Suffix links are also used in some algorithms running on the tree.

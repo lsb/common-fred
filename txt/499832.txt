@@ -1,0 +1,1 @@
+Public amenities include number of schools, as well as Churches, Temples and Mosques.

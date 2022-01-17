@@ -1,0 +1,1 @@
+Another limitation is the problem of gimbal lock at zenith pointing.

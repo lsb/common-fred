@@ -1,0 +1,1 @@
+"An ""abstract"" character is not a graphical glyph but a unit of textual data."

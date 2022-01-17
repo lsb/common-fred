@@ -1,0 +1,1 @@
+Tandem signaling is an important evaluation criterion in the evaluation of speech coders.

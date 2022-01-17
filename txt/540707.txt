@@ -1,0 +1,1 @@
+Some packages feature tools which will generate a graphical representation of a query plan.

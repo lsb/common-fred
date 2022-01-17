@@ -1,0 +1,1 @@
+Many metric spaces fail to have the Heine-Borel property.

@@ -1,0 +1,1 @@
+In mathematical terms, a vector consists of point that has both direction and length.

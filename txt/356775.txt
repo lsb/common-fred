@@ -1,0 +1,1 @@
+In frequency converters this property makes it possible to perform regenerative braking.

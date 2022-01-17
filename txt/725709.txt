@@ -1,0 +1,1 @@
+This bending moment resists the sagging deformation characteristic of a beam experiencing bending.

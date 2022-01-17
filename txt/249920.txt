@@ -1,0 +1,1 @@
+For the third type the additional information is given in dictionaries.

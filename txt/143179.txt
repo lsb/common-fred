@@ -1,0 +1,1 @@
+Adding an extra top element to the face semilattice gives the face lattice.

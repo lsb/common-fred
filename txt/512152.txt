@@ -1,0 +1,1 @@
+Schema migration is also non-trivial, virtually always requiring code.

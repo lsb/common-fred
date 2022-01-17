@@ -1,0 +1,1 @@
+If the barber is cutting hair, then the customer goes to the waiting room.

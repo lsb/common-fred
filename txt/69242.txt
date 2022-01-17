@@ -1,0 +1,1 @@
+"One of its design goals was to be as predictable as possible: 'what-you-write-is-what-you'll-hear'."

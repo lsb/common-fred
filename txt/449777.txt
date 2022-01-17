@@ -1,0 +1,1 @@
+Measurements are stored at-and exchanged between-stations, for use in making decisions about link establishment.

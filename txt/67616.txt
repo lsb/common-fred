@@ -1,0 +1,1 @@
+"Notably, it has been integrated with Inkscape, giving Inkscape its ""Trace Bitmap"" action."

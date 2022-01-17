@@ -1,0 +1,1 @@
+Previously, SpySubtracter was often pre-installed on new desktop and notebook computers.

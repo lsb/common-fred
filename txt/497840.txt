@@ -1,0 +1,1 @@
+Primase is one of the most error prone and slow polymerases.

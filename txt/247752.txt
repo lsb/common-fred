@@ -1,0 +1,1 @@
+For each scene, layout artists set up virtual cameras and rough blocking.

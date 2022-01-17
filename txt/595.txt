@@ -1,0 +1,1 @@
+"""Asclepias syriaca"" seeds require a period of cold treatment before they germinate."

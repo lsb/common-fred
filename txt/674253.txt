@@ -1,0 +1,1 @@
+The test publisher includes suggested score classifications in the test manual.

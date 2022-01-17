@@ -1,0 +1,1 @@
+Another constraint specifying that no fluent changes unless occlusion is true completes this solution.

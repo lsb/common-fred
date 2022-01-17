@@ -1,0 +1,1 @@
+Unlike multiplication of real or complex numbers, multiplication of quaternions is not commutative.

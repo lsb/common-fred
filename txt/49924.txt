@@ -1,0 +1,1 @@
+"In particular if ""P"" has integer coefficients, then so will the linear combination."

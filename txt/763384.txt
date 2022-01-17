@@ -1,0 +1,1 @@
+Unlike the latter, the product order of two totally ordered sets is not total.

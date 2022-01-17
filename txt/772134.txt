@@ -1,0 +1,1 @@
+We will decentralize the server and use a content delivery network instead.

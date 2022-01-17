@@ -1,0 +1,1 @@
+Alternatively, CableCards receive the channel mapping and can communicate that to the set-top box.

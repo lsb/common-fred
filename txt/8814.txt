@@ -1,0 +1,1 @@
+"""Voyager""s sensors detect a ""polaric"" detonation from a nearby planet."

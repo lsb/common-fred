@@ -1,0 +1,1 @@
+There are several different conventions for writing -adic expansions.

@@ -1,0 +1,1 @@
+Most of them use Henderson-Hasselbalch equation with different pK values.

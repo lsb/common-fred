@@ -1,0 +1,1 @@
+Also custom textures can be used for translation purposes.

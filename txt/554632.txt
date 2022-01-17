@@ -1,0 +1,1 @@
+Text windows are usually controlled by keyboard, though some also respond to the mouse.

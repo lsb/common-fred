@@ -1,0 +1,1 @@
+Early multitasking systems used applications that voluntarily ceded time to one another.

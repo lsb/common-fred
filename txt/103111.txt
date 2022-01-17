@@ -1,0 +1,1 @@
+"The term ""topological dimension"" is ordinarily understood to refer to Lebesgue covering dimension."

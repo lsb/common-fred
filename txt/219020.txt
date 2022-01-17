@@ -1,0 +1,1 @@
+Decoding errors occur when the more than these transmission errors occur.

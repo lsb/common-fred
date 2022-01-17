@@ -1,0 +1,1 @@
+Also, post-lay pipe surveys are now possible, which includes pipeline inspection.

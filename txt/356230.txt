@@ -1,0 +1,1 @@
+In each world, the player is free to travel in any forward-moving direction.

@@ -1,0 +1,1 @@
+The Connector has many serious design flaws.

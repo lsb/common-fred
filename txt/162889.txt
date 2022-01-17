@@ -1,0 +1,1 @@
+An instance variable is not a class variable although there are similarities.

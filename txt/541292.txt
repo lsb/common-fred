@@ -1,0 +1,1 @@
+Some servers, such as ircd-ratbox, do both.

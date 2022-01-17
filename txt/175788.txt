@@ -1,0 +1,1 @@
+At each hydraulic cylinder, a pressure sensor monitors the hydraulic pressure.

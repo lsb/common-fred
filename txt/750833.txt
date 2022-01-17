@@ -1,0 +1,1 @@
+To compare the mean values, Analysis of Variance techniques can be used.

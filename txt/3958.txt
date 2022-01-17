@@ -1,0 +1,1 @@
+"""Jabberwocky"" may have been partly inspired by the legend of the Lambton Worm."

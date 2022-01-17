@@ -1,0 +1,1 @@
+Programmers may declare cursors as scrollable or not scrollable.

@@ -1,0 +1,1 @@
+This issue can be addressed by assuming the parameter has a distribution.

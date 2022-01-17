@@ -1,0 +1,1 @@
+In team matches, players can give orders to bots on their team.

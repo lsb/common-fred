@@ -1,0 +1,1 @@
+Its core functionality included a word processor, a spreadsheet and a database management system.

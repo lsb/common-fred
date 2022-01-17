@@ -1,0 +1,1 @@
+Day beacons may also mark smaller navigable routes in their entirety.

@@ -1,0 +1,1 @@
+"The symbols are the decimal symbol, always capitalised, followed by the letter ""i""."

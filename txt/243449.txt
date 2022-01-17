@@ -1,0 +1,1 @@
+Finalizers are most frequently instance methods, due to needing to do object-specific operations.

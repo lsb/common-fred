@@ -1,0 +1,1 @@
+"""Adventure Cyclist"" is published nine times per year for members of Adventure Cycling Association."

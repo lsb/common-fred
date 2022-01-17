@@ -1,0 +1,1 @@
+Booting from floppy disk is supported, too.

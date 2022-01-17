@@ -1,0 +1,1 @@
+The same vector space may have distinct complete sets of commuting operators.

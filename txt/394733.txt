@@ -1,0 +1,1 @@
+It is primarily used in conjunction with pipes and filters.

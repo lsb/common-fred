@@ -1,0 +1,1 @@
+Frequently they specify how user input and interaction mechanisms work.

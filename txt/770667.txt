@@ -1,0 +1,1 @@
+We can see a binary safe register as modeling a bit flickering.

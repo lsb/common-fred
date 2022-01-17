@@ -1,0 +1,1 @@
+Customizations and settings are instead stored with the application on the flash drive.

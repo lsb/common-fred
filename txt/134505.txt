@@ -1,0 +1,1 @@
+A regular square, pentagon, and icosagon can completely fill a plane vertex.

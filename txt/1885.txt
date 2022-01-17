@@ -1,0 +1,1 @@
+"""Doctor Who Magazine"" printed several comics stories involving Davros."

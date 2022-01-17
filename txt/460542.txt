@@ -1,0 +1,1 @@
+Multi-pass encoding is used when the encoding quality is most important.

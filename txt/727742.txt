@@ -1,0 +1,1 @@
+This current is used to charge a capacitor, thus storing energy for later use.

@@ -1,0 +1,1 @@
+Most algorithms are not very sensitive to the type of normalization used.

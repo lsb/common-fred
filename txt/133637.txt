@@ -1,0 +1,1 @@
+A player may never combine two different groups of the same colored camels.

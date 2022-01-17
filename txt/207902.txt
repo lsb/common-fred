@@ -1,0 +1,1 @@
+Classes may be considered to represent archetypes, or specific careers.

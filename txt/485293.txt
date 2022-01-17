@@ -1,0 +1,1 @@
+Others, such as the stack, only exist at run time.

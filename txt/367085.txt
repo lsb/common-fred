@@ -1,0 +1,1 @@
+Individual ribbons correspond to points, which combine for a team score.

@@ -1,0 +1,1 @@
+"Part of the specification required a bar to ""extend vertically""."

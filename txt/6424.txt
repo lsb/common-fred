@@ -1,0 +1,1 @@
+"""S"" stands for ""substitution"", and ""P"" stands for ""positioning""."

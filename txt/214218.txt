@@ -1,0 +1,1 @@
+Courant is a namesake of the Courant-Friedrichs-Lewy condition and the Courant minimax principle.

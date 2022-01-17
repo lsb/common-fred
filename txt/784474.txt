@@ -1,0 +1,1 @@
+Wizards, tooltip prompts and autocompletion may help with common tasks.

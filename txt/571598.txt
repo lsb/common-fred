@@ -1,0 +1,1 @@
+The Radon point of three points in a one-dimensional space is just their median.

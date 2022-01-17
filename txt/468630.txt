@@ -1,0 +1,1 @@
+Noncommutative rings resemble rings of matrices in many respects.

@@ -1,0 +1,1 @@
+It follows the chi-squared distribution.

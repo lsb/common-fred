@@ -1,0 +1,1 @@
+All examinees receive a report indicating their scores by section.

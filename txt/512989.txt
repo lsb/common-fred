@@ -1,0 +1,1 @@
+Screen editing is terminated when or are pressed, which have their usual effects.

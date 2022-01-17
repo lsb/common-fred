@@ -1,0 +1,1 @@
+Unlike Java applets, Web Start applications do not run inside the browser.

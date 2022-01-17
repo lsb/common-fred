@@ -1,0 +1,1 @@
+Its approach factorizes the joint probability distribution in the product of multivariate marginal distributions.

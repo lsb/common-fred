@@ -1,0 +1,1 @@
+That is, if the tensor is nonzero and completely factorizable.

@@ -1,0 +1,1 @@
+This accounts for the resonance stabilization of the molecule due to delocalization of charge.

@@ -1,0 +1,1 @@
+Currently, Box Office Mojo compiles the box office charts for this country.

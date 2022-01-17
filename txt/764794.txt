@@ -1,0 +1,1 @@
+Users can specify auto-download triggers and auto-block filters.

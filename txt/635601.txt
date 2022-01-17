@@ -1,0 +1,1 @@
+The most common patches add fast monsters and weapons, player-seeking-self-detonating barrels, and so on.

@@ -1,0 +1,1 @@
+Data is securely transmitted to a central data repository for analysis and feedback.

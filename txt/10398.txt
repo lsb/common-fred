@@ -1,0 +1,1 @@
+"A delay embedding theorem uses an ""observation function"" to construct the embedding function."

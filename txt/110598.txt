@@ -1,0 +1,1 @@
+"This gives a system of coding integers, similar to the representation of Zeckendorf's theorem."

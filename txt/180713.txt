@@ -1,0 +1,1 @@
+Backface culling is a common trick to accelerate Three-D rendering.

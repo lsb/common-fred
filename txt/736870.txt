@@ -1,0 +1,1 @@
+This molecule is capable of binding aromatic guests.

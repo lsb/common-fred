@@ -1,0 +1,1 @@
+"Upload bandwidth isn't always reliable, as typical relays are just ordinary listeners."

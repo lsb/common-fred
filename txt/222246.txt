@@ -1,0 +1,1 @@
+Different aircraft, control towers and other users transmit with different bandwidths and audio characteristics.

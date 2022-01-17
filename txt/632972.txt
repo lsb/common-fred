@@ -1,0 +1,1 @@
+The mapping telescope is a sequence of mapping cylinders, joined end-to-end.

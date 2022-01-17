@@ -1,0 +1,1 @@
+This is the key to the efficiency of the number field sieve.

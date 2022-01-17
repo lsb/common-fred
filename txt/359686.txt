@@ -1,0 +1,1 @@
+In quota sampling, there is non-random sample selection and this can be unreliable.

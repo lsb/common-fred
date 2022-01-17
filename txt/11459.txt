@@ -1,0 +1,1 @@
+"A simulated flight instructor offers real-time advice based on the player's performance."

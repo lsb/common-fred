@@ -1,0 +1,1 @@
+There are limitations because of the attenuation of beamed energy with distance.

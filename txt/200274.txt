@@ -1,0 +1,1 @@
+By using pulsed wave doppler or continuous wave doppler bloodflow velocities can be calculated.

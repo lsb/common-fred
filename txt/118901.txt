@@ -1,0 +1,1 @@
+"Windows Vista features a completely re-written audio stack based on the ""Universal Audio Architecture""."

@@ -1,0 +1,1 @@
+It was given the name of raised-cosine filter because of these applications.

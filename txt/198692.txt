@@ -1,0 +1,1 @@
+But this creates a heavy dependence between the image pixels and its adaptive palette.

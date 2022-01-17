@@ -1,0 +1,1 @@
+This means that the singular solution is the envelope of the family of solutions.

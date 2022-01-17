@@ -1,0 +1,1 @@
+For direct modeling of simple forward rates the Brace-Gatarek-Musiela model represents an example.

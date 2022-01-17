@@ -1,0 +1,1 @@
+This condition stops unseen transitions from occurring.

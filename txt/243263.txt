@@ -1,0 +1,1 @@
+File tables provide info about location and status of files.

@@ -1,0 +1,1 @@
+Mailman runs on Linux and most Unix-like systems.

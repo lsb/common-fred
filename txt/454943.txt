@@ -1,0 +1,1 @@
+More advanced effects are also possible using the same framework.

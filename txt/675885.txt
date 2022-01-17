@@ -1,0 +1,1 @@
+The tornado vortex signature is an algorithm-based detection of this.

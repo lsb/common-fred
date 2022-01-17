@@ -1,0 +1,1 @@
+"""P. knowlesi"" responds well to treatment with chloroquine and primaquine."

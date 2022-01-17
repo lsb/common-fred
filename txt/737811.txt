@@ -1,0 +1,1 @@
+This pattern is useful when a message, or parcel of data, requires considerable metadata.

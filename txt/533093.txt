@@ -1,0 +1,1 @@
+Since Gmane is a bidirectional gateway, you can also post on the mailing lists.

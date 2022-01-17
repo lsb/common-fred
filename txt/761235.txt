@@ -1,0 +1,1 @@
+Typically, applications delete data that is older on average before deleting newer data.

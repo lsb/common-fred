@@ -1,0 +1,1 @@
+"A major distinction is whether an object's lifetime is deterministic or non-deterministic."

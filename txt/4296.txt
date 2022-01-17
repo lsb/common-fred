@@ -1,0 +1,1 @@
+"""Legionella"" is traditionally detected by culture on buffered charcoal yeast extract agar."

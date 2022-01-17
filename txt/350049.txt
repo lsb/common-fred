@@ -1,0 +1,1 @@
+If they fail at three jumps in a row, they are eliminated.

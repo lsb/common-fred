@@ -1,0 +1,1 @@
+A backdoor is a deliberate mechanism that is added to a cryptographic algorithm.

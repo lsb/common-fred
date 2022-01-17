@@ -1,0 +1,1 @@
+Unfortunately, each Lamport key can only be used to sign a single message.

@@ -1,0 +1,1 @@
+"One other useful construct included in this language is ""choice""."

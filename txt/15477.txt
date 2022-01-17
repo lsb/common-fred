@@ -1,0 +1,1 @@
+"An equilibrium point is ""hyperbolic"" if none of the eigenvalues have zero real part."

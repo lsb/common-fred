@@ -1,0 +1,1 @@
+Then, the transport stream may be demultiplexed into its constituent streams.

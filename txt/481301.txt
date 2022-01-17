@@ -1,0 +1,1 @@
+Optical notch filters rely on destructive interference.

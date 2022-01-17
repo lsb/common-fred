@@ -1,0 +1,1 @@
+When you are ready for even faster browsing, check out my post on Custom web commands with WebDriver.

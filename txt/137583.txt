@@ -1,0 +1,1 @@
+A thorough and authoritative description of locking was written by Jim Gray.

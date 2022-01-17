@@ -1,0 +1,1 @@
+In this case the graph is said to pass the horizontal line test.

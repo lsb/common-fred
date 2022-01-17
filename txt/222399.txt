@@ -1,0 +1,1 @@
+Different taps on the winding correspond to different voltages, measured from the common end.

@@ -1,0 +1,1 @@
+It is the ninth Fibonacci number and a companion Pell number.

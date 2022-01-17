@@ -1,0 +1,1 @@
+Instead of having to stop and start after every keyword or symbol.

@@ -1,0 +1,1 @@
+Any harmonic function is biharmonic, but the converse is not always true.

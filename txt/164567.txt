@@ -1,0 +1,1 @@
+And so on, until the subsequence n converges in the last component too.

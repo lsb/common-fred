@@ -1,0 +1,1 @@
+Measures with this property are sometimes called Markov random fields.

@@ -1,0 +1,1 @@
+The smash product is compatible with the triangulated category structure.

@@ -1,0 +1,1 @@
+"""Serpent Isle"" was released in English and Spanish."

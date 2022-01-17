@@ -1,0 +1,1 @@
+For audio rendition, the wave field synthesis is the most related procedure.

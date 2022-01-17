@@ -1,0 +1,1 @@
+It connects the console to peripherals via a high-speed serial link.

@@ -1,0 +1,1 @@
+Some events may be single-elimination, double-elimination, or Swiss style.

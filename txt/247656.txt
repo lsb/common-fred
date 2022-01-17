@@ -1,0 +1,1 @@
+For complex manifolds the exponential sheaf sequence gives basic information on the Picard group.

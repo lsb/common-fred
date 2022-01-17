@@ -1,0 +1,1 @@
+Channels are full-duplex pipes connected to a particular profile.

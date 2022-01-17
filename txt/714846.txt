@@ -1,0 +1,1 @@
+They decide which optional features will be included when installing or upgrading an application.

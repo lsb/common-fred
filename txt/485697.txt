@@ -1,0 +1,1 @@
+Our systems will encrypt and hash your password for security.

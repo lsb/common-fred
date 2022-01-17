@@ -1,0 +1,1 @@
+"No theaters can move in or out of Tier ""A""."

@@ -1,0 +1,1 @@
+The player can then call on Beat to attack any onscreen enemies.

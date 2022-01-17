@@ -1,0 +1,1 @@
+"""Geneva time is an hour later than French time,"" he said shortly."

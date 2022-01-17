@@ -1,0 +1,1 @@
+Systems with generalized linear phase have an additional frequency-independent constant added to the phase.

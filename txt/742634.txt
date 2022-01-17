@@ -1,0 +1,1 @@
+This type of quantization is frequently used in telephony systems.

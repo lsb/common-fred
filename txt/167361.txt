@@ -1,0 +1,1 @@
+Another type of thermistor is a silistor, a thermally sensitive silicon resistor.

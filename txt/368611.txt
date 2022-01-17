@@ -1,0 +1,1 @@
+Instead, attributes are extracted from objects of the past based on their present relevance.

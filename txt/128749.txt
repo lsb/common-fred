@@ -1,0 +1,1 @@
+A local computer may be used for single-user testing and learning purposes.

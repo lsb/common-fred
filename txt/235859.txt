@@ -1,0 +1,1 @@
+Enemies were assigned to stages in different groups to create themes.

@@ -1,0 +1,1 @@
+The player can jump off of the dinosaur at any time.

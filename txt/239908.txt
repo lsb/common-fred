@@ -1,0 +1,1 @@
+Examples of these vector formats for characters are Postscript fonts and TrueType fonts.

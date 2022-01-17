@@ -1,0 +1,1 @@
+Consider shrinking an image and then performing corner detection.

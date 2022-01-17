@@ -1,0 +1,1 @@
+Thus, a ring is reduced if and only if its nilradical is zero.

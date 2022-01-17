@@ -1,0 +1,1 @@
+It also determines the quantity of analyte that can be loaded onto the column.

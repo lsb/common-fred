@@ -1,0 +1,1 @@
+Moreover the representation allows numerically unstable situations like that depicted below.

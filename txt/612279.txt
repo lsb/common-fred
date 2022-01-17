@@ -1,0 +1,1 @@
+The filters are convolved with the signal, resulting in a so-called Gabor space.

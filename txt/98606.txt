@@ -1,0 +1,1 @@
+"The player that depletes the other player's life bars first wins the match."

@@ -1,0 +1,1 @@
+However, the resulting framebuffer is non-linear.

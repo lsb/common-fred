@@ -1,0 +1,1 @@
+So usually a keypress instead of a click is used.

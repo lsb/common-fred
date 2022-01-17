@@ -1,0 +1,1 @@
+This can mitigate the effects of buffer overflows and other security vulnerabilities.

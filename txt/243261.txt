@@ -1,0 +1,1 @@
+File sharing is also fully integrated with this functionality.

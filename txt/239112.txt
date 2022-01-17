@@ -1,0 +1,1 @@
+Every subgroup of a cyclic group is characteristic.

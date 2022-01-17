@@ -1,0 +1,1 @@
+One class that does have both is that of multigraphs.

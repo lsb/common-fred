@@ -1,0 +1,1 @@
+Ordinarily, Miller indices are always integers by definition, and this constraint is physically significant.

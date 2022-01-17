@@ -1,0 +1,1 @@
+"""Nishiki-e"", unlike their predecessors, were full-color images."

@@ -1,0 +1,1 @@
+"""View Puzzle"" allows players to view puzzles they have completed."

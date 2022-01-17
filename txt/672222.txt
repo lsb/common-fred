@@ -1,0 +1,1 @@
+The system also provides dynamic ramp closure in the event of a major incident.

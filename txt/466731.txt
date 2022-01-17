@@ -1,0 +1,1 @@
+No additional third party libraries are required, and all source code is included.

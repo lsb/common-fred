@@ -1,0 +1,1 @@
+Toughness can be determined by integrating the stress-strain curve.

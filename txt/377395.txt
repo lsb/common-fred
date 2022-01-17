@@ -1,0 +1,1 @@
+It gives the complete solution of the classical problem of approximation by polynomials.

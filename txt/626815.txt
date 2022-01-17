@@ -1,0 +1,1 @@
+The language is designed for developers of vertical market software packages.

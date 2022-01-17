@@ -1,0 +1,1 @@
+Taken over all pushdown automata both acceptance conditions define the same family of languages.

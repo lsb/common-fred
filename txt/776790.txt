@@ -1,0 +1,1 @@
+When prey is encountered the dog freezes rather than chasing after the game.

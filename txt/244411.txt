@@ -1,0 +1,1 @@
+First the digits are multiplied as usual using mul.

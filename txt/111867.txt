@@ -1,0 +1,1 @@
+"This principle results in components referred to as ""encapsulated""."

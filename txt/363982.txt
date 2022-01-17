@@ -1,0 +1,1 @@
+In the plane, split-complex numbers and dual numbers form alternative topological rings.

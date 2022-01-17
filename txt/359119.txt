@@ -1,0 +1,1 @@
+In other words, if the integral diverges, then the series diverges as well.

@@ -1,0 +1,1 @@
+"Let ""N"" be a tubular neighborhood of ""K""; so ""N"" is a solid torus."

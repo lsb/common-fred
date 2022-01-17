@@ -1,0 +1,1 @@
+Programs are automatically allowed or denied Internet access by Norton Personal Firewall.

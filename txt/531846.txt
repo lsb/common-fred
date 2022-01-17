@@ -1,0 +1,1 @@
+Si and Sk are symbols on the tape.

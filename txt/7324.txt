@@ -1,0 +1,1 @@
+"""Tempest"" was one of the first games to use Atari's Color-QuadraScan vector display technology."

@@ -1,0 +1,1 @@
+In general, most prefix codes for integers assign longer codewords to larger integers.

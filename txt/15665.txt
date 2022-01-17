@@ -1,0 +1,1 @@
+"Analytic continuation around ""k"" full circuits brings the function back to the original."

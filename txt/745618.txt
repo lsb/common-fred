@@ -1,0 +1,1 @@
+This would work better if there were an Emacs extension that numbered incremental search results.

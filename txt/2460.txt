@@ -1,0 +1,1 @@
+"""Forever, said the Duck"" is perhaps the most esoteric of the stories."

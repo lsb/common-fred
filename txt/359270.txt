@@ -1,0 +1,1 @@
+In particular, every uncountable Polish space has the cardinality of the continuum.

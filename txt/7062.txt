@@ -1,0 +1,1 @@
+"""Stardust"" was launched carrying two sets of identical pairs of square silicon wafers."

@@ -1,0 +1,1 @@
+"It does this by adjusting a player's raw statistics for park and league effects."

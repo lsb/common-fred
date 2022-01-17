@@ -1,0 +1,1 @@
+This includes: Google Plus, Facebook, and Twitter feeds.

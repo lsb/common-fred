@@ -1,0 +1,1 @@
+Instead, the coupling between threads happens via well-defined communication points and rendezvous.

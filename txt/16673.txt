@@ -1,0 +1,1 @@
+"Applications were started as ""attached"" to a console."

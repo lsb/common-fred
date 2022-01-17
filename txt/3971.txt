@@ -1,0 +1,1 @@
+"""Jagged Alliance: Crossfire"" was developed by the Coreplay Studio in Munich."

@@ -1,0 +1,1 @@
+Current versions of Konqueror and Internet Explorer also include content filtering support.

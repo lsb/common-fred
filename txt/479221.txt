@@ -1,0 +1,1 @@
+One solution is to not send bytes without transitions.

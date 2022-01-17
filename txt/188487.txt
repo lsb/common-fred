@@ -1,0 +1,1 @@
+Blowfish is a fast block cipher, except when changing keys.

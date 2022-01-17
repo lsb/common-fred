@@ -1,0 +1,1 @@
+A serial backbone is the simplest kind of backbone network.

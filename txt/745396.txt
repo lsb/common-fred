@@ -1,0 +1,1 @@
+This worked reasonably well but was slow and occasionally inconvenient.

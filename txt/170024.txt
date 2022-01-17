@@ -1,0 +1,1 @@
+Arrays may have up to three dimensions, but dynamic bounds are not permitted.

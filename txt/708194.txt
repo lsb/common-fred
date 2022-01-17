@@ -1,0 +1,1 @@
+These services transmit one pulse per second of some sort.

@@ -1,0 +1,1 @@
+Application software is centralized and so can be rigorously verified before deployment.

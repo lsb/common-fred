@@ -1,0 +1,1 @@
+"""Galaxian"" was very successful for Namco and introduced several ""firsts""."

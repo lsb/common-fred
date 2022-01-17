@@ -1,0 +1,1 @@
+The biproduct is a generalization of finite direct sums of modules.

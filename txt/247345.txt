@@ -1,0 +1,1 @@
+For a non-Cartesian lattice this function can not be obtained by a simple tensor-product.

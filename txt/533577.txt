@@ -1,0 +1,1 @@
+Since the winding itself has no resistance, no current flows through the switch wire.

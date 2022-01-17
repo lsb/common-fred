@@ -1,0 +1,1 @@
+Special socket function calls are part of the System Call Interface.

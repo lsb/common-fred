@@ -1,0 +1,1 @@
+Data on an audio compact disc is laid out in sessions.

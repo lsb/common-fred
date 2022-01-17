@@ -1,0 +1,1 @@
+Instrumentation is sometimes used as a synonym for orchestration.

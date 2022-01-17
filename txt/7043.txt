@@ -1,0 +1,1 @@
+"""Stadi"" is a slang word itself, borrowed from the Swedish ""stad"", ""city""."

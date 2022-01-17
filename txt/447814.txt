@@ -1,0 +1,1 @@
+Mathematically speaking, a sphere and a plane are not isometric, even locally.

@@ -1,0 +1,1 @@
+This is a quite different statement, and is absurd for large finite cardinalities.

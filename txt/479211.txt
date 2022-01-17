@@ -1,0 +1,1 @@
+One site supports the primary processing environment with on-site backup.

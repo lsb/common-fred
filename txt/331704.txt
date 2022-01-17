@@ -1,0 +1,1 @@
+Historically, there was no syntactic distinction between the bitwise and logical operators.

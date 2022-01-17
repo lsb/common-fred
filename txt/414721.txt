@@ -1,0 +1,1 @@
+It worked only in single-shot mode.

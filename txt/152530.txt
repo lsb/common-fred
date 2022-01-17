@@ -1,0 +1,1 @@
+All assigned code points have a single block name.

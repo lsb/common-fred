@@ -1,0 +1,1 @@
+Once the maze is cleared, a new maze is presented and the gameplay continues.

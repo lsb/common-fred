@@ -1,0 +1,1 @@
+Each tooth is given a three digit number.

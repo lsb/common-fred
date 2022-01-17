@@ -1,0 +1,1 @@
+"The term ""normal"" refers to projective normality, not normal schemes."

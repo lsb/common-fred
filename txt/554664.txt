@@ -1,0 +1,1 @@
+Thai alphabet support has been criticized for its ordering of Thai characters.

@@ -1,0 +1,1 @@
+"""Newsreaders"" is a spin-off of ""Childrens Hospital"", presented as the fictional news magazine ""Newsreaders""."

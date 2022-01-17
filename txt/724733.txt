@@ -1,0 +1,1 @@
+This also allows for dynamic and gradual changes in sound tones over time.

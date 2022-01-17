@@ -1,0 +1,1 @@
+The end result of manufacturing in a software factory is a composite application.

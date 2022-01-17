@@ -1,0 +1,1 @@
+This uses sensors, and cameras that are operated remotely.

@@ -1,0 +1,1 @@
+"""Mayfair"", has improved on paper quality and pagination."

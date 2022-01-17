@@ -1,0 +1,1 @@
+However, many applications require data from all records, notably computations such as totals.

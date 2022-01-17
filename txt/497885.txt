@@ -1,0 +1,1 @@
+Primitive recursive functions are a defined subclass of the recursive functions.

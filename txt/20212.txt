@@ -1,0 +1,1 @@
+"Bold ""Yes"" means introduced with this version of Windows."

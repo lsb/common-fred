@@ -1,0 +1,1 @@
+Authors use text files to create themes that define their widget.

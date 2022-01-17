@@ -1,0 +1,1 @@
+The various realistic rendering techniques in computer graphics attempt to solve this equation.

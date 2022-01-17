@@ -1,0 +1,1 @@
+"""Texas"" is backed by the traditional badge of the Texas Rangers."

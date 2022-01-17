@@ -1,0 +1,1 @@
+Logically, the select is evaluated before the actual insert operation is started.

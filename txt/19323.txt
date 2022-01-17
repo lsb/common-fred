@@ -1,0 +1,1 @@
+"Before first being played, a bat should be ""knocked in""."

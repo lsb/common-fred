@@ -1,0 +1,1 @@
+It is unknown how a later stimulus is able to block an earlier one.

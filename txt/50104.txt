@@ -1,0 +1,1 @@
+"In short, a generator ""looks like"" a function but ""behaves like"" an iterator."

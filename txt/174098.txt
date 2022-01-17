@@ -1,0 +1,1 @@
+As the surface area changes, the decorations are refined proportionally.

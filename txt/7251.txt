@@ -1,0 +1,1 @@
+"""System"" is used in two related ways in systemic functional theory."

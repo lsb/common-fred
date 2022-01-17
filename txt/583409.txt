@@ -1,0 +1,1 @@
+The backscattering method is also employed in fiber optics applications to detect optical faults.

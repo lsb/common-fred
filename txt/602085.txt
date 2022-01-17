@@ -1,0 +1,1 @@
+The curve along any side of horn is considered to be a negative curve.

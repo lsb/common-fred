@@ -1,0 +1,1 @@
+"""Golf Digest"" produces a biennial ranking of the world's best golf courses."

@@ -1,0 +1,1 @@
+This means that the vector group symbol will always start with a capital letter.

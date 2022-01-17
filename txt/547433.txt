@@ -1,0 +1,1 @@
+Storage pools allow for the grouping of disks within a file system.

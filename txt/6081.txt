@@ -1,0 +1,1 @@
+"""Q"" in an instrument may vary across frequencies, but this may not be desirable."

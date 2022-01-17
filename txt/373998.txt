@@ -1,0 +1,1 @@
+It can create stand-alone executables by binding together source code with the interpreter.

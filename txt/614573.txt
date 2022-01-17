@@ -1,0 +1,1 @@
+The floors are supported by the core and perimeter columns.

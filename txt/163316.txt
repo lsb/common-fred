@@ -1,0 +1,1 @@
+An options investor goes long by buying call options or put options on it.

@@ -1,0 +1,1 @@
+The chemical shifts are slightly different in different solvents, depending on electronic solvation effects.

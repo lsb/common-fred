@@ -1,0 +1,1 @@
+These patterns include snowflake, Penrose, Laves and Altair tilings.

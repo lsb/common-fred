@@ -1,0 +1,1 @@
+"""C-Mag"" is short for ""century magazine"", referring to its hundred-round capacity."

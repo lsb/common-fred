@@ -1,0 +1,1 @@
+This process automated the formerly manual reading and subsequent hand-plotting of data.

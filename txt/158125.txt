@@ -1,0 +1,1 @@
+Also swapping of two or more words will not be detected.

@@ -1,0 +1,1 @@
+Mounted external volumes and disk image files can be displayed on the desktop.

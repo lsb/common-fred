@@ -1,0 +1,1 @@
+Both humidity and food availability are affected by day-to-day changes in weather conditions.

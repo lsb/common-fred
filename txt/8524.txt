@@ -1,0 +1,1 @@
+"""Trieste"" was designed by the Swiss scientist Auguste Piccard and originally built in Italy."

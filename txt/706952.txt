@@ -1,0 +1,1 @@
+These modifications are completely transparent to Java applications.

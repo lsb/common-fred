@@ -1,0 +1,1 @@
+The Gromov-Hausdorff space is path-connected, complete, and separable.

@@ -1,0 +1,1 @@
+"Wedderburn's result was later generalized to semisimple rings in the Artin-Wedderburn theorem."

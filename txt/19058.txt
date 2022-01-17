@@ -1,0 +1,1 @@
+"Battles are governed by a turn-based battle system similar to the main ""Xenosaga"" games."

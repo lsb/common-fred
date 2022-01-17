@@ -1,0 +1,1 @@
+Users can search for events worldwide by time, location, performer, and descriptive keyword.

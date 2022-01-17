@@ -1,0 +1,1 @@
+In Diophantine equations the solutions are required to be integers.

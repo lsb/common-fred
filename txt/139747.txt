@@ -1,0 +1,1 @@
+A year and a half ago, Mozilla quietly started working on an open source, TensorFlow-based DeepSpeech implementation.

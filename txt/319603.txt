@@ -1,0 +1,1 @@
+Here we presume an understanding of basic multivariate calculus and Fourier series.

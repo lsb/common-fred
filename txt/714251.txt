@@ -1,0 +1,1 @@
+They can cause replication fork stalling and are bypassed by translesion synthesis.

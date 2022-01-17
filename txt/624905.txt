@@ -1,0 +1,1 @@
+The interpretation of negation is different in intuitionist logic than in classical logic.

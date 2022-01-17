@@ -1,0 +1,1 @@
+Light-time correction can be applied to any object whose distance and motion are known.

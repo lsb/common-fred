@@ -1,0 +1,1 @@
+"Make sure you've read my introductory post on voice coding, since we will be building upon that."

@@ -1,0 +1,1 @@
+Akismet was originally developed to integrate with a plug-in for WordPress.

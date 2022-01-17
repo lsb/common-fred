@@ -1,0 +1,1 @@
+See one-way compression function for descriptions of several such methods.

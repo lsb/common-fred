@@ -1,0 +1,1 @@
+Zone transfer comprises a preamble followed by the actual data transfer.

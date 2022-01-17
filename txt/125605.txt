@@ -1,0 +1,1 @@
+A filter can be designed to minimize the effect of sampling jitter.

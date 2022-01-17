@@ -1,0 +1,1 @@
+The image is represented pixel by pixel, like a microscopic jigsaw puzzle.

@@ -1,0 +1,1 @@
+Onboard calibration sources for channels measuring reflected sunlight include solar diffusers and tungsten lamps.

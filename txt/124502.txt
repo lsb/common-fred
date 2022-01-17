@@ -1,0 +1,1 @@
+A diffuse surface reflects light in all directions.

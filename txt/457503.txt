@@ -1,0 +1,1 @@
+Most of the continuous wavelets are used for both wavelet decomposition and composition transforms.

@@ -1,0 +1,1 @@
+Teams are placed into tables, placing them in order according to points accrued.

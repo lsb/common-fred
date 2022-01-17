@@ -1,0 +1,1 @@
+A bounded non-negative operator on a complex Hilbert space is self adjoint by definition.

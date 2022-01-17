@@ -1,0 +1,1 @@
+Joint stereo is done only on a frame-to-frame basis.

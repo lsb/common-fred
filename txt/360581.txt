@@ -1,0 +1,1 @@
+In some cases, specific syllables in particular words are consistently represented by specific characters.

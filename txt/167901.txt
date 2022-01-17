@@ -1,0 +1,1 @@
+Any divisor of this form is called principal divisor.

@@ -1,0 +1,1 @@
+"Mototool is the command-line interface for Motorola's devices, and is also written in Python."

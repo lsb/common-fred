@@ -1,0 +1,1 @@
+This differential response allows the fly to distinguish between gravitational, mechanical, and acoustic stimuli.

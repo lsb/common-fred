@@ -1,0 +1,1 @@
+Moreover, the median test can only be used for quantitative data.

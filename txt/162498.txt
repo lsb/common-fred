@@ -1,0 +1,1 @@
+An example to clarify the difference between static and dynamic slicing.

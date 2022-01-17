@@ -1,0 +1,1 @@
+Airflow can speed up or slow down locally at different points over an aircraft.

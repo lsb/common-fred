@@ -1,0 +1,1 @@
+Each trainset consists of six passenger cars and two power cars.

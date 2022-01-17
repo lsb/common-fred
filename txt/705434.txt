@@ -1,0 +1,1 @@
+These experiments connect the ultimatum game to principal-agent problems studied in contract theory.

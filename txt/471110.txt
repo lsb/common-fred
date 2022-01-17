@@ -1,0 +1,1 @@
+Notice that both devices involved in a transfer are considered senders and receivers.

@@ -1,0 +1,1 @@
+"""Formica polyctena"" has polygynous colonies."

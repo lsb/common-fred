@@ -1,0 +1,1 @@
+This center of gravity must be within a range specified by the designers.

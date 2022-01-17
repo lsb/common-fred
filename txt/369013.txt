@@ -1,0 +1,1 @@
+Intake with meals slows the absorption, but does not decrease the amount absorbed.

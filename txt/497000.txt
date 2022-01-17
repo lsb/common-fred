@@ -1,0 +1,1 @@
+Present accepts any X pixmap as the source for a screen update.

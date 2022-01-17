@@ -1,0 +1,1 @@
+The design used triodes as phase inverters and drivers.

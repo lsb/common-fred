@@ -1,0 +1,1 @@
+This property is the basis for principal components analysis and canonical correlation.

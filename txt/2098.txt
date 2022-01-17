@@ -1,0 +1,1 @@
+"""Elise"" is now regarded as a rare book and sells at collector prices."

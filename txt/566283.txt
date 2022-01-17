@@ -1,0 +1,1 @@
+The Jakaltek language has a verb-subject-object syntax.

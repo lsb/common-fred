@@ -1,0 +1,1 @@
+"These stimuli are calibrated relative to the patient's height and weight."

@@ -1,0 +1,1 @@
+A lighting system on-board allows the water to be displayed in different colors.

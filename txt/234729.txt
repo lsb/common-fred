@@ -1,0 +1,1 @@
+Elementary receptacle for a datum which is associated with a single Record Type.

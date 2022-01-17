@@ -1,0 +1,1 @@
+Its original aims lay in uncovering and describing text grammars.

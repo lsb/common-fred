@@ -1,0 +1,1 @@
+Given an origin point on one of these ranges, other points correspond to angles.

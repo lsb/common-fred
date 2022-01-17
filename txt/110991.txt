@@ -1,0 +1,1 @@
+"This is due to grid views' visual and sometimes behavioral similarity to spreadsheet applications."

@@ -1,0 +1,1 @@
+It did not handle security matters, referring such matters to the appropriate security service.

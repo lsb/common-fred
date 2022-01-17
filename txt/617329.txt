@@ -1,0 +1,1 @@
+The front of the lens does not rotate nor extend when focusing.

@@ -1,0 +1,1 @@
+Furthermore, the resulting matrix factor becomes more sparse and orthogonal.

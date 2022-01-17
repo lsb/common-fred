@@ -1,0 +1,1 @@
+Every even perfect number and every power of two is also a practical number.

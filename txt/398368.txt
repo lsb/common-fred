@@ -1,0 +1,1 @@
+It is the smallest bridgeless cubic graph with no Hamiltonian cycle.

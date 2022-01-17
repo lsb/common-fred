@@ -1,0 +1,1 @@
+"""Daria"" received positive reviews during its run."

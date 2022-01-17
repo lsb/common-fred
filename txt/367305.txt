@@ -1,0 +1,1 @@
+Indy automatically downloads music from public websites and continuously plays new titles.

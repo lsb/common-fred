@@ -1,0 +1,1 @@
+All subsystem computers are dual redundant.

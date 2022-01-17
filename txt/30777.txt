@@ -1,0 +1,1 @@
+"For schemas in the compact syntax, the extension "".rnc"" is used."

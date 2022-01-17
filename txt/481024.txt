@@ -1,0 +1,1 @@
+OpenType layout table supports standard ligature in default language.

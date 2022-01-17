@@ -1,0 +1,1 @@
+A character can belong to one of eight classes.

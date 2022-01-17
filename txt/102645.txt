@@ -1,0 +1,1 @@
+"The target manifold ""T"" is equipped with a Riemannian metric ""g""."

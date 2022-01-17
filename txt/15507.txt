@@ -1,0 +1,1 @@
+"An example of a formula used in science is Boltzmann's entropy formula."

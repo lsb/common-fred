@@ -1,0 +1,1 @@
+"It is easy to construct a class of hash functions when ""D"" is field."

@@ -1,0 +1,1 @@
+Programs are constructed by creating instances of component types and binding their interfaces together.

@@ -1,0 +1,1 @@
+A constant current input will therefore produce a linearly increasing output.

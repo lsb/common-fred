@@ -1,0 +1,1 @@
+Processors on different boards may communicate through inter-nodal buses.

@@ -1,0 +1,1 @@
+If the surface is minimal, the asymptotic directions are orthogonal to one another.

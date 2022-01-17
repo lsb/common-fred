@@ -1,0 +1,1 @@
+Most Unix-like systems use a similar syntax.

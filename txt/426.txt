@@ -1,0 +1,1 @@
+"""Ancestor"" is ""any person from whom one is descended."

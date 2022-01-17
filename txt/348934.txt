@@ -1,0 +1,1 @@
+Identical weapons for different types of planes cannot be used interchangeably.

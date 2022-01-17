@@ -1,0 +1,1 @@
+"During combat resolution, separate rolls are made for ""hits"" and ""wounds."

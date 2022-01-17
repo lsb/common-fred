@@ -1,0 +1,1 @@
+"In this case, the processor is said to be ""subscalar""."

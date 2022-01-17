@@ -1,0 +1,1 @@
+"""International"" rules are as described above, with the stalemated player winning."

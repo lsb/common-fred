@@ -1,0 +1,1 @@
+Each bay contained a backplane bus and an independent power supply.

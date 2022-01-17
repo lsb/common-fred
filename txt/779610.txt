@@ -1,0 +1,1 @@
+While they often showed relative sizes, these models were usually not built to scale.

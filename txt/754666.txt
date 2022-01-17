@@ -1,0 +1,1 @@
+Topological groups are always completely regular as topological spaces.

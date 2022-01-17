@@ -1,0 +1,1 @@
+A key with one subscript, K, is the public key of the corresponding individual.

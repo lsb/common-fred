@@ -1,0 +1,1 @@
+Some commentators regard multitenancy as an important feature of cloud computing.

@@ -1,0 +1,1 @@
+Traditional snakebots locomote purely by changing the shape of their body, just like snakes.

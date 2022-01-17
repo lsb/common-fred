@@ -1,0 +1,1 @@
+Outlook add-ins are not supported in Outlook Web App.

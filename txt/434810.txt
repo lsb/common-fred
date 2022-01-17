@@ -1,0 +1,1 @@
+Light outside the visible band does not contribute.

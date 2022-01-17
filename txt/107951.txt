@@ -1,0 +1,1 @@
+"These systems include stand-alone game libraries and plug directly into the user's television."

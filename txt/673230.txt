@@ -1,0 +1,1 @@
+The team with the highest point score at the end of the match wins.

@@ -1,0 +1,1 @@
+Content switches are typically used for load balancing among groups of servers.

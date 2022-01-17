@@ -1,0 +1,1 @@
+Locations within physical pages with different colors cannot conflict in the cache.

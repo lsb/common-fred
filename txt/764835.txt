@@ -1,0 +1,1 @@
+Users were able to change parameters and the particle system updated in real time.

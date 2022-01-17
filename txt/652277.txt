@@ -1,0 +1,1 @@
+The programming model for building either type of application is similar.

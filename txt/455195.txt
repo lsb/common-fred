@@ -1,0 +1,1 @@
+More precisely, Ind is the left adjoint to Res.

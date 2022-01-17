@@ -1,0 +1,1 @@
+These thresholds become lower as the latitude increases.

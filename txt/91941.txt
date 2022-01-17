@@ -1,0 +1,1 @@
+"The fact that cographs are ""P""-free implies that they are perfectly orderable."

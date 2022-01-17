@@ -1,0 +1,1 @@
+"""Hull"" remains the only modern destroyer-type to carry an gun."

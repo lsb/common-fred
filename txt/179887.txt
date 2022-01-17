@@ -1,0 +1,1 @@
+Authentication may be enabled on the session.

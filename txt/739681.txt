@@ -1,0 +1,1 @@
+This result extends to Friedman numbers under any base of representation.

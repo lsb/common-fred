@@ -1,0 +1,1 @@
+The game objective is to destroy all of the mutated cells.

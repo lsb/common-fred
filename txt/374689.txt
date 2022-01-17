@@ -1,0 +1,1 @@
+It consists of inverting a small sequence within a chromosome.

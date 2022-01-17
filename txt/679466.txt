@@ -1,0 +1,1 @@
+The truth value of a formula is sometimes referred to as its probability.

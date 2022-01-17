@@ -1,0 +1,1 @@
+The monomorphisms in Ord are the injective order-preserving functions.

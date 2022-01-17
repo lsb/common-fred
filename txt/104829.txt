@@ -1,0 +1,1 @@
+"The waiting times between ""k"" occurrences of the event are Erlang distributed."

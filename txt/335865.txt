@@ -1,0 +1,1 @@
+However, by itself, it is not secure for variable-length messages.

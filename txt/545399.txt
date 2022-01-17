@@ -1,0 +1,1 @@
+Stability was bad in turns, and it tended to oscillate, even while flying level.

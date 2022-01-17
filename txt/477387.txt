@@ -1,0 +1,1 @@
+One common outcome is that one group is captured, resolving the race.

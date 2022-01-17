@@ -1,0 +1,1 @@
+The on-demand facility can still be used by restricting its use to internal users.

@@ -1,0 +1,1 @@
+A key is often included to indicate what each icon represents.

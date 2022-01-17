@@ -1,0 +1,1 @@
+Players lose a life if they swallow an incorrect answer.

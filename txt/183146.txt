@@ -1,0 +1,1 @@
+Because applications are self-contained, this allows drag-and-drop installation and removal.

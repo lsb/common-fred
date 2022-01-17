@@ -1,0 +1,1 @@
+As this illustrates, packed pixel organization can be directly contrasted with planar organization.

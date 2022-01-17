@@ -1,0 +1,1 @@
+"""Vegetable"" can be used in several senses, including culinary, botanical and legal."

@@ -1,0 +1,1 @@
+Hence, volumetric flowrate may be calculated if the cross-sectional area is known.

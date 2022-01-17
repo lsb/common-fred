@@ -1,0 +1,1 @@
+Exceptions include the statically typed Cat language.

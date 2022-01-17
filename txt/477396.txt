@@ -1,0 +1,1 @@
+One commonly distinguishes between the relative error and the absolute error.

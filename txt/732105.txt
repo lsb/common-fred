@@ -1,0 +1,1 @@
+This is accomplished by manual shimming of individual shims, or automatic shimming procedure.

@@ -1,0 +1,1 @@
+The dynamic superhedging price is a time consistent risk measure.

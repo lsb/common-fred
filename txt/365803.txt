@@ -1,0 +1,1 @@
+In this way a chord can emit sounds of different pitch levels.

@@ -1,0 +1,1 @@
+It is most efficient when the peaks of the integrand are well-localized.

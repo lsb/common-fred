@@ -1,0 +1,1 @@
+Only one active user could reside in core memory at any time.

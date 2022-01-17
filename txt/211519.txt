@@ -1,0 +1,1 @@
+Conformality can be confirmed by showing the generators are all conformal.

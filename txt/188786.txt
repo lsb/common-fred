@@ -1,0 +1,1 @@
+Bob reverses the blinding after receiving the message.

@@ -1,0 +1,1 @@
+Hiding text from the visitor is done in many different ways.

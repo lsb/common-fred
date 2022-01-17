@@ -1,0 +1,1 @@
+The homomorphism theorem is used to prove the isomorphism theorems.

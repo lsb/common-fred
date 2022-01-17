@@ -1,0 +1,1 @@
+Web applications manage user interactions, state, security, and performance.

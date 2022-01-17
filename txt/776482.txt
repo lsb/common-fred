@@ -1,0 +1,1 @@
+When hysteresis is added then a comparator cannot resolve signals within the hysteresis band.

@@ -1,0 +1,1 @@
+That definition allows a variable to hold any kind of data type.

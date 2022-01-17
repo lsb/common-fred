@@ -1,0 +1,1 @@
+Therefore, Xcopy is not useful for backing up live operating system volumes.

@@ -1,0 +1,1 @@
+"Incorrect choices deducted points from a player's score; an eliminated incorrect answer cost more."

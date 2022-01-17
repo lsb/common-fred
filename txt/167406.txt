@@ -1,0 +1,1 @@
+Another version of a solution stack is operating system, middleware, database, and applications.

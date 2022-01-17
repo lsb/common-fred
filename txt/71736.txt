@@ -1,0 +1,1 @@
+"Points are given for the position of a candidate in a voter's rank order."

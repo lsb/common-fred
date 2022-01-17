@@ -1,0 +1,1 @@
+"A player's territory is the two rows of pits closest to them."

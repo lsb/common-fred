@@ -1,0 +1,1 @@
+"Compubox, a computerized punch scoring system, counts the cross as a ""power-punch""."

@@ -1,0 +1,1 @@
+"""Clash"" was founded by John O'Rourke, Simon Harper, Iain Carnegie and Jon-Paul Kitching."

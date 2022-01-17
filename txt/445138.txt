@@ -1,0 +1,1 @@
+Many phenomena that are explained using quantum mechanics are usually explained using bra-ket notation.

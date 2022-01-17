@@ -1,0 +1,1 @@
+Bottom methods generally fall into two categories: chaotic and controlled.

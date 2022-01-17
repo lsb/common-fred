@@ -1,0 +1,1 @@
+This risk can be mitigated by building redundancies into the host environment.

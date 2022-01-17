@@ -1,0 +1,1 @@
+This behavior is bidirectional, meaning typically the same for both directions of current.

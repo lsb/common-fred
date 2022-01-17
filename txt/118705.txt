@@ -1,0 +1,1 @@
+"Wildcards can't replace any tiles in Pongs and Kongs."

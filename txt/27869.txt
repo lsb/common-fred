@@ -1,0 +1,1 @@
+"Each control unit was assigned a ""capture range"" of addresses that it serviced."

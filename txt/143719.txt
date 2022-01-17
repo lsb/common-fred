@@ -1,0 +1,1 @@
+Additionally, multiple rod cells converge on a single interneuron, collecting and amplifying the signals.

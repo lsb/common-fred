@@ -1,0 +1,1 @@
+Played cards remain on the table until they are captured or the round ends.

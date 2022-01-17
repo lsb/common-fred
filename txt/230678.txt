@@ -1,0 +1,1 @@
+Each crop has a harvest window during which it is ready for picking.

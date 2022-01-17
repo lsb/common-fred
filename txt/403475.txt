@@ -1,0 +1,1 @@
+It represents the average time required to repair a failed component or device.

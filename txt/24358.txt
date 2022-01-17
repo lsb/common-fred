@@ -1,0 +1,1 @@
+"Converters using thyristors or mercury-arc valves are known as ""line commutated converters""."

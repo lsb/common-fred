@@ -1,0 +1,1 @@
+"The spring is assumed to stretch in accordance with Hooke's Law."

@@ -1,0 +1,1 @@
+"Such constraints are not truly ""table check constraints"" but rather ""row check constraints""."

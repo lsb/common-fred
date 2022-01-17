@@ -1,0 +1,1 @@
+A demonstration of the Karplus-Strong algorithm can be heard in the following Vorbis file.

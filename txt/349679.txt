@@ -1,0 +1,1 @@
+If the argument is a non-terminating computation, the advantage is enormous.

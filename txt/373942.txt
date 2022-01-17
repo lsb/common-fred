@@ -1,0 +1,1 @@
+It can be used as an Ethernet-to-wireless bridge under certain wireless configurations.

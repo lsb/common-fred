@@ -1,0 +1,1 @@
+Steering movement is provided by allowing this same sliding pillar to also rotate.

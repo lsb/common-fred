@@ -1,0 +1,1 @@
+This can lead to code redundancy and errors when the wrong function is used.

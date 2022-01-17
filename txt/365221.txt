@@ -1,0 +1,1 @@
+In this case, the area where solutions are searched would be restricted.

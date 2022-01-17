@@ -1,0 +1,1 @@
+Asynchronous cooperative games upload only the character details to the server.

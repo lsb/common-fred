@@ -1,0 +1,1 @@
+Additionally, it follows that there are no Carmichael numbers with exactly two prime factors.

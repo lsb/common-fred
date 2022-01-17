@@ -1,0 +1,1 @@
+"These are often technical attacks on modern equipment, such as ""squelch capture""."

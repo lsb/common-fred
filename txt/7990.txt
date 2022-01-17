@@ -1,0 +1,1 @@
+"""The Simpsons""' Apu was a graduate student at ""Springfield Heights Institute of Technology""."

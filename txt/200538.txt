@@ -1,0 +1,1 @@
+Cacti can be extended to monitor any source via shell scripts and executables.

@@ -1,0 +1,1 @@
+It is a piecewise-defined function, each of whose pieces is an affine function.

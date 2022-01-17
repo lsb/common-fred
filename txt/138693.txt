@@ -1,0 +1,1 @@
+A wide character refers to the size of the datatype in memory.

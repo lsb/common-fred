@@ -1,0 +1,1 @@
+Using calculus, the same area could be found by a definite integral.

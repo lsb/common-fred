@@ -1,0 +1,1 @@
+The monitor displayed green characters on a black background.

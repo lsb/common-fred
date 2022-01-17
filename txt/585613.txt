@@ -1,0 +1,1 @@
+The bitcoin network works in parallel to generate a chain of Hashcash style proof-of-work.

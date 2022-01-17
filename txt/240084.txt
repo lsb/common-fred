@@ -1,0 +1,1 @@
+Excessive hardness may induce brittleness, which should be avoided.

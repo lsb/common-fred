@@ -1,0 +1,1 @@
+While resembling Lisp in many ways, it is semantically quite different.

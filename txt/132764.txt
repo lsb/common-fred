@@ -1,0 +1,1 @@
+A number of results give techniques for locating and testing primitiveness of trinomials.

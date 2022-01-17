@@ -1,0 +1,1 @@
+"""Technograph"" is available as a quarterly insert in the ""Daily Illini""."

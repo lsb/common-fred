@@ -1,0 +1,1 @@
+This logic can be encapsulated in a factory method.

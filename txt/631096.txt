@@ -1,0 +1,1 @@
+The main advantage of polygons is that they are faster than other representations.

@@ -1,0 +1,1 @@
+There is limited support for vector paths to be integrated.

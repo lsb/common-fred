@@ -1,0 +1,1 @@
+Production rules connect symbols in a relationship similar to an If-Then statement.

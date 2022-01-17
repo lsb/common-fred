@@ -1,0 +1,1 @@
+Soft handover results in a diversity gain called soft handover gain.

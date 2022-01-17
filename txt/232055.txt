@@ -1,0 +1,1 @@
+Each voice has an independent filter with cutoff, resonance, and envelope control.

@@ -1,0 +1,1 @@
+In zoomed mode is possible to move the camera at a fixed angle.

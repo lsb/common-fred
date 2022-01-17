@@ -1,0 +1,1 @@
+"The new device implemented ""write-after-read"" which made magnetic core memory possible."

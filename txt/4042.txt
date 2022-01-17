@@ -1,0 +1,1 @@
+"""Joy of Cooking"" describes a blender preparation with the same ingredients."

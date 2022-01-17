@@ -1,0 +1,1 @@
+This derivation is a semi-classical approximation.

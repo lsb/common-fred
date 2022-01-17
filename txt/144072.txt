@@ -1,0 +1,1 @@
+Adjacent cubes share all edges in the connecting face, including the same diagonal.

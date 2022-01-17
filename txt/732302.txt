@@ -1,0 +1,1 @@
+This is an example of an antitransitive relation that does not have any cycles.

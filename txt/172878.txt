@@ -1,0 +1,1 @@
+As in the original, the streams are magic, and turn to rapids quick.

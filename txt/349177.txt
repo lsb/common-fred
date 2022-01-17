@@ -1,0 +1,1 @@
+If any check fails on any certificate, the algorithm terminates and path validation fails.

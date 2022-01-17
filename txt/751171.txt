@@ -1,0 +1,1 @@
+To guarantee that an equilibrium exists, it suffices that consumer preferences be strictly convex.

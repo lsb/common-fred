@@ -1,0 +1,1 @@
+Computer resources include both stand-alone and embedded systems.

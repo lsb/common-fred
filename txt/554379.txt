@@ -1,0 +1,1 @@
+Terrain analysis is fundamental to hydrology, since water always flows down a slope.

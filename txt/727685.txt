@@ -1,0 +1,1 @@
+This creates an alpha particle inside the detector and thus neutrons can be counted.

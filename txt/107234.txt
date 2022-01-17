@@ -1,0 +1,1 @@
+"Therefore, the arboricity of ""K"" is three."

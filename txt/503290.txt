@@ -1,0 +1,1 @@
+Records can be accessed randomly or in sequence and can be variable-length.

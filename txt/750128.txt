@@ -1,0 +1,1 @@
+Tiles are also used to display text.

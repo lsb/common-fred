@@ -1,0 +1,1 @@
+In practice, a consumer may not always pick an optimal package.

@@ -1,0 +1,1 @@
+"""Poste restante"" is offered in all post offices in Finland."

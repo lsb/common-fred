@@ -1,0 +1,1 @@
+Support for Windows Vista and later is notably absent.

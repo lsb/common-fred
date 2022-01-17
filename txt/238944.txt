@@ -1,0 +1,1 @@
+Every heat engine is subject to the theoretical efficiency limits of the Carnot cycle.

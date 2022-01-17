@@ -1,0 +1,1 @@
+"""Casualties"" is sometimes misunderstood to mean ""fatalities"", but non-fatal injuries are also casualties."

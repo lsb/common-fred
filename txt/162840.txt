@@ -1,0 +1,1 @@
+An infinite subset of the natural numbers cannot be bounded from above.

@@ -1,0 +1,1 @@
+A Wiegand-compatible reader is normally connected to a Wiegand-compatible security panel.

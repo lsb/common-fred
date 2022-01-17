@@ -1,0 +1,1 @@
+Therefore, the cross-ratio is invariant under the affine transformations.

@@ -1,0 +1,1 @@
+Signals at each station indicate when a driver can proceed through the tunnel.

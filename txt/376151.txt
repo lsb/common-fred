@@ -1,0 +1,1 @@
+It embeds a Perl interpreter into the Apache server.

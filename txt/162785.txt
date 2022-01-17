@@ -1,0 +1,1 @@
+An incorrect guess carried no point penalty.

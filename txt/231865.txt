@@ -1,0 +1,1 @@
+Each subtree associates a graph vertex with a set of tree nodes.

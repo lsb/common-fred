@@ -1,0 +1,1 @@
+Delegation can be termed run-time inheritance for specific objects.

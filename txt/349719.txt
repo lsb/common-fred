@@ -1,0 +1,1 @@
+If the claim is verified or the draw offer accepted, the game is over.

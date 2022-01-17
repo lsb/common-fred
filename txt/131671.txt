@@ -1,0 +1,1 @@
+A more academic problem would be the solution of the Laplace operator in an external territory.

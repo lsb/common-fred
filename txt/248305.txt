@@ -1,0 +1,1 @@
+For full technical details of Parrot, see the technical report by Hazel and Stoneley.

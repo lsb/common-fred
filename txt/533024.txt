@@ -1,0 +1,1 @@
+Simulator logic is all analog and is based around vacuum tubes.

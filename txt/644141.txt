@@ -1,0 +1,1 @@
+The original, uncompressed data can be recreated from the compressed version.

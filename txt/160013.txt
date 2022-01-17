@@ -1,0 +1,1 @@
+Amarok serves many functions in addition to the basic function of playing music files.

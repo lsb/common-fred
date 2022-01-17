@@ -1,0 +1,1 @@
+This is a special case for of more general irreducibility statement proved below.

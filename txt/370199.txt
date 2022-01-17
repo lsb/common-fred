@@ -1,0 +1,1 @@
+Is it possible send texts through the network?

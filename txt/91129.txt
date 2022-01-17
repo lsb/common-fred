@@ -1,0 +1,1 @@
+"The definition of an atlas depends on the notion of a ""chart""."

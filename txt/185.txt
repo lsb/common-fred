@@ -1,0 +1,1 @@
+"""Active fins"" are controlled by a gyroscopic control system."

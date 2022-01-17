@@ -1,0 +1,1 @@
+Early image and data storage servers also initially left the uploaded content unchanged.

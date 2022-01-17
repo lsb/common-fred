@@ -1,0 +1,1 @@
+"""Non-feeding"" veligers use yolk stored in the egg as an energy source for development."

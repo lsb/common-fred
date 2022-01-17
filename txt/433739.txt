@@ -1,0 +1,1 @@
+Less than half of the sphere can be projected onto a finite map.

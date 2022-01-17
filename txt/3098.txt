@@ -1,0 +1,1 @@
+"""High Point"" was named after High Point, North Carolina."

@@ -1,0 +1,1 @@
+Communication sessions consist of requests and responses that occur between applications.

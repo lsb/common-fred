@@ -1,0 +1,1 @@
+"A sum of only ""k""-grade components is called a ""k""-vector, or a ""homogeneous"" multivector."

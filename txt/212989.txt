@@ -1,0 +1,1 @@
+Conversely, if it is completely opaque, the blended color will be the foreground color.

@@ -1,0 +1,1 @@
+Each station has its own unique tile pattern and colours.

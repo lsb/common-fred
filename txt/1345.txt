@@ -1,0 +1,1 @@
+"""Chief Petty Officer"" is the second highest non-commissioned rank in the Royal Australian Navy."

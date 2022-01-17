@@ -1,0 +1,1 @@
+It does not specify how the service operations or databases themselves should be implemented.

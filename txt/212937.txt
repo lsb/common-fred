@@ -1,0 +1,1 @@
+Conventional microprocessors are synchronous circuits that use buffered, synchronous pipelines.

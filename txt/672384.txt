@@ -1,0 +1,1 @@
+The table below compares basic information about platform virtualization hypervisors.

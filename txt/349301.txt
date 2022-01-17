@@ -1,0 +1,1 @@
+If he has less than four suits in his hand, he may not pass.

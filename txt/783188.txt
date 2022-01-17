@@ -1,0 +1,1 @@
+With solidThinking Embed, you can develop virtual prototypes of dynamic systems.

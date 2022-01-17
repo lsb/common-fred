@@ -1,0 +1,1 @@
+Many real-time operating systems use memory pools, such as the Transaction Processing Facility.

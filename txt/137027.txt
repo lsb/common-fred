@@ -1,0 +1,1 @@
+A subgroup series is used in the subgroup method.

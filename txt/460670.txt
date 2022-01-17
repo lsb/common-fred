@@ -1,0 +1,1 @@
+Multiply, divide, justify and shift instructions took a variable time to complete.

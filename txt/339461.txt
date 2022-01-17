@@ -1,0 +1,1 @@
+However, the model performed badly in local testing, and required body and chassis strengthening.

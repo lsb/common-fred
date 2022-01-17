@@ -1,0 +1,1 @@
+Also, once one maximum-length tap sequence has been found, another automatically follows.

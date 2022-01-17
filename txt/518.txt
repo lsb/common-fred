@@ -1,0 +1,1 @@
+"""Aphelion"" derives from the preposition ""apo"", meaning ""away, off, apart""."

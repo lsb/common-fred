@@ -1,0 +1,1 @@
+Each constituency is represented by a single Member of Parliament.

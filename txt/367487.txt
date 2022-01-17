@@ -1,0 +1,1 @@
+Information leakage can subtly or completely destroy the security of an otherwise secure system.

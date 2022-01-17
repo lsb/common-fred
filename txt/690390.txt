@@ -1,0 +1,1 @@
+Then transfinite induction tells us that P is true for all ordinals.

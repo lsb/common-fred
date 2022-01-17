@@ -1,0 +1,1 @@
+For odd bases, all odd numbers are self numbers.

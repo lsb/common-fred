@@ -1,0 +1,1 @@
+Cells are initially of unknown color, but can only be black or white.

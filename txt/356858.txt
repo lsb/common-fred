@@ -1,0 +1,1 @@
+In general, a verifier does not have to be polynomial-time.

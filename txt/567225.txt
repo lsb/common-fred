@@ -1,0 +1,1 @@
+The Laplacian matrix can be used to find many useful properties of a graph.

@@ -1,0 +1,1 @@
+This creates a high degree of redundancy and higher availability and reliability.

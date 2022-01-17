@@ -1,0 +1,1 @@
+The Saturn version features light gun support for the shooting segments.

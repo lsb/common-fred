@@ -1,0 +1,1 @@
+Traffic from global audiences is routed through the translation proxy to the source website.

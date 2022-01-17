@@ -1,0 +1,1 @@
+This makes the title more compatible with Wine.

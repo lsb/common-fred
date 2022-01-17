@@ -1,0 +1,1 @@
+Twister was the base technology for nearly all customized solutions implemented by Brokat.

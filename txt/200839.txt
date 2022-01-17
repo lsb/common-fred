@@ -1,0 +1,1 @@
+Calibration in classification means turning transform classifier scores into class membership probabilities.

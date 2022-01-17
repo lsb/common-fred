@@ -1,0 +1,1 @@
+"For modern computers the ""no emulation"" mode is generally the more reliable method."

@@ -1,0 +1,1 @@
+There is no limit on the number of snapshots until the volume gets full.

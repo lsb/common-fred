@@ -1,0 +1,1 @@
+Gets all the hits, gives you the hard tag in the field.

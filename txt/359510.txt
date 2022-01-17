@@ -1,0 +1,1 @@
+In practice, how the string is encoded can affect the feasible string search algorithms.

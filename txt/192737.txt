@@ -1,0 +1,1 @@
+Both these features made it difficult to directly port the code to other architectures.

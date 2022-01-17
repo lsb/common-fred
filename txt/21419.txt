@@ -1,0 +1,1 @@
+"But ""the inverse of a conditional cannot be inferred from the conditional""."

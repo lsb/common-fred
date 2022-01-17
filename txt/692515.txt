@@ -1,0 +1,1 @@
+There are four types of weapons: swords, polearms, bows, and thrown weapons.

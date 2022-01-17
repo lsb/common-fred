@@ -1,0 +1,1 @@
+More recently, for multi-carrier modulations, P is defined as the reference constellation average power.

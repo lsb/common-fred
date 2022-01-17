@@ -1,0 +1,1 @@
+A common problem is to find the Euler angles of a given frame.

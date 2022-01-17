@@ -1,0 +1,1 @@
+On Linux systems, the command hexcat produces this classic output format too.

@@ -1,0 +1,1 @@
+Functions may be written by the programmer or provided by existing libraries.

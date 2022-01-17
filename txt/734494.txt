@@ -1,0 +1,1 @@
+This is used to extend the range of coverage of a radio signal.

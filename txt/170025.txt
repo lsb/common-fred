@@ -1,0 +1,1 @@
+Arrays of arrays are transparently supported since an array itself is just another object.

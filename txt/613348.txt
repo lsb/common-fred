@@ -1,0 +1,1 @@
+The first iteration of Airfone service only permitted air-to-ground calls and frequently dropped calls.

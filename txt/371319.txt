@@ -1,0 +1,1 @@
+It also eliminates any photographer-induced camera motion when the shutter button is pressed.

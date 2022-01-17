@@ -1,0 +1,1 @@
+The long line is obtained by putting together a long ray in each direction.

@@ -1,0 +1,1 @@
+Note: In many applications and texts, formulas hold only for principal branches.

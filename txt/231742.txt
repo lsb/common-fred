@@ -1,0 +1,1 @@
+Each sheet is identical to all the others in the stack.

@@ -1,0 +1,1 @@
+"Some authors omit the third condition that ""G"" has no regular normal subgroup."

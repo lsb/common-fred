@@ -1,0 +1,1 @@
+Again, hot key sequences allow the user switching to take place.

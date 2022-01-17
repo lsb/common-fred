@@ -1,0 +1,1 @@
+"""Baccio"" is an abbreviation of Bartolomeo, and ""d'Agnolo"" refers to Angelo, his father's name."

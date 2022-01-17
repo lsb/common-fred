@@ -1,0 +1,1 @@
+For spot transactions it is the future date on which the trade is settled.

@@ -1,0 +1,1 @@
+Otherwise, the line and plane have no intersection.

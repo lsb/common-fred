@@ -1,0 +1,1 @@
+When one player gets the question correct, they win, hence they move on.

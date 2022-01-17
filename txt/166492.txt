@@ -1,0 +1,1 @@
+Another drawback is the reliance on a thermal view to acquire targets.

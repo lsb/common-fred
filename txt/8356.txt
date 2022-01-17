@@ -1,0 +1,1 @@
+"""This is the last straw,"" he said, ""let us close the shop."""

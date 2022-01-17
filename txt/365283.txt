@@ -1,0 +1,1 @@
+In this configuration, the hook would trace out a path similar to a cardioid.

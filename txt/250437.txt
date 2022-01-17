@@ -1,0 +1,1 @@
+Foraging workers rely on landmarks for navigation back home.

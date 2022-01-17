@@ -1,0 +1,1 @@
+"""Blackawton"" is a major part of the West Dart electoral ward."

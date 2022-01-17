@@ -1,0 +1,1 @@
+Accuracy approaching one nanosecond worldwide is economically practical for many applications.

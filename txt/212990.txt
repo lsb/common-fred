@@ -1,0 +1,1 @@
+Conversely, if the Gershgorin discs coincide with the spectrum, the matrix is diagonal.

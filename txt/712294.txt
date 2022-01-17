@@ -1,0 +1,1 @@
+They are measured as the n-th root of the n-th central moment.

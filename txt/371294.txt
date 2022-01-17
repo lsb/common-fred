@@ -1,0 +1,1 @@
+It also displays lists of words by pinyin, frequency, and serial number.

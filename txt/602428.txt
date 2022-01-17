@@ -1,0 +1,1 @@
+The data transmission can include both the basic and auxiliary data words.

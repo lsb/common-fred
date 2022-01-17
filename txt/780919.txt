@@ -1,0 +1,1 @@
+Wikipedia is a project that actively manages metadata for its articles and files.

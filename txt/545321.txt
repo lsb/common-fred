@@ -1,0 +1,1 @@
+Square waves are often encountered in electronics and signal processing.

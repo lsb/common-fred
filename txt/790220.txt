@@ -1,0 +1,1 @@
+every finite linear combination of them is normally distributed.

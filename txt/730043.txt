@@ -1,0 +1,1 @@
+This grid fitting system provides better contrast, uniform stroke weights, and consistent characteristic distances.

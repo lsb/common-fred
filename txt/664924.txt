@@ -1,0 +1,1 @@
+The single shift and locking shift mechanisms can be combined.

@@ -1,0 +1,1 @@
+"In addition, SkinStudio now provided a method to import the Microsoft ""msstyles"" format."

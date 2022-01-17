@@ -1,0 +1,1 @@
+The language also has a modest standard library of built-in functions.

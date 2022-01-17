@@ -1,0 +1,1 @@
+Within the Conference structure are two Commissions that work on specific foci.

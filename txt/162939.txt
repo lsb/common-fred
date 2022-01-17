@@ -1,0 +1,1 @@
+An intermediate line of green runs between these two borders.

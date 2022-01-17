@@ -1,0 +1,1 @@
+Other deployments use ejabberd in more novel ways.

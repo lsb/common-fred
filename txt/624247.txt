@@ -1,0 +1,1 @@
+The input signals are sent through the input-circuit to the digital controller.

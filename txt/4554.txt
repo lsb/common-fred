@@ -1,0 +1,1 @@
+"""Mad scientist"" is a job description, and henchmen are unionized."

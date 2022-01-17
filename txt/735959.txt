@@ -1,0 +1,1 @@
+This makes it similar to the ferrite core memory.

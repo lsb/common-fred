@@ -1,0 +1,1 @@
+This formula is a straightforward extension of the Cauchy-Binet formula.

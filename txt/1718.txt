@@ -1,0 +1,1 @@
+"""Dawn"" initially entered a polar orbit around Ceres, and continued to refine its orbit."

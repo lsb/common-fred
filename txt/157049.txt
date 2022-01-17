@@ -1,0 +1,1 @@
+Almost all the senders will use the same time delay before increasing their rates.

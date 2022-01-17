@@ -1,0 +1,1 @@
+Indeed, much more general exponential sums can be lifted.

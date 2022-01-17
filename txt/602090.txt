@@ -1,0 +1,1 @@
+The curve is thus parametrized in a preferred manner by its arc length.

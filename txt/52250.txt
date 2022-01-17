@@ -1,0 +1,1 @@
+"It comprises three components, ""Core"", ""Media Player"", and ""Server""."

@@ -1,0 +1,1 @@
+If a failure is detected in this data path, the secondary ring is activated.

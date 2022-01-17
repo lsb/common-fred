@@ -1,0 +1,1 @@
+Invariant sets and limit sets are similar to the attractor concept.

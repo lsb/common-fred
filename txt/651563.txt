@@ -1,0 +1,1 @@
+The procedure adopted is a kind of randomization or permutation test.

@@ -1,0 +1,1 @@
+"""Angel"" is a tribute to, and written by Jimi Hendrix, who had recently died."

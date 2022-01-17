@@ -1,0 +1,1 @@
+Data synchronization via any protocol can be unidirectional or bidirectional.

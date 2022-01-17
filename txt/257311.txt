@@ -1,0 +1,1 @@
+Generally, only peers may use the coronets corresponding to their ranks.

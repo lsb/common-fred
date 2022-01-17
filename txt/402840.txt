@@ -1,0 +1,1 @@
+It provides aggregation, sub-rating and channelization capabilities.

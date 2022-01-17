@@ -1,0 +1,1 @@
+"Affected operating systems didn't handle the Urgent Pointer field correctly."

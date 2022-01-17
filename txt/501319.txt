@@ -1,0 +1,1 @@
+Radius gauges require a bright light behind the object to be measured.

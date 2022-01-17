@@ -1,0 +1,1 @@
+This allows rapid generation of proteins when a signal activates translation.

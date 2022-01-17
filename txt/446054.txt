@@ -1,0 +1,1 @@
+Maps may be parameterized by a discrete-time or a continuous-time parameter.

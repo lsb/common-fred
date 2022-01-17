@@ -1,0 +1,1 @@
+"""The Shape of Punk to Come"" personnel as listed in the album liner notes."

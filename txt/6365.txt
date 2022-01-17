@@ -1,0 +1,1 @@
+"""Romantic Times"" gave ""A Kingdom of Dreams"" a favorable review and a five-star rating."

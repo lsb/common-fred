@@ -1,0 +1,1 @@
+Each tape would typically handle one application.

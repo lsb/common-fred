@@ -1,0 +1,1 @@
+Example stochastic methods are Markov Chain Monte Carlo and Monte Carlo sampling.

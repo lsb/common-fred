@@ -1,0 +1,1 @@
+The over-dots represent time derivatives.

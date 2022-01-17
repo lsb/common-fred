@@ -1,0 +1,1 @@
+Letters containing open counters include c, f, h, i, s etc.

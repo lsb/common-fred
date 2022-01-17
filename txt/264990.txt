@@ -1,0 +1,1 @@
+Hash trees allow efficient and secure verification of the contents of large data structures.

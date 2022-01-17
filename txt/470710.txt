@@ -1,0 +1,1 @@
+Note that the six queens puzzle has fewer solutions than the five queens puzzle.

@@ -1,0 +1,1 @@
+"""Battle for Macragge"" was a 'game in a box', targeted primarily at beginners."

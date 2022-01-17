@@ -1,0 +1,1 @@
+We subdivide the domain space using an octree.

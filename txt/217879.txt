@@ -1,0 +1,1 @@
+Data packets are prioritized based on their contents, not the device.

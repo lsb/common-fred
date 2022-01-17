@@ -1,0 +1,1 @@
+These are normally long-distance calls priced to the caller as if they were local.

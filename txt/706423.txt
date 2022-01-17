@@ -1,0 +1,1 @@
+These integrity constraints ensure compatibility between parts of the schema.

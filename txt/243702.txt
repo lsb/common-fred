@@ -1,0 +1,1 @@
+Finally, the bitmap is traversed and matching rows are retrieved.

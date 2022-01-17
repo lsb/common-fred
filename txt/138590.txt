@@ -1,0 +1,1 @@
+A wheel rolling at a given velocity needs no input to maintain its motion.

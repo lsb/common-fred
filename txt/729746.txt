@@ -1,0 +1,1 @@
+This game simulated automobile production and stock manipulation.

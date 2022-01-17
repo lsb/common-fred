@@ -1,0 +1,1 @@
+This function property leads to exponential growth and exponential decay.

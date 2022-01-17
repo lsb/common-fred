@@ -1,0 +1,1 @@
+The image of this homomorphism is the monodromy group.

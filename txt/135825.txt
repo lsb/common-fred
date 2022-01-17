@@ -1,0 +1,1 @@
+A simplified map view is available to improve performance on slower computers.

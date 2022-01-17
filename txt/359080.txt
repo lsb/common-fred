@@ -1,0 +1,1 @@
+In other systems orphaned processes are immediately terminated by the kernel.

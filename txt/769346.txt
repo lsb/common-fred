@@ -1,0 +1,1 @@
+Warehouses can also be used to store the unloaded goods from the vessel.

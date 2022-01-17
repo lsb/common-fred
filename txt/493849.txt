@@ -1,0 +1,1 @@
+Play continues as long as the player continues to win matches.

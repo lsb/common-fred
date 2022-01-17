@@ -1,0 +1,1 @@
+"""Pane carasau"" can last up to one year if it is kept dry."

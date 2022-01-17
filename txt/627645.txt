@@ -1,0 +1,1 @@
+The latter can take negative values, unlike its classical counterpart.

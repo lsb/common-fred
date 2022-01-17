@@ -1,0 +1,1 @@
+Each node has local memory that can be mapped by any other node.

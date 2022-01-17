@@ -1,0 +1,1 @@
+These graphs are always cospectral but are often non-isomorphic.

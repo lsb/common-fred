@@ -1,0 +1,1 @@
+Disk files could also be used but were slower.

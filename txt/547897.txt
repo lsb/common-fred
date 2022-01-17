@@ -1,0 +1,1 @@
+Strip down the rig until you know exactly where the error is located.

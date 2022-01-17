@@ -1,0 +1,1 @@
+Unlike VoiceCode, which is a complete solution, Dragonfly is just an improved Python API to Dragon.

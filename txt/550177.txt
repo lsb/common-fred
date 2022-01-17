@@ -1,0 +1,1 @@
+Such visualization is generally achieved by exploiting graphics hardware.

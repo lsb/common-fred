@@ -1,0 +1,1 @@
+It is used to control the production and manipulation of sounds on Macintosh computers.

@@ -1,0 +1,1 @@
+"Ragdolls have been implemented using Featherstone's algorithm and spring-damper contacts."

@@ -1,0 +1,1 @@
+Arnold helped to optimize the curses code and implement more features into the game.

@@ -1,0 +1,1 @@
+Family keying enables the end-user to generate a unique secure cipher for every chip.

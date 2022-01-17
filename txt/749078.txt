@@ -1,0 +1,1 @@
+Thus it builds the foundation for other language constructs.

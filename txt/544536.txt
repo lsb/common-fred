@@ -1,0 +1,1 @@
+Specifically, each logical system produces a set of queries expressible in it.

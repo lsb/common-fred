@@ -1,0 +1,1 @@
+Plural is indicated by a change of class, with a resulting change of prefix.

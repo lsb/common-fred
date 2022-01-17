@@ -1,0 +1,1 @@
+Character behaviors, in this case the Red Brambleback, also changes due to the attack.

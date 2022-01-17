@@ -1,0 +1,1 @@
+The categorical framework provides a rich conceptual background for logical and type-theoretic constructions.

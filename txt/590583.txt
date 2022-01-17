@@ -1,0 +1,1 @@
+The centipede starts at the top of the screen, traveling either left or right.

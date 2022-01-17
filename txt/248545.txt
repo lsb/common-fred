@@ -1,0 +1,1 @@
+For instance, active transformations are useful to describe successive positions of a rigid body.

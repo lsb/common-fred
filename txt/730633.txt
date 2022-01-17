@@ -1,0 +1,1 @@
+This helps keep your documents small and the scripts that manipulate the document fast.

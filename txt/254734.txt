@@ -1,0 +1,1 @@
+Fudgets makes it easy to create client-server applications that communicate via the Internet.

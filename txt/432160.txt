@@ -1,0 +1,1 @@
+Latitude and longitude are given as planetographic coordinates with west longitude.

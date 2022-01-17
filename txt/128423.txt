@@ -1,0 +1,1 @@
+A linear drift removal could be employed using a moment based estimator.

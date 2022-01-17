@@ -1,0 +1,1 @@
+However, the system robustness of motion always requires very high stiffness in the controller.

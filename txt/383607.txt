@@ -1,0 +1,1 @@
+It is also capable of dealing with functions and compositions of them.

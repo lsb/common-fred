@@ -1,0 +1,1 @@
+In particular, a Cauchy space carries a natural topology.

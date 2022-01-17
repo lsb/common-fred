@@ -1,0 +1,1 @@
+Exetel does not deploy its own infrastructure outside of its own switching centres.

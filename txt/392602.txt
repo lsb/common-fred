@@ -1,0 +1,1 @@
+It is obvious that therefore the divergence cannot reflect the maximal Lyapunov exponent.

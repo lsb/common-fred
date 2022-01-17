@@ -1,0 +1,1 @@
+Pilings are used to anchor the building to the bedrock underground.

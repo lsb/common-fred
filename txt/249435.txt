@@ -1,0 +1,1 @@
+For special cases, on some hardware, faster alternatives exist.

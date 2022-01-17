@@ -1,0 +1,1 @@
+Especially for non-cacheable content, you may as well go to the origin host.

@@ -1,0 +1,1 @@
+This is because in Unix, the script is usually executed within a subshell.

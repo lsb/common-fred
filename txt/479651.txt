@@ -1,0 +1,1 @@
+One-digit numbers possess the Keith property trivially, and are usually excluded.

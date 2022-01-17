@@ -1,0 +1,1 @@
+Previously the electrons required were provided by a hollow cathode.

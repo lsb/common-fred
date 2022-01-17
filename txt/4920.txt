@@ -1,0 +1,1 @@
+"""Morrowind""s soundtrack is ambient, with cues only for battle encounters."

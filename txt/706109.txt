@@ -1,0 +1,1 @@
+These improvements, however, are a tradeoff against increased bandwidth requirements.

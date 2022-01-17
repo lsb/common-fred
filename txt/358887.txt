@@ -1,0 +1,1 @@
+In order for the rules to work, certain vowels are assigned inherent accent.

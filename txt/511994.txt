@@ -1,0 +1,1 @@
+Scannerless parsing refers to parsing the input character-stream directly, without a distinct lexer.

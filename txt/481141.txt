@@ -1,0 +1,1 @@
+Operator flags are used to describe the permissions an operator is granted.

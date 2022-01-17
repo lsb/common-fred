@@ -1,0 +1,1 @@
+And because applications run over these networks, application performance suffers.

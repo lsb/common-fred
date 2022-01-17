@@ -1,0 +1,1 @@
+Lines of text appeared in one display, graphics in another.

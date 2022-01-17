@@ -1,0 +1,1 @@
+The Cartesian product of an infinite set and a nonempty set is infinite.

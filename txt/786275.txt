@@ -1,0 +1,1 @@
+Yasin projectiles do not accommodate an onboard rocket for extending its range.

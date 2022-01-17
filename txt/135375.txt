@@ -1,0 +1,1 @@
+A set is called absolutely convex if it is convex and balanced.

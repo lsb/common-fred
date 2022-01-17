@@ -1,0 +1,1 @@
+A filter binding assay is a simple way to quickly study many samples.

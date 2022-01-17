@@ -1,0 +1,1 @@
+Symphonies are notated in a musical score, which contains all the instrument parts.

@@ -1,0 +1,1 @@
+The two operations have an identical performance.

@@ -1,0 +1,1 @@
+A greedy algorithm is optimal for every R-compatible linear objective function over a greedoid.

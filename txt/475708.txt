@@ -1,0 +1,1 @@
+On the Macintosh, palette windows are only visible while their parent application has focus.

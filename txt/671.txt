@@ -1,0 +1,1 @@
+"""B. mallei"" is able to infect humans, so is classed as a zoonotic agent."

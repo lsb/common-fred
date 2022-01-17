@@ -1,0 +1,1 @@
+A conjugate permutable subgroup is one that commutes with all its conjugate subgroups.

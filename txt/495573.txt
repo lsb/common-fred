@@ -1,0 +1,1 @@
+Poppler, which is derived from Xpdf, also includes an implementation of pdftotext.

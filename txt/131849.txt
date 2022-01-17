@@ -1,0 +1,1 @@
+A multiplexer is also called a data selector.

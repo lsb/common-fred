@@ -1,0 +1,1 @@
+Lines B and D call at platforms under the station.

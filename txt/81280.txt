@@ -1,0 +1,1 @@
+"Suppose there are at most ""R"" elements in each cell of ""T""."

@@ -1,0 +1,1 @@
+It is worthwhile to note that all objects in NewtonScript are frames.

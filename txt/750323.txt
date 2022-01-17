@@ -1,0 +1,1 @@
+Timesheets may record the start and end time of tasks or just the duration.

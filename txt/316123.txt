@@ -1,0 +1,1 @@
+Hence, the columns of X constitute a basis for the null space of A.

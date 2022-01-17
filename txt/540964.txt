@@ -1,0 +1,1 @@
+Some problems arise when the Thai script is used to write Northern Thai.

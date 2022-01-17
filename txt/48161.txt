@@ -1,0 +1,1 @@
+"In ""Mozzies"", the Camera is used to detect the motion."

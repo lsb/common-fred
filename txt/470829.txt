@@ -1,0 +1,1 @@
+Note: Some authors define the Hamiltonian vector field with the opposite sign.

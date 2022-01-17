@@ -1,0 +1,1 @@
+The station retains its semaphore signalling and manual signal box.

@@ -1,0 +1,1 @@
+"To end a conversation, the Player would click 'Bye' or type 'Bye'."

@@ -1,0 +1,1 @@
+A very common type of spectral sequence comes from a filtered cochain complex.

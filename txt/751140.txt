@@ -1,0 +1,1 @@
+To get a column density, we must integrate the total column over a height.

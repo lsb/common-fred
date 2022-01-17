@@ -1,0 +1,1 @@
+Static quenching can be a dominant mechanism for some reporter-quencher probes.

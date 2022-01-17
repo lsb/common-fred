@@ -1,0 +1,1 @@
+He also invented the Universal Chess Interface, a chess engine protocol.

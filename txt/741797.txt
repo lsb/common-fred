@@ -1,0 +1,1 @@
+This task remains active until the occurrence of the next interrupt.

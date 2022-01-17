@@ -1,0 +1,1 @@
+The radius that affects the radius of the sphere is called the “influence radius”.

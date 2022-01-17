@@ -1,0 +1,1 @@
+"""More Adventurous"" alludes to a line from Frank O'Hara's Meditations in an Emergency."

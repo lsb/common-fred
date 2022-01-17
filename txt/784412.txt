@@ -1,0 +1,1 @@
+Without these, free implementations of the algorithm were out of question.

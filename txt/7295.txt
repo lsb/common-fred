@@ -1,0 +1,1 @@
+"""Tarpon"" was illuminated by the enemy's searchlight."

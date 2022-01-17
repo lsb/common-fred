@@ -1,0 +1,1 @@
+"""Daily news"", is a regional daily newspaper, published in Novi Sad, Serbia."

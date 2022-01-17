@@ -1,0 +1,1 @@
+Sometimes density at a specific temperature is used as a proxy for salinity.

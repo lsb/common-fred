@@ -1,0 +1,1 @@
+It runs in parallel sync mode making it fault redundant.

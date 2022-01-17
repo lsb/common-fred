@@ -1,0 +1,1 @@
+Remote objects are managed the same way as locally tested objects to simplify administration.

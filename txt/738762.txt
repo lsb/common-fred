@@ -1,0 +1,1 @@
+This programming trick and other workarounds could result to over twenty sprites onscreen once.

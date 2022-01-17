@@ -1,0 +1,1 @@
+"""Mr. Bug"" was a financial disaster."

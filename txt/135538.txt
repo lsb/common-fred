@@ -1,0 +1,1 @@
+A shot is a sequence of frames shot uninterruptedly by one camera.

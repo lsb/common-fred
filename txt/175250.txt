@@ -1,0 +1,1 @@
+Astronomical time schedules incorporate sunrise and sunset times, often used to switch outdoor lighting.

@@ -1,0 +1,1 @@
+"""Jim"" is made up of a variety of short comics, text pieces, and artwork."

@@ -1,0 +1,1 @@
+Adjacent vowels have the glottal stop between them.

@@ -1,0 +1,1 @@
+A drop cannot capture a piece; that requires an additional move.

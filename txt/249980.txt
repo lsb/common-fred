@@ -1,0 +1,1 @@
+For these objects, a commonly considered forgetful functor is as follows.

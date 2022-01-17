@@ -1,0 +1,1 @@
+"""Twelve Kings"" is an Akkadian term meant to symbolize any kind of alliance."

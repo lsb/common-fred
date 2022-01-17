@@ -1,0 +1,1 @@
+Spirit can be used for both lexing and parsing, together or separately.

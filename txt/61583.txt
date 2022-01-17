@@ -1,0 +1,1 @@
+"Let ""K"" be the sum of all elements in ""S""."

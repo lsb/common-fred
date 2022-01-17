@@ -1,0 +1,1 @@
+That circle is the osculating circle of the road curve at that point.

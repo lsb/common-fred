@@ -1,0 +1,1 @@
+A player is not told if their king is in check.

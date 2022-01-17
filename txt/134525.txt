@@ -1,0 +1,1 @@
+A related data structure is the Young tableau.

@@ -1,0 +1,1 @@
+If a field is C then so is a finite extension.

@@ -1,0 +1,1 @@
+The FastTrack protocol uses encryption and was not documented by its creators.

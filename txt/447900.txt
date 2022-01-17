@@ -1,0 +1,1 @@
+Matrices of the same order can be added by adding the corresponding elements.

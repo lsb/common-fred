@@ -1,0 +1,1 @@
+In some cases, higher-power radicals may be needed to denest the nested radical.

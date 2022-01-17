@@ -1,0 +1,1 @@
+Instead of reporting comments to moderators, this system now relies on votes.

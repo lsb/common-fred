@@ -1,0 +1,1 @@
+"The loader was written by Richard Aplin for Mastertronic's own use."

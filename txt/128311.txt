@@ -1,0 +1,1 @@
+A lexical dictionary such as WordNet can then be used for understanding the context.

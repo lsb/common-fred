@@ -1,0 +1,1 @@
+If both exists, the poset is called a bounded poset.

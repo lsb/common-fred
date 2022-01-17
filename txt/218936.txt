@@ -1,0 +1,1 @@
+Decay is provided by a switch, offering long or short decay times.

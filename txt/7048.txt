@@ -1,0 +1,1 @@
+"""Stain"" features both dual vocal and dual guitar tracks."

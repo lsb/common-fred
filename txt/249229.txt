@@ -1,0 +1,1 @@
+For rare files this system could be slightly slower than downloading the file itself.

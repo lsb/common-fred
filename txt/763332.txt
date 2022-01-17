@@ -1,0 +1,1 @@
+Unlike standard shogi, pieces may not be dropped back into play after being captured.

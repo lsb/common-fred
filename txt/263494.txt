@@ -1,0 +1,1 @@
+Half-height Trombe walls function in the same way as a full height wall.

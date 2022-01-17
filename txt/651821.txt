@@ -1,0 +1,1 @@
+The product is then put through a pseudo random function.

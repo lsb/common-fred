@@ -1,0 +1,1 @@
+"""Nitrobacter"" are gram-negative bacteria and are either rod-shaped, pear-shaped or pleomorphic."

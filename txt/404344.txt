@@ -1,0 +1,1 @@
+It simultaneously removes some kinds of dead code and propagates constants throughout a program.

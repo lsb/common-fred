@@ -1,0 +1,1 @@
+"""Storis"" is a Scandinavian word meaning ""great ice."

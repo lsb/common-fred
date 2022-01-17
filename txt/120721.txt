@@ -1,0 +1,1 @@
+A Baritone drone in C can be retuned to D, or E for example.

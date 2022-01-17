@@ -1,0 +1,1 @@
+Fantasy characters in the Hero system are built using the point-based method.

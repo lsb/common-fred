@@ -1,0 +1,1 @@
+Vegetation cover does not represent a permanent condition but gradually changes over time.

@@ -1,0 +1,1 @@
+A marking algorithm is such an algorithm that never pages out a marked page.

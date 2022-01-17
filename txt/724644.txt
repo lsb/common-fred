@@ -1,0 +1,1 @@
+This allows smaller battery packs to be used, and more powerful motors.

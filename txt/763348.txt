@@ -1,0 +1,1 @@
+Unlike the Peltier effect, this process is independent of the direction of current flow.

@@ -1,0 +1,1 @@
+In category theory, the cardinal numbers form a skeleton of the category of sets.

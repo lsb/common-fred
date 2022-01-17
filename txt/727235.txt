@@ -1,0 +1,1 @@
+This condition is called error masking or aliasing.

@@ -1,0 +1,1 @@
+The vulnerability used javascript function setInterval to hack the browser.

@@ -1,0 +1,1 @@
+The single-serving visitor is called through the intermediate of static methods.

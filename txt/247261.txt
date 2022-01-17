@@ -1,0 +1,1 @@
+For a given coverage probability, there is more than one coverage interval.

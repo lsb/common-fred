@@ -1,0 +1,1 @@
+There are eight propellant-depletion sensors, four each for fuel and oxidizer.

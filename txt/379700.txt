@@ -1,0 +1,1 @@
+It has powerful abstraction mechanisms to support identification of objects, classification and composition.

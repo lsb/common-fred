@@ -1,0 +1,1 @@
+This rule applies also over the word boundary.

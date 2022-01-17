@@ -1,0 +1,1 @@
+Meaning simultaneously enables both reduction and maintenance of complexity.

@@ -1,0 +1,1 @@
+Touched cells produce auxin and transport it to untouched cells.

@@ -1,0 +1,1 @@
+It is only valid when the posterior distribution is approximately multivariate normal.

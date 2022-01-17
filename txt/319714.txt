@@ -1,0 +1,1 @@
+Here, the laser has a narrow beam that is equal to the grating period.

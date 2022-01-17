@@ -1,0 +1,1 @@
+This helps to keep backwards compatibility with previous versions of DirectX.

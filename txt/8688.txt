@@ -1,0 +1,1 @@
+"""Urtica"" is derived from a Latin word meaning 'sting'."

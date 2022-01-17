@@ -1,0 +1,1 @@
+"Each element of ""P"" is a ""cell"" of the partition."

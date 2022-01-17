@@ -1,0 +1,1 @@
+It became the standard interface for connecting to the Internet.

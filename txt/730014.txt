@@ -1,0 +1,1 @@
+This grammar was a precursor of the Van Wijngaarden grammar.

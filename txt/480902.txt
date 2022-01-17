@@ -1,0 +1,1 @@
+Ontologies resemble class hierarchies in object-oriented programming but there are several critical differences.

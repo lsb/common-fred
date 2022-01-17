@@ -1,0 +1,1 @@
+"""Hive"" is an abstract strategy game."

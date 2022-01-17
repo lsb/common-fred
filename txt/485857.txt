@@ -1,0 +1,1 @@
+Output derives from the result tree.

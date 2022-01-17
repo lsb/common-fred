@@ -1,0 +1,1 @@
+"""Shiny Beast"" was praised by music critics."

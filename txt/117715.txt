@@ -1,0 +1,1 @@
+"When ""f"" is a Morse function on ""M"", ""-f"" is also a Morse function."

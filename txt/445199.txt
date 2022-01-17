@@ -1,0 +1,1 @@
+Many power supplies use more than one regulating method in series.

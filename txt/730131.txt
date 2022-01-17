@@ -1,0 +1,1 @@
+This guide is only a framework for setting security policies and procedures.

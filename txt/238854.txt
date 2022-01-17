@@ -1,0 +1,1 @@
+Every class which is low for itself is closed under complement.

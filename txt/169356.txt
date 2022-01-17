@@ -1,0 +1,1 @@
+Areas are rounded to the nearest whole unit.

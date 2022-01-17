@@ -1,0 +1,1 @@
+The player also gains bio-chips from each robot when he completes each scenario successfully.

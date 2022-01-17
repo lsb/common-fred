@@ -1,0 +1,1 @@
+OpenOffice dot org also used the default fonts of the running operating system.

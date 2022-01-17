@@ -1,0 +1,1 @@
+"""Tablut"" is a pure strategy game in the tafl family."

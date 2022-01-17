@@ -1,0 +1,1 @@
+"The 'only if' part can be shown using proof by induction."

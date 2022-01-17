@@ -1,0 +1,1 @@
+The theorem has applications in abstract interpretation, a form of static program analysis.

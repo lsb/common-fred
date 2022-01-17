@@ -1,0 +1,1 @@
+This charge flows out as additional current through the load.

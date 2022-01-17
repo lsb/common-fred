@@ -1,0 +1,1 @@
+Charge power is drained when the shield is active.

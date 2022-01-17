@@ -1,0 +1,1 @@
+Flash memory stores information in an array of memory cells made from floating-gate transistors.

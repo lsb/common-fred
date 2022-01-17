@@ -1,0 +1,1 @@
+However, by definition a kleptographic backdoor is asymmetric and the reverse-engineer cannot use it.

@@ -1,0 +1,1 @@
+When new coefficients are introduced, their values can be fitted into the set.

@@ -1,0 +1,1 @@
+This method can be simplified by removing the need to multiply.

@@ -1,0 +1,1 @@
+Group chunks can contain other group chunks, depending on the needs of the application.

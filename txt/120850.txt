@@ -1,0 +1,1 @@
+A Deflate stream consists of a series of blocks.

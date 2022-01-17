@@ -1,0 +1,1 @@
+Administrators no longer have full rights to system files.

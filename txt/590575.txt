@@ -1,0 +1,1 @@
+The centered octagonal numbers are the same as the odd square numbers.

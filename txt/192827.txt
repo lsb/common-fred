@@ -1,0 +1,1 @@
+Both variants work by temporarily raising the priorities of tasks.

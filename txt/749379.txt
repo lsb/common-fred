@@ -1,0 +1,1 @@
+Thus, Electric Fence vastly increases the memory requirements of programs being debugged.

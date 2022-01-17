@@ -1,0 +1,1 @@
+With larger disks and larger files, fragmented reads became more of a problem.

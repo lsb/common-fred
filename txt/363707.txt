@@ -1,0 +1,1 @@
+In the next example the class person gets a new superclass.

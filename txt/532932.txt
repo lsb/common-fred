@@ -1,0 +1,1 @@
+Simple limit orders generally get high priority, based on a first-come-first-served rule.

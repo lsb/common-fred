@@ -1,0 +1,1 @@
+A password generator can be part of a password manager.

@@ -1,0 +1,1 @@
+"""Eta Geminorum"" is the star's Bayer designation."

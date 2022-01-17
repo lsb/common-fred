@@ -1,0 +1,1 @@
+The price is lowered in decrements until a bidder accepts the current price.

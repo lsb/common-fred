@@ -1,0 +1,1 @@
+One application of digital watermarking is source tracking.

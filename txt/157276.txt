@@ -1,0 +1,1 @@
+Along the way, the game generates random encounters with monsters, warriors, rogues, and wizards.

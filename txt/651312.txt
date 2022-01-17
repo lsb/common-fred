@@ -1,0 +1,1 @@
+The print screen may share the same key as system request.

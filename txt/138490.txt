@@ -1,0 +1,1 @@
+A web resource is implicitly defined as something which can be identified.

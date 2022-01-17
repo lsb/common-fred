@@ -1,0 +1,1 @@
+"Notably, Audrey Tang's stock presentations at Perl and Open Source conferences use this method."

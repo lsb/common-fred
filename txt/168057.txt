@@ -1,0 +1,1 @@
+Any such complex torus has the Gaussian integers as endomorphism ring.

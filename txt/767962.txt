@@ -1,0 +1,1 @@
+VisualFlow could run in a full-screen or windowed mode.

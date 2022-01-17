@@ -1,0 +1,1 @@
+Temperature, water quality parameters and light will depend on regulator requirements and organism type.

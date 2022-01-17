@@ -1,0 +1,1 @@
+"""The Submission"" by Jeff Talbot received the John Gassner Award."

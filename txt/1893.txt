@@ -1,0 +1,1 @@
+"""Dog's Life"" received ""mixed"" reviews according to video game review aggregator Metacritic."

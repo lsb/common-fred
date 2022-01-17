@@ -1,0 +1,1 @@
+Something similar to the interface can be seen in MediaWiki with the classic skin.

@@ -1,0 +1,1 @@
+Major differences include launch processing, launch pad operational concept, and some major components.

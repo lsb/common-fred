@@ -1,0 +1,1 @@
+Cray has also developed an Ada compiler which is available as an option.

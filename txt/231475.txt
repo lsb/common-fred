@@ -1,0 +1,1 @@
+Each partition is able to perform as if it were a separate server.

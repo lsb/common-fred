@@ -1,0 +1,1 @@
+The fundamental domain is a half-plane or half-space.

@@ -1,0 +1,1 @@
+With the change in architecture, a change in firmware became necessary.

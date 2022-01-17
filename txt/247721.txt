@@ -1,0 +1,1 @@
+For digital oscillators, Reversing Sync may less frequently generate aliasing.

@@ -1,0 +1,1 @@
+As with bits, these can be formed into lists or arbitrarily dimensioned arrays.

@@ -1,0 +1,1 @@
+The city codes are a single letter, the initial letter of its English-language name.

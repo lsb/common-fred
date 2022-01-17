@@ -1,0 +1,1 @@
+Likewise the representations of this Hopf algebra turn out to be Z-graded comodules.

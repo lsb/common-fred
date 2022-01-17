@@ -1,0 +1,1 @@
+Using point clouds multi-sampling and data compression are achieved.

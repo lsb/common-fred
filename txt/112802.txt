@@ -1,0 +1,1 @@
+"This was implemented through a ""save"" command or menu option in the application."

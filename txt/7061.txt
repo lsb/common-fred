@@ -1,0 +1,1 @@
+"""Staraya"" is Russian for ""Old""."

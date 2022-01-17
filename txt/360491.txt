@@ -1,0 +1,1 @@
+In some cases systems receive local channels by satellite.

@@ -1,0 +1,1 @@
+This service operates on weekends only.

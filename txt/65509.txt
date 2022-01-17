@@ -1,0 +1,1 @@
+"Moreover, every objective tensor function depends only on the tensor's invariants."

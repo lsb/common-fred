@@ -1,0 +1,1 @@
+The article should discuss possible approaches to image registration.

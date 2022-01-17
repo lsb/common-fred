@@ -1,0 +1,1 @@
+The player may also pick up and use weapons from dead enemies and allies.

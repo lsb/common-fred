@@ -1,0 +1,1 @@
+Supervised learning involves learning from a training set of data.

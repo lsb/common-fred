@@ -1,0 +1,1 @@
+This simplifies the electronics and timing systems.

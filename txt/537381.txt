@@ -1,0 +1,1 @@
+Software metrics and reverse engineering can be described as forms of static analysis.

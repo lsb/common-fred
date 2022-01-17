@@ -1,0 +1,1 @@
+It is true that some methods benefit from normalization of image inputs.

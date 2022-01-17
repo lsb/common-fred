@@ -1,0 +1,1 @@
+If the speed is zero, then the propulsive power is zero.

@@ -1,0 +1,1 @@
+You can convert a currency value from one to another using a conversion factor.

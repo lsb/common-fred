@@ -1,0 +1,1 @@
+Common emitters are also commonly used as low-noise amplifiers.

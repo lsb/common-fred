@@ -1,0 +1,1 @@
+"""Period"" measures refer to a cross-section of the population in one year."

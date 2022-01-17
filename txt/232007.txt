@@ -1,0 +1,1 @@
+Each type continues in a piecewise fashion around the whole perimeter of the structure.

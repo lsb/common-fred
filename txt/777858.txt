@@ -1,0 +1,1 @@
+Whenever the player is caught, the game plays a digitized voice saying, We Gotcha!

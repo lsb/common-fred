@@ -1,0 +1,1 @@
+If a data element has mnemonic information it is generally classified as a code.

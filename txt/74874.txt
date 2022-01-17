@@ -1,0 +1,1 @@
+"Scaffolds are positioned along the physical map of the chromosomes creating a ""golden path""."

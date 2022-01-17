@@ -1,0 +1,1 @@
+Click a letter to find places in New York starting with that letter.

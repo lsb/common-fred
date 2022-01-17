@@ -1,0 +1,1 @@
+"Let ""S"" act on this tensor product space by permuting the indices."

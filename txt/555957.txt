@@ -1,0 +1,1 @@
+That scheduler could be a Round-robin scheduler.

@@ -1,0 +1,1 @@
+Not included was the basic operating system, or the lower-level display system.

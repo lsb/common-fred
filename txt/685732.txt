@@ -1,0 +1,1 @@
+The whole string have to contain at least one digit.

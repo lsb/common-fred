@@ -1,0 +1,1 @@
+Other platforms can be used by more than one train, but are not sectioned.

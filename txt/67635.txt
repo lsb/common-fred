@@ -1,0 +1,1 @@
+"Note that Cohen's kappa measures agreement between two raters only."

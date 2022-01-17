@@ -1,0 +1,1 @@
+The larger piece, at the top, has width a and height a-b.

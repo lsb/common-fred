@@ -1,0 +1,1 @@
+This means that log-probabilities of global states become linear in their energies.

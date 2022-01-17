@@ -1,0 +1,1 @@
+A message can itself contain sub-messages which themselves may contain sub-messages, and so on.

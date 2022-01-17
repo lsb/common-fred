@@ -1,0 +1,1 @@
+"""Salmonella"" serotypes can be divided into two main groups-typhoidal and nontyphoidal ""Salmonella""."

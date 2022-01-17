@@ -1,0 +1,1 @@
+Catches are counted only for throws made while no props have been dropped.

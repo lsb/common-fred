@@ -1,0 +1,1 @@
+Sound cards and modems are the most common devices to use the specification.

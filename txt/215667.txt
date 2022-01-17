@@ -1,0 +1,1 @@
+Csound takes two specially formatted text files as input.

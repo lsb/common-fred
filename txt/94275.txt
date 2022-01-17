@@ -1,0 +1,1 @@
+"The initial conditions do not affect the qualitative nature of the system's behavior."

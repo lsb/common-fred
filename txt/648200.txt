@@ -1,0 +1,1 @@
+The pivoted image thus exhibits an obvious distortion over the unpivoted image.

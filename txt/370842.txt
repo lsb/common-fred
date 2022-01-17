@@ -1,0 +1,1 @@
+It affects the aspects of quality above, including portability, usability and most importantly maintainability.

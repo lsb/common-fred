@@ -1,0 +1,1 @@
+The points in these horizontal strips come from vertical strips in the original square.

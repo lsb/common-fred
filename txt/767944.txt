@@ -1,0 +1,1 @@
+Visual Studio Express is limited and does not support third-party extensions.

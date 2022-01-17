@@ -1,0 +1,1 @@
+Compilers need to be judicious about the number of temporaries created to hold values.

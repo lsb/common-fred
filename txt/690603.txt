@@ -1,0 +1,1 @@
+Then, when the results are received, they are collected and validated against each other.

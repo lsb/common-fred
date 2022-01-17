@@ -1,0 +1,1 @@
+Trains descending the ramp can access either the local or express track.

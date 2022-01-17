@@ -1,0 +1,1 @@
+Yoshida, in particular, gives an elegant derivation of coefficients for higher-order integrators.

@@ -1,0 +1,1 @@
+Under Linux, Gamin uses inotify or dnotify to monitor filesystem activity.

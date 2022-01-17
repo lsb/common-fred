@@ -1,0 +1,1 @@
+The old ratings and new ratings are smoothly connected with a linear formula.

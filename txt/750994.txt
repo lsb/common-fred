@@ -1,0 +1,1 @@
+To do Linux development, I rely on NX, a remote desktop solution.

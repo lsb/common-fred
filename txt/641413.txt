@@ -1,0 +1,1 @@
+The number of peaks included depends upon the minimum topographic prominence criterion.

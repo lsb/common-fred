@@ -1,0 +1,1 @@
+This is a logical addressing scheme; values are chosen by the network engineer.

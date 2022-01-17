@@ -1,0 +1,1 @@
+A parity bit is only guaranteed to detect an odd number of bit errors.

@@ -1,0 +1,1 @@
+Self-adjoint functionals are noncommutative analogues of signed measures.

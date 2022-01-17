@@ -1,0 +1,1 @@
+The homeomorphisms form an equivalence relation on the class of all topological spaces.

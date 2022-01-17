@@ -1,0 +1,1 @@
+Polls basically involve taking a sample from a certain population.

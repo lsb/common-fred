@@ -1,0 +1,1 @@
+"The ""delta integral"" is defined as the antiderivative with respect to the delta derivative."

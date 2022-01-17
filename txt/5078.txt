@@ -1,0 +1,1 @@
+"""Native"" can mean ""Anglo-Saxon"" or it can be widened to include all Germanic words."

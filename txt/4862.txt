@@ -1,0 +1,1 @@
+"""Modus tollens"" is closely related to ""modus ponens""."

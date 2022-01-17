@@ -1,0 +1,1 @@
+In order to support user interaction with application directories, several files have special status.

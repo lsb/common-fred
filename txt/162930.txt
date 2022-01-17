@@ -1,0 +1,1 @@
+An interface standard may include operational characteristics and acceptable levels of performance.

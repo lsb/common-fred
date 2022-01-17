@@ -1,0 +1,1 @@
+"To request a server's list, there is a separate 'list trigger' used."

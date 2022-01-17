@@ -1,0 +1,1 @@
+A synthetic instrument is a kind of virtual instrument that is purely software defined.

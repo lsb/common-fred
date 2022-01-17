@@ -1,0 +1,1 @@
+Note that logging in this context does not refer to logging trees.

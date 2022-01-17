@@ -1,0 +1,1 @@
+Parameters can be obtained from chemical bond energy data.

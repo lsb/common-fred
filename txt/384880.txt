@@ -1,0 +1,1 @@
+It is an application of the theory of curves to find their main features.

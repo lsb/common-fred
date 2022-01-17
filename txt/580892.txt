@@ -1,0 +1,1 @@
+The applications are designed to integrate as a suite, to form a workflow.

@@ -1,0 +1,1 @@
+When a device is turned on, it sends out low powered light.

@@ -1,0 +1,1 @@
+This code includes mirror images of half-width kana characters and Latin letters and numerals.

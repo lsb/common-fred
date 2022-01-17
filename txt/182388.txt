@@ -1,0 +1,1 @@
+Basic troops are based on stands, of which typically three make a unit.

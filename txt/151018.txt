@@ -1,0 +1,1 @@
+Air pressure, temperature, and humidity variations make up the ambient air density.

@@ -1,0 +1,1 @@
+The fields are independent of time and each other.

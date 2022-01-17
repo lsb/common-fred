@@ -1,0 +1,1 @@
+"""Ciona intestinalis"" is a hermaphroditic broadcast spawner but cannot self-fertilize."

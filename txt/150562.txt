@@ -1,0 +1,1 @@
+Agglomerative transduction can be thought of as bottom-up transduction.

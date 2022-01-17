@@ -1,0 +1,1 @@
+"This technique doesn't work perfectly when multiple windows are open, but it works most of the time."

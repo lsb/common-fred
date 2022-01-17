@@ -1,0 +1,1 @@
+Repetitions in the code are signs of bad code designs and should be avoided.

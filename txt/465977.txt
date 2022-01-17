@@ -1,0 +1,1 @@
+Next, we try to draw a disc around every subset of point pairs.

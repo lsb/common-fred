@@ -1,0 +1,1 @@
+Spam filters typically do not provide users with protection against pharming.

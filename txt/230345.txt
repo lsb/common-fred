@@ -1,0 +1,1 @@
+Each Special Operation has its own cooldown before it can be used again.

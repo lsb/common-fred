@@ -1,0 +1,1 @@
+"The following contains Fuglede's result as a special case."

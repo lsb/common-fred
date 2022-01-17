@@ -1,0 +1,1 @@
+The algorithm finds all vertices of the convex hull ordered along its boundary.

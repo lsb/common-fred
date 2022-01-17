@@ -1,0 +1,1 @@
+It was the first full screen editor Ken Thompson liked.

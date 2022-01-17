@@ -1,0 +1,1 @@
+When a student requests a room, the clerk decreases this number.

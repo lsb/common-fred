@@ -1,0 +1,1 @@
+This radar, rather than continuously rotating, nodded on a bearing selected by the operator.

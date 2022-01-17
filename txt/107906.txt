@@ -1,0 +1,1 @@
+"These seven line segments all meet at the ""centroid"" of the tetrahedron."

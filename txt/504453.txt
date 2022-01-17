@@ -1,0 +1,1 @@
+Relief mapping and parallax occlusion mapping are other common names for these techniques.

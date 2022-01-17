@@ -1,0 +1,1 @@
+The auctioneer can specify either a net or gross contract.

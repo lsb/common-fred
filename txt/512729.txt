@@ -1,0 +1,1 @@
+Scope of objects and other variables is purely lexical.

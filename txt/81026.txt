@@ -1,0 +1,1 @@
+"Such a construction is sometimes called ""Picard's method"" or ""the method of successive approximations""."

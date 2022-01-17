@@ -1,0 +1,1 @@
+Both electrodes must be immersed in the water for the field to be created.

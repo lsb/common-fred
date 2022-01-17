@@ -1,0 +1,1 @@
+This imagery is visible within the output video signal when this signal is displayed.

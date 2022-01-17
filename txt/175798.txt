@@ -1,0 +1,1 @@
+At each step, the nearest two clusters are combined into a higher-level cluster.

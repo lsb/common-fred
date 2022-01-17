@@ -1,0 +1,1 @@
+Novel subpixel layouts have been developed to allow higher real resolution without chromatic aliasing.

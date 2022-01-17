@@ -1,0 +1,1 @@
+These in turn cause parts of the string to pinch off into isolated loops.

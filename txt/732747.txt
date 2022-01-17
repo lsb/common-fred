@@ -1,0 +1,1 @@
+This is due to frictional collisions of the beads during homogenization.

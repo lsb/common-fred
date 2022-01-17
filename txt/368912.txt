@@ -1,0 +1,1 @@
+Instead, we introduce the concept of minimum degree.

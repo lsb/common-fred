@@ -1,0 +1,1 @@
+Huave is now considered an isolate.

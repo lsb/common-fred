@@ -1,0 +1,1 @@
+Trusted Solaris functionality has now been added to the mainstream version of Solaris.

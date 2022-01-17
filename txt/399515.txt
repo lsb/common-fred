@@ -1,0 +1,1 @@
+It is useful in the formal description of hardware and software for computer-based systems.

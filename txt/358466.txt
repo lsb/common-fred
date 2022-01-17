@@ -1,0 +1,1 @@
+In modern logic, the presupposition that a class has members is seen as unacceptable.

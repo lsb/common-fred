@@ -1,0 +1,1 @@
+As usual, the summation should be terminated when the terms start growing in magnitude.

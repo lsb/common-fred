@@ -1,0 +1,1 @@
+In order to be rendered inactive, the vehicle needs to be hit by at least three mines.

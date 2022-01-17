@@ -1,0 +1,1 @@
+Much of the visual effects processing in Vegas follows an audio-like paradigm.

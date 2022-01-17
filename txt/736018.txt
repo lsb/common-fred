@@ -1,0 +1,1 @@
+This makes the solstitial colure point towards the North Celestial Pole and Polaris.

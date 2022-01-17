@@ -1,0 +1,1 @@
+Instead of a vote per attending individual, each entity would have a single vote.

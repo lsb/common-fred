@@ -1,0 +1,1 @@
+However, disabling interrupts has numerous downsides.

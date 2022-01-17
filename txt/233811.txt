@@ -1,0 +1,1 @@
+Effective idle speed control must anticipate the engine load at idle.

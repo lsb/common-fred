@@ -1,0 +1,1 @@
+Linux and Windows use different software for security protection.

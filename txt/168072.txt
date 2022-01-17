@@ -1,0 +1,1 @@
+Any train of more than long passes over itself going around the loop.

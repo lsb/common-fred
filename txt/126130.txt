@@ -1,0 +1,1 @@
+A game ends when all human players are eliminated.

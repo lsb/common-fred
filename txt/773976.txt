@@ -1,0 +1,1 @@
+What can be observed in the test are the actual reaction times.

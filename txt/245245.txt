@@ -1,0 +1,1 @@
+Fixed exchange rates were incompatible with free flows of capital.

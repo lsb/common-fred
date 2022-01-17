@@ -1,0 +1,1 @@
+Foreign objects can be retrieved from the audience and used outside the ring.

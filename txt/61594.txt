@@ -1,0 +1,1 @@
+"Let ""R"" be an integral domain, and let ""K"" be its field of fractions."

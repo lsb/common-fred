@@ -1,0 +1,1 @@
+It also handles user interface elements in editable forms.

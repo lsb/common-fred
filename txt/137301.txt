@@ -1,0 +1,1 @@
+A tape reader, controlled by the Baudot distributor, then replaced the manual keyboard.

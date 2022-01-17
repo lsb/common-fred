@@ -1,0 +1,1 @@
+Broken space diagonals are also known as broken triagonals.

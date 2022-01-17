@@ -1,0 +1,1 @@
+Text normalization is frequently used when converting text to speech.

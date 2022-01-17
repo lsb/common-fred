@@ -1,0 +1,1 @@
+Cobordisms are objects of study in their own right, apart from cobordism classes.

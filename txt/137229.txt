@@ -1,0 +1,1 @@
+A symmetric operator defined everywhere is closed, therefore bounded, which is the Hellinger-Toeplitz theorem.

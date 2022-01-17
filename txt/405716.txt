@@ -1,0 +1,1 @@
+It uses a synchronous electric motor with rotor coil.

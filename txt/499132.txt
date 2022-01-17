@@ -1,0 +1,1 @@
+Programs can be installed or removed easily using Zero Install.

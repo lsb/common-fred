@@ -1,0 +1,1 @@
+"""Guardalavaca"" literally means ""guard the cow"" in Spanish."

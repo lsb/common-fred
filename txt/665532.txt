@@ -1,0 +1,1 @@
+The size of a disk sectors is several hundred or several thousands bytes.

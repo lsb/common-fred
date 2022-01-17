@@ -1,0 +1,1 @@
+They form a discrete approximation of the distribution of training samples.

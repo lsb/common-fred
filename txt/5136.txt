@@ -1,0 +1,1 @@
+"""New Wave"" is an example of European art cinema."

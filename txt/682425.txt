@@ -1,0 +1,1 @@
+The value of a quantity is independent of the unit chosen to represent it.

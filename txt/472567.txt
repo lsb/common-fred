@@ -1,0 +1,1 @@
+ObjectDock allows the user to place shortcuts to any program in a dock.

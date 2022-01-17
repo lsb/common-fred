@@ -1,0 +1,1 @@
+We normally use the natural-deductive form in place of the much longer axiomatic proof.

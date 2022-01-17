@@ -1,0 +1,1 @@
+A player loses his upgrade orb upon death, allowing another player to obtain it.

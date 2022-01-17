@@ -1,0 +1,1 @@
+Fonts that are darker require a wider leading than those that are lighter.

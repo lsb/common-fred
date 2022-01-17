@@ -1,0 +1,1 @@
+Its planform changed to a constant taper from root chord to tip chord.

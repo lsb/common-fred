@@ -1,0 +1,1 @@
+These forces induce stresses on the beam.

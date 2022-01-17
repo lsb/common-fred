@@ -1,0 +1,1 @@
+If a statistic is sufficient and boundedly complete, then it is minimal sufficient.

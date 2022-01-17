@@ -1,0 +1,1 @@
+In an early selection attention model very little information is processed before selection occurs.

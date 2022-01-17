@@ -1,0 +1,1 @@
+Here the lack of hygiene in conventional macros is resolved by several strategies.

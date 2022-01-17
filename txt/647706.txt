@@ -1,0 +1,1 @@
+The phone will then ring, answering only with a verification tone when picked up.

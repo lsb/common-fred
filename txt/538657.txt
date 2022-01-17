@@ -1,0 +1,1 @@
+Some densitometers are connected to a plotter that automatically draws the characteristic curve.

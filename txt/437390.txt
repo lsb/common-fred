@@ -1,0 +1,1 @@
+Local independences and global independences are equivalent in Bayesian networks.

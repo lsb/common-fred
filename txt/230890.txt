@@ -1,0 +1,1 @@
+Each format is assigned a unique Audio Object Type to represent it.

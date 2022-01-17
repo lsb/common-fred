@@ -1,0 +1,1 @@
+The power consumption of the controller also has to be taken into account.

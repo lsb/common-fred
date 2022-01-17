@@ -1,0 +1,1 @@
+It is intended for testing and measurement purposes in computer networks.

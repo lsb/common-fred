@@ -1,0 +1,1 @@
+The player controls Rick through eight different stages, each two-dimensional.

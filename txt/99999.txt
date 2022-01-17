@@ -1,0 +1,1 @@
+"The same procedure is then applied recursively to the two smaller squares, ""ad infinitum""."

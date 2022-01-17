@@ -1,0 +1,1 @@
+"This kind of ""bytecode interpreter"" is very portable."

@@ -1,0 +1,1 @@
+Normalization is one of the functions commonly provided by a digital audio workstation.

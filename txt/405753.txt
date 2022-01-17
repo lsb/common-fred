@@ -1,0 +1,1 @@
+It uses random number challenges instead of the above Diffie-Hellman technique.

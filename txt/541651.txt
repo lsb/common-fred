@@ -1,0 +1,1 @@
+Some systems use the dracut package to create an initramfs image.

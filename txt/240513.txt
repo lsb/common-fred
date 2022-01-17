@@ -1,0 +1,1 @@
+Extending to higher dimensions is simple, provided each dimension is independent.

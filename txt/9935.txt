@@ -1,0 +1,1 @@
+"A ""data prototype"" is a form of ""functional ""or ""working"" prototype."

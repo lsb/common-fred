@@ -1,0 +1,1 @@
+Monomial matrices occur in representation theory in the context of monomial representations.

@@ -1,0 +1,1 @@
+Some operating systems released updates fixing this security hole.

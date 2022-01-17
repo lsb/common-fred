@@ -1,0 +1,1 @@
+These slave units did not have a cab, thus reducing their weight.

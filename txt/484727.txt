@@ -1,0 +1,1 @@
+Other transmitters react to the rising noise floor by increasing their output.

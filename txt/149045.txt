@@ -1,0 +1,1 @@
+After the two strokes, the single character with diacritics is generated.

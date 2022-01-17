@@ -1,0 +1,1 @@
+Data in each queue are only served when the higher priority queues are empty.

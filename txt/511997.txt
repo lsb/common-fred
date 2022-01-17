@@ -1,0 +1,1 @@
+Scanning applications include backup utilities, web crawler, search engines, and replication programs.

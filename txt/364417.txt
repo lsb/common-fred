@@ -1,0 +1,1 @@
+In the set construction, each element can occur zero or one times.

@@ -1,0 +1,1 @@
+"Bresenham's algorithm draws lines extremely quickly, but it does not perform anti-aliasing."

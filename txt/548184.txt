@@ -1,0 +1,1 @@
+Students are assigned to a school based on the location of their family home.

@@ -1,0 +1,1 @@
+Even the operating system does not have full access to curtained memory.

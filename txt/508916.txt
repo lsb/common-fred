@@ -1,0 +1,1 @@
+Roughly, for each step upwards, one needs four times the number of words.

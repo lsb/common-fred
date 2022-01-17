@@ -1,0 +1,1 @@
+Altacast is supported on Windows.

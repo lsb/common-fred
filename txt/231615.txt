@@ -1,0 +1,1 @@
+Each record consists of one or more fields, separated by commas.

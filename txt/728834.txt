@@ -1,0 +1,1 @@
+This equivalence may break down in many cases.

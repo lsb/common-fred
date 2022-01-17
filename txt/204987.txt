@@ -1,0 +1,1 @@
+Characters can be saved from one play session to the next.

@@ -1,0 +1,1 @@
+"""Odds on"" is the opposite of ""odds against""."

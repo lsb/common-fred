@@ -1,0 +1,1 @@
+Another alternative is using some convention such as memberwise comparison.

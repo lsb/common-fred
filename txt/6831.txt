@@ -1,0 +1,1 @@
+"""Sketchpad: A Man-Machine Graphical Communication System""."

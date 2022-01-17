@@ -1,0 +1,1 @@
+A photo detector has a p-n junction that converts light photons into current.

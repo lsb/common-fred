@@ -1,0 +1,1 @@
+This leads to an optimisation problem, known as the cutting stock problem.

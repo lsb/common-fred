@@ -1,0 +1,1 @@
+Spoofing is most prevalent in communication mechanisms that lack a high level of security.

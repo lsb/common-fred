@@ -1,0 +1,1 @@
+A column-wise Kronecker product of two matrices may also be called the Khatri-Rao product.

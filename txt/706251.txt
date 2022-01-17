@@ -1,0 +1,1 @@
+These include the exact shape of the asteroid, its orientation, and its albedo.

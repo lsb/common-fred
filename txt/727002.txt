@@ -1,0 +1,1 @@
+This combination prevents them from firing at distant or non-living objects.

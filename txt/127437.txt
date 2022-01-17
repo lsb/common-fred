@@ -1,0 +1,1 @@
+A heap is not a sorted structure and can be regarded as partially ordered.

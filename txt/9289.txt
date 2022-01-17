@@ -1,0 +1,1 @@
+"""Yes,"" he snarled, ""my wife's deaf."""

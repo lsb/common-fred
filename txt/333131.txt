@@ -1,0 +1,1 @@
+Hotels may drop the price of a room if some rooms are still available.

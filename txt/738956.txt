@@ -1,0 +1,1 @@
+This provided a new alternative to the more popular ladder logic programming model.

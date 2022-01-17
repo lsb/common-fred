@@ -1,0 +1,1 @@
+That is, the two statements must be either simultaneously true or simultaneously false.

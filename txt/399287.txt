@@ -1,0 +1,1 @@
+It is used for changing the focal length of the lens.

@@ -1,0 +1,1 @@
+Most homegrown applications have between one and three libraries.

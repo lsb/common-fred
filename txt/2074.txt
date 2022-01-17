@@ -1,0 +1,1 @@
+"""Eisner versus Macomber"" is a key case in income tax law."

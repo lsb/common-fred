@@ -1,0 +1,1 @@
+Paned windows are a common way to implement a master-detail interface.

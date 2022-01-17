@@ -1,0 +1,1 @@
+Power ringing and audible ringing are not synchronized.

@@ -1,0 +1,1 @@
+Pegasus had eight accumulators, seven of which could also be used as index registers.

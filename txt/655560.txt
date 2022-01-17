@@ -1,0 +1,1 @@
+The relative amplitudes of these peaks represent either a binary one or zero.

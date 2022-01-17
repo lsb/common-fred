@@ -1,0 +1,1 @@
+Actions with a score of less than fifty points cannot be awarded.

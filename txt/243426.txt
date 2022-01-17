@@ -1,0 +1,1 @@
+Filtration quality is usually measured in microns, based on the smallest size particle filtered.

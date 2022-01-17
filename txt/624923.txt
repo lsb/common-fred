@@ -1,0 +1,1 @@
+The intersection-sensitive algorithms are mainly known in the computational-geometry literature.

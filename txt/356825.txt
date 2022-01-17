@@ -1,0 +1,1 @@
+In general the constant term is one that does not involve any variables.

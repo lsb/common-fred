@@ -1,0 +1,1 @@
+In this case, whichever castling move is executed first is deemed to be legal.

@@ -1,0 +1,1 @@
+It is the fastest and most flexible cache organization which uses an associative memory.

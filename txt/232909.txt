@@ -1,0 +1,1 @@
+Eastbound trains use odd-numbered platforms, and westbound trains use even-numbered platforms.

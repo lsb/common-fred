@@ -1,0 +1,1 @@
+It is proportional to the mass flow rate and blood viscosity.

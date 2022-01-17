@@ -1,0 +1,1 @@
+The frame data gives information on the rover position, site number, and image size.

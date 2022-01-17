@@ -1,0 +1,1 @@
+Absorption efficiency varies with the minority concentration.

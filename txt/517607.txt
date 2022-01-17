@@ -1,0 +1,1 @@
+Several things distinguish a directory service from a relational database.

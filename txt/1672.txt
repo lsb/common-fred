@@ -1,0 +1,1 @@
+"""Daggerfall"" is set in the Breton homeland of High Rock."

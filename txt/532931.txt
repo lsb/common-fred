@@ -1,0 +1,1 @@
+Simple lenses are prone to aberrations, especially chromatic aberration.

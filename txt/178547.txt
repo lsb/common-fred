@@ -1,0 +1,1 @@
+At the top was the application itself, referenced via a null object descriptor.

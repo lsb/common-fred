@@ -1,0 +1,1 @@
+The circumstances by which an attacker may obtain ciphertexts for given plaintexts are rare.

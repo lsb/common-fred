@@ -1,0 +1,1 @@
+So, the blade is twisted as the radius changes.

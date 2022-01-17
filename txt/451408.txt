@@ -1,0 +1,1 @@
+Metapatterns are, loosely, patterns of patterns.

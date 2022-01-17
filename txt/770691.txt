@@ -1,0 +1,1 @@
+We cannot choose with certainty, but we can minimize the estimated information loss.

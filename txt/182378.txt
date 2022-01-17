@@ -1,0 +1,1 @@
+Basic edge damage types include step fractures, snap fractures, micro-flake scars, and edge rounding.

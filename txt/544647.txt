@@ -1,0 +1,1 @@
+Speech output is supported if Festival software is running.

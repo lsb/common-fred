@@ -1,0 +1,1 @@
+During engine start-up, these commands are executed and data are reconstructed into the memory.

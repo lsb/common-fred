@@ -1,0 +1,1 @@
+"""Edition"" is Marriott's boutique hotel line, run in association with Ian Schrager."

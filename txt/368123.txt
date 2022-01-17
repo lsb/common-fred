@@ -1,0 +1,1 @@
+Input and output intercept point differ by the small-signal gain of the device.

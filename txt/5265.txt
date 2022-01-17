@@ -1,0 +1,1 @@
+"""Non-combatants"" include citizens and nationals of countries that are not party to the conflict."

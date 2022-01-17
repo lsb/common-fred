@@ -1,0 +1,1 @@
+Color timing was specified in printer points.

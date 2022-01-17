@@ -1,0 +1,1 @@
+These curves correspond to the pendulum swinging periodically from side to side.

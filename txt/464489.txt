@@ -1,0 +1,1 @@
+Network-to-network tunnels often use passwords or digital certificates.

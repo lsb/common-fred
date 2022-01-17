@@ -1,0 +1,1 @@
+"""Note:"" A Credit Memo is not to be substituted as a formal document."

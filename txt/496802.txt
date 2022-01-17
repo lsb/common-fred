@@ -1,0 +1,1 @@
+Preconditions in object-oriented software development are an essential part of design by contract.

@@ -1,0 +1,1 @@
+Every symmetric graph without isolated vertices is vertex-transitive, and every vertex-transitive graph is regular.

@@ -1,0 +1,1 @@
+Multiple fragments of the same bone lead to it being counted multiple times.

@@ -1,0 +1,1 @@
+"""Kodama"" trains stop at all stations."

@@ -1,0 +1,1 @@
+Upon passing this test, the player receives mission requests from corporations and other groups.

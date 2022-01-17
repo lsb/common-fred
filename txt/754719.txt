@@ -1,0 +1,1 @@
+Tornado sirens are now activated in localized areas, instead of citywide activations.

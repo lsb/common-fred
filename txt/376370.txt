@@ -1,0 +1,1 @@
+It excludes the Sardinian language and Eastern Romance.

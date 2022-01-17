@@ -1,0 +1,1 @@
+Differential quadrature is the approximation of derivatives by using weighted sums of function values.

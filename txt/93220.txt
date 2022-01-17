@@ -1,0 +1,1 @@
+"The fractional degree Legendre function ""P"" agrees with the associated Legendre polynomial ""P""."

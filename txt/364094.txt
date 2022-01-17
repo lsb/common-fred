@@ -1,0 +1,1 @@
+In the quater-imaginary system a radix point can also be used.

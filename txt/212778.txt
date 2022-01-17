@@ -1,0 +1,1 @@
+Contrary to common beliefs, adding covariates to the adjustment set Z can introduce bias.

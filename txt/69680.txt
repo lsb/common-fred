@@ -1,0 +1,1 @@
+"Only words that cannot be inflected at all are called ""invariable""."

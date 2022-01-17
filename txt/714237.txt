@@ -1,0 +1,1 @@
+They can be used to authenticate individual transactions in addition to sessions.

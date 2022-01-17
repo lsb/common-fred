@@ -1,0 +1,1 @@
+The load line length is referred to during and following load line calculations.

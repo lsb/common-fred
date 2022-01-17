@@ -1,0 +1,1 @@
+"These reductions introduce additional variables and so are not available for fixed ""N""."

@@ -1,0 +1,1 @@
+A value domain expresses the set of allowed values for a data element.

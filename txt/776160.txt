@@ -1,0 +1,1 @@
+When fitting polynomials the normal equations matrix is a Vandermonde matrix.

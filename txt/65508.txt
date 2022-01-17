@@ -1,0 +1,1 @@
+"Moreover, a symmetric matrix ""A"" is uniquely determined by the corresponding quadratic form."

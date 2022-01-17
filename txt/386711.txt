@@ -1,0 +1,1 @@
+It is created once and then repeatedly used for the lookups unmodified.

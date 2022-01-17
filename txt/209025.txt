@@ -1,0 +1,1 @@
+Code signing can provide several valuable features.

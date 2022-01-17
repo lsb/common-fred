@@ -1,0 +1,1 @@
+This indicated to switch that the line was idle.

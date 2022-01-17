@@ -1,0 +1,1 @@
+Peslyak is the author of the widely popular password cracking tool John the Ripper.

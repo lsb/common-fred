@@ -1,0 +1,1 @@
+This game begins with a shuffled deck of cards.

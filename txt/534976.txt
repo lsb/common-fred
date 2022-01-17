@@ -1,0 +1,1 @@
+Skeleton sleds are steered using torque provided by the head and shoulders.

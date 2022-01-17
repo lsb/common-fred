@@ -1,0 +1,1 @@
+Array accesses with statically predictable access patterns are a major source of data parallelism.

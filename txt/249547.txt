@@ -1,0 +1,1 @@
+For the base case where R is a leaf node, no replacement is required.

@@ -1,0 +1,1 @@
+Each key is a manual switch that is either off or on.

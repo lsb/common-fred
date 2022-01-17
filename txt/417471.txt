@@ -1,0 +1,1 @@
+Its homography group is the permutation group on these three.

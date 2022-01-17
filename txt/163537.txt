@@ -1,0 +1,1 @@
+Analogously to the univariate case, the Hessian is required to be negative definite.

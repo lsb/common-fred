@@ -1,0 +1,1 @@
+In case the gluing is complete the ideal vertices become cusps in the manifold.

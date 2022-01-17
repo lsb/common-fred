@@ -1,0 +1,1 @@
+This allows the reader to find words where they appear in the Bible.

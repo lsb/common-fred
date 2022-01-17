@@ -1,0 +1,1 @@
+Animation features include layers and a mixer, which allows combining animation clips non-linearly.

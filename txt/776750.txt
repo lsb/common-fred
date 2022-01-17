@@ -1,0 +1,1 @@
+When passing by a planet it means applying thrust when nearest to the planet.

@@ -1,0 +1,1 @@
+The projections of a finite factor form a continuous geometry.

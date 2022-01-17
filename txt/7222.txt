@@ -1,0 +1,1 @@
+"""Sweet Home"" places an emphasis on puzzle-solving, limited item inventory management, and survival."

@@ -1,0 +1,1 @@
+Given certain initial conditions a system may be in steady state from the beginning.

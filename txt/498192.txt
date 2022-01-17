@@ -1,0 +1,1 @@
+Prior to its deprecation, the Type of Service field was defined as follows.

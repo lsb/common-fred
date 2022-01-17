@@ -1,0 +1,1 @@
+Tactics define how soldiers are armed and trained.

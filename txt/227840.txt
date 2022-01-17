@@ -1,0 +1,1 @@
+During parsing, the parser may need to access external documents.

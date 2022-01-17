@@ -1,0 +1,1 @@
+Both fixed and sliding window panels were present, along with a transparent sliding roof.

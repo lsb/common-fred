@@ -1,0 +1,1 @@
+"""I"" consists of the multiples of a single polynomial ""f""."

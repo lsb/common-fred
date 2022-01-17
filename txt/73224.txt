@@ -1,0 +1,1 @@
+"Relations are classified based upon the types of anomalies to which they're vulnerable."

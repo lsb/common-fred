@@ -1,0 +1,1 @@
+"In Prolog, it is usually implemented using Prolog's extralogical constructs."

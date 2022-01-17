@@ -1,0 +1,1 @@
+It runs on most Unix derivatives.

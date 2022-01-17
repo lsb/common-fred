@@ -1,0 +1,1 @@
+To balance the robot, additional wheels or casters may be added.

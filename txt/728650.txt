@@ -1,0 +1,1 @@
+This enables the AirTrain to use automatic train operation without drivers.

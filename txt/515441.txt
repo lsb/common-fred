@@ -1,0 +1,1 @@
+Serial numbers are six digits long and should include leading zeros.

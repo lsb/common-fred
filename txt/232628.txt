@@ -1,0 +1,1 @@
+Early releases of Solaris used OpenWindows as the standard desktop environment.

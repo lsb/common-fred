@@ -1,0 +1,1 @@
+For k variables, the scatterplot matrix will contain k rows and k columns.

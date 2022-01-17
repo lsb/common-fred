@@ -1,0 +1,1 @@
+Communication between two hosts using a network may be encrypted to maintain privacy.

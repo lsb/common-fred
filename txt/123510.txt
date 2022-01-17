@@ -1,0 +1,1 @@
+A common approach is to use a non-associated plastic flow potential that is smooth.

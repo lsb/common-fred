@@ -1,0 +1,1 @@
+Sweep angle and area may follow wind direction.

@@ -1,0 +1,1 @@
+Non-capturing moves are played as in orthodox chess.

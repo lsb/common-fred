@@ -1,0 +1,1 @@
+"Classes containing pure virtual methods are termed ""abstract"" and they cannot be instantiated directly."

@@ -1,0 +1,1 @@
+"A capsule is dropped from the top to simulate ""zero gravity""."

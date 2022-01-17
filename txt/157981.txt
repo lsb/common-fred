@@ -1,0 +1,1 @@
+Also note that processor affinity becomes more complicated in systems with non-uniform architectures.

@@ -1,0 +1,1 @@
+Samples taken far apart will vary more than samples taken close to each other.

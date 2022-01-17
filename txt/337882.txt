@@ -1,0 +1,1 @@
+However, non-zero oscillation does not usually indicate periodicity.

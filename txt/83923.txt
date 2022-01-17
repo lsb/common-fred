@@ -1,0 +1,1 @@
+"The ""safe"" setting disables the trigger and secures the weapon from being charged."

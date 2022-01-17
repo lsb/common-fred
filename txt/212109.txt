@@ -1,0 +1,1 @@
+Consequently, this layout may be desirable if a processor supports dot product operations natively.

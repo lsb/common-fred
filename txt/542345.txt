@@ -1,0 +1,1 @@
+Sometimes a printer output line transistor would fail, resulting in a blank print position.

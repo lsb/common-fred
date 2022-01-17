@@ -1,0 +1,1 @@
+Attributes allow to add metadata to a Gerber file.

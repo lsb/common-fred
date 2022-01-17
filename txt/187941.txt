@@ -1,0 +1,1 @@
+Black level is set by displaying a testcard image and adjusting display controls.

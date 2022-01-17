@@ -1,0 +1,1 @@
+Therefore, every such linear operator has a non-trivial invariant subspace.

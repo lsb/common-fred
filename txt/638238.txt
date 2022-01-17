@@ -1,0 +1,1 @@
+The name of the ship is followed by the number of guns carried.

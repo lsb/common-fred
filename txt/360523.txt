@@ -1,0 +1,1 @@
+In some cases, a check can be used to defend against such tactics.

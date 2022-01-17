@@ -1,0 +1,1 @@
+The rotational cryptanalysis technique attempts to attack such round functions.

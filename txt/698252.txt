@@ -1,0 +1,1 @@
+There is also the dconf-editor for the dconf; dconf has replaced Gconf.

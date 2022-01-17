@@ -1,0 +1,1 @@
+"""Haunted House"" was designed by John Osborne, with artwork by Terry Doerzaph."

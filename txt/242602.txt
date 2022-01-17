@@ -1,0 +1,1 @@
+Fermi Linux follows the Scientific Linux life cycle regarding support and updates.

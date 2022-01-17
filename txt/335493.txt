@@ -1,0 +1,1 @@
+However, a practical design must also limit the destructive radius of the fireball.

@@ -1,0 +1,1 @@
+"""Zoo"" was a weekly news magazine aimed at the male market."

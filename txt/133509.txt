@@ -1,0 +1,1 @@
+A piconet starts with two connected devices, and may grow to eight connected devices.

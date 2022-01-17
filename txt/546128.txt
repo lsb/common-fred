@@ -1,0 +1,1 @@
+Static routes are routes to networks that a network administrator manually configured.

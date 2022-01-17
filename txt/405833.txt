@@ -1,0 +1,1 @@
+It utilizes a direct mechanical control of electric current to the motors.

@@ -1,0 +1,1 @@
+Block-carry-skip adders are composed of a number of carry-skip adders.

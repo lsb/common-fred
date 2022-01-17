@@ -1,0 +1,1 @@
+A command line can have practically arbitrary length, and is a series of tokens.

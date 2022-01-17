@@ -1,0 +1,1 @@
+The host will ask for another response should an answer be duplicated.

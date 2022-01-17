@@ -1,0 +1,1 @@
+"""Maneki-neko"" comes in different colors, styles and degrees of ornateness."

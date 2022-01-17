@@ -1,0 +1,1 @@
+All methods for checking license limitations were then deprecated.

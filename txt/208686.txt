@@ -1,0 +1,1 @@
+Clubs are ranked by total points, then goal difference, and then goals scored.

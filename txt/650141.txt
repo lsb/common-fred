@@ -1,0 +1,1 @@
+The power cepstrum in particular finds applications in the analysis of human speech.

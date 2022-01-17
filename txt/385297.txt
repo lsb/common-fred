@@ -1,0 +1,1 @@
+It is assumed that the system is initially in a legitimate configuration.

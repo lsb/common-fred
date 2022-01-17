@@ -1,0 +1,1 @@
+"We see that projective transformations don't mix Gaussian curvatures of different sign."

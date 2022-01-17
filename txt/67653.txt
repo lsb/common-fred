@@ -1,0 +1,1 @@
+"Note that the registry of ""F"" bytes is independent for the different types."

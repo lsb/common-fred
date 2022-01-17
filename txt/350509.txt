@@ -1,0 +1,1 @@
+Image moments are useful to describe objects after segmentation.

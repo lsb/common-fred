@@ -1,0 +1,1 @@
+"DiffServ is a ""coarse-grained"", ""class-based"" mechanism for traffic management."

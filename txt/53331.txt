@@ -1,0 +1,1 @@
+"It is also required that ""X"" and ""Y"" are statistically independent of each other."

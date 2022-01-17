@@ -1,0 +1,1 @@
+Some methods allow a quantitative analysis of the texture, while others are only qualitative.

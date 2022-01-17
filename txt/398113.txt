@@ -1,0 +1,1 @@
+It is the preferred way to redirect a user agent to a different page.

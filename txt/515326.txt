@@ -1,0 +1,1 @@
+Separate leaderboards are used to display single player and multiplayer rankings.

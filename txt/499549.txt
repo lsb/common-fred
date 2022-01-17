@@ -1,0 +1,1 @@
+Protein fragment complementation assays are often used to detect protein-protein interactions.

@@ -1,0 +1,1 @@
+Every compact set is K-analytic so that there are non-separable K-analytic spaces.

@@ -1,0 +1,1 @@
+Gradient descent can also be used to solve a system of nonlinear equations.

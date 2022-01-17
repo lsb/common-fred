@@ -1,0 +1,1 @@
+Cosmids can be used to build genomic libraries.

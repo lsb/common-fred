@@ -1,0 +1,1 @@
+"The program's run-time is directly proportional to its input size."

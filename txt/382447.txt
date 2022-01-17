@@ -1,0 +1,1 @@
+It is a rules light generic roll-over system using polyhedral dice.

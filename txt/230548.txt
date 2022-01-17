@@ -1,0 +1,1 @@
+Each character has a role such as medic, sniper, scout, grenadier, soldier or engineer.

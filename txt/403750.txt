@@ -1,0 +1,1 @@
+It runs through villages until it finds a tomb, where it disappears.

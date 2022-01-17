@@ -1,0 +1,1 @@
+"Anonymous recursion primarily consists of calling ""the current function"", which results in direct recursion."

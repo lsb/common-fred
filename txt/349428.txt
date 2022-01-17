@@ -1,0 +1,1 @@
+If messages are dropped, then communication is no longer reliable.

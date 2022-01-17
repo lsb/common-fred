@@ -1,0 +1,1 @@
+Its Lie algebra is the subspace of quaternion vectors.

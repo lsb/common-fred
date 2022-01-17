@@ -1,0 +1,1 @@
+Colors are used to represent different geological units.

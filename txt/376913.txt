@@ -1,0 +1,1 @@
+It fixed slowdown problems from the original game, and increased the difficulty.

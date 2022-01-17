@@ -1,0 +1,1 @@
+With this framing only datagram services are supported on the data link layer.

@@ -1,0 +1,1 @@
+Drawing the scene with shadows can be done in several different ways.

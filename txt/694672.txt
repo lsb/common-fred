@@ -1,0 +1,1 @@
+There are thermal limits where a shunt will no longer operate correctly.

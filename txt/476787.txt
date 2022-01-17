@@ -1,0 +1,1 @@
+Once fuzzy relations are defined, it is possible to develop fuzzy relational databases.

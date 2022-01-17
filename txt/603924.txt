@@ -1,0 +1,1 @@
+The diamagnetic drift can be derived from the force due to a pressure gradient.

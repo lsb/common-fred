@@ -1,0 +1,1 @@
+It is obtained by orienting the signed graph in any way.

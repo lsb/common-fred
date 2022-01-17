@@ -1,0 +1,1 @@
+"""Thorathat"" means ""television"" even though there were no television services in Thailand then."

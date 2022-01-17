@@ -1,0 +1,1 @@
+A number of applications have duplicated the functionality of Stickies on other platforms.

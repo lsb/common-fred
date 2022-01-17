@@ -1,0 +1,1 @@
+Shared memory is one of the fastest techniques for inter-process communication.

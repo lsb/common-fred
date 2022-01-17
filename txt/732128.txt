@@ -1,0 +1,1 @@
+This is adaptive code which can run on different platforms.

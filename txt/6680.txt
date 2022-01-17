@@ -1,0 +1,1 @@
+"""Service Before Self"" is the motto of the school."

@@ -1,0 +1,1 @@
+One can then telnet to the phone and be presented with a bash prompt.

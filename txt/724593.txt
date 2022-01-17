@@ -1,0 +1,1 @@
+This allows for the upgrading of components while preserving compatibility with customized parts.

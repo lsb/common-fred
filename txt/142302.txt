@@ -1,0 +1,1 @@
+Accuracy is dependent on estimates of impurities and temperature in the natural reactor.

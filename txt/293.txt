@@ -1,0 +1,1 @@
+"""Aliens versus Predator"" was developed by Rebellion Developments and published by Fox Interactive."

@@ -1,0 +1,1 @@
+To rebalance, an entire subtree rooted at a scapegoat undergoes a balancing operation.

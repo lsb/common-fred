@@ -1,0 +1,1 @@
+Each queue is serviced based on how much packets are served in each queue.

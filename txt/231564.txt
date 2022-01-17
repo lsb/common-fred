@@ -1,0 +1,1 @@
+Each previously proven formula can become a rule for later proofs.

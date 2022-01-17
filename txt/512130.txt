@@ -1,0 +1,1 @@
+Schedules can be resource leveled, and chains are visualized in a Gantt chart.

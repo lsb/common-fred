@@ -1,0 +1,1 @@
+Graphical terminals are divided into vector-mode terminals, and raster mode.

@@ -1,0 +1,1 @@
+This will eventually be mapped together to give the sequence of the entire genome.

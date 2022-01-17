@@ -1,0 +1,1 @@
+"Usually their physical design will be pre-defined so they could be termed ""hard macros""."

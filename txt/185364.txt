@@ -1,0 +1,1 @@
+Below we discuss two approaches for avoiding race conditions to achieve thread safety.

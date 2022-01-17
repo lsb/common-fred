@@ -1,0 +1,1 @@
+Such points usually lie on high-contrast regions of the image, such as object edges.

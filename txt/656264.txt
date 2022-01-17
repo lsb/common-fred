@@ -1,0 +1,1 @@
+The representation of Mersenne primes is another example.

@@ -1,0 +1,1 @@
+Oracle Forms accesses the Oracle database and generates a screen that presents the data.

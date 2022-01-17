@@ -1,0 +1,1 @@
+Shark was initially designed to support high throughput multimedia applications.

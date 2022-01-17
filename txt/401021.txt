@@ -1,0 +1,1 @@
+It may act as a transport layer protocol as well.

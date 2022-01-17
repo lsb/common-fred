@@ -1,0 +1,1 @@
+Then, minimize that slack variable until slack is null or negative.

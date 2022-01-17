@@ -1,0 +1,1 @@
+This Glide wrapper was very slow, not without issues, and was rather unstable.

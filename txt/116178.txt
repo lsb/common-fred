@@ -1,0 +1,1 @@
+"Vieta's formulas are frequently used with polynomials with coefficients in any integral domain ""R""."

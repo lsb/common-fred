@@ -1,0 +1,1 @@
+Hospitals can keep the data of a patient and retrieve it any time.

@@ -1,0 +1,1 @@
+"""Tetun Prasa"" is the version more widely used, and is now taught in schools."

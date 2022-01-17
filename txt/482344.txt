@@ -1,0 +1,1 @@
+Osirix is complementary to existing viewers, in particular to nuclear medicine viewers.

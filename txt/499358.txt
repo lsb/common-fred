@@ -1,0 +1,1 @@
+Proper design severely limits occurrences of action at a distance, contributing to maintainable programs.

@@ -1,0 +1,1 @@
+Automatically opening doors are powered open and closed either by electricity, spring, or both.

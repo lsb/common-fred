@@ -1,0 +1,1 @@
+Another side effect, not yet demonstrated in practical use, is the cycle time.

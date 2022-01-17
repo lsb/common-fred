@@ -1,0 +1,1 @@
+This probably means that it has a cyclic key schedule.

@@ -1,0 +1,1 @@
+This force can be resolved into two components: lift and drag.

@@ -1,0 +1,1 @@
+This mechanism is sometimes known as a Fault-Error-Failure chain.

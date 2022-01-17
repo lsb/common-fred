@@ -1,0 +1,1 @@
+"A restrictor gate limits the joystick's range of motion."

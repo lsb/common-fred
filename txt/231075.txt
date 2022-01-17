@@ -1,0 +1,1 @@
+Each level has a time limit during which it must be completed.

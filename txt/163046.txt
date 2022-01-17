@@ -1,0 +1,1 @@
+An octopus circuit can be used to demonstrate the waveform images on an oscilloscope.

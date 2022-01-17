@@ -1,0 +1,1 @@
+On non-orientable manifolds, one may instead define the weaker notion of a density.

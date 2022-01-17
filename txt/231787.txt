@@ -1,0 +1,1 @@
+Each sprite has one individual colour to its own.

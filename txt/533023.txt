@@ -1,0 +1,1 @@
+Simulations can identify weaknesses in designs and allow engineers to choose better alternatives.

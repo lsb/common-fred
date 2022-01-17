@@ -1,0 +1,1 @@
+This version shows proportions, and is also known as a unit area histogram.

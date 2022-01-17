@@ -1,0 +1,1 @@
+Intuit provides patches, and regularly upgrades the software automatically.

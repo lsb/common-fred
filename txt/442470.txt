@@ -1,0 +1,1 @@
+Many Dolby Digital decoders are equipped with downmixing to distribute encoded channels to speakers.

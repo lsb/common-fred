@@ -1,0 +1,1 @@
+The increments in a Brownian bridge are not independent.

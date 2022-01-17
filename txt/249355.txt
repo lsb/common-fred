@@ -1,0 +1,1 @@
+For skewed distributions, the semivariance can provide additional information that a variance does not.

@@ -1,0 +1,1 @@
+Hounds can be dismissed for interfering with another hound.

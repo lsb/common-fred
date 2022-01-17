@@ -1,0 +1,1 @@
+It is a continuous-time Markov process with almost surely continuous sample paths.

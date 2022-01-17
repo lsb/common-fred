@@ -1,0 +1,1 @@
+Slideshows can contain both still images and video clips.

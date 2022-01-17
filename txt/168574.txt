@@ -1,0 +1,1 @@
+Applications designed for one platform are easily switched to another with minimal modification.

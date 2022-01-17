@@ -1,0 +1,1 @@
+"Russell's initial tests measured un-notched samples."

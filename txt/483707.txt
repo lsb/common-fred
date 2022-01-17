@@ -1,0 +1,1 @@
+Other metacharacters are known to be literal or symbolic based on context alone.

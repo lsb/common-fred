@@ -1,0 +1,1 @@
+"A single controller ""may"" use different protocols for back-end and for front-end communication."

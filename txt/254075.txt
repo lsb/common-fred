@@ -1,0 +1,1 @@
+From the point of view of the X protocol, this is a regular window.

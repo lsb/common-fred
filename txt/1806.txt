@@ -1,0 +1,1 @@
+"""Devil World"" was designed by Shigeru Miyamoto and Takashi Tezuka."

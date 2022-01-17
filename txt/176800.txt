@@ -1,0 +1,1 @@
+At startup, device drivers opened this file and assigned it a separate letter.

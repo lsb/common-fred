@@ -1,0 +1,1 @@
+"Sometimes tensor densities with a negative weight ""W"" are called tensor capacity."

@@ -1,0 +1,1 @@
+Increased right-rudder pressure is still required on takeoff to overcome engine torque and P-factor.

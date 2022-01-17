@@ -1,0 +1,1 @@
+"""Fever"" received generally favourable reviews from music critics."

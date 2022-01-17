@@ -1,0 +1,1 @@
+Every well-founded set-like relation can be embedded into a well-founded set-like extensional relation.

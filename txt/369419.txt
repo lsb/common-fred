@@ -1,0 +1,1 @@
+Internet Explorer for Mac previously used Trident.

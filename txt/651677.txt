@@ -1,0 +1,1 @@
+The process may then be iterated if the user wishes to refine the query.

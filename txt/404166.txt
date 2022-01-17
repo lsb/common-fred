@@ -1,0 +1,1 @@
+It sets the flush interval when dirty pages are written to disk.

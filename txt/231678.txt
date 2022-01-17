@@ -1,0 +1,1 @@
+Each schema defines its own target namespace.

@@ -1,0 +1,1 @@
+If all the items revealed are the same, a prize has been won.

@@ -1,0 +1,1 @@
+Sphenic numbers always have exactly eight divisors.

@@ -1,0 +1,1 @@
+Explicit assignments will not cause an exception even for signaling NaNs.

@@ -1,0 +1,1 @@
+For example, the missing not outs prevent computation of batting averages.

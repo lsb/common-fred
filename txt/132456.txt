@@ -1,0 +1,1 @@
+A nowhere dense set is always dense in itself.

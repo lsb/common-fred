@@ -1,0 +1,1 @@
+Dependencies between species vary so much as to be difficult to express abstractly.

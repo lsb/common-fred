@@ -1,0 +1,1 @@
+The mass and the base are assumed to interact via friction.

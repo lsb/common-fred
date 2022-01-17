@@ -1,0 +1,1 @@
+"A logic for which Tarski's method is applicable, is called ""algebraizable""."

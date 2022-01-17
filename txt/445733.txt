@@ -1,0 +1,1 @@
+Many tools were left in the wrong class for the sake of keyboard-shortcut conveniences.

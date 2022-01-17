@@ -1,0 +1,1 @@
+In particular star-free languages are a proper decidable subclass of regular languages.

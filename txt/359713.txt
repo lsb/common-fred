@@ -1,0 +1,1 @@
+In real numbers, the cube function preserves the order: larger numbers have larger cubes.

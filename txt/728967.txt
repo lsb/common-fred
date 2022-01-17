@@ -1,0 +1,1 @@
+This example illustrates how a botnet is created and used for malicious gain.

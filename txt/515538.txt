@@ -1,0 +1,1 @@
+Servers may access storage from multiple storage devices over the network as well.

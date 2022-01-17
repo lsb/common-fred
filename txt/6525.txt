@@ -1,0 +1,1 @@
+"""Scarecrow"" is dedicated to the memory of Matthew Shepard, and his family and friends."

@@ -1,0 +1,1 @@
+Split teams level on points using the results from the matches between them.

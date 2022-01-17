@@ -1,0 +1,1 @@
+"Visually, the ratio determines the number of ""lobes"" of the figure."

@@ -1,0 +1,1 @@
+A rate gyro unit determined yaw error by sensing orbital rate.

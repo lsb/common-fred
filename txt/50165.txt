@@ -1,0 +1,1 @@
+"In some scenarios it functions as a type of dead man's switch."

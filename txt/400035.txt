@@ -1,0 +1,1 @@
+It is, for instance, not a vector space with well-defined linear combinations of rays.

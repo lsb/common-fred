@@ -1,0 +1,1 @@
+There is no easy Boolean operation to change these cases to the proper case.

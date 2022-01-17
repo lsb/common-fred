@@ -1,0 +1,1 @@
+In instant-runoff voting, voters rank their choices.

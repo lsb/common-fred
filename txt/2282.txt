@@ -1,0 +1,1 @@
+"""F"" is called the power spectral distribution function and is a statistical distribution function."

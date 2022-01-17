@@ -1,0 +1,1 @@
+Chow coordinates can generate the smallest field of definition of a divisor.

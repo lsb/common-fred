@@ -1,0 +1,1 @@
+"In other words, zero-knowledge proofs are probabilistic ""proofs"" rather than deterministic proofs."

@@ -1,0 +1,1 @@
+"A loss of balance is interpreted as a positive Romberg's test."

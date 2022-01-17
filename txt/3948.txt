@@ -1,0 +1,1 @@
+"""Italics"" indicate a franchise that has folded."

@@ -1,0 +1,1 @@
+With this feedback loop the player can create a continuous string vibration.

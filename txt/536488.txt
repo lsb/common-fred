@@ -1,0 +1,1 @@
+So companies simply built chips with known-bad masks, and threw away broken chips.

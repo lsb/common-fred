@@ -1,0 +1,1 @@
+These allow some contradictory statements to be proved without affecting other proofs.

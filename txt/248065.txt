@@ -1,0 +1,1 @@
+For example, one could use gradient descent or the conjugate gradient method.

@@ -1,0 +1,1 @@
+Instead, an oracle is invoked to evaluate an item by its index.

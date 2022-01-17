@@ -1,0 +1,1 @@
+It plays the baseball version of Strat-O-Matic.

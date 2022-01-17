@@ -1,0 +1,1 @@
+"Code which purposely crashed the judges' machines was discouraged."

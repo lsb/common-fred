@@ -1,0 +1,1 @@
+Roll rate causes incidence at the fin, which generates a corresponding side force.

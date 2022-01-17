@@ -1,0 +1,1 @@
+Grubbers can bounce in a straight line, or curve to the left or right.

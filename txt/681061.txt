@@ -1,0 +1,1 @@
+The unideal components of the transformer cause a change in voltage when current flows.

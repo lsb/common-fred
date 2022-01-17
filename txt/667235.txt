@@ -1,0 +1,1 @@
+The source markup of the page defines the text color as white.

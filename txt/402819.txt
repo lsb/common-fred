@@ -1,0 +1,1 @@
+It provides a graphical user interface to the Clam AntiVirus engine.

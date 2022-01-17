@@ -1,0 +1,1 @@
+Amplifiers are unavoidably non-linear.

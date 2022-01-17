@@ -1,0 +1,1 @@
+"""Translated from the corresponding article in the Japanese Wikipedia"""

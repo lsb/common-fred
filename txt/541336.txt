@@ -1,0 +1,1 @@
+Some sites such as GitHub redirect to an about page.

@@ -1,0 +1,1 @@
+Camera operation was totally dependent upon receipt of the proper command structure from earth.

@@ -1,0 +1,1 @@
+"""Kubuntu"" is a registered trademark held by Canonical."

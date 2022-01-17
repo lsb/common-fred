@@ -1,0 +1,1 @@
+Multiple choice items consist of a stem, the correct answer, keyed alternative, and distractors.

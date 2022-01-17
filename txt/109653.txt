@@ -1,0 +1,1 @@
+"Thin provisioning is called ""sparse volumes"" in some contexts."

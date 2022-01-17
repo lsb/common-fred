@@ -1,0 +1,1 @@
+To avoid constant construction, utilities are buried in common utility ducts under the town.

@@ -1,0 +1,1 @@
+"""Santiago"" is the local Galician evolution of Vulgar Latin ""Sanctus Iacobus"" ""Saint James""."

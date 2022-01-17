@@ -1,0 +1,1 @@
+After the race ends, the game returns to the main menu.

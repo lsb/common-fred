@@ -1,0 +1,1 @@
+Complex vector bundles can be viewed as real vector bundles with additional structure.

@@ -1,0 +1,1 @@
+A domain wall is the boundary between two neighboring domains.

@@ -1,0 +1,1 @@
+Autotools is designed to address this problem more manageably.

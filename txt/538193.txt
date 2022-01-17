@@ -1,0 +1,1 @@
+Some biological processes occur-or can be simulated-by cellular automata.

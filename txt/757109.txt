@@ -1,0 +1,1 @@
+Truncation of positive real numbers can be done using the floor function.

@@ -1,0 +1,1 @@
+A mode error can be a common cause of an automation surprise.

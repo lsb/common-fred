@@ -1,0 +1,1 @@
+Many bench top power supplies have a crowbar circuit to protect the connected equipment.

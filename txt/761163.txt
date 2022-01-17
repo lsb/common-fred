@@ -1,0 +1,1 @@
+Typically in room ambient conditions the accuracy is limited to the sensor linearity specification.

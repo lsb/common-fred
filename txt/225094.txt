@@ -1,0 +1,1 @@
+Doubles are implemented in many programming languages in different ways such as the following.

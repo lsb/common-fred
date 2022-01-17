@@ -1,0 +1,1 @@
+Negative zero has the sign bit set to one.

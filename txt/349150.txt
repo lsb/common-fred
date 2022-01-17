@@ -1,0 +1,1 @@
+If adjacent to another pawn, the pawn may jump over that pawn.

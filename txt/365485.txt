@@ -1,0 +1,1 @@
+In this new collection, every subcollection of sets will have nonempty intersection.

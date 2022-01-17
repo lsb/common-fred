@@ -1,0 +1,1 @@
+Cross-cutting concerns potentially cross-cut each other, requiring some resolution mechanism, such as ordering.

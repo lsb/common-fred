@@ -1,0 +1,1 @@
+The external keypad can autolock only if an unlocking code is set.

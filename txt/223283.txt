@@ -1,0 +1,1 @@
+District numbers are represented by the map fill colors.

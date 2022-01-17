@@ -1,0 +1,1 @@
+"""Solaris"" sponsors an annual literary contest, the Prix Solaris, intended to encourage new authors."

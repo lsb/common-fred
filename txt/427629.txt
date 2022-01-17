@@ -1,0 +1,1 @@
+Kleptography encompasses secure and covert communications through cryptosystems and cryptographic protocols.

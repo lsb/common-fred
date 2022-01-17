@@ -1,0 +1,1 @@
+The so-constructed codebook also forms the so-called Grassmannian manifold.

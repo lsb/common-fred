@@ -1,0 +1,1 @@
+Attempting to do so will result in an incomplete erasure.

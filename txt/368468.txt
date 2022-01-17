@@ -1,0 +1,1 @@
+Instead of observing the internals of arbitration processes of Actor computations, we await outcomes.

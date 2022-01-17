@@ -1,0 +1,1 @@
+Uncommon architecture which is generally used for fault tolerance.

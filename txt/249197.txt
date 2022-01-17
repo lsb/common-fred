@@ -1,0 +1,1 @@
+For photon energies below the ionization threshold, the photoionization cross-section is near zero.

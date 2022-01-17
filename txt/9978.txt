@@ -1,0 +1,1 @@
+"A ""memory protect"" switch could be used to disable memory alteration."

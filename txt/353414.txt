@@ -1,0 +1,1 @@
+In a one-player game, the player can choose to be either Chip or Dale.

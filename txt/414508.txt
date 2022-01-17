@@ -1,0 +1,1 @@
+It will also contain other tables representing relationships between these first class items.

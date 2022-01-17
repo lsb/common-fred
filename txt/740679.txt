@@ -1,0 +1,1 @@
+This significantly improved both the compression efficiency and visual quality of the resulting video.

@@ -1,0 +1,1 @@
+For encoding, another open-source library exists as well, provided by VisualOn.

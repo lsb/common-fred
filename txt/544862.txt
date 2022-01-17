@@ -1,0 +1,1 @@
+Spike sorting refers to the process of assigning spikes to different neurons.

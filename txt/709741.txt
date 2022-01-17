@@ -1,0 +1,1 @@
+These wheeled devices introduce an additional limitation, however, since they cannot negotiate stairs.

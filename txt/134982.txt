@@ -1,0 +1,1 @@
+A screened host is a dual-homed host that is dedicated to running the firewall.

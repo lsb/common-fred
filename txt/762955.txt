@@ -1,0 +1,1 @@
+Unix-like operating systems use the mount command to manipulate mount points for volumes.

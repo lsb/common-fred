@@ -1,0 +1,1 @@
+A naive approach to anti-aliasing the line would take an extremely long time.

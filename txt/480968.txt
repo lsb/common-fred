@@ -1,0 +1,1 @@
+Open loop gain, in some amplifiers, can be exceedingly high.

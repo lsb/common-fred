@@ -1,0 +1,1 @@
+"""Kotodama"" is a central concept in Japanese mythology, Shinto, and Kokugaku."

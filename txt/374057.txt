@@ -1,0 +1,1 @@
+It can perform search and replace on multiple files.

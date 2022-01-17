@@ -1,0 +1,1 @@
+A represents the substrate that will be oxidized, while B is the hydride acceptor.

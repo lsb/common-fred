@@ -1,0 +1,1 @@
+Developers can define both the appearance of the interfaces and their interactions.

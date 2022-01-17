@@ -1,0 +1,1 @@
+In curvilinear coordinates, such as spherical or cylindrical coordinates, one obtains alternative expressions.

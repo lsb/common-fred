@@ -1,0 +1,1 @@
+"""Nintendo Power"" found the game's menus hard to navigate."

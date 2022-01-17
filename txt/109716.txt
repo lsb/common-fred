@@ -1,0 +1,1 @@
+"This ""fact-based"" approach facilitates modeling, transforming, and querying information from any domain."

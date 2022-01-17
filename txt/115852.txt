@@ -1,0 +1,1 @@
+"Using the figure, the output resistance is determined using Kirchhoff's laws."

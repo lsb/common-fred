@@ -1,0 +1,1 @@
+Write-ahead logging is a more popular solution that uses in-place updates.

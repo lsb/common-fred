@@ -1,0 +1,1 @@
+In addition to animating models, Animator allows you to set up rendering settings.

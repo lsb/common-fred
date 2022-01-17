@@ -1,0 +1,1 @@
+Another way to think about tangent vectors is as directional derivatives.

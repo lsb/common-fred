@@ -1,0 +1,1 @@
+A D cell may be either rechargeable or non-rechargeable.

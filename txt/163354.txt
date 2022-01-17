@@ -1,0 +1,1 @@
+An orthonormal set which forms a basis is called an orthonormal basis.

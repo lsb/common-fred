@@ -1,0 +1,1 @@
+It is suitable for both lossless and lossy compression.

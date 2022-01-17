@@ -1,0 +1,1 @@
+The Hub and spoke model would work better in this case.

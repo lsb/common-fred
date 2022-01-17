@@ -1,0 +1,1 @@
+Sometimes billing time is broken down to every third of a minute.

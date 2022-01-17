@@ -1,0 +1,1 @@
+Both the primal and the dual problems make use of the same matrix.

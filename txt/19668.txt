@@ -1,0 +1,1 @@
+"Bernstein's conditions do not allow memory to be shared between different processes."

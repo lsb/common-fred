@@ -1,0 +1,1 @@
+This awards the player a score of one for the hole.

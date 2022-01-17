@@ -1,0 +1,1 @@
+It advertises virtual links connected via itself to all of its actual network interfaces.

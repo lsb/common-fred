@@ -1,0 +1,1 @@
+"The first term goes to ""s"", which cancels with the third term."

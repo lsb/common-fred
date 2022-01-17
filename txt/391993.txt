@@ -1,0 +1,1 @@
+It is not possible to implement computed jumps or function pointers.

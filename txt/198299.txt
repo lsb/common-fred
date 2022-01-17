@@ -1,0 +1,1 @@
+But the elasticity of the spring varies linearly with temperature.

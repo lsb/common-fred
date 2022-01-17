@@ -1,0 +1,1 @@
+The air volume delivered by the centrifugal fan is not affected by density.

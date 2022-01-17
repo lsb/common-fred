@@ -1,0 +1,1 @@
+"""Babads"" as a genre belong to the traditional literature."

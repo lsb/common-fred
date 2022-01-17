@@ -1,0 +1,1 @@
+Local storage can be disabled entirely or on a site-by-site basis.

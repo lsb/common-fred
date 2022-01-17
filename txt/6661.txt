@@ -1,0 +1,1 @@
+"""Sennin"" is a common Japanese character name."

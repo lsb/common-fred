@@ -1,0 +1,1 @@
+This is the core conception of probability in the frequentist interpretation.

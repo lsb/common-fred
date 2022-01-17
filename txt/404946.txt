@@ -1,0 +1,1 @@
+It supports a full undo and redo system as well as search and replace.

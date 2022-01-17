@@ -1,0 +1,1 @@
+Factories may be supplied parts from elsewhere or make them from raw materials.

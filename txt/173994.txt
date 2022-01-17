@@ -1,0 +1,1 @@
+As the player destroys enemies, their debris fall off the screen below.

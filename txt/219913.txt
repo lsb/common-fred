@@ -1,0 +1,1 @@
+Depending on the result of the third lane it can be determined whether the interaction existed or not.

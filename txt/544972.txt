@@ -1,0 +1,1 @@
+Splitting the observations either side of the median gives two groups of four observations.

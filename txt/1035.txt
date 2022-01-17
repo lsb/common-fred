@@ -1,0 +1,1 @@
+"""Broken"" colours such as pinto are not allowed."

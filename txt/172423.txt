@@ -1,0 +1,1 @@
+As an example, Twitter is using Lucene for its real time search.

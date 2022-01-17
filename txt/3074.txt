@@ -1,0 +1,1 @@
+"""Hermes"" is a stony S-type asteroid, as reported by Andy Rivkin and Richard Binzel."

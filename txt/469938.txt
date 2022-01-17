@@ -1,0 +1,1 @@
+Not all faults can be analyzed using the stuck-at fault model.

@@ -1,0 +1,1 @@
+The tap positions defined by the connection polynomial are marked with blue headings.

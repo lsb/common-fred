@@ -1,0 +1,1 @@
+This limits the kind of musical lines the right hand can play.

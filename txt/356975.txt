@@ -1,0 +1,1 @@
+In geometric group theory, groups are studied by their actions on metric spaces.

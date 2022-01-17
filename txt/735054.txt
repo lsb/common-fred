@@ -1,0 +1,1 @@
+This learning method can be used on web-search ranking data sets.

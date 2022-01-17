@@ -1,0 +1,1 @@
+They are designed to overcome the inherent lack of information within a bitmap description.

@@ -1,0 +1,1 @@
+"The name ""dsniff"" refers both to the package as well as an included tool."

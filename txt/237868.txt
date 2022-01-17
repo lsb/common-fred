@@ -1,0 +1,1 @@
+Even so, voltage at idle was too low to be useful.

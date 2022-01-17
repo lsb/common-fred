@@ -1,0 +1,1 @@
+In album-gain mode, when album-gain data is missing, players should use track-gain data instead.

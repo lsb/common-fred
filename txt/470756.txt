@@ -1,0 +1,1 @@
+Note that with anagenesis the lineage in a phylogenetic tree does not split.

@@ -1,0 +1,1 @@
+The code may be source code, assembly code or some other sequence of instructions.

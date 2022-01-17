@@ -1,0 +1,1 @@
+Its syntax is very close to Python.

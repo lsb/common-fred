@@ -1,0 +1,1 @@
+It may also carry control information for simple types of text displays.

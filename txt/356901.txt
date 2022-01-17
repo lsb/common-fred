@@ -1,0 +1,1 @@
+In general, payload is the data that is carried on behalf of an application.

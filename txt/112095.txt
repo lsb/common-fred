@@ -1,0 +1,1 @@
+"This says simply that ""M"" is a Hopfian module."

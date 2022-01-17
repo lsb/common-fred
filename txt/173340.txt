@@ -1,0 +1,1 @@
+As seen in the musical instrument classification article, categorizing instruments can be difficult.

@@ -1,0 +1,1 @@
+This is a generalization of the procedure for building quantum mechanics from classical mechanics.

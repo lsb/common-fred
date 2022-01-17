@@ -1,0 +1,1 @@
+Maps are cached on the phone memory or memorycard.

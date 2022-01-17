@@ -1,0 +1,1 @@
+Bandlimited channels are present in both wired and wireless communications.

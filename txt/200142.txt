@@ -1,0 +1,1 @@
+By this method the elasticity theory is used to model an inelastic material.

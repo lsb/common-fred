@@ -1,0 +1,1 @@
+When comparing systems or devices for linearity, a higher intercept point is better.

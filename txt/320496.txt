@@ -1,0 +1,1 @@
+Higher order derivatives can be similarly defined, leading to Newtonlike methods.

@@ -1,0 +1,1 @@
+Nines are used in a similar manner to describe computer system availability.

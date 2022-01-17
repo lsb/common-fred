@@ -1,0 +1,1 @@
+This simple algorithm was discovered independently by Fanica Gavril and Mihalis Yannakakis.

@@ -1,0 +1,1 @@
+Other functions are available in an external standard library.

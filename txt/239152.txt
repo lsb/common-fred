@@ -1,0 +1,1 @@
+Every transaction flows from a journal to one or more ledgers.

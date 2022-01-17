@@ -1,0 +1,1 @@
+"Such ""products"" are natural starting points in induction proofs, as well as in algorithms."

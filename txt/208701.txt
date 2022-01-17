@@ -1,0 +1,1 @@
+Clues continue to be provided even after a player has secretly found the idol.

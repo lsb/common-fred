@@ -1,0 +1,1 @@
+In this system the increment operations are linearized at the write step.

@@ -1,0 +1,1 @@
+"""Sedgefield Harriers"" are a local running and athletics club based at Sedgefield Community College."

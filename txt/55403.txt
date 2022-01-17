@@ -1,0 +1,1 @@
+"It uses motion sensors to detect the user's movements."

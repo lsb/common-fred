@@ -1,0 +1,1 @@
+Nonetheless, the Alexander polynomial can fail to detect some symmetries, such as strong invertibility.

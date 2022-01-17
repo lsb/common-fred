@@ -1,0 +1,1 @@
+"""Ceci"" and ""cela"" correspond roughly to English ""this"" and ""that,"" respectively."

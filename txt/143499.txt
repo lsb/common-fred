@@ -1,0 +1,1 @@
+Additionally, Btrfs also supports the creation of snapshots of subvolumes.

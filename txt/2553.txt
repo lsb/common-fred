@@ -1,0 +1,1 @@
+"""Future Cop"" was originally developed as an installment of the ""Strike"" series."

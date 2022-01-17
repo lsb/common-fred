@@ -1,0 +1,1 @@
+Friction is not a property of the material, it is a response of the integral system.

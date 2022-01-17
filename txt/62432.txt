@@ -1,0 +1,1 @@
+"Logged in users can also vote ""for"" or ""against"" a particular idea."

@@ -1,0 +1,1 @@
+Early versions had no facility for on-line storage of programs or data.

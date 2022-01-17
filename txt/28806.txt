@@ -1,0 +1,1 @@
+"Errors are documented in a special mailing list, or the project's Trac tool."

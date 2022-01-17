@@ -1,0 +1,1 @@
+The player controls a llama which can move on a single-screen playfield.

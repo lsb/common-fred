@@ -1,0 +1,1 @@
+"Let ""s"" denote the number of ""k""-sets in ""S""."

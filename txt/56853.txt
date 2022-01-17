@@ -1,0 +1,1 @@
+"It will have ""some"" value, but not a predictable one."

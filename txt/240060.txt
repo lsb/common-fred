@@ -1,0 +1,1 @@
+Exceptions should be generalized and cover numerous errors that arise.

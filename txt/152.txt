@@ -1,0 +1,1 @@
+"""Abuse of notation"" should be contrasted with ""misuse"" of notation, which should be avoided."

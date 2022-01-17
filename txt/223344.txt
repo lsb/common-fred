@@ -1,0 +1,1 @@
+Divide-and-conquer algorithms are naturally implemented as recursive procedures.

@@ -1,0 +1,1 @@
+This allows operating systems to use these segments for special purposes.

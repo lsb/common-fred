@@ -1,0 +1,1 @@
+The octal signals are then detected by the light sensors.

@@ -1,0 +1,1 @@
+Such a relocation would render the translator unnecessary.

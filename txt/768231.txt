@@ -1,0 +1,1 @@
+Volume power density is sometimes an important consideration where space is constrained.

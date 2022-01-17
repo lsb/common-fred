@@ -1,0 +1,1 @@
+"""Archaeoglobus"" species utilize their environment by acting as scavengers with many potential carbon sources."

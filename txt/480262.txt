@@ -1,0 +1,1 @@
+Only one antenna is active at a time.

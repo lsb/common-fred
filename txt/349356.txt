@@ -1,0 +1,1 @@
+If it differs, the conflict resolution algorithm is invoked.

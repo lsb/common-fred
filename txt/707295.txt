@@ -1,0 +1,1 @@
+These particles scatter the light, reflecting some of it to the ground.

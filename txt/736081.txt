@@ -1,0 +1,1 @@
+This map is inverted; south is up and north is down.

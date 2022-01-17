@@ -1,0 +1,1 @@
+Chart recorders are built in three primary formats.

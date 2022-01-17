@@ -1,0 +1,1 @@
+This gated compound is guarded at all times.

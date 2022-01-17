@@ -1,0 +1,1 @@
+This stage can often be found alongside source synchronous logic.

@@ -1,0 +1,1 @@
+The analogue in category theory is the Yoneda lemma.

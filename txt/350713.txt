@@ -1,0 +1,1 @@
+Immunization starts with the assumption that the yield curve is flat.

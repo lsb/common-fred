@@ -1,0 +1,1 @@
+"As a result, after every two ""border crossings"" the moving point goes outside."

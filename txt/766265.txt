@@ -1,0 +1,1 @@
+Varshamov proved this bound by using the probabilistic method for linear codes.

@@ -1,0 +1,1 @@
+A primary key uniquely specifies a tuple within a table.

@@ -1,0 +1,1 @@
+IntelliSense continues to show parameters, highlighting the pertinent one, as the user types.

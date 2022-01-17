@@ -1,0 +1,1 @@
+"""Maxim"", ""Stuff"" and ""Blender"" are registered trademarks of Felix Dennis."

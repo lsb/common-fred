@@ -1,0 +1,1 @@
+Assemblers were the first language tools to bootstrap themselves.

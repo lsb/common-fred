@@ -1,0 +1,1 @@
+"""E""-enolates give rise to anti products, whereas ""Z""-enolates give rise to syn products."

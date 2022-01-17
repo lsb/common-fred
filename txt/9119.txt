@@ -1,0 +1,1 @@
+"""Why, it's true,"" returns one of the policemen."

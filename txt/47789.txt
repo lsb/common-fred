@@ -1,0 +1,1 @@
+"If it is passed to the weak-side guard it initiates the ""pinch post"" option."

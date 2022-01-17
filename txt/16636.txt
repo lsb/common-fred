@@ -1,0 +1,1 @@
+"Aperture grille only has horizontal 'dot pitch', or otherwise known as 'stripe pitch'."

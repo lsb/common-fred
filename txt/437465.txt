@@ -1,0 +1,1 @@
+Local requirements may be enforced at checkpoints or by other type of inspection.

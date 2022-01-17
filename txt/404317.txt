@@ -1,0 +1,1 @@
+It shows that separability does not inherit to closed subspaces.

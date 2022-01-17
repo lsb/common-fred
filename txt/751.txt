@@ -1,0 +1,1 @@
+"""Battle dimension"" defines the primary mission area for the operational object within the battlespace."

@@ -1,0 +1,1 @@
+The building is now shown as a library on the Ordnance Survey map.

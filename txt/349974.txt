@@ -1,0 +1,1 @@
+If there are no unoccupied spaces ahead, the pirate moves to the sloop.

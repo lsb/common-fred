@@ -1,0 +1,1 @@
+The database, where all managed objects are stored, is called Management Information Base.

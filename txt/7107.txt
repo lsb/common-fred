@@ -1,0 +1,1 @@
+"""Stolniks"" could simultaneously serve in the foreign office or in the army."

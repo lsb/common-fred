@@ -1,0 +1,1 @@
+It could also record how many warnings are logged per day.

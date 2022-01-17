@@ -1,0 +1,1 @@
+Larger routers now have variable speeds and larger bits require slower speed.

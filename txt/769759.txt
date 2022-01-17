@@ -1,0 +1,1 @@
+Wasted spark systems still require a timing signal from the crankshaft.

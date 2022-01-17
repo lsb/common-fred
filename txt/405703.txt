@@ -1,0 +1,1 @@
+It uses a convolutional code for error detection and correction.

@@ -1,0 +1,1 @@
+For example with sparsity, overlap of nonzero coefficients across tasks indicates commonality.

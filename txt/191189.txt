@@ -1,0 +1,1 @@
+Both dice must be tossed in one throw.

@@ -1,0 +1,1 @@
+In each case, a single bridge may have multiple candidates for its root port.

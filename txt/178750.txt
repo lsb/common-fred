@@ -1,0 +1,1 @@
+At this point, the branch and bound part of the algorithm is started.

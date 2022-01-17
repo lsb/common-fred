@@ -1,0 +1,1 @@
+After a collision, the master retries the required communication.

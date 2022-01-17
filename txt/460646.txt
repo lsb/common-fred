@@ -1,0 +1,1 @@
+Multiple switches can be bridged together in a cascaded star topology.

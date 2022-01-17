@@ -1,0 +1,1 @@
+It separates the wavelengths using passive optical components such as bandpass filters and prisms.

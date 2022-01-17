@@ -1,0 +1,1 @@
+Im privaten Modus legt der Webbrowser keine Chronik an.

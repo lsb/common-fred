@@ -1,0 +1,1 @@
+One controlled the azimuth, another the elevation, and the third the range.

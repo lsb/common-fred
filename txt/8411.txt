@@ -1,0 +1,1 @@
+"""Time"" magazine ran a picture of John Stennis that read: ""Technical Assistance Needed."

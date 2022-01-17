@@ -1,0 +1,1 @@
+During coasting the engine works as a generator producing electricity to charge the batteries.

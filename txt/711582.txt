@@ -1,0 +1,1 @@
+They are convenient theoretical objects that trace paths across graphical surfaces.

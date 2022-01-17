@@ -1,0 +1,1 @@
+This version also includes Character voices in both English and Japanese.

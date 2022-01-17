@@ -1,0 +1,1 @@
+This cable shared graphics and synchronization information between the cards.

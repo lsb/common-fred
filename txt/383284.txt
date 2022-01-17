@@ -1,0 +1,1 @@
+It is aimed for Linux and other Unix-like operating systems.

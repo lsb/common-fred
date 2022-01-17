@@ -1,0 +1,1 @@
+The conformal mappings of the surface correspond to orientation-preserving automorphisms of the hyperbolic plane.

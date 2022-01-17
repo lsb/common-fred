@@ -1,0 +1,1 @@
+The row whose total is closest to thirty is the winning row.

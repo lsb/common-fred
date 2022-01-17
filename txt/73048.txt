@@ -1,0 +1,1 @@
+"Reclaimers are named according to this type, such as ""Bridge reclaimer""."

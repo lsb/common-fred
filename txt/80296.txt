@@ -1,0 +1,1 @@
+"Spectators become so called ""spect-actors"", whereas the replaced actor steps back."

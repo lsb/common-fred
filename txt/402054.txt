@@ -1,0 +1,1 @@
+It only requires blending the fields made from the frames back into full frames.

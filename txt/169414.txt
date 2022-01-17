@@ -1,0 +1,1 @@
+Arg max may be the empty set, a singleton, or contain multiple elements.

@@ -1,0 +1,1 @@
+"Its ports are like Gentoo's ebuilds, and the same caveats apply."

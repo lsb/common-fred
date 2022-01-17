@@ -1,0 +1,1 @@
+Hungarian and Indonesian installer translations and language packs were added.

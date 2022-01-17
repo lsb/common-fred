@@ -1,0 +1,1 @@
+Series regulators are the more common form; they are more efficient than shunt designs.

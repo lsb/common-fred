@@ -1,0 +1,1 @@
+Plugin technology enables developers to extend the system.

@@ -1,0 +1,1 @@
+Planned status cannot be shown if the symbol is an unframed filled icon.

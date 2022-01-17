@@ -1,0 +1,1 @@
+The cabling layout used to link devices is the physical topology of the network.

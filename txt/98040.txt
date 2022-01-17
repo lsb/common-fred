@@ -1,0 +1,1 @@
+"The output voltage falls to the cutoff voltage when the battery becomes ""discharged""."

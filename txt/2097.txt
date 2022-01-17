@@ -1,0 +1,1 @@
+"""Elephant Parts"" won the first Grammy in the Music Video category."

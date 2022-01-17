@@ -1,0 +1,1 @@
+This allows each kind of database to focus best on its relative strength.

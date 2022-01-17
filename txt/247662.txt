@@ -1,0 +1,1 @@
+For connection-oriented communications, communication parties usually have different roles.

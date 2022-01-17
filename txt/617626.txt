@@ -1,0 +1,1 @@
+The fundamental similarity though is the start and the commit or rollback.

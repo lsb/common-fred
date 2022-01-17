@@ -1,0 +1,1 @@
+"""Salem"" is a museum ship in Quincy, Massachusetts."

@@ -1,0 +1,1 @@
+R is never chosen in Nash equilibrium for the parameter values considered.

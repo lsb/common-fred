@@ -1,0 +1,1 @@
+It is not possible to recover the overwritten portion of the program.

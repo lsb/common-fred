@@ -1,0 +1,1 @@
+Diff is a file comparison program, which is mainly used for text files.

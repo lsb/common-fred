@@ -1,0 +1,1 @@
+"Specifically, the term ""command"" is used in imperative computer languages."

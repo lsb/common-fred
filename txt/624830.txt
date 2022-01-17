@@ -1,0 +1,1 @@
+The internal code can be used as an input method for inputting Han characters.

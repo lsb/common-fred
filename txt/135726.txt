@@ -1,0 +1,1 @@
+A similar problem exists for singly linked lists.

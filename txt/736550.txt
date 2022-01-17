@@ -1,0 +1,1 @@
+This measure is the Richardson number.

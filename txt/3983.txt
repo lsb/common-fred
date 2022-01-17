@@ -1,0 +1,1 @@
+"""Jangdan"" is also used with the appearances of certain characters."

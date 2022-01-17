@@ -1,0 +1,1 @@
+Many objects onscreen can be shot including boxes, obstacles and blocks.

@@ -1,0 +1,1 @@
+It relates forces with velocities acting on a mechanical system.

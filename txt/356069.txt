@@ -1,0 +1,1 @@
+In dealing with such a derivative, both magnitude and orientation may depend upon time.

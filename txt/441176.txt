@@ -1,0 +1,1 @@
+Make is typically used to build executable programs and libraries from source code.

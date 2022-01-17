@@ -1,0 +1,1 @@
+These variables can be pushed to or popped from the stack.

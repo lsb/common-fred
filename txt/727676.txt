@@ -1,0 +1,1 @@
+This creates a natural interface with the musician without need for coding musical algorithms.

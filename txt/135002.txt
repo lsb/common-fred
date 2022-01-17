@@ -1,0 +1,1 @@
+A search is specified by input fields such as: texts, date and popup lists.

@@ -1,0 +1,1 @@
+Phanfare sites were optionally protected with site passwords.

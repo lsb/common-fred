@@ -1,0 +1,1 @@
+A function defined on an interval of the integers is usually called a sequence.

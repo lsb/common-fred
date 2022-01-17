@@ -1,0 +1,1 @@
+"This head is used by 'defenders' and 'attackers'."

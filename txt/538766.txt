@@ -1,0 +1,1 @@
+Some editors run on additional operating systems that are not listed.

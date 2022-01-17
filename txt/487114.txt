@@ -1,0 +1,1 @@
+Packages can also contain global variables which can be used throughout the package.

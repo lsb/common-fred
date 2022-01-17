@@ -1,0 +1,1 @@
+"""Key: P–games played, W–games won, D–games drawn; L–games lost, %–win percentage"""

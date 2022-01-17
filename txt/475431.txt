@@ -1,0 +1,1 @@
+On most Linux distributions, pdftotext is included as part of the poppler-utils package.

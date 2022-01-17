@@ -1,0 +1,1 @@
+Fixedsys fonts of different code pages have different point sizes.

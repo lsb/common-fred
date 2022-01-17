@@ -1,0 +1,1 @@
+This implies that the throughput often excludes data link layer protocol overhead.

@@ -1,0 +1,1 @@
+Shotgun speedloaders are slightly more complex, since shotgun magazines load from the breech.

@@ -1,0 +1,1 @@
+"""Speak to the hand that wrote all,"" said the sun."

@@ -1,0 +1,1 @@
+Spread spectrum systems rely on excess signal to noise ratios for sharing of spectrum.

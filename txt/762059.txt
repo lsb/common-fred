@@ -1,0 +1,1 @@
+Under such terminology a non-zero ring with no non-trivial two-sided ideals is called quasi-simple.

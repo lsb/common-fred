@@ -1,0 +1,1 @@
+In most designs, only one of these causes is manipulated at a time.

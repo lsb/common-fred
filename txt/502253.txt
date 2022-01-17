@@ -1,0 +1,1 @@
+Rather then use preset calculations to tackle a situation, behavior-based robotics relies on adaptability.

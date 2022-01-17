@@ -1,0 +1,1 @@
+"In population ecology, the argument ""t"" often represents spatial displacement in a dispersal kernel."

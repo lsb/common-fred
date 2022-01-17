@@ -1,0 +1,1 @@
+Emulated Cirrus Logic graphic cards are used in emulators.

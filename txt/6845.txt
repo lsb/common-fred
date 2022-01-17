@@ -1,0 +1,1 @@
+"""Slavers"" was written by Sean K. Reynolds and Chris Pramas."

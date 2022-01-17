@@ -1,0 +1,1 @@
+These types describe the initial landmark of the ball carrier.

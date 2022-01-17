@@ -1,0 +1,1 @@
+Some systems handle denormal values in hardware, in the same way as normal values.

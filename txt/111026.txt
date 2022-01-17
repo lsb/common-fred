@@ -1,0 +1,1 @@
+"This is in contrast to a rotary encoder-based device or ""spinner""."

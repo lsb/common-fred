@@ -1,0 +1,1 @@
+The picture player uses different transitions or the Ken Burns effect between each picture.

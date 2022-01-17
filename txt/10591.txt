@@ -1,0 +1,1 @@
+"A generalization of the secant method in higher dimensions is Broyden's method."

@@ -1,0 +1,1 @@
+"The last 'l' or 'r' overrides the previous switches."

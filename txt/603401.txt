@@ -1,0 +1,1 @@
+The description assumes that the diver is trimmed horizontal and intents to swim horizontally.

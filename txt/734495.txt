@@ -1,0 +1,1 @@
+This is used to implement effects such as per-pixel transparency.

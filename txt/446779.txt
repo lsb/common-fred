@@ -1,0 +1,1 @@
+Marking end distortion is the continuation of marking pulses past the proper time.

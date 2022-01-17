@@ -1,0 +1,1 @@
+This may give a false negative result when testing for the infection.

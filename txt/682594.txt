@@ -1,0 +1,1 @@
+The vector potential admitted by a solenoidal field is not unique.

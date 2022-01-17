@@ -1,0 +1,1 @@
+"""Cosmic Conflict"" is a first person space shooter."

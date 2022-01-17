@@ -1,0 +1,1 @@
+Modules are the basic building blocks of a SystemC design hierarchy.

@@ -1,0 +1,1 @@
+If a product has drug properties, it must be approved as a drug.

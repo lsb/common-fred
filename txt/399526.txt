@@ -1,0 +1,1 @@
+It is usual to assume that the zeroth-order state to be perturbed is non-degenerate.

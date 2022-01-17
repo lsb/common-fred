@@ -1,0 +1,1 @@
+It generally refers to protocols higher than the physical layer.

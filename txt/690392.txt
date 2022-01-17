@@ -1,0 +1,1 @@
+Then verification can clearly be done in polynomial time by a deterministic Turing machine.

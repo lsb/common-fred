@@ -1,0 +1,1 @@
+This network deforms the membrane enough to bud a vesicle off.

@@ -1,0 +1,1 @@
+There are many different element codes defined to cover a wide range of devices.

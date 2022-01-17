@@ -1,0 +1,1 @@
+"""Strionautilus"" is compressed, involute, with fine longitudinal striations."

@@ -1,0 +1,1 @@
+A netting engine consolidates all of the pending payments into fewer single transactions.

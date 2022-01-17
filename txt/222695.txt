@@ -1,0 +1,1 @@
+Diodes will prevent currents in unintended directions.

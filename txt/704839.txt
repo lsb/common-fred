@@ -1,0 +1,1 @@
+These connections are hot-pluggable and are usually implemented with optical fiber.

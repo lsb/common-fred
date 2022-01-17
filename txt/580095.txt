@@ -1,0 +1,1 @@
+The alignment ensures constant angular velocity at all joint angles.

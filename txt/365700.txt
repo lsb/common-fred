@@ -1,0 +1,1 @@
+In this situation, signal-to-noise ratio and relative dynamics are altered.

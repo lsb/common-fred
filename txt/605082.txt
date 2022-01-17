@@ -1,0 +1,1 @@
+The diviner must attempt to divide equally, or the algorithm is lost.

@@ -1,0 +1,1 @@
+This will pick up diffusion impairments, for instance in pulmonary fibrosis.

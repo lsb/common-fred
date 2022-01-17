@@ -1,0 +1,1 @@
+Load above those limits will crack the processor die and make it unusable.

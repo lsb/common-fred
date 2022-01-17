@@ -1,0 +1,1 @@
+Two loops can be multiplied by concatenation.

@@ -1,0 +1,1 @@
+They use tags in memory to facilitate parallelism.

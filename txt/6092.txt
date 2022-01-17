@@ -1,0 +1,1 @@
+"""Quark"" was created by Buck Henry, co-creator of the spy spoof ""Get Smart""."

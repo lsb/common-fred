@@ -1,0 +1,1 @@
+Object-oriented languages like Smalltalk and Ruby have code blocks, whereas Eiffel has agents.

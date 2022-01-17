@@ -1,0 +1,1 @@
+Longitudinal and directional control was achieved using cyclic pitch and asymmetric rotor lift.

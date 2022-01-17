@@ -1,0 +1,1 @@
+"""Room"" magazine has always been operated by an editorial collective."

@@ -1,0 +1,1 @@
+According to Graham the method lacks notion of inheritance.

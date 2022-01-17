@@ -1,0 +1,1 @@
+Syntax highlighting also helps programmers find errors in their program.

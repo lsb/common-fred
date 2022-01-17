@@ -1,0 +1,1 @@
+Acquisition of speech is often slow and incomplete.

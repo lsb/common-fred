@@ -1,0 +1,1 @@
+The classical Kronecker approximation theorem is formulated as follows.

@@ -1,0 +1,1 @@
+Photo manipulation includes automatic thumbnails, resizing, rotation, and flipping, among other things.

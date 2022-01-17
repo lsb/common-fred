@@ -1,0 +1,1 @@
+Sometimes it is too cumbersome solving the differential equation analytically.

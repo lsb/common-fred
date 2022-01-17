@@ -1,0 +1,1 @@
+The small interior floor has a lower albedo than the surrounding walls.

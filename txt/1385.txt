@@ -1,0 +1,1 @@
+"""Chopper"" was received with positive reviews."

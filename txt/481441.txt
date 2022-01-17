@@ -1,0 +1,1 @@
+Oracle supplies the Java platform for use with Java.

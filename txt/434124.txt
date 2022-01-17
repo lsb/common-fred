@@ -1,0 +1,1 @@
+Leveraged floaters also require a floor, since the coupon rate can never be negative.

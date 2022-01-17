@@ -1,0 +1,1 @@
+This idea immediately generalizes to higher-dimensional Euclidean spaces if line is replaced by hyperplane.

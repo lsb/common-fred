@@ -1,0 +1,1 @@
+Note also that charge duration varies widely between playback and recording modes.

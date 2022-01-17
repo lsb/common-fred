@@ -1,0 +1,1 @@
+The sources could recursively reference additional sources, providing wide flexibility in input parsing.

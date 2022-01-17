@@ -1,0 +1,1 @@
+When you find a bug in software, please report it.

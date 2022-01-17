@@ -1,0 +1,1 @@
+Some weapons can fire multiple shots at different heights and positions.

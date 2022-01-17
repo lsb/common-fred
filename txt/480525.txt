@@ -1,0 +1,1 @@
+Only the best five race results could be retained by each driver.

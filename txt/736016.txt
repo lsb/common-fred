@@ -1,0 +1,1 @@
+This makes the remote Ubuntu windows look like native Windows applications, each with a named pinnable taskbar button.

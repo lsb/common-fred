@@ -1,0 +1,1 @@
+Information is shared between nodes through the interconnect-the virtual private network.

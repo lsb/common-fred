@@ -1,0 +1,1 @@
+Statements are made up of symbols separated by delimiters.

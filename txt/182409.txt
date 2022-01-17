@@ -1,0 +1,1 @@
+Basically, the configuration consists of two sensors observing the item.

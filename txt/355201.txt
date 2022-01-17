@@ -1,0 +1,1 @@
+In analogue modulation, the change is applied continuously in response to the data signal.

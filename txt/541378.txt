@@ -1,0 +1,1 @@
+Some software libraries start with one license and later switch into another.

@@ -1,0 +1,1 @@
+For analyzing a control system, the Laplace transforms of the above signals are useful.

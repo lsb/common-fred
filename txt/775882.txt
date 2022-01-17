@@ -1,0 +1,1 @@
+When all axes of the index ellipsoid are equal, the material is isotropic.

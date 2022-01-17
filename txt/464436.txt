@@ -1,0 +1,1 @@
+NetSurf provides features including tabbed browsing, bookmarks and page thumbnailing.

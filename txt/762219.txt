@@ -1,0 +1,1 @@
+Under this system, item prices are determined based on their demand the previous week.

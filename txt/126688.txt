@@ -1,0 +1,1 @@
+A grid reference locates a unique square region on the map.

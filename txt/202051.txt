@@ -1,0 +1,1 @@
+Capability-based security is to be contrasted with an approach that uses hierarchical protection domains.

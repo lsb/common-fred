@@ -1,0 +1,1 @@
+Some of these shapes appear in Unicode as box-drawing characters.

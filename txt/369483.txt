@@ -1,0 +1,1 @@
+Interrupts may be either edge triggered or level triggered.

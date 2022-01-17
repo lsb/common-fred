@@ -1,0 +1,1 @@
+These include: target processing time, solder paste volatility, and component considerations.

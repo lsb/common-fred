@@ -1,0 +1,1 @@
+Circular dependencies can cause many unwanted effects in software programs.

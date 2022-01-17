@@ -1,0 +1,1 @@
+One position accumulates an unrealized gain, the other a loss.

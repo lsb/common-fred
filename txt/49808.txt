@@ -1,0 +1,1 @@
+"In most cases, a cell's border is different from that of the cell itself."

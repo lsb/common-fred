@@ -1,0 +1,1 @@
+"""Information ecology"" often is used as metaphor, viewing the informational space as an ecosystem."

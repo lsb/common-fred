@@ -1,0 +1,1 @@
+Hence, it converges to an ideal or brick-wall filter in this case.

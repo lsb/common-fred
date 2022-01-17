@@ -1,0 +1,1 @@
+Each class is composed of multiple divisions and then sections.

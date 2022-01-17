@@ -1,0 +1,1 @@
+"""Greek"" and ""Turkish"" was defined by religion rather than linguistically or culturally."

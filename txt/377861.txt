@@ -1,0 +1,1 @@
+It handles user interaction, and calls business logic.

@@ -1,0 +1,1 @@
+A version of Euler characteristic used in algebraic geometry is as follows.

@@ -1,0 +1,1 @@
+"""Seiklus"" is a puzzle platform game made with GameMaker with an emphasis on exploration."

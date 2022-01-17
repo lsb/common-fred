@@ -1,0 +1,1 @@
+Par can be invoked from text editors such as Vim or Emacs.

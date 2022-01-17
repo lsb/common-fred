@@ -1,0 +1,1 @@
+Each specific joint has a normal range of motion that is expressed in degrees.

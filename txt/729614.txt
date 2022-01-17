@@ -1,0 +1,1 @@
+This formula finds application in simplifying vector calculations in physics.

@@ -1,0 +1,1 @@
+General relativity reduces to Newtonian gravity in the limit of weak gravitational fields.

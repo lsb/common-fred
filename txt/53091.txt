@@ -1,0 +1,1 @@
+"It is a free ""R""-module of dimension ""n""."

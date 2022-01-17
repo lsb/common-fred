@@ -1,0 +1,1 @@
+The Add-Ons can extend the functionality of LibreOffice.

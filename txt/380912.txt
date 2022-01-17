@@ -1,0 +1,1 @@
+It indicates the weather forecast by its color and flicker.

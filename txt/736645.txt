@@ -1,0 +1,1 @@
+This method ensures that all coupon payments are always for the same amount.

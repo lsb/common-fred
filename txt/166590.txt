@@ -1,0 +1,1 @@
+Another feature named in paper is the notion of self-blinding.

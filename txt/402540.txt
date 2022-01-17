@@ -1,0 +1,1 @@
+It plays Hindi, English and regional songs.

@@ -1,0 +1,1 @@
+Hence stack operations become assignments involving the stack variables.

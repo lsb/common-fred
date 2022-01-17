@@ -1,0 +1,1 @@
+Scaling down and up is made more efficient with mipmaps as well.

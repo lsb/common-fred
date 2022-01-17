@@ -1,0 +1,1 @@
+Wild pointers are created by omitting necessary initialization prior to first use.

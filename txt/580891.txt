@@ -1,0 +1,1 @@
+The application will have an informative and an entertainment component.

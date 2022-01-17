@@ -1,0 +1,1 @@
+Included support for single and double-density disk drives.

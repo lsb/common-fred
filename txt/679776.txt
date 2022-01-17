@@ -1,0 +1,1 @@
+The two base variants are the logical left shift and the logical right shift.

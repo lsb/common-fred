@@ -1,0 +1,1 @@
+Therefore, running code is not polluted by unnecessary jump instructions.

@@ -1,0 +1,1 @@
+It supports common models such as logistic regression and feedforward neural networks.

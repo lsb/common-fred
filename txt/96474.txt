@@ -1,0 +1,1 @@
+"The name ""unrotated projectile"" comes from the fact that the projectile was not spin-stabilized."

@@ -1,0 +1,1 @@
+Champion determined by win-loss percentage.

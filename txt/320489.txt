@@ -1,0 +1,1 @@
+Higher levels of abstraction empower people with less knowledge of an underlying system.

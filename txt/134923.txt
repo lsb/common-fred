@@ -1,0 +1,1 @@
+A sawtooth wave contains both even and odd harmonics, for instance.

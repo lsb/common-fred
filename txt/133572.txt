@@ -1,0 +1,1 @@
+A planar tangle is defined up to isotopy.

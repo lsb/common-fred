@@ -1,0 +1,1 @@
+In projective geometry, often used in computer graphics, points are represented using homogeneous coordinates.

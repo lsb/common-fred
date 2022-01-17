@@ -1,0 +1,1 @@
+A service is another common product type.

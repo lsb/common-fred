@@ -1,0 +1,1 @@
+When a process receives a message, it resynchronizes its logical clock with that sender.

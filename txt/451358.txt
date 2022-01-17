@@ -1,0 +1,1 @@
+Metafont is most commonly invoked without a direct request from the user.

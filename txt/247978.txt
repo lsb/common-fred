@@ -1,0 +1,1 @@
+For example, hardware description languages are indispensable for modern digital circuit design.

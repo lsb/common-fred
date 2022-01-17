@@ -1,0 +1,1 @@
+This type of mount is used in Transit telescopes, designed for precision astronomical measurement.

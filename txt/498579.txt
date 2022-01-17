@@ -1,0 +1,1 @@
+Probability distributions are determined by assigning an expectation to each random variable.

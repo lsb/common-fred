@@ -1,0 +1,1 @@
+The control voltage typically controls pitch and the gate signal controls note on-off.

@@ -1,0 +1,1 @@
+Every ordered basis lives in one equivalence class or another.

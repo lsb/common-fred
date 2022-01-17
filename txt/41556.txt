@@ -1,0 +1,1 @@
+"Here, ""O"" refers to Big O notation."

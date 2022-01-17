@@ -1,0 +1,1 @@
+It may be enough with the difference between both values: the private one and the public one.

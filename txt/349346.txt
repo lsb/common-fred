@@ -1,0 +1,1 @@
+If instruction has not yet begun, the date classes are expected to begin.

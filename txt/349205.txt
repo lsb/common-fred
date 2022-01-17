@@ -1,0 +1,1 @@
+If both readings were possible, backwards imperfection took precedence.

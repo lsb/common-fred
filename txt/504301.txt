@@ -1,0 +1,1 @@
+Related files are handled together for the convenience of users.

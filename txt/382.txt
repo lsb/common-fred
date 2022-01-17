@@ -1,0 +1,1 @@
+"""Amborella"" has a mixed pollination system, relying on both insect pollinators and wind."

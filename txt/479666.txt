@@ -1,0 +1,1 @@
+One-time password technology is often used with a security token.

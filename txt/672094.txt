@@ -1,0 +1,1 @@
+The switching noise is usually filtered with an inductor and a capacitor.

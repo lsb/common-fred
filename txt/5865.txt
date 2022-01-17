@@ -1,0 +1,1 @@
+"""Plenken"" is derived as a borrowed word from the English ""blank""."

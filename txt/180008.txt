@@ -1,0 +1,1 @@
+Automatic scrolling is suspended for as long as remains activated.

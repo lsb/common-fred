@@ -1,0 +1,1 @@
+The ball is initially stationary until it is put into play by being kicked.

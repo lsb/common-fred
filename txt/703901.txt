@@ -1,0 +1,1 @@
+These are the only accentuated characters used in Portuguese words.

@@ -1,0 +1,1 @@
+He deleted five tables from the database.

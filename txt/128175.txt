@@ -1,0 +1,1 @@
+A larger issue is that every program has some parallel and some serial logic.

@@ -1,0 +1,1 @@
+"""Click Click"" contains samples from the ""Knight Rider"" theme."

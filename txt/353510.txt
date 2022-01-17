@@ -1,0 +1,1 @@
+In a tracking procedure, ascending stimuli are used until the threshold is reached.

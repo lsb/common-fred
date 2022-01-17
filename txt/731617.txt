@@ -1,0 +1,1 @@
+This is a commonly used and intuitive procedure, similar to repeated fair coin-tossing.

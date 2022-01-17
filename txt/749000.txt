@@ -1,0 +1,1 @@
+Thus contributions from pixels outside that range can be ignored.

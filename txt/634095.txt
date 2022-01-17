@@ -1,0 +1,1 @@
+The memory, however, was disliked for its high random access latencies.

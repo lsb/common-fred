@@ -1,0 +1,1 @@
+"A line starts with a character's name and a colon."

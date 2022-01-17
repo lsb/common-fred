@@ -1,0 +1,1 @@
+"Since you'll be using these a lot, make them as terse as possible."

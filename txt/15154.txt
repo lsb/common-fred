@@ -1,0 +1,1 @@
+"Among other things, the Resources folder contains localized versions of the application's nib files."

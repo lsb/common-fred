@@ -1,0 +1,1 @@
+In other words, Run-length Packets should not wrap from one line to another.

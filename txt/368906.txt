@@ -1,0 +1,1 @@
+Instead, those programming languages exclusively use recursion.

@@ -1,0 +1,1 @@
+In geometry, similarities of a Euclidean space preserve circles and spheres.

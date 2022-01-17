@@ -1,0 +1,1 @@
+"This distribution is important in studies of the power of Student's ""t""-test."

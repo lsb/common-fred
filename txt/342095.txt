@@ -1,0 +1,1 @@
+Hunspell is based on MySpell and is backward-compatible with MySpell dictionaries.

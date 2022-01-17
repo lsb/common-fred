@@ -1,0 +1,1 @@
+It uses very aggressive pruning, leading to imbalanced search trees.

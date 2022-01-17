@@ -1,0 +1,1 @@
+If all shooters in the tie fail, then the target is moved closer.

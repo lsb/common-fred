@@ -1,0 +1,1 @@
+We maintain an array of roots indexed by timestamp.

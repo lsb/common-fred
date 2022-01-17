@@ -1,0 +1,1 @@
+"""Local Hero"" was filmed in several locations around Scotland."

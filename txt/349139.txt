@@ -1,0 +1,1 @@
+If a team answered incorrectly, the other team automatically won the game.

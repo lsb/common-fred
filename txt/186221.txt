@@ -1,0 +1,1 @@
+Besides Implied Authority, look into Apparent Authority and Express Authority as well.

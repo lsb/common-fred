@@ -1,0 +1,1 @@
+The Line card consists of the physical interface card and a modular services card.

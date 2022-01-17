@@ -1,0 +1,1 @@
+This results in greater jitter during measurements of its radial velocity.

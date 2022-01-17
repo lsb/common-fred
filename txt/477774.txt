@@ -1,0 +1,1 @@
+One implementation uses a spoiler and micro gyro to control the bullet.

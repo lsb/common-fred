@@ -1,0 +1,1 @@
+Originally, the critical path method considered only logical dependencies between terminal elements.

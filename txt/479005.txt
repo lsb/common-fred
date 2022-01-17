@@ -1,0 +1,1 @@
+One part of the Core is the Global Module.

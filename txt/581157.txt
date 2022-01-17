@@ -1,0 +1,1 @@
+The architecture thus offers a built-in encapsulation mechanism to ensure system integrity.

@@ -1,0 +1,1 @@
+Nets for catching different insects have different mesh sizes.

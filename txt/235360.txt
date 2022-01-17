@@ -1,0 +1,1 @@
+Embossers can be either one-sided or two-sided.

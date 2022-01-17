@@ -1,0 +1,1 @@
+Gameplay is turn-based, with the player moving their characters during the player phase.

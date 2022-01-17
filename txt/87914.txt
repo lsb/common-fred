@@ -1,0 +1,1 @@
+"The applications operate memory via ""virtual addresses""."

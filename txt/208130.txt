@@ -1,0 +1,1 @@
+ClearCase dynamic views are slower than local filesystems, even with a good network infrastructure.

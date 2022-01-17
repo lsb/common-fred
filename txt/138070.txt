@@ -1,0 +1,1 @@
+A user functions as a source or final destination of user information, or both.

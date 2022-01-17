@@ -1,0 +1,1 @@
+"""Norwegian Sun"" is the third and final ship of this design."

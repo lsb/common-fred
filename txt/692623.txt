@@ -1,0 +1,1 @@
+There are initially eight characters to choose from.

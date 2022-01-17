@@ -1,0 +1,1 @@
+The proportional abundances themselves are used as the nominal weights.

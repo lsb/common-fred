@@ -1,0 +1,1 @@
+"""Stylonychia"" cells are roughly oval in shape, inflexible and flattened from back to front."

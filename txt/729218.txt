@@ -1,0 +1,1 @@
+This feature allows OnStar to remotely slow down the stolen vehicle.

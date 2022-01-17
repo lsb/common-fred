@@ -1,0 +1,1 @@
+This acts to prevent its escape, and also acts to repel any other fluid.

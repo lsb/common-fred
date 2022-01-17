@@ -1,0 +1,1 @@
+Blurring an image using a Gaussian kernel suppresses only high-frequency spatial information.

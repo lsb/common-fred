@@ -1,0 +1,1 @@
+"""Slain"" was based on the Eastwood film ""High Plains Drifter""."

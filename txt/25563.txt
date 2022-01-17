@@ -1,0 +1,1 @@
+"Decks with different stiffnesses in longitudinal and transverse directions are called 'orthotropic'."

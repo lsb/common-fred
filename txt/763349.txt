@@ -1,0 +1,1 @@
+Unlike the Ramsey-Cass-Koopmans model the steady state level of capital need not be unique.

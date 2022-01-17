@@ -1,0 +1,1 @@
+This potentially allows the Vuze client to reach a bigger swarm.

@@ -1,0 +1,1 @@
+Neglecting ionospheric and tropospheric effects, the signal from navigation satellites has a fixed precision.

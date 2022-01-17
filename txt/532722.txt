@@ -1,0 +1,1 @@
+Similarly, latitude is the number of degrees north or south of the Equator.

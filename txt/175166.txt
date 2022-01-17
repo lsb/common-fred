@@ -1,0 +1,1 @@
+Assume that an urn contains two red balls and one green ball.

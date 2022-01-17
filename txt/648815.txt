@@ -1,0 +1,1 @@
+The playback-head output from the two recorders is mixed to a third recorder.

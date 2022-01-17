@@ -1,0 +1,1 @@
+A point of closure which is not a limit point is an isolated point.

@@ -1,0 +1,1 @@
+Sprites, text, and minor game elements were altered to better reflect the Pac-Man series.

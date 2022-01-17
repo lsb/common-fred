@@ -1,0 +1,1 @@
+Four bits are then extracted from the shift registers and added together.

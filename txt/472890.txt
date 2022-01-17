@@ -1,0 +1,1 @@
+Octal and hex are convenient ways to represent binary numbers, as used by computers.

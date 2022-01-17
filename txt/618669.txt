@@ -1,0 +1,1 @@
+The general system of three equations may be solved by the method of resultants.

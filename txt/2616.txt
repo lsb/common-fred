@@ -1,0 +1,1 @@
+"""Gazela"" was built to carry fishermen to the Grand Banks of Newfoundland."

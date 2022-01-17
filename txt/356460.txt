@@ -1,0 +1,1 @@
+In fact the hyperbolic plane has positive Cheeger constant.

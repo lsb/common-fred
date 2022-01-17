@@ -1,0 +1,1 @@
+Having these systems on one machine is a way to reduce hardware costs.

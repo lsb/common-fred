@@ -1,0 +1,1 @@
+The first Cousin problem may be understood in terms of sheaf cohomology as follows.

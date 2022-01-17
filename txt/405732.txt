@@ -1,0 +1,1 @@
+It uses external parsers to build documents.

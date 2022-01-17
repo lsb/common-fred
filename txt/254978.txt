@@ -1,0 +1,1 @@
+Functors are used to implement generic data structures and algorithms.

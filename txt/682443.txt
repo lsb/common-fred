@@ -1,0 +1,1 @@
+The values are then added together and divided the amount of notes.

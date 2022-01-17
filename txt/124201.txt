@@ -1,0 +1,1 @@
+A current application of figure-ground research is the development of computer vision for robots.

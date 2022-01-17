@@ -1,0 +1,1 @@
+Official source code to gnuplot is freely redistributable, but modified versions thereof are not.

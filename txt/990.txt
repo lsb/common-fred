@@ -1,0 +1,1 @@
+"""Bra"" has the same meaning in Norwegian as in Swedish."

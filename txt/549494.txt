@@ -1,0 +1,1 @@
+Such a polygon must have at least four vertices; there are no skew triangles.

@@ -1,0 +1,1 @@
+In a waveguide system, an element called a junction is used for power division.

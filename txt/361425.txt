@@ -1,0 +1,1 @@
+In the Biba model, no-write-up and no-read-down rules are enforced.

@@ -1,0 +1,1 @@
+For instance, the spectral image compression algorithm is based on the singular value decomposition.

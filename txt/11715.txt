@@ -1,0 +1,1 @@
+"A typical usage can be a ""feed handler"" solution."

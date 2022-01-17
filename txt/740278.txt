@@ -1,0 +1,1 @@
+This section gives a measure-theoretic proof of the theorem.

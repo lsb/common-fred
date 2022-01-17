@@ -1,0 +1,1 @@
+Turning radius and approach, departure, and ramp breakover angles vary by variant.

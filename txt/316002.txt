@@ -1,0 +1,1 @@
+Hence the multivariate normal distribution is an example of the class of elliptical distributions.

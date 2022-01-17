@@ -1,0 +1,1 @@
+The official constellation boundaries are defined by an eight-sided polygon.

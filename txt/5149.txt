@@ -1,0 +1,1 @@
+"""Newsweek"" magazine's Allan Sloan described the manipulation of stocks by Yahoo!"

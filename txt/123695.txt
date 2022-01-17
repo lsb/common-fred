@@ -1,0 +1,1 @@
+A concept class is a class of concepts.

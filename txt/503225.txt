@@ -1,0 +1,1 @@
+Reconstructing a continuous function from samples is done by interpolation algorithms.

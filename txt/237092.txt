@@ -1,0 +1,1 @@
+Establishing an enterprise-wide view of reference tables is called master data management.

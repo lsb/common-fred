@@ -1,0 +1,1 @@
+A solution to this is data modeling, a concept derived from object oriented programming.

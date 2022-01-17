@@ -1,0 +1,1 @@
+"Power is measured using the unit ""watts"", or ""joules per second""."

@@ -1,0 +1,1 @@
+The supported version is called Oracle GlassFish Server.

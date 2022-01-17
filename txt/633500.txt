@@ -1,0 +1,1 @@
+The maximum number of abilities that a character can learn is eight.

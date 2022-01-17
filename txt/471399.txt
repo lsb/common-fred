@@ -1,0 +1,1 @@
+Now imagine that the power dissipation in the transistor causes it to heat up.

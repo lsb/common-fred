@@ -1,0 +1,1 @@
+"""Schutzpolizei"" literally means security or protection police but is best translated as Protection police."

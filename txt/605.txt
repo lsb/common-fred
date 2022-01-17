@@ -1,0 +1,1 @@
+"""Astronomy"" may include special sections bound into the magazine, such as booklets or posters."

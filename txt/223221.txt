@@ -1,0 +1,1 @@
+Distinguishing rotations and days infers knowledge of the precession cycle.

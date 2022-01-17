@@ -1,0 +1,1 @@
+"""Semifusa"" derives from the mensural notation corresponding to the modern sixteenth note."

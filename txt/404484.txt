@@ -1,0 +1,1 @@
+It spawns a thread which creates a channel for strings.

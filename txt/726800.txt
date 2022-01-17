@@ -1,0 +1,1 @@
+This circuit continuously monitors the supply voltages of analog and digital circuits.

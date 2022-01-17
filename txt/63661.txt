@@ -1,0 +1,1 @@
+"Many, but not all, milters can be used with Postfix ""out of the box""."

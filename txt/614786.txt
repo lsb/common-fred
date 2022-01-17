@@ -1,0 +1,1 @@
+The fly-by-wire system reduces weight and allows independent operation of individual spoilers.

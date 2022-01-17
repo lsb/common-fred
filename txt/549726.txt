@@ -1,0 +1,1 @@
+Such data degradation is known as soft errors.

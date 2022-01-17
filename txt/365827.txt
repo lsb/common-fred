@@ -1,0 +1,1 @@
+In this way the method of moments can assist in finding maximum likelihood estimates.

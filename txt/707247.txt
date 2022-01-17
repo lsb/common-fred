@@ -1,0 +1,1 @@
+These output shaft pins directly drive the output shaft as the cycloidal disc rotates.

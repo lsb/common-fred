@@ -1,0 +1,1 @@
+"Note that ""x"" should be understood as a formal symbol."

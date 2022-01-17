@@ -1,0 +1,1 @@
+Moreover, there is no compositional change so the atoms generally retain their same neighbors.

@@ -1,0 +1,1 @@
+"""Kokai"" means ""open to the public"", or ""laid-open""."

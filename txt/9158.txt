@@ -1,0 +1,1 @@
+"""Wired"" magazine called the idea ""intriguing""."

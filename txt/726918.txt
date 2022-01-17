@@ -1,0 +1,1 @@
+This code can allow the attacker to impersonate another user.

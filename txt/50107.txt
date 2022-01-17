@@ -1,0 +1,1 @@
+"In short, similar to a bullet, gyroball's axis of spin directly faces forward."

@@ -1,0 +1,1 @@
+"""This article is based on a translation of an article from the """

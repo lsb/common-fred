@@ -1,0 +1,1 @@
+"Actual adversaries, as opposed to idealized ones, are referred to as ""attackers""."

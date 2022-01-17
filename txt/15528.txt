@@ -1,0 +1,1 @@
+"An example would be ""C"" for ""H"" and ""S"" for ""M""."

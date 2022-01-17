@@ -1,0 +1,1 @@
+"Also, Nvidia's proprietary drivers consistently perform better than nouveau in various benchmarks."

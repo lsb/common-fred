@@ -1,0 +1,1 @@
+Grey-box testing is performed by security professionals with limited inside knowledge of the network.

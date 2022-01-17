@@ -1,0 +1,1 @@
+This memory map contains gaps, which is also quite common in actual system architectures.

@@ -1,0 +1,1 @@
+"""Night"" is understood as the center of the Sun being below a free horizon."

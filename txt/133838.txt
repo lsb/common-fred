@@ -1,0 +1,1 @@
+A positive element is self-adjoint and thus normal.

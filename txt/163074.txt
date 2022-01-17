@@ -1,0 +1,1 @@
+An offset transfer moves the image to the printing surface.

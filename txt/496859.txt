@@ -1,0 +1,1 @@
+Preferences settings, however, allowed input using single stroke variants for these letters.

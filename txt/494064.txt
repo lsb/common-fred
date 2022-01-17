@@ -1,0 +1,1 @@
+Players draw letter tiles until they each have seven tiles.

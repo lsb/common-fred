@@ -1,0 +1,1 @@
+Tasks are non-preemptive and run in first in, first out order.

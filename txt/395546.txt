@@ -1,0 +1,1 @@
+It is simple to predict cooler performance from standard weather report information.

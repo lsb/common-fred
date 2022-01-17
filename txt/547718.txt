@@ -1,0 +1,1 @@
+Streamer chambers are a different type of detector, closely related to spark chambers.

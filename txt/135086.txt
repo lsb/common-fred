@@ -1,0 +1,1 @@
+A second layer is added to the wafer to create a planar surface.

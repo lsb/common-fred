@@ -1,0 +1,1 @@
+Once receiving the message, the receiver sends a response back.

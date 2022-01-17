@@ -1,0 +1,1 @@
+A bandpass filter typically has two stopbands.

@@ -1,0 +1,1 @@
+A function which is not strict is called non-strict.

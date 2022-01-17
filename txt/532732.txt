@@ -1,0 +1,1 @@
+Similarly, phase response is the phase of the output with the input as reference.

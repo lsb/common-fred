@@ -1,0 +1,1 @@
+"Note that switching to this mode can invalidate a camera's guarantee."

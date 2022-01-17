@@ -1,0 +1,1 @@
+Daily price limits are implemented in cash and derivative markets.

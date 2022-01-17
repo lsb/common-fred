@@ -1,0 +1,1 @@
+These implement their functions in hardware to resist software bugs and implement tamper resistance.

@@ -1,0 +1,1 @@
+Enumeration members are placed in their own scope.

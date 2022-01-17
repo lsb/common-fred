@@ -1,0 +1,1 @@
+The profit margin is used mostly for internal comparison.

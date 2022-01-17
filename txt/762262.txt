@@ -1,0 +1,1 @@
+Underground water freezes, lifting all particles above it.

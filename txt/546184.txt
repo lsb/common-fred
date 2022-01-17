@@ -1,0 +1,1 @@
+Statistical estimates depend on the time-series and the mathematical structure of the model used.

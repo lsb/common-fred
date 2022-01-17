@@ -1,0 +1,1 @@
+It explicitly addresses space-time restrictions on the multicast recipient set.

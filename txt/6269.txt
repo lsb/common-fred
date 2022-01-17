@@ -1,0 +1,1 @@
+"""Ricotta salata"" is a pressed, salted, dried, and aged variety of the cheese."

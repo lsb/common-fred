@@ -1,0 +1,1 @@
+Thus, any operation feasible on the supertype will be supported by the subtype.

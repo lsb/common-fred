@@ -1,0 +1,1 @@
+The angle of rotation is then read from a scale.

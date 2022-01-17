@@ -1,0 +1,1 @@
+Every internal system component is a resource.

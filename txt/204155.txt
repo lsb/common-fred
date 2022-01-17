@@ -1,0 +1,1 @@
+Centre sections are added or removed to fit locations.

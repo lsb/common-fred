@@ -1,0 +1,1 @@
+This means that chats might be compromised, if the server itself is compromised.

@@ -1,0 +1,1 @@
+Morphisms of curves provide many examples of ramified coverings of schemes.

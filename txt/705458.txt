@@ -1,0 +1,1 @@
+These facilities can be used as pre-optimizer before processing by the compiler.

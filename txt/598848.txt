@@ -1,0 +1,1 @@
+The corresponding symmetric space is the space of positive symmetric matrices.

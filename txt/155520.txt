@@ -1,0 +1,1 @@
+All the mathematical knowledge of Axiom is written in this language.

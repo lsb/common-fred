@@ -1,0 +1,1 @@
+An X-ray generator generally contains an X-ray tube to produce the X-rays.

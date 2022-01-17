@@ -1,0 +1,1 @@
+Blagger can walk either left or right, or jump left or right.

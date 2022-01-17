@@ -1,0 +1,1 @@
+However, even under more general conditions versions of the Fourier inversion theorem hold.

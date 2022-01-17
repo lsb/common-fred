@@ -1,0 +1,1 @@
+Rainfall rate equal to or greater than per hour is a cloudburst.

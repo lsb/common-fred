@@ -1,0 +1,1 @@
+Every accounting transaction affects at least one element of the equation, but always balances.

@@ -1,0 +1,1 @@
+Positions of cards on the map are represented by markers.

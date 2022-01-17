@@ -1,0 +1,1 @@
+Passwords are used to keep track of the players progress.

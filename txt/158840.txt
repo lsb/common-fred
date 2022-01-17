@@ -1,0 +1,1 @@
+Alternatively, a central controller may be used to configure devices.

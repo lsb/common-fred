@@ -1,0 +1,1 @@
+All patterns must therefore have a siteswap sequence that averages to an integer.

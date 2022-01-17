@@ -1,0 +1,1 @@
+It allows the simultaneous editing and linking of many pages in different windows.

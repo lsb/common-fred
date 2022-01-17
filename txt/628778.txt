@@ -1,0 +1,1 @@
+The letter where the line and column cross is the ciphertext letter.

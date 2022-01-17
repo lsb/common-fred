@@ -1,0 +1,1 @@
+The initial scope of Biopython involved accessing, indexing and processing biological sequence files.

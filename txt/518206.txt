@@ -1,0 +1,1 @@
+Shape descriptors may also need to be invariant to translation, rotation, and scale.

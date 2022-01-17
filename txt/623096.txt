@@ -1,0 +1,1 @@
+The idea of standardization can be extended to apply to partial regression coefficients.

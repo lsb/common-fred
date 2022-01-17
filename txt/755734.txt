@@ -1,0 +1,1 @@
+Traffic waves travel backwards relative to the cars themselves.

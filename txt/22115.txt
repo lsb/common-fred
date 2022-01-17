@@ -1,0 +1,1 @@
+"By the properties of definite integrals, this defines a symmetric bilinear form on ""V""."

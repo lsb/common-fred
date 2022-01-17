@@ -1,0 +1,1 @@
+End-to-end encryption ensures that data is transferred securely between endpoints.

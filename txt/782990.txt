@@ -1,0 +1,1 @@
+With incremental reading, a load of material is subdivided into articles and its extracts.

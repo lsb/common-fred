@@ -1,0 +1,1 @@
+In first-person shooters, this problem appears when bullets hit the enemy without damage.

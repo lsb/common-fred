@@ -1,0 +1,1 @@
+A matrix that is both upper Hessenberg and lower Hessenberg is a tridiagonal matrix.

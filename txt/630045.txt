@@ -1,0 +1,1 @@
+The locally compact abelian case is part of the Pontryagin duality theory.

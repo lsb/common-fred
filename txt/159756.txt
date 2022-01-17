@@ -1,0 +1,1 @@
+Although you might try measuring the latency and adjusting for it.

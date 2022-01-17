@@ -1,0 +1,1 @@
+This saves programmers the effort of manually linking every required extension.

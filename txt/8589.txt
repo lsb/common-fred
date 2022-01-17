@@ -1,0 +1,1 @@
+"""Twice Removed"" topped that poll."

@@ -1,0 +1,1 @@
+Main memory is accessed through a bus to an off-chip chipset.

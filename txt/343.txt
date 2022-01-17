@@ -1,0 +1,1 @@
+"""Allmusic"" rated the album two and a half stars out of five."

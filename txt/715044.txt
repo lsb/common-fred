@@ -1,0 +1,1 @@
+They direct airflow into the hive or out of the hive depending on need.

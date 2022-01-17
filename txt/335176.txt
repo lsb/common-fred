@@ -1,0 +1,1 @@
+However, Oracle databases store schema objects logically within a tablespace of the database.

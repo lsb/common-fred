@@ -1,0 +1,1 @@
+More frequent tags are displayed in a proportionally larger font.

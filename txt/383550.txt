@@ -1,0 +1,1 @@
+It is also available for use in shell scripts and batch files.

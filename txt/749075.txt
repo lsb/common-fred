@@ -1,0 +1,1 @@
+Thus is the disjoint union of all these fibers equipped with a suitable topology.

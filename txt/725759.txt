@@ -1,0 +1,1 @@
+This bit shift is implemented differently between module generations.

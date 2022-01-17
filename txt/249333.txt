@@ -1,0 +1,1 @@
+For simple designs one can sometimes calculate parameters that minimize spherical aberration.

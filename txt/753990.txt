@@ -1,0 +1,1 @@
+Together with the package mobile-broadband-provider-info the connection is easily configured.

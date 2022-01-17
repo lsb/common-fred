@@ -1,0 +1,1 @@
+There are two types of radiation readout: counts or radiation dose.

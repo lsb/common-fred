@@ -1,0 +1,1 @@
+"When an intended connection is missing it is said to be ""open""."

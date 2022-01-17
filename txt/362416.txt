@@ -1,0 +1,1 @@
+In the cockpit version, the seat rotated horizontally, and the cockpit rotated vertically.

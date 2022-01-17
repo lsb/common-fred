@@ -1,0 +1,1 @@
+A data mining agent operates in a data warehouse discovering information.

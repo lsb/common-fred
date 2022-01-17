@@ -1,0 +1,1 @@
+The four corner points of the array must firstly be set to initial values.

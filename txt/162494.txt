@@ -1,0 +1,1 @@
+An example of this would be failure of one disk from a mirror set.

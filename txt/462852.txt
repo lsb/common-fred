@@ -1,0 +1,1 @@
+Natural grass now makes up the perimeter of the FieldTurf surface.

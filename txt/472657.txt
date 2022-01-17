@@ -1,0 +1,1 @@
+Obstacles may be present when the water is low.

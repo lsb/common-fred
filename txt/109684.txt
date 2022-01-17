@@ -1,0 +1,1 @@
+"Thirty genes are considered ""plastid"" genes, coding for plastid proteins."

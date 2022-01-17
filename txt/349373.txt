@@ -1,0 +1,1 @@
+If it is fixed, then this condition is not necessary for an optimum.

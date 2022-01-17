@@ -1,0 +1,1 @@
+There are more isometry groups than these two, of the same abstract group type.

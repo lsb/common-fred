@@ -1,0 +1,1 @@
+This analogy provides some insight on how cryptographic key types work.

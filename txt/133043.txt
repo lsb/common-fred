@@ -1,0 +1,1 @@
+A particular antenna design will present a particular feedpoint impedance.

@@ -1,0 +1,1 @@
+"""Capsella rubella"" is studied as a model for understanding the evolution of self-fertilization."

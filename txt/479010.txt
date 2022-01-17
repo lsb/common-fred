@@ -1,0 +1,1 @@
+One particular motivating example is the use of commitment schemes in zero-knowledge proofs.

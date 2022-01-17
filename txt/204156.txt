@@ -1,0 +1,1 @@
+Centre-weighted metering, aperture priority and focus indication are maintained, even with adapter mounted lenses.

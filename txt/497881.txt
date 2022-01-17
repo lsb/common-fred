@@ -1,0 +1,1 @@
+Primes that remain prime when the last decimal digit is successively removed.

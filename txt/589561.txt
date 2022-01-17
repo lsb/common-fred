@@ -1,0 +1,1 @@
+The card has an embedded keypad, display, microprocessor and proximity chip.

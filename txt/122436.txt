@@ -1,0 +1,1 @@
+A broad definition of verification makes it equivalent to software testing.

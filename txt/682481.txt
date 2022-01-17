@@ -1,0 +1,1 @@
+The variance of an ideal plug-flow reactor is zero.

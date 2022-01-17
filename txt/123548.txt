@@ -1,0 +1,1 @@
+A common resource found in many shooter games is ammunition.

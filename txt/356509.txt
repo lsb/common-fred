@@ -1,0 +1,1 @@
+In fact, abnormal situations represented by status flags are by default ignored!

@@ -1,0 +1,1 @@
+A set may consist of only a single element.

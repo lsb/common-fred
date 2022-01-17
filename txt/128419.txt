@@ -1,0 +1,1 @@
+A line-clipping method consists of various parts.

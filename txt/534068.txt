@@ -1,0 +1,1 @@
+Since varieties are closed under arbitrary direct products, all non-trivial varieties contain infinite algebras.

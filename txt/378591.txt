@@ -1,0 +1,1 @@
+It has an elaborate type system, allowing types to be used as first-class values.

@@ -1,0 +1,1 @@
+New structures were built for delegates, broadcasting and the jury.

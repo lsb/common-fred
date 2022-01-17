@@ -1,0 +1,1 @@
+Analog multiplication can be accomplished by using the Hall Effect.

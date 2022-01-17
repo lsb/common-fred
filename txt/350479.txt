@@ -1,0 +1,1 @@
+Illusion of movement is created by sequentially flashing objects between their possible states.

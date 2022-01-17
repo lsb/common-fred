@@ -1,0 +1,1 @@
+An adapter can be used to effectively bring together dissimilar connectors.

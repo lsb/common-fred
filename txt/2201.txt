@@ -1,0 +1,1 @@
+"""Ethnologue"" uses ""Athapaskan"" in naming the language family and individual languages."

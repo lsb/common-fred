@@ -1,0 +1,1 @@
+Many applications apply further encoding to the sequence of output symbols.

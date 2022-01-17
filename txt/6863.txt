@@ -1,0 +1,1 @@
+"""Snake Rattle 'n' Roll"" received some retrospective coverage years after its release."

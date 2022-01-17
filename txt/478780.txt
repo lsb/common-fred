@@ -1,0 +1,1 @@
+One of the two sequences is used to control the internal synthesiser.

@@ -1,0 +1,1 @@
+"""Aurantimonas coralicida"" causes a white plague in corals."

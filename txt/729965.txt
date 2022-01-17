@@ -1,0 +1,1 @@
+This gives the illusion of a larger number of different characters than actually exist.

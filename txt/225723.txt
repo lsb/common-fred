@@ -1,0 +1,1 @@
+Driver support has improved with more recent kernel versions.

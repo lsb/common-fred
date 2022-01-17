@@ -1,0 +1,1 @@
+The inverted file may be the database file itself, rather than its index.

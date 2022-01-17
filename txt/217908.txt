@@ -1,0 +1,1 @@
+Databases may store data in many data structure types.

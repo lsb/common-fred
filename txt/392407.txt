@@ -1,0 +1,1 @@
+It is now often used as toy model in N-body simulations of stellar systems.

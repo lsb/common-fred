@@ -1,0 +1,1 @@
+"""Pater noster"" is Latin for ""Our Father"", the incipit of the Lord's Prayer."

@@ -1,0 +1,1 @@
+Booting is complete when the normal, operative, runtime environment is attained.

@@ -1,0 +1,1 @@
+Baud is related to gross bit rate expressed as bits per second.

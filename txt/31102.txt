@@ -1,0 +1,1 @@
+"Forth also has a doctors' surgery and a chemist."

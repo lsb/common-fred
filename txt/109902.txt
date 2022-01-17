@@ -1,0 +1,1 @@
+"This amount depends on the receiver's buffer size and maximum segment size."

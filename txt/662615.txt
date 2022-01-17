@@ -1,0 +1,1 @@
+The sequence of generations is continued until a termination criterion is met.

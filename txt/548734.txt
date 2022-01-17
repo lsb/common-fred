@@ -1,0 +1,1 @@
+Subdomains are different from directories.

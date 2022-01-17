@@ -1,0 +1,1 @@
+Notice that this matrix is in Jordan normal form but is not diagonal.

@@ -1,0 +1,1 @@
+Economies of scale are represented by subadditive average cost functions.

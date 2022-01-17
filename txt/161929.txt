@@ -1,0 +1,1 @@
+An atomic register provides strong guarantees even when there is concurrency and failures.

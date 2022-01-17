@@ -1,0 +1,1 @@
+"""Adept"" is a hybrid of a tactical board game and action."

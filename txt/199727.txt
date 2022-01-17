@@ -1,0 +1,1 @@
+By moving across the floor, the player builds momentum for the next jump.

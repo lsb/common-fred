@@ -1,0 +1,1 @@
+In addition, the smaller index can be created more quickly than a full index.

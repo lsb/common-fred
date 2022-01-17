@@ -1,0 +1,1 @@
+In this way a classifier also can play the role of an inference engine.

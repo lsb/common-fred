@@ -1,0 +1,1 @@
+For example, many programming languages provide special syntax for referencing and updating array elements.

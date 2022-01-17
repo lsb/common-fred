@@ -1,0 +1,1 @@
+"Axiomatic probability theory ""deliberately"" avoids a definition of a random sequence."

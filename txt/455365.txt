@@ -1,0 +1,1 @@
+More sand will result in a slower bounce due to more friction.

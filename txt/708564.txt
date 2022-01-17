@@ -1,0 +1,1 @@
+These structures allow for more range in the amounts bet.

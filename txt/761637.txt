@@ -1,0 +1,1 @@
+Ultraviolet divergences are dealt with by renormalization.

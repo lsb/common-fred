@@ -1,0 +1,1 @@
+Corn and Bean crops can not be absent.

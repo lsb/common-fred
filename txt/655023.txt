@@ -1,0 +1,1 @@
+The reefer container is identified by means of the size type code.

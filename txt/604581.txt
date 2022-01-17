@@ -1,0 +1,1 @@
+The distributed architecture partitions messaging into two messaging zones: European and Trans-Atlantic.

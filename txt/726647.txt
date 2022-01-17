@@ -1,0 +1,1 @@
+This change fixed the problem with the paint.

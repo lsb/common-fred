@@ -1,0 +1,1 @@
+Exteroception is sensing things about the environment.

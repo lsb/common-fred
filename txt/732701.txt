@@ -1,0 +1,1 @@
+This is done by means of stepwise logistic regression, using a maximum likelihood algorithm.

@@ -1,0 +1,1 @@
+Depending on the sample, the spectrum can be measured in either reflection or transmission.

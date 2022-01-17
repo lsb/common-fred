@@ -1,0 +1,1 @@
+The Oyster website is not part of the closed system but interfaces with it.

@@ -1,0 +1,1 @@
+FlashGot resolves this situation by integrating them into Firefox.

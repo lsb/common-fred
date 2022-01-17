@@ -1,0 +1,1 @@
+"A ""free"" block contains no nodes."

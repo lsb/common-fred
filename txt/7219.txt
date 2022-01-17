@@ -1,0 +1,1 @@
+"""Swather"" is predominantly the North American term for these machines."

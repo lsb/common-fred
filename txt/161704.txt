@@ -1,0 +1,1 @@
+An analyzing wavelet is unnecessary to be admissible.

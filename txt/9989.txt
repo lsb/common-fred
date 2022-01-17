@@ -1,0 +1,1 @@
+"A ""one dimensional"" wave passing through an aperture with area ""A"" is now considered."

@@ -1,0 +1,1 @@
+We can also define a topology on this new space of homeomorphisms.

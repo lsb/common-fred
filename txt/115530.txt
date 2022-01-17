@@ -1,0 +1,1 @@
+"Unlike ""Programming Perl"", this book is aimed at computer programmers new to Perl."

@@ -1,0 +1,1 @@
+Such changes of the executed task are known as context switches.

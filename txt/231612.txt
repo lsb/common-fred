@@ -1,0 +1,1 @@
+Each radio can subscribe to two networks simultaneously.

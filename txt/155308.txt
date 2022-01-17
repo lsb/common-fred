@@ -1,0 +1,1 @@
+All tangent parallelograms for a given ellipse have the same area.

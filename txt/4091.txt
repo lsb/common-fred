@@ -1,0 +1,1 @@
+"""Karat"" is a variant of ""carat""."

@@ -1,0 +1,1 @@
+Consider a set of documents containing the words “cars” and “trucks”.

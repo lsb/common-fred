@@ -1,0 +1,1 @@
+Patients that receive false negatives are unlikely to seek further treatment for their disease.

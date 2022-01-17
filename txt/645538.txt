@@ -1,0 +1,1 @@
+The paper referenced here best discusses heuristics to use when designing a specification.

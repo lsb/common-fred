@@ -1,0 +1,1 @@
+"MacGuffin's key schedule is a modified version of the encryption algorithm itself."

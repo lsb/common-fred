@@ -1,0 +1,1 @@
+You can show line numbers relative to your current position, or you can show the numbers.

@@ -1,0 +1,1 @@
+All the other caches with the same block must be in shared state.

@@ -1,0 +1,1 @@
+Gadgets can be placed on this sidebar, and they are automatically aligned on it.

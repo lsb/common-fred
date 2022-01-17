@@ -1,0 +1,1 @@
+Because it is open-source, pisg has an active community for further developing log interpreters.

@@ -1,0 +1,1 @@
+A set and a class having the same extension are identical.

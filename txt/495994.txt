@@ -1,0 +1,1 @@
+Posets are equivalent to one another if and only if they are isomorphic.

@@ -1,0 +1,1 @@
+Most organizations use parallel backbones when there are critical devices on the network.

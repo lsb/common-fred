@@ -1,0 +1,1 @@
+Protocol is sometimes, though rarely, officially broken.

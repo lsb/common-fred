@@ -1,0 +1,1 @@
+One tape head records an entire picture field.

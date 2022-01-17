@@ -1,0 +1,1 @@
+This allows players to purchase new moves for their character and other game bonuses.

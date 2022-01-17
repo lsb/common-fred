@@ -1,0 +1,1 @@
+The raw API is extremely complicated for our needs, so I wrote a simple wrapper DLL.

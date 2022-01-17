@@ -1,0 +1,1 @@
+It can be understood as the eigenvalue of a charge operator.

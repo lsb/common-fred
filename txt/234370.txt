@@ -1,0 +1,1 @@
+ElGamal encryption is unconditionally malleable, and therefore is not secure under chosen ciphertext attack.

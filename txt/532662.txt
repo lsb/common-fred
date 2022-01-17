@@ -1,0 +1,1 @@
+Similarly, GeoServer packages GeoTools as a Java library, but it is also available separately.

@@ -1,0 +1,1 @@
+The Linux kernel supports virtual consoles, typically accessed through a Ctrl-Alt-F key combination.

@@ -1,0 +1,1 @@
+In most cases, the host adapter would have a similar header-style connection.

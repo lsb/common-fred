@@ -1,0 +1,1 @@
+"The option allows the holder to ""look back"" over time to determine the payoff."

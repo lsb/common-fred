@@ -1,0 +1,1 @@
+The algorithm terminates when no further successful extensions are found.

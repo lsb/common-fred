@@ -1,0 +1,1 @@
+That length has null bytes trimmed on the right end.

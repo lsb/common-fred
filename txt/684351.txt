@@ -1,0 +1,1 @@
+The villages with no bracketed numbers have no representatives in the committee.

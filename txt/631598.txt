@@ -1,0 +1,1 @@
+The main language is the Sangir language.

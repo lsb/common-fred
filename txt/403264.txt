@@ -1,0 +1,1 @@
+It relies on a Java virtual machine to be secure and highly portable.

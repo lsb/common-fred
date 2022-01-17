@@ -1,0 +1,1 @@
+Subtract one hour for Central and Mountain times.

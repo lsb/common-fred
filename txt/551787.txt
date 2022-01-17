@@ -1,0 +1,1 @@
+Switching power supplies often introduce noisy harmonics into the line.

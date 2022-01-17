@@ -1,0 +1,1 @@
+This preservation guarantees that both languages behave the same way.

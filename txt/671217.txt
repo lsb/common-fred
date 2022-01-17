@@ -1,0 +1,1 @@
+The subscriber may subscribe itself to more than one service.

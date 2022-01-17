@@ -1,0 +1,1 @@
+A version of the Stone-Weierstrass theorem is also true when is only locally compact.

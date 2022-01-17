@@ -1,0 +1,1 @@
+It implements a region-based memory management scheme.

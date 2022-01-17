@@ -1,0 +1,1 @@
+It is able to drop and monitor sonobuoys.

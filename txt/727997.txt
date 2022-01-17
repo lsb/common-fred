@@ -1,0 +1,1 @@
+This design consideration led to the architecture that exists in Bouncy Castle.

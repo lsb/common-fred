@@ -1,0 +1,1 @@
+Pilot Wave theory is based on Hamilton-Jacobi dynamics rather than Lagrangian or Hamiltonian dynamics.

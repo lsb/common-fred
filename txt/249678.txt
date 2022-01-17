@@ -1,0 +1,1 @@
+For the generation of non-uniform random variates, see Pseudo-random number sampling.

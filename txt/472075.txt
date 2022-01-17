@@ -1,0 +1,1 @@
+Numeric values are stored internally as five-byte floating point numbers.

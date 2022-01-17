@@ -1,0 +1,1 @@
+Finite-energy non-periodic waveforms can be analyzed into sinusoids by the Fourier transform.

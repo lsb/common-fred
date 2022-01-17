@@ -1,0 +1,1 @@
+Neglecting transmission line loss, these ratios are identical.

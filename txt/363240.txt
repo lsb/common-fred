@@ -1,0 +1,1 @@
+In the game, the player controls infantry, artillery, tank, and supply-truck units.

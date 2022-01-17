@@ -1,0 +1,1 @@
+Again, this operation is associative and generalizes the multiplication of natural numbers.

@@ -1,0 +1,1 @@
+FileZilla author Tim Kosse has been very reluctant to add encrypted storage.

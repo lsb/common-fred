@@ -1,0 +1,1 @@
+A plotter gives a hard copy of the output.

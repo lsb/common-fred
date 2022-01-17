@@ -1,0 +1,1 @@
+This software would function similar to Citrix or the X Windowing system.

@@ -1,0 +1,1 @@
+Each hub has exactly one upstream port and a number of downstream ports.

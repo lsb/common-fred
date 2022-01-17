@@ -1,0 +1,1 @@
+Constants, rather than being stored in the calculator, were printed under the screen.

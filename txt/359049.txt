@@ -1,0 +1,1 @@
+In other languages this would normally be implemented via inheritance.

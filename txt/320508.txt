@@ -1,0 +1,1 @@
+Higher scores are awarded for exiting each level with more treasures.

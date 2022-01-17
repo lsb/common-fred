@@ -1,0 +1,1 @@
+The terminus is the designated place that a timetable is timed from.

@@ -1,0 +1,1 @@
+Data on file systems can be shared between systems in the cluster.

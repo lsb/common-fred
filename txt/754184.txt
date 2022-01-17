@@ -1,0 +1,1 @@
+Toll collection is made in toll gates spaced along the road.

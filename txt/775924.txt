@@ -1,0 +1,1 @@
+When applied to clusters of cells sectorization also reduces co-channel interference, according to Walke.

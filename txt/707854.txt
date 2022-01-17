@@ -1,0 +1,1 @@
+These relationships result in simplified implementations of artificial neural networks with artificial neurons.

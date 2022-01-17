@@ -1,0 +1,1 @@
+"The existence of ""standard"" quantum computers does not disprove the Church-Turing thesis."

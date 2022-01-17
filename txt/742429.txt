@@ -1,0 +1,1 @@
+This train includes both extended maintenance releases and standard maintenance releases.

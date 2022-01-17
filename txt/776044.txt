@@ -1,0 +1,1 @@
+When considering spacetime, a change of time coordinate is considered to be a translation.

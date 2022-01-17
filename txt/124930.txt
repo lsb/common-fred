@@ -1,0 +1,1 @@
+A factory method is just an addition to Factory class.

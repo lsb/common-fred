@@ -1,0 +1,1 @@
+The anchor of the link is replaced by the contents of the destination node.

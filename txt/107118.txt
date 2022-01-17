@@ -1,0 +1,1 @@
+"There, Prim developed Prim's algorithm."

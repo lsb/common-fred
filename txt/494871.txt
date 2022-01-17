@@ -1,0 +1,1 @@
+Points are earned from each stat, which are individually assigned a specific amount.

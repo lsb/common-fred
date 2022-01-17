@@ -1,0 +1,1 @@
+Windward Mark specialized in atmosphere and cloud simulation, releasing their code as open-source.

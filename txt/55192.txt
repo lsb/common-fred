@@ -1,0 +1,1 @@
+"It represents a hitter's productivity using the same scale as batting average."

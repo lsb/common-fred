@@ -1,0 +1,1 @@
+When one of the light switches is turned on, both signs light up.

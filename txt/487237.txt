@@ -1,0 +1,1 @@
+Paid Access is a single payment, while Paid Subscription renews automatically each month.

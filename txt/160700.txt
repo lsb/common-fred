@@ -1,0 +1,1 @@
+Among others, this depends on whether a pseudo-terminal was allocated or not.

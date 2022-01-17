@@ -1,0 +1,1 @@
+In the former case, the viscosity corresponds to that for a Newtonian fluid.

@@ -1,0 +1,1 @@
+In this context, zero is modelled by the empty set.

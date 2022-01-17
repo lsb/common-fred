@@ -1,0 +1,1 @@
+"""Fortune""s ramming attack was curtailed when it became apparent that the U-Boat was surrendering."

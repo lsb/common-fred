@@ -1,0 +1,1 @@
+The vehicle is constructed either as hatchback or as limousine.

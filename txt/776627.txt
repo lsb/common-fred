@@ -1,0 +1,1 @@
+When lasers are used, a single detector without any dispersive elements might be sufficient.

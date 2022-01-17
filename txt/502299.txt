@@ -1,0 +1,1 @@
+Rather, the sensor has some non-flat spectral response.

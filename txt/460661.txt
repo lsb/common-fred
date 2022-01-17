@@ -1,0 +1,1 @@
+Multiplexers, decoders, state machines, and other sophisticated digital devices may use inverters.

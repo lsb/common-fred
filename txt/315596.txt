@@ -1,0 +1,1 @@
+Height is determined by the amount of power to all four motors.

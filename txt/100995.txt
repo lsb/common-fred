@@ -1,0 +1,1 @@
+"The signal where the watermark is to be embedded is called the ""host"" signal."

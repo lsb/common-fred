@@ -1,0 +1,1 @@
+In other words, all subnets in a network class must have the same size.

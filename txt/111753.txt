@@ -1,0 +1,1 @@
+"This paradigm introduced the idea of an ""execution window""."

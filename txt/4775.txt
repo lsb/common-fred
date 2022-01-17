@@ -1,0 +1,1 @@
+"""Metal Slug"" is also available on GameTap, with a two-player online option."

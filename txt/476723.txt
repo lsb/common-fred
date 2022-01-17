@@ -1,0 +1,1 @@
+Once all the maps created have been completed, an ending is displayed.

@@ -1,0 +1,1 @@
+It may also perform all other functions of a thrift bank.

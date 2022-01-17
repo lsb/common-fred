@@ -1,0 +1,1 @@
+This determines which frequency ranges can be used for what purpose and by whom.

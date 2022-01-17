@@ -1,0 +1,1 @@
+It contains English words that are grouped into synsets.

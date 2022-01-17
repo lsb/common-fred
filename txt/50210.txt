@@ -1,0 +1,1 @@
+"In terms of levels of measurement, non-parametric methods result in ""ordinal"" data."

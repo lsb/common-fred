@@ -1,0 +1,1 @@
+All other route numbers are unique within the territory.

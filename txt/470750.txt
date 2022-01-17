@@ -1,0 +1,1 @@
+Note that timestamp ordering in its basic form does not produce recoverable histories.

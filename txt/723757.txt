@@ -1,0 +1,1 @@
+Thinning or skeletonization produces binary images which consist of pixel-wide lines.

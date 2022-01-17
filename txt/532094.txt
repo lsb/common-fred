@@ -1,0 +1,1 @@
+Signals not of interest at the drop-and-insert point are not diverted.

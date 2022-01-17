@@ -1,0 +1,1 @@
+He also notes that the score can decrease, or even oscillate.

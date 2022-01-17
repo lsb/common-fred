@@ -1,0 +1,1 @@
+"""Woodstock"" was a great commercial and critical success."

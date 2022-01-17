@@ -1,0 +1,1 @@
+This points to a limitation of an overly specific, or overly bounded, problem domain.

@@ -1,0 +1,1 @@
+This is analogous to X Window System applications such as xterm.

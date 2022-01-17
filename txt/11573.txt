@@ -1,0 +1,1 @@
+"A state succession can be characterized as either being ""universal"" or ""partial""."

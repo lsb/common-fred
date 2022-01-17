@@ -1,0 +1,1 @@
+In some cases, only part of the document is affected by this.

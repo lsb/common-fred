@@ -1,0 +1,1 @@
+It is similar to the fsck command in Unix.

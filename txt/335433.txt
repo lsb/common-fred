@@ -1,0 +1,1 @@
+However, a database requires centralization and is a single point of failure.

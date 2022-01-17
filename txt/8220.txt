@@ -1,0 +1,1 @@
+"""Thela Hun Ginjeet"" is an anagram of ""heat in the jungle""."

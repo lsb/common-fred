@@ -1,0 +1,1 @@
+Despite its name it can be used for discrete simulation as well.

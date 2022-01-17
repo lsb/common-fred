@@ -1,0 +1,1 @@
+A crystal can be described as a lattice of points of equal symmetry.

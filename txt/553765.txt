@@ -1,0 +1,1 @@
+Telematics is a technique for tracking the activity and performance of a car.

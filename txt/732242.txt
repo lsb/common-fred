@@ -1,0 +1,1 @@
+This is always possible if the nim-sum is not zero before the move.

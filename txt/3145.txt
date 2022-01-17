@@ -1,0 +1,1 @@
+"""Homarus gammarus"" is susceptible to the disease gaffkaemia, caused by the bacterium ""Aerococcus viridans""."

@@ -1,0 +1,1 @@
+"Walras's law is ensured if every agent's budget constraint holds with equality."

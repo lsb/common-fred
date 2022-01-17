@@ -1,0 +1,1 @@
+The fundamental building block of Coherence is the dynamically typed mutable tree.

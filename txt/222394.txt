@@ -1,0 +1,1 @@
+Different style sheets can be attached to the logical structure to produce different presentations.

@@ -1,0 +1,1 @@
+File handles are simply consecutive integer numbers associated with specific open files.

@@ -1,0 +1,1 @@
+This illusion makes possible the simple drag-and-drop installation and deletion of Mac applications.

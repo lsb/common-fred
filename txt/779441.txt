@@ -1,0 +1,1 @@
+While the game is turn based, human players move simultaneously.

@@ -1,0 +1,1 @@
+"Variables have scope in the language, and are called ""local variables""."

@@ -1,0 +1,1 @@
+In this case, the multinomial probit or multinomial logit technique is used.

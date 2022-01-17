@@ -1,0 +1,1 @@
+Its design was based on early versions of the Observer Badge.

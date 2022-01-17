@@ -1,0 +1,1 @@
+Yorick is good at manipulating elements in N-dimensional arrays conveniently with its powerful syntax.

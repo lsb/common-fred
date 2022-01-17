@@ -1,0 +1,1 @@
+Gliders can also be collided with other patterns with interesting results.

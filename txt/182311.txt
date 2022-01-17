@@ -1,0 +1,1 @@
+Based on the overlap after the stop signal the train can be safely halted.

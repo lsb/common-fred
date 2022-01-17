@@ -1,0 +1,1 @@
+Commands were entered numerically, as two-digit numbers: Verb, and Noun.

@@ -1,0 +1,1 @@
+Both studies apply Probit and other models to check for robustness.

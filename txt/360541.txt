@@ -1,0 +1,1 @@
+In some cases, both a collection and destruction system are employed.

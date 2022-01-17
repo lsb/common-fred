@@ -1,0 +1,1 @@
+The separate method invocation syntax is still available.

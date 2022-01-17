@@ -1,0 +1,1 @@
+Unlike the recording head, the playback head has a single core.

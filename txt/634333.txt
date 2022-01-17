@@ -1,0 +1,1 @@
+The method is easily generalized to higher order equations.

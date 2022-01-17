@@ -1,0 +1,1 @@
+This greatly simplifies the process of installing extensions and keeping them updated.

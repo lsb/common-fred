@@ -1,0 +1,1 @@
+To circumvent this potential loss of information, an adaptive filter could be used.

@@ -1,0 +1,1 @@
+A smooth manifold is parallelizable if it admits a smooth global frame.

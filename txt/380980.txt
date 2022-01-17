@@ -1,0 +1,1 @@
+It introduced a dual-channel memory interface to the mainstream market, doubling theoretical bandwidth.

@@ -1,0 +1,1 @@
+"""Eat at Whitey's"" received generally favorable reviews from critics."

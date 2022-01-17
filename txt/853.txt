@@ -1,0 +1,1 @@
+"""Bigfoot"" Wallace, a former resident of the town."

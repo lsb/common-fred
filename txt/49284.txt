@@ -1,0 +1,1 @@
+"In asynchronous mode, both endpoints periodically send ""Hello"" packets to each other."

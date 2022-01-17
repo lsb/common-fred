@@ -1,0 +1,1 @@
+If unchecked, sibilance could cause distortion even if sound levels are not very high.

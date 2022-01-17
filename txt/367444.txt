@@ -1,0 +1,1 @@
+Information about a project can be generated, used and retrieved throughout the life cycle.

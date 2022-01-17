@@ -1,0 +1,1 @@
+It specifies the general information about a function like the name, scope and parameters.

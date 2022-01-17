@@ -1,0 +1,1 @@
+This allows for quick communication over large distances in games.

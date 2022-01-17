@@ -1,0 +1,1 @@
+"Wait states are a pure waste of a processor's performance."

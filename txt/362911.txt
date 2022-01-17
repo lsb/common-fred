@@ -1,0 +1,1 @@
+In the field of analysis, the definition is in terms of linear functionals.

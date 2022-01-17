@@ -1,0 +1,1 @@
+In some cases, recipient programs are able to meaningfully compare two cookies for equality.

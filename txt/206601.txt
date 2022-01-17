@@ -1,0 +1,1 @@
+Choice under uncertainty is often characterized as the maximization of expected utility.

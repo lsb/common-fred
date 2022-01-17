@@ -1,0 +1,1 @@
+"Specifically, ""A"" is ""n""-by-""n"", ""U"" is ""n""-by-""k"", ""C"" is ""k""-by-""k"" and ""V"" is ""k""-by-""n""."

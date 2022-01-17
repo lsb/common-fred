@@ -1,0 +1,1 @@
+The arc length is kept constant by using the principle of a self-adjusting arc.

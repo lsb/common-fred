@@ -1,0 +1,1 @@
+Both windings induce an emf in each other as well as their own self-induction.

@@ -1,0 +1,1 @@
+However, some edge pixels remain that are caused by noise and color variation.

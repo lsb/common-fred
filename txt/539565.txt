@@ -1,0 +1,1 @@
+Some microassemblers are more generalized and are not targeted at a single computer architecture.

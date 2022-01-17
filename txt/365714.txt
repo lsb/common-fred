@@ -1,0 +1,1 @@
+In this state, the structure is accessible to readers, and is therefore colored red.

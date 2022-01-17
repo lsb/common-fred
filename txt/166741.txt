@@ -1,0 +1,1 @@
+Another is in situations where artificial limits and overflows would be inappropriate.

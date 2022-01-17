@@ -1,0 +1,1 @@
+It too has three classes, Gold, Silver and Bronze.

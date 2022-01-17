@@ -1,0 +1,1 @@
+Rule names consist of a letter followed by letters, numbers, and hyphens.

@@ -1,0 +1,1 @@
+The game has five stages and then it loops from stage two indefinitely.

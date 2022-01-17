@@ -1,0 +1,1 @@
+Most software applications are limited to particular operating systems running on particular architectures.

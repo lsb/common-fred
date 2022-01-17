@@ -1,0 +1,1 @@
+Electrical diagrams for switchgear often have common device functions designate by standard function numbers.

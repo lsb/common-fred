@@ -1,0 +1,1 @@
+Albus has extended the reference model to a cognitive architecture for Intelligent Multi-Agent Systems.

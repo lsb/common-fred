@@ -1,0 +1,1 @@
+"""Hello Mary Lou"" was not strictly an original composition."

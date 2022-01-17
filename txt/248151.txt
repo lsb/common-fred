@@ -1,0 +1,1 @@
+For example, the command starts a remote session on a compute server.

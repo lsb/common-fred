@@ -1,0 +1,1 @@
+The machine as a whole accepts if the initial state is accepting.

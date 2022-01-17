@@ -1,0 +1,1 @@
+Electrons hitting the grid produce X-rays that produce photoelectric noise in the ion collector.

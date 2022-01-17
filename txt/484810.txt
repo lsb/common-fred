@@ -1,0 +1,1 @@
+Other vendors have their own implementation.

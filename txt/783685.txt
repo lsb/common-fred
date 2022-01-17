@@ -1,0 +1,1 @@
+With this encoding not more than eight one bits in a row are possible.

@@ -1,0 +1,1 @@
+"The second approach is to track a location by the ""responsible party""."

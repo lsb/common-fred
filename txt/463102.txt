@@ -1,0 +1,1 @@
+Navigators measure distance on the globe in degrees, arcminutes and arcseconds.

@@ -1,0 +1,1 @@
+Higher difficulty levels introduce flying bats and spiders that the player must also avoid.

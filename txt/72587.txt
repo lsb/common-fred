@@ -1,0 +1,1 @@
+"Quasi-algebraically closed fields are also called ""C""."

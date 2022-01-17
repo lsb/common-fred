@@ -1,0 +1,1 @@
+Local codes can specify physical clearance around the panels.

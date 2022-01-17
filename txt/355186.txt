@@ -1,0 +1,1 @@
+In an n-type semiconductor, the dopant contributes extra electrons, dramatically increasing the conductivity.

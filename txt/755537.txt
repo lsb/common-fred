@@ -1,0 +1,1 @@
+Traditional nozzles are axially symmetric, and therefore surround the expanding gas.

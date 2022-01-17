@@ -1,0 +1,1 @@
+ZoomText is a stand-alone piece of software designed for visually impaired people.

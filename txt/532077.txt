@@ -1,0 +1,1 @@
+Signal into port X goes to W and Y.

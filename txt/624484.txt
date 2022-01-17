@@ -1,0 +1,1 @@
+The integral may be efficiently computed by Gaussian quadrature.

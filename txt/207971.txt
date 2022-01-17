@@ -1,0 +1,1 @@
+Classifying speech into normal and disordered is more problematic than it first seems.

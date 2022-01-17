@@ -1,0 +1,1 @@
+Aggregating packets into bursts can reduce guardband impact on data channel throughput.

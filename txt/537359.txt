@@ -1,0 +1,1 @@
+Softmodems are sometimes used as an example of a hard real-time system.

@@ -1,0 +1,1 @@
+Statistical analysis often uses probability distributions, and the two topics are often studied together.

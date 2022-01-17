@@ -1,0 +1,1 @@
+This class contains the orders Agaricales, Boletales, and Russulales.

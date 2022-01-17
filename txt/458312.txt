@@ -1,0 +1,1 @@
+Most people and textbooks consider this a singleton pattern.

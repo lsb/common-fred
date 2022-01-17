@@ -1,0 +1,1 @@
+This henchman will follow the player around and assist in various manners.

@@ -1,0 +1,1 @@
+Lexicon also included a spell checker.

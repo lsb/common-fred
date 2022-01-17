@@ -1,0 +1,1 @@
+These can have either single or double pickups.

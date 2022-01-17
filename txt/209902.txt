@@ -1,0 +1,1 @@
+Combat is turn-based, although a continuous-phase mode can be toggled.

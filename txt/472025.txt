@@ -1,0 +1,1 @@
+Number of students who follow the classes taught.

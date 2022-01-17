@@ -1,0 +1,1 @@
+Power supplies are typically less efficient when lightly or heavily loaded.

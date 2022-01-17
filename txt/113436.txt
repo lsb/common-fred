@@ -1,0 +1,1 @@
+"Three sets of eight registers each are ""windowed""."

@@ -1,0 +1,1 @@
+The single-player mode is played against computer-controlled bots.

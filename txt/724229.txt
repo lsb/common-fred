@@ -1,0 +1,1 @@
+This addition of the order-types is associative and generalizes the addition of natural numbers.

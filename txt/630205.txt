@@ -1,0 +1,1 @@
+The logarithm of a complex number is thus a multi-valued function, because is multi-valued.

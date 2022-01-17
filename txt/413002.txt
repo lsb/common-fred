@@ -1,0 +1,1 @@
+It was the first commercially available software firewall to use stateful inspection.

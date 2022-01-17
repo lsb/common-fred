@@ -1,0 +1,1 @@
+Users should therefore never perform bank transfers they have not initiated themselves.

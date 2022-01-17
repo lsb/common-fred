@@ -1,0 +1,1 @@
+This allowed relating data elements to similar elements defined by other organizations.

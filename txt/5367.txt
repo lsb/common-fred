@@ -1,0 +1,1 @@
+"""Noyac"" is an Indian word meaning ""a corner or point of land""."

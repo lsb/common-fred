@@ -1,0 +1,1 @@
+Non-durable messaging can only be achieved by sending express messages via non-transactional queues.

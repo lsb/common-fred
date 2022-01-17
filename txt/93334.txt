@@ -1,0 +1,1 @@
+"The game is similar to the Atari game ""Battlezone"", and supports one player."

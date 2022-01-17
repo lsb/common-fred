@@ -1,0 +1,1 @@
+For example, a character uses his Agility score when attempting ranged attacks.

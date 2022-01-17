@@ -1,0 +1,1 @@
+Another protection mechanism implemented in many computers is a read-only flag.

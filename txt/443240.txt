@@ -1,0 +1,1 @@
+Many editing tools cannot perform film-mode deinterlacing, requiring usage of a separate converter.

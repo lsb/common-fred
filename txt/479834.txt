@@ -1,0 +1,1 @@
+Only a Combatant Command can initiate a request for a battle star.

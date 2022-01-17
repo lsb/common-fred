@@ -1,0 +1,1 @@
+When a widget invokes a script, the script must be a panel script.

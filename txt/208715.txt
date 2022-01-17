@@ -1,0 +1,1 @@
+Clusters are not a syntactic language construct, but rather a standard organizational convention.

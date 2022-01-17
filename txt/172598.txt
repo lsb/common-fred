@@ -1,0 +1,1 @@
+As each character arrives, they handle their return in the best way they can.

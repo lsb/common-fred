@@ -1,0 +1,1 @@
+Poetry is often separated into lines on a page.

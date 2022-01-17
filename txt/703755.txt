@@ -1,0 +1,1 @@
+These are precisely the numbers whose binary expansion is finite.

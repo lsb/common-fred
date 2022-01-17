@@ -1,0 +1,1 @@
+Diacritics may occur over either the base letter, the length sign, or both.

@@ -1,0 +1,1 @@
+Ferry terminals may have several docks to attend more than one ship simultaneosly.

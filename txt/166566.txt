@@ -1,0 +1,1 @@
+Another external program can access a cell and formulas from LibreOffice Calc file.

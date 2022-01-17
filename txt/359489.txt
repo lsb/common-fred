@@ -1,0 +1,1 @@
+In practice weaker constraint qualifications are preferred since they provide stronger optimality conditions.

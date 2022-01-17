@@ -1,0 +1,1 @@
+"It means that, starting from C, there are two A's."

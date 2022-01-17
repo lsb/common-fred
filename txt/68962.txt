@@ -1,0 +1,1 @@
+"One also says that ""X"" is of finite type over ""Y""."

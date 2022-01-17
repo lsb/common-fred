@@ -1,0 +1,1 @@
+"""R v Fitzmaurice"" allows the impossibility defence, but its scope is quite limited."

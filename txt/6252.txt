@@ -1,0 +1,1 @@
+"""Revised Edition"" cards are white-bordered and generally known for their washed-out look."

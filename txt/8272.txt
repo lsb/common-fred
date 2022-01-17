@@ -1,0 +1,1 @@
+"""They are alive"" is the consequent."

@@ -1,0 +1,1 @@
+Therefore, trials containing such artifacts should be removed before averaging.

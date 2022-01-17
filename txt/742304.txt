@@ -1,0 +1,1 @@
+This topological structure, together with the ring operations described above, form a topological ring.

@@ -1,0 +1,1 @@
+The screen at the front is used for displaying the time and network info.

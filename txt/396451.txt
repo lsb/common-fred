@@ -1,0 +1,1 @@
+It is syntactically similar to C, but less flexible.

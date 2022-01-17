@@ -1,0 +1,1 @@
+However, encoding wide-open areas takes extra space.

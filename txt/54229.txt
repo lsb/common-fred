@@ -1,0 +1,1 @@
+"It is qualified as ""major"" because it is the larger of the two."

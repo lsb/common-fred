@@ -1,0 +1,1 @@
+The advantage of the asynchronous serial connection is its simplicity.

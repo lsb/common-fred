@@ -1,0 +1,1 @@
+Any local maximum of a concave function is also a global maximum.

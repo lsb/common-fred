@@ -1,0 +1,1 @@
+Solche Bibliotheken auf Windows zu kompilieren erfordert immer einige Klimmzüge.

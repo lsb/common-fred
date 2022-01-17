@@ -1,0 +1,1 @@
+One useful set of birational invariants are the plurigenera.

@@ -1,0 +1,1 @@
+"""Cortinarius metallicus"" is a mycorrhizal species also found in the park."

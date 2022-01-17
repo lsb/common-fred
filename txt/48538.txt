@@ -1,0 +1,1 @@
+"In Go, you might trade ""thickness"" for ""influence""."

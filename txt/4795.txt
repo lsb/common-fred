@@ -1,0 +1,1 @@
+"""Micrococcus"" occurs in a wide range of environments, including water, dust, and soil."

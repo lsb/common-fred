@@ -1,0 +1,1 @@
+It can create bars and tone and a countdown leader, just like Premiere Pro.

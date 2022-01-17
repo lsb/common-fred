@@ -1,0 +1,1 @@
+Difference in schema is a major problem for query processing and transaction processing.

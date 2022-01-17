@@ -1,0 +1,1 @@
+A holonomic constraint depends only on the coordinates and time.

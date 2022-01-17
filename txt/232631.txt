@@ -1,0 +1,1 @@
+Early repeaters had only two ports, allowing, at most, a doubling of network size.

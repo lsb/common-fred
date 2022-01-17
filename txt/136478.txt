@@ -1,0 +1,1 @@
+A snowpack will fail when the load exceeds the strength.

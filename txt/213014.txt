@@ -1,0 +1,1 @@
+Conversely, soft letters are ignored.

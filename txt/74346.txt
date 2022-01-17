@@ -1,0 +1,1 @@
+"Sadly, it's only available for Windows, so you'll have to do Linux development using a virtual machine or remote access."

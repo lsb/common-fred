@@ -1,0 +1,1 @@
+Pull the hook to toggle the jukebox.

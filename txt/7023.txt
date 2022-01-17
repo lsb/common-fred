@@ -1,0 +1,1 @@
+"""Sport Rocketry"" is the longest continually published magazine devoted to the sport rocket hobby."

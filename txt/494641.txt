@@ -1,0 +1,1 @@
+Plotting fixes in this manner allow crews to determine their position.

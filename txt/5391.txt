@@ -1,0 +1,1 @@
+"""Obatzda"" is a classic example of Bavarian ""biergarten"" food."

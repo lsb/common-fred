@@ -1,0 +1,1 @@
+"""Buck Rogers"" was a huge success, spawning many imitators such as ""Flash Gordon""."

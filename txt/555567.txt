@@ -1,0 +1,1 @@
+That means pointwise convergence almost everywhere.

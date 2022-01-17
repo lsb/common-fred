@@ -1,0 +1,1 @@
+There are three different types of hull sizes available, namely destroyer, cruiser, and dreadnought.

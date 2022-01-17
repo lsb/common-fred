@@ -1,0 +1,1 @@
+A teleportation counts as a move.

@@ -1,0 +1,1 @@
+A single player can own many animals of varying breeds and descriptions.

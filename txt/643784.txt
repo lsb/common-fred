@@ -1,0 +1,1 @@
+The original implementations had a single virtual address space, shared by all jobs.

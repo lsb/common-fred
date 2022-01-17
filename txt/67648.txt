@@ -1,0 +1,1 @@
+"Note that the Emacs extension ""Ace jump mode"" works similarly to this."

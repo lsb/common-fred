@@ -1,0 +1,1 @@
+Numerous programming languages support reflection to some extent with varying degrees of expressiveness.

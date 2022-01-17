@@ -1,0 +1,1 @@
+Example: a graded ring is a graded module over itself.

@@ -1,0 +1,1 @@
+If the player runs out of money, the game instantly ends.

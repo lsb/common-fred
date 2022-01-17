@@ -1,0 +1,1 @@
+"It consists of super-server ""tcpserver"" and ""tcpclient"" application."

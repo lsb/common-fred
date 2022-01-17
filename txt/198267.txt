@@ -1,0 +1,1 @@
+But the concept of natural number is already assumed for the iteration.

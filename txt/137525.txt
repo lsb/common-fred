@@ -1,0 +1,1 @@
+A third letter can be included to indicate temperature.

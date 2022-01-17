@@ -1,0 +1,1 @@
+As mentioned above, a kernel is a type of binary equaliser, or difference kernel.

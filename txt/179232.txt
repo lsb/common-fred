@@ -1,0 +1,1 @@
+Atomic semantics are very strong.

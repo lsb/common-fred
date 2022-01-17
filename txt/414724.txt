@@ -1,0 +1,1 @@
+It worked with all Post Office Protocol email clients.

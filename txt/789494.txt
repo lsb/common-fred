@@ -1,0 +1,1 @@
+Zobrist hashing is named for its inventor, Albert Lindsey Zobrist.

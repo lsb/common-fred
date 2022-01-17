@@ -1,0 +1,1 @@
+Specifies the number of communication data bytes to follow.

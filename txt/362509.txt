@@ -1,0 +1,1 @@
+In the decimal system each decimal place is a power of ten.

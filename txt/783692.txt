@@ -1,0 +1,1 @@
+With this feature we can install programs even after booting from a DVD or CD-ROM.

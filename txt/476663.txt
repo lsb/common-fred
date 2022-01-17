@@ -1,0 +1,1 @@
+Once a tunnel is established, the network traffic between the peers is bidirectional.

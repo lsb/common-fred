@@ -1,0 +1,1 @@
+The chemical reporter is linked to a substrate, which a cell can metabolize.

@@ -1,0 +1,1 @@
+A nonzero function and its Fourier transform cannot both be sharply localized.

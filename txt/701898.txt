@@ -1,0 +1,1 @@
+There will be a fixed number of control intervals in each control area.

@@ -1,0 +1,1 @@
+The starting point is the weak formulation of the problem to the partial derivatives.

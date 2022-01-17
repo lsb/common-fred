@@ -1,0 +1,1 @@
+"Hilbert's tenth problem asks for a general algorithm deciding the solvability of Diophantine equations."

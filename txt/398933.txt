@@ -1,0 +1,1 @@
+It is typed, has a concrete syntax and is based on three-address code.

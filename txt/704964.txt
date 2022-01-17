@@ -1,0 +1,1 @@
+These crossing lines pointed forward, backward, right, and left, relative to the fencer.

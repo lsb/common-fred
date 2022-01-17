@@ -1,0 +1,1 @@
+"""Settlement"" means that once processed, payments are final and irrevocable."

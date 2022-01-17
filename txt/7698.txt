@@ -1,0 +1,1 @@
+"""The Harbinger"" is the official student newspaper of Algonquin Regional."

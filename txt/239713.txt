@@ -1,0 +1,1 @@
+Examples are network of roads and streets, railways, pipes, aqueducts, and power lines.

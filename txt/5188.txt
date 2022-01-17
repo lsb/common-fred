@@ -1,0 +1,1 @@
+"""Ninja Gaiden: Dragon Sword"" is played using full potential of the stylus."

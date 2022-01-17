@@ -1,0 +1,1 @@
+One key aspect of pipeline design is balancing pipeline stages.

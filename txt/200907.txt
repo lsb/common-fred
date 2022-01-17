@@ -1,0 +1,1 @@
+Call charges consist of an Access Charge and a Service Charge.

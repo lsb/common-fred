@@ -1,0 +1,1 @@
+If auto-cleanup is not present, however, they must be deleted manually.

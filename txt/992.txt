@@ -1,0 +1,1 @@
+"""Bracket style"" has sometimes been referred to as a ""gun drag race""."

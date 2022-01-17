@@ -1,0 +1,1 @@
+Each ship component takes up a certain amount of space.

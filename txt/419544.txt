@@ -1,0 +1,1 @@
+Its terminal voltage and capacity depend upon its cell chemistry.

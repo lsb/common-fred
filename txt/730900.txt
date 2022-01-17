@@ -1,0 +1,1 @@
+This improves the concurrency, because threads rarely need to lock the entire cache.

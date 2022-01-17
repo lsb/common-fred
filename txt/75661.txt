@@ -1,0 +1,1 @@
+"Several standards existed for ""feature connectors"", depending on the bus and graphics card type."

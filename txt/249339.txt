@@ -1,0 +1,1 @@
+For simplicity, many fixed-point multiply procedures use the same result format as the operands.

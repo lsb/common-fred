@@ -1,0 +1,1 @@
+"""Catch Bull at Four"" was well received both commercially and critically."

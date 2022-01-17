@@ -1,0 +1,1 @@
+Additionally, bigger blocks of data can be transferred by sending multiple frames consecutively.

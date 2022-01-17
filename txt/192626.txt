@@ -1,0 +1,1 @@
+Both the drum and the pen holder were controlled by stepper motors.

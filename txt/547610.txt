@@ -1,0 +1,1 @@
+Stranded wires are calculated by calculating the equivalent cross sectional copper area.

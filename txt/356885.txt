@@ -1,0 +1,1 @@
+In general, integrals in this form cannot be expressed in terms of elementary functions.

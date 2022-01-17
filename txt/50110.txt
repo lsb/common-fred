@@ -1,0 +1,1 @@
+"In singleplayer mode, the player's opponents are controlled by the game."

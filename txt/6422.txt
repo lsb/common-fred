@@ -1,0 +1,1 @@
+"""S"" is the distance between the center of the wires."

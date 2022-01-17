@@ -1,0 +1,1 @@
+Unlike physical attacks however, magic attacks cannot be chained.

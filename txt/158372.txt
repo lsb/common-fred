@@ -1,0 +1,1 @@
+Also, cyclotomic polynomials are palindromic.

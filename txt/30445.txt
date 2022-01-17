@@ -1,0 +1,1 @@
+"For any natural number ""n"", there exists a sequence of ""n"" consecutive happy numbers."

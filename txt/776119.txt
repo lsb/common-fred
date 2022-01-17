@@ -1,0 +1,1 @@
+When ductile materials fail, there is substantial deformation before failure, which can be monitored.

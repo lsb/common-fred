@@ -1,0 +1,1 @@
+Only one vehicle on the ramp proceeds when the signal shows green.

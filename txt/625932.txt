@@ -1,0 +1,1 @@
+The key to its operation is one or more frame counters.

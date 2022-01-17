@@ -1,0 +1,1 @@
+Because performing bounds checking during every usage is time-consuming, it is not always done.

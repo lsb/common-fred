@@ -1,0 +1,1 @@
+Centrifugal superchargers add additional boost as the speed of the motor increases.

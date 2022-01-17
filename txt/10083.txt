@@ -1,0 +1,1 @@
+"A Hausdorff perfectly normal space ""X"" is a T space, or perfectly T space."

@@ -1,0 +1,1 @@
+At the moment, all the lamps are lighting up at the same time.

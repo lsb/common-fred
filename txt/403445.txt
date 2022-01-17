@@ -1,0 +1,1 @@
+It replaces two older naming schemes that were mutually confusing.

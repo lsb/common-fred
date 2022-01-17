@@ -1,0 +1,1 @@
+The inchworm motor can be used in the patch clamping of biological cells.

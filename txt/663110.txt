@@ -1,0 +1,1 @@
+The server sends small rectangles of the framebuffer to the client.

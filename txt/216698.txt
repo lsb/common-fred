@@ -1,0 +1,1 @@
+Customizing a document style is usually relatively easy, even to the non-programmer.

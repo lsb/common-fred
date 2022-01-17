@@ -1,0 +1,1 @@
+These latter are displayed when the Insert key is pressed during power-on self-test.

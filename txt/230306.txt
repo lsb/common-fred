@@ -1,0 +1,1 @@
+Each ColecoVision console shipped with two controllers.

@@ -1,0 +1,1 @@
+Dongles typically have omnidirectional antennas which are of lower gain compared to other devices.

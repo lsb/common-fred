@@ -1,0 +1,1 @@
+"Ridership data and station ownership is from Amtrak's Great American Stations website."

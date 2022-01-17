@@ -1,0 +1,1 @@
+"""Labour"" was the name of the party."

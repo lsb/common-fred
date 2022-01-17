@@ -1,0 +1,1 @@
+"Only references to an object may be removed by using the ""delete"" keyword."

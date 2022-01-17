@@ -1,0 +1,1 @@
+"The type of resulting curve depends upon the value of ""H""."

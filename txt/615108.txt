@@ -1,0 +1,1 @@
+The following example problem contrasts some of the unique properties of transduction against induction.

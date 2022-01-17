@@ -1,0 +1,1 @@
+Electric and magnetic fields are relative, see Lorentz transformation.

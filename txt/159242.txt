@@ -1,0 +1,1 @@
+Although inelastic collisions do not conserve kinetic energy, they do obey conservation of momentum.

@@ -1,0 +1,1 @@
+"These types of satellites are almost always in Sun synchronous and ""frozen"" orbits."

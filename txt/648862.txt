@@ -1,0 +1,1 @@
+The player can step on any type of tile except a wall.

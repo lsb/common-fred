@@ -1,0 +1,1 @@
+Harmonics are an exact integer multiple of the fundamental frequency.

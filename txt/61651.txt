@@ -1,0 +1,1 @@
+"Let us call the solutions ""d"" and ""d"", if they exist."

@@ -1,0 +1,1 @@
+All new generations of GPUs support tesselation in hardware.

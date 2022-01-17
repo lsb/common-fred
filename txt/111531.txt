@@ -1,0 +1,1 @@
+"This makes the virtual machine hardware-specific, but doesn't lose the portability of the bytecode."

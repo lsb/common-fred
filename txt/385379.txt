@@ -1,0 +1,1 @@
+It is available on Linux, and possibly other Unix-like systems.

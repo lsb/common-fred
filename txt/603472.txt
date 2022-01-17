@@ -1,0 +1,1 @@
+The design is engraved convex into the matrix, which is used to create punches.

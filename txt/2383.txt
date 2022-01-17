@@ -1,0 +1,1 @@
+"""Firth of Fifth"" is performed without the piano introduction, beginning immediately with the lyrics."

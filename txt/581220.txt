@@ -1,0 +1,1 @@
+The area and mass flow rate are held constant for Rayleigh flow.

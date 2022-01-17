@@ -1,0 +1,1 @@
+When storing colors in limited precision values, this can improve the reproduction of tones.

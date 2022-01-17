@@ -1,0 +1,1 @@
+"""Exodus"", like many Wisdom Tree games, is a clone of another company's game."

@@ -1,0 +1,1 @@
+It also includes reporting tools to create consolidated reports out of the project data.

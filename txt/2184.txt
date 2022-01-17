@@ -1,0 +1,1 @@
+"""Escape from the MindMaster"" utilizes a tape cassette through the Starpath Supercharger."

@@ -1,0 +1,1 @@
+Profiles define the functionality of the protocol and the message syntax and semantics.

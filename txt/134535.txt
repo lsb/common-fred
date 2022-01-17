@@ -1,0 +1,1 @@
+A related phenomenon is dithering applied to analog signals before analog-to-digital conversion.

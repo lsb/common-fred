@@ -1,0 +1,1 @@
+"""Bryan Life"" is the college's alumni magazine and is published quarterly."

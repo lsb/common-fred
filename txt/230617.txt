@@ -1,0 +1,1 @@
+Each component of this library contains two amino acids arranged in different orders.

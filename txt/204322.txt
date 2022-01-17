@@ -1,0 +1,1 @@
+Certain profiles cannot be drilled while the drill pipe is rotating.

@@ -1,0 +1,1 @@
+An additional mathematical condition is that preferences and production technologies have to be convex.

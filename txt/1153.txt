@@ -1,0 +1,1 @@
+"""Byronosaurus"" is a troodontid, a group of small, bird-like, gracile maniraptorans."

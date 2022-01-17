@@ -1,0 +1,1 @@
+Note that any combination of multiple destinations can be selected per bank.

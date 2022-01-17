@@ -1,0 +1,1 @@
+In packet logger mode, the program will log packets to the disk.

@@ -1,0 +1,1 @@
+"Promotional-only releases include a ""P"" prefix."

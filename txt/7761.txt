@@ -1,0 +1,1 @@
+"""The Lancet"" has taken a political stand on several important medical and non-medical issues."

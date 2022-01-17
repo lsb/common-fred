@@ -1,0 +1,1 @@
+Ballast tanks within the submarine adjust buoyancy to be neutral, making the boat controllable.

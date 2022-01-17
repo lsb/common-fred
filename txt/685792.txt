@@ -1,0 +1,1 @@
+The width of a tree is the supremum of the cardinalities of its levels.

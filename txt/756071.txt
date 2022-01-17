@@ -1,0 +1,1 @@
+Transformations such as logarithms can help to stabilize the variance of a time series.

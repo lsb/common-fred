@@ -1,0 +1,1 @@
+"A low Bishop's score often indicates that induction is unlikely to be successful."

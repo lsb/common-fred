@@ -1,0 +1,1 @@
+But damping cannot be derived in this model.

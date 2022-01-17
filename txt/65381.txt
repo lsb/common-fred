@@ -1,0 +1,1 @@
+"Moore's law describes an exponential growth pattern in the complexity of integrated semiconductor circuits."

@@ -1,0 +1,1 @@
+Most tiles give the player a number of followers when revealed.

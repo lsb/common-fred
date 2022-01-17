@@ -1,0 +1,1 @@
+Other ground stations communicate with manned space stations or unmanned space probes.

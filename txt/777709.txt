@@ -1,0 +1,1 @@
+When triggered, a pulse of pre-defined duration is produced.

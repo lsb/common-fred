@@ -1,0 +1,1 @@
+Other smart fluids change their surface tension in the presence of an electric field.

@@ -1,0 +1,1 @@
+It obtains aptamers in a few rounds of selection.

@@ -1,0 +1,1 @@
+Faster synchronous modes are used more frequently.

@@ -1,0 +1,1 @@
+At its core, a raster image editor works by manipulating each individual pixel.

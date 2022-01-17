@@ -1,0 +1,1 @@
+"In particular, it can be used to prove Sperner's theorem."

@@ -1,0 +1,1 @@
+Hence, Dog and Mammal are classes, while Pet, Stray, and Guide are roles.

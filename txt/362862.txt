@@ -1,0 +1,1 @@
+In the example, colors are not aligned and they only cross partially.

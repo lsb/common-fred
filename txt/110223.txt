@@ -1,0 +1,1 @@
+"This continues until the ball is either hit 'down' or out of the court."

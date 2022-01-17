@@ -1,0 +1,1 @@
+It allowed one central system to distribute jobs to multiple connected systems.

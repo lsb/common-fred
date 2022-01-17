@@ -1,0 +1,1 @@
+"Java's library contains a class, which implements a min-priority-queue."

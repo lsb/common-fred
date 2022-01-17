@@ -1,0 +1,1 @@
+Recently, this method was implemented in geostatistical simulation which could provide a fast algorithm.

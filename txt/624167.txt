@@ -1,0 +1,1 @@
+The inner product is the trace of the outer product.

@@ -1,0 +1,1 @@
+"An ""efficient group"" is one where the Schur multiplier requires this number of generators."

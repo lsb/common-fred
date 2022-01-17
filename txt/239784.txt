@@ -1,0 +1,1 @@
+Examples include the Brahmagupta-Fibonacci identity, the Fibonacci search technique, and the Pisano period.

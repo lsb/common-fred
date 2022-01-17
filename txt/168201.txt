@@ -1,0 +1,1 @@
+Apache Commons Collections provides a MultiMap interface for Java.

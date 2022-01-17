@@ -1,0 +1,1 @@
+Together, the data and index components are called a cluster.

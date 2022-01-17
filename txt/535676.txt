@@ -1,0 +1,1 @@
+Smaller modular mirrors requires smaller machines to build the mirror, reducing cost.

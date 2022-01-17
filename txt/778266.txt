@@ -1,0 +1,1 @@
+Whether such a feature is desirable depends on the usage scenario.

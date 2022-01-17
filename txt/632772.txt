@@ -1,0 +1,1 @@
+The manager with the highest score in each league wins the award.

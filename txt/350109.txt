@@ -1,0 +1,1 @@
+If this tracking is jerky or flickers it is likely to disturb the user.

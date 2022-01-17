@@ -1,0 +1,1 @@
+"This left the receiver's time off by a second in the interim."

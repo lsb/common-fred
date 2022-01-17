@@ -1,0 +1,1 @@
+"""Yu Yu Hakusho: Dark Tournament"" was developed by Digital Fiction and published by Atari."

@@ -1,0 +1,1 @@
+"The computed shape model for this asteroid is described as ""asymmetric with sharp edges""."

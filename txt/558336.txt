@@ -1,0 +1,1 @@
+The Bell-LaPadula model explicitly defined its scope.

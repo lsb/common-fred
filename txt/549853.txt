@@ -1,0 +1,1 @@
+Such in-place updates improve the efficiency of functional languages while maintaining referential transparency.

@@ -1,0 +1,1 @@
+This mechanism is not unique to object-oriented programming.

@@ -1,0 +1,1 @@
+Hard coding is often required, but can also be considered an anti-pattern.

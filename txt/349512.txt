@@ -1,0 +1,1 @@
+If one or more of the propositions is false, the whole sentence is false.

@@ -1,0 +1,1 @@
+Two matrices must have an equal number of rows and columns to be added.

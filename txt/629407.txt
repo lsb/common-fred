@@ -1,0 +1,1 @@
+The linear construction above can be generalized to polynomial interpolation.

@@ -1,0 +1,1 @@
+In Haskell, this limitation is enforced at compile time by the type system.

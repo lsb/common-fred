@@ -1,0 +1,1 @@
+All normalized line profiles can be considered to be probability distributions.

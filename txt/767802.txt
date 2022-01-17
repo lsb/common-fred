@@ -1,0 +1,1 @@
+Visibility can be limited by changing conditions.

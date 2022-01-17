@@ -1,0 +1,1 @@
+Such actions are analyzed using the so-called Rips machine.

@@ -1,0 +1,1 @@
+At this stage Sound Tools was a simple computer based stereo audio editor.

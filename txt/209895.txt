@@ -1,0 +1,1 @@
+Combat begins differently depending on how the player avatar makes contact with the monster.

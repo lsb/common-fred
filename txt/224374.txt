@@ -1,0 +1,1 @@
+Doesn’t it defeat the purpose of hashing?

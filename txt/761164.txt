@@ -1,0 +1,1 @@
+Typically in this scheme, seat selection is on a first-come, first-served basis.

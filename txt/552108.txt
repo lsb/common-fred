@@ -1,0 +1,1 @@
+Systems communicating over Ethernet divide a stream of data into shorter pieces called frames.

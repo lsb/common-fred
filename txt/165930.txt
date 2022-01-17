@@ -1,0 +1,1 @@
+Animations can be used to experience a simulation in real-time, e.g., in training simulations.

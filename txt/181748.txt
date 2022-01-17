@@ -1,0 +1,1 @@
+Bards cast spells using their actual class level as their caster level.

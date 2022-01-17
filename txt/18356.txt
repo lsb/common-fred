@@ -1,0 +1,1 @@
+"Atkin, along with Noam Elkies, extended Schoof's algorithm to create the Schoof-Elkies-Atkin algorithm."

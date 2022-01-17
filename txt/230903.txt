@@ -1,0 +1,1 @@
+Each functional unit has a single reservation station.

@@ -1,0 +1,1 @@
+The discrete uniform distribution itself is inherently non-parametric.

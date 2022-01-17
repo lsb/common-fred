@@ -1,0 +1,1 @@
+A model theory can be given by Heyting algebras or, equivalently, by Kripke semantics.

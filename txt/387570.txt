@@ -1,0 +1,1 @@
+It is fairly common for websites to have generated content.

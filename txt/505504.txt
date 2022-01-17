@@ -1,0 +1,1 @@
+Resistors create electrical noise, called Johnson-Nyquist noise.

@@ -1,0 +1,1 @@
+Voice Code is much more powerful out-of-the-box, but is also harder to extend and more restrictive.

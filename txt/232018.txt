@@ -1,0 +1,1 @@
+Each user action required that a complete new page be loaded from the server.

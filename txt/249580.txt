@@ -1,0 +1,1 @@
+For the ellipse, this factor is also the aspect ratio of the ellipse.

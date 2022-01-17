@@ -1,0 +1,1 @@
+Therefore, the first wavelet-based denoising methods were based on thresholding of detail subbands coefficients.

@@ -1,0 +1,1 @@
+This can for example be done in a time-multiplexed fashion.

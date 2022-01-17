@@ -1,0 +1,1 @@
+During learning, the detectors for each category can be trained jointly.

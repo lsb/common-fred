@@ -1,0 +1,1 @@
+It climbs trees by making successive vertical leaps, much like a squirrel.

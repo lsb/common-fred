@@ -1,0 +1,1 @@
+Then, zero crossings are detected in the filtered result to obtain the edges.

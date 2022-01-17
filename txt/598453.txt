@@ -1,0 +1,1 @@
+The contraction semigroup case is widely used in the theory of Markov processes.

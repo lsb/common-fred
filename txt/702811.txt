@@ -1,0 +1,1 @@
+Therefore, the rings in this article are assumed to be commutative rings with identity.

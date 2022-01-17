@@ -1,0 +1,1 @@
+That means a route between router A and router E must be available.

@@ -1,0 +1,1 @@
+I use templates in my text editor to quickly generate boilerplate syntax, such as the skeleton of a for loop.

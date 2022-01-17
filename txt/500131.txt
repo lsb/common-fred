@@ -1,0 +1,1 @@
+Pulse generators are generally single-channel providing one frequency, delay, width and output.

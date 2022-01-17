@@ -1,0 +1,1 @@
+This decomposition is conducted only in the physical domain from an axiomatic design viewpoint.

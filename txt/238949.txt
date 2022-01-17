@@ -1,0 +1,1 @@
+Every image processing software contains automatic contrast and color enhancement.

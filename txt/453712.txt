@@ -1,0 +1,1 @@
+Modalities can be generally defined in two forms: human-computer and computer-human modalities.

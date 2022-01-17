@@ -1,0 +1,1 @@
+Each invoice record has an attribute containing the supplier number for that invoice.

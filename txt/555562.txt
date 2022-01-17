@@ -1,0 +1,1 @@
+That means a level of acceleration must be set which starts the recording process.

@@ -1,0 +1,1 @@
+These techniques can also be used to find specific shapes in an image.

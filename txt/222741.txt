@@ -1,0 +1,1 @@
+Dipole moment values can be obtained from measurement of the dielectric constant.

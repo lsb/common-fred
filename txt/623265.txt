@@ -1,0 +1,1 @@
+The image of a function is the set of all outputs of the function.

@@ -1,0 +1,1 @@
+In addition, more recent versions, the default button is shown with a blue border.

@@ -1,0 +1,1 @@
+A simple example would be the requirement to go directly to a specified room.

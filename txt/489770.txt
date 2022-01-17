@@ -1,0 +1,1 @@
+Pauropods are shy of light, and will attempt to distance themselves from light sources.

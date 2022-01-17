@@ -1,0 +1,1 @@
+Starting with any given polyhedron, the dual of its dual is the original polyhedron.

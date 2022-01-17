@@ -1,0 +1,1 @@
+The client configuration requires only specifying the name of the host.

@@ -1,0 +1,1 @@
+The rule-set is grouped into five orthogonal subsets.

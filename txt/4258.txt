@@ -1,0 +1,1 @@
+"""Lapon"" sought out torpedo targets and inflicted heavy damage on the enemy."

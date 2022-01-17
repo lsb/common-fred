@@ -1,0 +1,1 @@
+A similar definition applies to sheaves on topoi, such as etale sheaves.

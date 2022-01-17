@@ -1,0 +1,1 @@
+These systems used Fixed priority pre-emptive scheduling.

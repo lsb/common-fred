@@ -1,0 +1,1 @@
+Windows Installer does not handle dependencies between products.

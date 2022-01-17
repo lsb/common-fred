@@ -1,0 +1,1 @@
+There are polynomial-time methods to solve the min-cut problem, notably the Edmonds-Karp algorithm.

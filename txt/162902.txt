@@ -1,0 +1,1 @@
+An integrated debugger allows graphically doing all debugging with breakpoints and backtraces.

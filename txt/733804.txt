@@ -1,0 +1,1 @@
+This is termed a binary additive stream cipher.

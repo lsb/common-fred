@@ -1,0 +1,1 @@
+A third observer would observe the second and so on.

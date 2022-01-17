@@ -1,0 +1,1 @@
+It was designed for simplicity rather than flexibility.

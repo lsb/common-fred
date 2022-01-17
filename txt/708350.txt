@@ -1,0 +1,1 @@
+These smaller units allow for more accurate calculations without the use of decimals.

@@ -1,0 +1,1 @@
+A conserved quantity can be a useful tool for qualitative analysis.

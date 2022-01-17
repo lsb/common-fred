@@ -1,0 +1,1 @@
+Precompiled libraries often come in several versions compiled for different memory models.

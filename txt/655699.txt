@@ -1,0 +1,1 @@
+The remainder of the article assumes an ordinary least squares regression.

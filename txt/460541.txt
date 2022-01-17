@@ -1,0 +1,1 @@
+Multi-parameter functions can be represented via the method of currying.

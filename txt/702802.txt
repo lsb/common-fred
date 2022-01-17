@@ -1,0 +1,1 @@
+Therefore, the projection sending to is a birational morphism.

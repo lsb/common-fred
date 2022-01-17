@@ -1,0 +1,1 @@
+It is arc connected but not locally connected.

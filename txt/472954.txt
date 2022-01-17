@@ -1,0 +1,1 @@
+Odin does not use emulation or a compatibility layer.

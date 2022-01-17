@@ -1,0 +1,1 @@
+Another example for simultaneous two-dimensional scrolling is an alignment program for protein sequences.

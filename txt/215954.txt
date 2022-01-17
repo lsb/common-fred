@@ -1,0 +1,1 @@
+Currencies are traded in pairs, each currency being priced in terms of another.

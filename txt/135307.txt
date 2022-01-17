@@ -1,0 +1,1 @@
+A sequence which does not converge is said to be divergent.

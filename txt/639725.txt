@@ -1,0 +1,1 @@
+The new integrated terminal has doubled the capacity of the old terminal.

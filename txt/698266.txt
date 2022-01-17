@@ -1,0 +1,1 @@
+There is always a banker, and the number of players is unlimited.

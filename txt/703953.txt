@@ -1,0 +1,1 @@
+These are two features that called machine-language routines stored in memory.

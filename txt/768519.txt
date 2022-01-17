@@ -1,0 +1,1 @@
+Wagers are placed based on possible combinations that can appear on the three dice.

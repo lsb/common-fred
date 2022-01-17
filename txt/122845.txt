@@ -1,0 +1,1 @@
+A category is called skeletal if isomorphic objects are necessarily identical.

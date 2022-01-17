@@ -1,0 +1,1 @@
+One application of light sensors is the compensated light sensor system.

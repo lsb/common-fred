@@ -1,0 +1,1 @@
+For small scene graphs, this tends to suffice.

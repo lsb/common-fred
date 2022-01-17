@@ -1,0 +1,1 @@
+By means of bit-interleaving, the error bursts may be spread in time.

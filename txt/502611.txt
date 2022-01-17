@@ -1,0 +1,1 @@
+Reactor escape time reduces after each phase and eventually becomes virtually impossible to complete.

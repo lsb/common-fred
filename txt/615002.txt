@@ -1,0 +1,1 @@
+The following code example shows a declassify construct from.

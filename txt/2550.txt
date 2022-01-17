@@ -1,0 +1,1 @@
+"""Fusa"" derives from the mensural notation corresponding to the modern eighth note."

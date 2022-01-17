@@ -1,0 +1,1 @@
+It includes several patches and plugins developed by the company itself or the community.

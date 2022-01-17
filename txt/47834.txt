@@ -1,0 +1,1 @@
+"If something is ""water"", then many of its subparts will also be ""water""."

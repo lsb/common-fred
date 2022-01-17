@@ -1,0 +1,1 @@
+Auto-starting simplified management by allowing the sending machine to start the transfer.

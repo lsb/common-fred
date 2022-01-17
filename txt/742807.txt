@@ -1,0 +1,1 @@
+This uses caches rather than scratchpads, but still manages to achieve high throughput.

@@ -1,0 +1,1 @@
+An important subclass of compact operators is the trace-class or nuclear operators.

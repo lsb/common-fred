@@ -1,0 +1,1 @@
+"""Salient"" employs a full-time designer who is responsible for the look of the magazine."

@@ -1,0 +1,1 @@
+"""Building X"" was soon replaced by the ""Old Church""."

@@ -1,0 +1,1 @@
+Thermodynamic processes can be carried out in one of two ways: reversibly or irreversibly.

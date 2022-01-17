@@ -1,0 +1,1 @@
+"""Composite baselines"" are a mechanism for grouping baselines into a collection."

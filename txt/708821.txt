@@ -1,0 +1,1 @@
+These thermal gradients in turn may generate a voltage through the Seebeck effect.

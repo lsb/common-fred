@@ -1,0 +1,1 @@
+The barycentric subdivision subdivides each edge of the graph.

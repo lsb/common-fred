@@ -1,0 +1,1 @@
+The primary application of Costas loops is in wireless receivers.

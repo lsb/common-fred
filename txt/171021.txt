@@ -1,0 +1,1 @@
+As a downside, such boot loaders have increased internal complexity and even bigger footprints.

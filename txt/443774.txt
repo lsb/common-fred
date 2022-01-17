@@ -1,0 +1,1 @@
+Many mailing lists still use Majordomo.

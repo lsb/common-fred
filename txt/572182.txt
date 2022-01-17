@@ -1,0 +1,1 @@
+The RoleTailored Client has been renamed the Windows Client.

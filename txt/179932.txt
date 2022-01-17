@@ -1,0 +1,1 @@
+Authorities in a signal are separated by semicolons.

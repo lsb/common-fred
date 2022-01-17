@@ -1,0 +1,1 @@
+This sign is used to determine which waveform you are viewing.

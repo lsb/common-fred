@@ -1,0 +1,1 @@
+A collection system has to know to look for a particular signal.

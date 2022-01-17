@@ -1,0 +1,1 @@
+Both algebraic geometry and algebraic number theory build on commutative algebra.

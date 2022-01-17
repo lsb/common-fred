@@ -1,0 +1,1 @@
+Frequency modulation is also more robust against signal-amplitude-fading phenomena.

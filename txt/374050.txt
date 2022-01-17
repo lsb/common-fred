@@ -1,0 +1,1 @@
+It can now show long-term trends in water quality.

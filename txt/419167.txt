@@ -1,0 +1,1 @@
+Its security is based on the intractability of certain discrete logarithm problems.

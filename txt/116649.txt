@@ -1,0 +1,1 @@
+"We can describe the object's movement with a differential equation of second order."

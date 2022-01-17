@@ -1,0 +1,1 @@
+"An element of the boundary of ""S"" is called a boundary point of ""S""."

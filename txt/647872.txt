@@ -1,0 +1,1 @@
+The pickups, knobs and pickup toggle were black as well.

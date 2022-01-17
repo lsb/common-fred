@@ -1,0 +1,1 @@
+On a great circle, the bearing to the destination point does not remain constant.

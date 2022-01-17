@@ -1,0 +1,1 @@
+The product of a Hessenberg matrix with a triangular matrix is again Hessenberg.

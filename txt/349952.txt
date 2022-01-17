@@ -1,0 +1,1 @@
+If the user changed the master drawing, all the instances would change as well.

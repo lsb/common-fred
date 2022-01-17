@@ -1,0 +1,1 @@
+Thus stationary distributions are related to eigenvectors for which the eigenvalue is unity.

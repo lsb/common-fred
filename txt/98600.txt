@@ -1,0 +1,1 @@
+"The player can customize their character's stats through gaining experience points from defeating enemies."

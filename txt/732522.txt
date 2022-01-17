@@ -1,0 +1,1 @@
+This is called a two-body problem, or an unperturbed Keplerian orbit.

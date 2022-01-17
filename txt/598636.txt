@@ -1,0 +1,1 @@
+The convex hull of these two circles forms a shape called an oloid.

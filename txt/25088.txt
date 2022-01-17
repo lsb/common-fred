@@ -1,0 +1,1 @@
+"Cyberduck includes a bookmark manager and supports Apple's Keychain and Bonjour networking."

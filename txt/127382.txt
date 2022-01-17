@@ -1,0 +1,1 @@
+A handful of separate specifications define additional vCard properties.

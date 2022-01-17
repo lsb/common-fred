@@ -1,0 +1,1 @@
+For complements of trees, the achromatic number can be computed in polynomial time.

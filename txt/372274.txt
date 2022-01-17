@@ -1,0 +1,1 @@
+It also places various configuration parameters into memory, and transfers control to the kernel.

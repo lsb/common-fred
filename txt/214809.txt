@@ -1,0 +1,1 @@
+Credible intervals are not unique on a posterior distribution.

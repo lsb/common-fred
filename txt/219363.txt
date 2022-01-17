@@ -1,0 +1,1 @@
+Delegata potestas non potest delegari.

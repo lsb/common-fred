@@ -1,0 +1,1 @@
+"""Sajama"" province is one of the sixteen provinces in the Oruro Department."

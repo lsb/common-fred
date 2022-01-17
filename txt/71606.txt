@@ -1,0 +1,1 @@
+"Platform sharing ""may"" be less noticeable now; however, it is still very apparent."

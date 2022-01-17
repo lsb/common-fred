@@ -1,0 +1,1 @@
+Some flags are set or reset under program control.

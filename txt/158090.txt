@@ -1,0 +1,1 @@
+Also see undersampling for information about downsampling bandpass functions and signals.

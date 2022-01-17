@@ -1,0 +1,1 @@
+It is not enough to copy the files for a locale into the folder.

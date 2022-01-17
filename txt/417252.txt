@@ -1,0 +1,1 @@
+Its gradient would be a conservative vector field and is irrotational.

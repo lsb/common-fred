@@ -1,0 +1,1 @@
+A material may be classified as rippable, marginally rippable or non-rippable.

@@ -1,0 +1,1 @@
+"Some non-optical design references use the letter ""p"" as the conic constant."

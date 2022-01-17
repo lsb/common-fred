@@ -1,0 +1,1 @@
+One important factor to be minimized is the connection establishment delay.

@@ -1,0 +1,1 @@
+In those systems, tcpdump uses the libpcap library to capture packets.

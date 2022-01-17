@@ -1,0 +1,1 @@
+That stated, modern switches will employ hard zoning when you implement soft.

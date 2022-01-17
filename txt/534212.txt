@@ -1,0 +1,1 @@
+Single neurons demonstrate different responses to specific neuronal input signals.

@@ -1,0 +1,1 @@
+Blood plasma concentrations are proportional to dose, whereas the absolute bioavailability is unknown.

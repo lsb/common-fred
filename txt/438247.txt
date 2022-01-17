@@ -1,0 +1,1 @@
+Longitudes were specified in signs, degrees, minutes, and seconds.

@@ -1,0 +1,1 @@
+In later games the limit on protected instructions was lowered because of this.

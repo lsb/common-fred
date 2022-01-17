@@ -1,0 +1,1 @@
+"""Passive"" means that voltage-dependent changes in membrane conductance do not contribute."

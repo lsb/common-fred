@@ -1,0 +1,1 @@
+Then the remaining component force is only the wetting force.

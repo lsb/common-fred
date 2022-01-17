@@ -1,0 +1,1 @@
+It represents colors which are on the label.

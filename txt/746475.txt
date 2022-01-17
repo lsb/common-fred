@@ -1,0 +1,1 @@
+Those ports that handle containerized cargo are known as container ports.

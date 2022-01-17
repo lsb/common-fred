@@ -1,0 +1,1 @@
+If any part fails, the set is deemed useless.

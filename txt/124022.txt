@@ -1,0 +1,1 @@
+A covariety is the class of all coalgebraic structures of a given signature.

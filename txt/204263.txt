@@ -1,0 +1,1 @@
+Certain entity types may also invoke external documents.

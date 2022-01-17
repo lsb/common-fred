@@ -1,0 +1,1 @@
+Relative turmites are, by definition, isotropic; rotating the turmite does not affect its outcome.

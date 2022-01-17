@@ -1,0 +1,1 @@
+Beam riding is based on a signal that is pointed towards the target.

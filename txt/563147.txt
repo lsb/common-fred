@@ -1,0 +1,1 @@
+The Euler numbers appear as special magnitudes in Euler polynomials.

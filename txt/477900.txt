@@ -1,0 +1,1 @@
+One logical processor runs what is called the foreground thread.

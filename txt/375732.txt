@@ -1,0 +1,1 @@
+It dictates the position of every damper and valve in a system.

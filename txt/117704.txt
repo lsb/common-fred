@@ -1,0 +1,1 @@
+"When ""N"" is a square, subplanes of order are called ""Baer subplanes""."

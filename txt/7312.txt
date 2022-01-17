@@ -1,0 +1,1 @@
+"""Tecmo Super Bowl"" also adds cut scenes when injuries or big plays occurred."

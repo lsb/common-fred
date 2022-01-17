@@ -1,0 +1,1 @@
+"When a material's Fermi level falls in a bandgap, there is no Fermi surface."

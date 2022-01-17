@@ -1,0 +1,1 @@
+There are three gates facing east, west, and north.

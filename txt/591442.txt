@@ -1,0 +1,1 @@
+The check digit is calculated using the Luhn algorithm.

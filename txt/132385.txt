@@ -1,0 +1,1 @@
+A non-coordinate based encoding scheme must be used to identify each sensor.

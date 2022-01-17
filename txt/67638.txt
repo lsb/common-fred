@@ -1,0 +1,1 @@
+"Note that both endogenous variables depend on the exogenous variable ""Z""."

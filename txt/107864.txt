@@ -1,0 +1,1 @@
+"These ratios are called the ""duty cycle"" of the pulse train."

@@ -1,0 +1,1 @@
+"A ""frame"" is one complete representation of the dancer."

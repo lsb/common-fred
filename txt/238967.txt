@@ -1,0 +1,1 @@
+Every line longer than eight syllables is divided into two half-lines.

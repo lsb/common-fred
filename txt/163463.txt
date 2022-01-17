@@ -1,0 +1,1 @@
+An unnamed widget has a blank name and no pointer is stored.

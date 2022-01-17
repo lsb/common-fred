@@ -1,0 +1,1 @@
+"A completed question-and-answer pair is called an ""Oracularity""."

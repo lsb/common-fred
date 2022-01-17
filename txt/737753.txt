@@ -1,0 +1,1 @@
+This particular poem is verse-mode, not prose-mode.

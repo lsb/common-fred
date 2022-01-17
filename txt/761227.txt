@@ -1,0 +1,1 @@
+Typically, a computer is an initiator and a data storage device is a target.

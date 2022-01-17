@@ -1,0 +1,1 @@
+Voice recognition should work for people who speak with a lisp.

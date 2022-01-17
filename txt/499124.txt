@@ -1,0 +1,1 @@
+Programs are evaluated from top to bottom.

@@ -1,0 +1,1 @@
+"If players spell ""Nintendo"" while racing with the Spiker, then they win the game."

@@ -1,0 +1,1 @@
+It describes the interface between the global transaction manager and the local resource manager.

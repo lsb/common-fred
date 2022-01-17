@@ -1,0 +1,1 @@
+Another possible example of anti-time contamination is the date.

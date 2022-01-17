@@ -1,0 +1,1 @@
+"Electric charge flows through a semiconducting channel between ""source"" and ""drain"" terminals."

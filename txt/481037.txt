@@ -1,0 +1,1 @@
+Opening removes small objects, while closing removes small holes.

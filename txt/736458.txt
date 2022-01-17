@@ -1,0 +1,1 @@
+This means the client code does not need to know about the injecting code.

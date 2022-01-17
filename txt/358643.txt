@@ -1,0 +1,1 @@
+In most realistic physical situations, the equation governing the wave is only approximately linear.

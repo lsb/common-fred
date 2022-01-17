@@ -1,0 +1,1 @@
+This logical host identity is not tied to a single cluster node.

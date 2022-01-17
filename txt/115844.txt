@@ -1,0 +1,1 @@
+"Using Active Memory Expansion can improve system utilization and increase a system's throughput."

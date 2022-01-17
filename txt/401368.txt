@@ -1,0 +1,1 @@
+It measured the light level but had no camera.

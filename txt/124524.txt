@@ -1,0 +1,1 @@
+A directed graph consists of nodes and edges.

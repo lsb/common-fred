@@ -1,0 +1,1 @@
+A trial balance only checks the sum of debits against the sum of credits.

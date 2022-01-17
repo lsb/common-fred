@@ -1,0 +1,1 @@
+"""Tiptoe Through the Tulips"" plays in the background."

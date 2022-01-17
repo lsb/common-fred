@@ -1,0 +1,1 @@
+"It used the ""Windows Messaging Layer"" functionality within Windows."

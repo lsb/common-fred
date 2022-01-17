@@ -1,0 +1,1 @@
+Wintermute Engine follows the object-oriented design philosophy.

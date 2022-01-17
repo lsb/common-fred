@@ -1,0 +1,1 @@
+These often generalize to multi-dimensional arguments, and more than two arguments.

@@ -1,0 +1,1 @@
+A club cannot field more than one team for a certain competition.

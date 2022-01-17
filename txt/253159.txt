@@ -1,0 +1,1 @@
+Frequently abstraction layers can be composed into a hierarchy of abstraction levels.

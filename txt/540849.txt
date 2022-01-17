@@ -1,0 +1,1 @@
+Some percentile ranks are closer to some than others.

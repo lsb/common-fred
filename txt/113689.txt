@@ -1,0 +1,1 @@
+"Thus, any compromise of the user's password automatically leads to access to that data."

@@ -1,0 +1,1 @@
+It is sometimes called an asymptotic line, although it need not be a line.

@@ -1,0 +1,1 @@
+In these cases the end-to-end gamma is approximately the product of the separate gammas.

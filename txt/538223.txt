@@ -1,0 +1,1 @@
+Some box plots include an additional character to represent the mean of the data.

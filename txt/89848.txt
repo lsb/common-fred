@@ -1,0 +1,1 @@
+"The classes that implement the pattern include a ""d-pointer"" to the data class."

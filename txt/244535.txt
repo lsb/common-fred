@@ -1,0 +1,1 @@
+First, the host sends a file with the initial conditions to each player.

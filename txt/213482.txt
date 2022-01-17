@@ -1,0 +1,1 @@
+Core-prints correspond to the apertures of the connecting links.

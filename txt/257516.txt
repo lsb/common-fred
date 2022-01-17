@@ -1,0 +1,1 @@
+Geodesic is a curve which locally minimizes distance.

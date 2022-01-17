@@ -1,0 +1,1 @@
+Every hash function with more inputs than outputs will necessarily have collisions.

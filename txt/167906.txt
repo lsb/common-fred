@@ -1,0 +1,1 @@
+Any drift from true time maintained on the ground is corrected daily.

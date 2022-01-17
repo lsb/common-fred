@@ -1,0 +1,1 @@
+Here the winner of the game is the player who removes most parts successfully.

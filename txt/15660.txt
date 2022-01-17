@@ -1,0 +1,1 @@
+"Analysis of ""pure"" abstract strategy games is the subject of combinatorial game theory."

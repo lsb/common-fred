@@ -1,0 +1,1 @@
+Golomb was the inventor of Golomb coding, a form of entropy encoding.

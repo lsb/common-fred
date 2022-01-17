@@ -1,0 +1,1 @@
+"""Presumed abort"" or ""Presumed commit"" are common such optimizations."

@@ -1,0 +1,1 @@
+Windows applications work to various degrees in CrossOver.

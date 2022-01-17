@@ -1,0 +1,1 @@
+Quantum deformations of the universal enveloping algebra lead to the notion of quantum groups.

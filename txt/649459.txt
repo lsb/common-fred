@@ -1,0 +1,1 @@
+The policy should be in the same currency as the contract.

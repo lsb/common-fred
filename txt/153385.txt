@@ -1,0 +1,1 @@
+All lossless data compression methods are transparent, by nature.

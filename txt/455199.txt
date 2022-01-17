@@ -1,0 +1,1 @@
+More properly, it is the partitioning of sums of squared deviations or errors.

@@ -1,0 +1,1 @@
+V represents a vowel; C represents a consonant.

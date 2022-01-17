@@ -1,0 +1,1 @@
+Every positive rational number can be represented by an Egyptian fraction.

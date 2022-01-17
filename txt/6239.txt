@@ -1,0 +1,1 @@
+"""Results list Norway's goal tally first"""

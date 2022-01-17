@@ -1,0 +1,1 @@
+Other tiling puzzles ask you to dissect a given shape while fulfilling certain conditions.

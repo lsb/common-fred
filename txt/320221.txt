@@ -1,0 +1,1 @@
+Hidden trapdoors are plentiful, dropping the player down to the next lower floor.

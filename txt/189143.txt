@@ -1,0 +1,1 @@
+Bomberman can acquire various power-ups which can increase his speed and his bomb power.

@@ -1,0 +1,1 @@
+Different micro-architectures typically require different machine code to hit their maximum power.

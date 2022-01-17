@@ -1,0 +1,1 @@
+Drop towers vary in height, passenger capacity, lift type, and brake type.

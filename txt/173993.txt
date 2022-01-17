@@ -1,0 +1,1 @@
+As the player damages the Robot Masters, various energy pellets come out of them.

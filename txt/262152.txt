@@ -1,0 +1,1 @@
+Ground waves, tropospheric scatter and skywaves can all achieve greater ranges than line-of-sight propagation.

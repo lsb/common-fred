@@ -1,0 +1,1 @@
+Test stimuli can be displayed on the hemisphere.

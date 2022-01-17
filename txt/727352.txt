@@ -1,0 +1,1 @@
+This construction is in particular applied to the cotangent bundle of a smooth manifold.

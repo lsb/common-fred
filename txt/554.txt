@@ -1,0 +1,1 @@
+"""Arena seats"" are often set up on the track and ground."

@@ -1,0 +1,1 @@
+But if the test finds three rational solutions, then the cube roots are avoided.

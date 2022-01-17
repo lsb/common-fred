@@ -1,0 +1,1 @@
+"Most important features and bugfixes are merged in main Bombus code after author's approval."

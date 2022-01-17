@@ -1,0 +1,1 @@
+"""Finnegans Wake"" comprises seventeen chapters, divided into four Parts or Books."

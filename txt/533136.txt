@@ -1,0 +1,1 @@
+Since both variants are acceptable, pied-piping in such cases is optional.

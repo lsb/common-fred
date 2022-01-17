@@ -1,0 +1,1 @@
+One of the parts, a code component, is for storage and processing.

@@ -1,0 +1,1 @@
+Details such as folds on a jacket are ignored, and general shapes are favored.

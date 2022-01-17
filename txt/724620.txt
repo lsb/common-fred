@@ -1,0 +1,1 @@
+This allows obstacles to be cleared with less change in height.

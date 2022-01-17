@@ -1,0 +1,1 @@
+Certain systems, intentionally, do not failover entirely automatically, but require human intervention.

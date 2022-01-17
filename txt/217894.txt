@@ -1,0 +1,1 @@
+Data travels only from the meter transmitter to the reading receiver.

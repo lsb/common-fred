@@ -1,0 +1,1 @@
+An example is audio transmission over balanced lines in sound reinforcement or recording.

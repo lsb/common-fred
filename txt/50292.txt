@@ -1,0 +1,1 @@
+"In the ""n""-sphere ""S"" we choose a base point ""a""."

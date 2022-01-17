@@ -1,0 +1,1 @@
+Multiple mailbox support also allows servers to provide access to shared and public folders.

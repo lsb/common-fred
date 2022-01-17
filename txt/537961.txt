@@ -1,0 +1,1 @@
+Some applications attempt to recover from the error and continue running instead of exiting.

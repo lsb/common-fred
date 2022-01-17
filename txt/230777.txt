@@ -1,0 +1,1 @@
+Each enemy possesses a tour counter, and attack when it counts down to zero.

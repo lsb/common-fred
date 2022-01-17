@@ -1,0 +1,1 @@
+As the queue grows, the probability for dropping an incoming packet grows too.

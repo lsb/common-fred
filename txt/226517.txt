@@ -1,0 +1,1 @@
+Due to this, hubs can only run in half duplex mode.

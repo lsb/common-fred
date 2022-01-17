@@ -1,0 +1,1 @@
+This reduces weight for a given amount of armour.

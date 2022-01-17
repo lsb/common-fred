@@ -1,0 +1,1 @@
+The preceding discussion assumes the degenerate hyperplane is not in the arrangement.

@@ -1,0 +1,1 @@
+Many components in the capsule itself were reachable through their own small access doors.

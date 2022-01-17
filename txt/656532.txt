@@ -1,0 +1,1 @@
+The resistances of shunts is in the integer to fractional milliohm range.

@@ -1,0 +1,1 @@
+Devices with hysteresis have memory, in that previous system states dictate future states.

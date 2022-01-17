@@ -1,0 +1,1 @@
+Free accounts became dormant if the user did not log in every six months.

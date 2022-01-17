@@ -1,0 +1,1 @@
+This expansion is the limit of point-to-point configurations necessary for communication.

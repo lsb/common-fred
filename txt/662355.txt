@@ -1,0 +1,1 @@
+The security mechanism on the original camera consisted of a challenge and response.

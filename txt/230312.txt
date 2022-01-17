@@ -1,0 +1,1 @@
+Each Divine Domain gives the cleric different default domain spells.

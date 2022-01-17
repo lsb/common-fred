@@ -1,0 +1,1 @@
+"It defines a family as being ""composed of father, mother and children""."

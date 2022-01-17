@@ -1,0 +1,1 @@
+"Jarte offers 'tabbed' functionality."

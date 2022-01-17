@@ -1,0 +1,1 @@
+An important generalization, notably in birational geometry, is that of a big line bundle.

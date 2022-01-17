@@ -1,0 +1,1 @@
+As an observable, corresponds to the total energy of the system.

@@ -1,0 +1,1 @@
+"Atmel streamlined operations with a strategy called ""fab-lite""."

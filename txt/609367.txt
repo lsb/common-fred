@@ -1,0 +1,1 @@
+The extension supported the normal media player functions and displayed currently playing track information.

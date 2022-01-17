@@ -1,0 +1,1 @@
+"Taking the sharp of a covector field is referred to as ""raising an index""."

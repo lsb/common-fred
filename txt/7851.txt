@@ -1,0 +1,1 @@
+"""The New York Times"" called ""Ethan Frome"" ""a compelling and haunting story."

@@ -1,0 +1,1 @@
+Compact elements cannot be approximated by elements strictly below them.

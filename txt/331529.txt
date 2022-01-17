@@ -1,0 +1,1 @@
+Historically, Internet mapping providers have utilized map data from a variety of vendors.

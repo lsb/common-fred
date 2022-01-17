@@ -1,0 +1,1 @@
+Beamwidth is usually but not always expressed in degrees and for the horizontal plane.

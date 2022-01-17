@@ -1,0 +1,1 @@
+For example, food choice should be the same in domestic and wild types.

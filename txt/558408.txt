@@ -1,0 +1,1 @@
+The Bernoulli model admits a complete statistic.

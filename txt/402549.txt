@@ -1,0 +1,1 @@
+It plays audio files, organizes playlists and maintains a music database.

@@ -1,0 +1,1 @@
+This enabled Jetdirect cards to connect to almost any printer, making that printer network-capable.

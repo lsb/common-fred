@@ -1,0 +1,1 @@
+Firefox Focus is a new Mozilla Foundation project, which brings private web surfing to a higher level.

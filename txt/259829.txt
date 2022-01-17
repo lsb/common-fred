@@ -1,0 +1,1 @@
+GoldWave has an array of features bundled which define the program.

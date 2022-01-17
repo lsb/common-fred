@@ -1,0 +1,1 @@
+There is a counter on the top left of the web page.

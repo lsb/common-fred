@@ -1,0 +1,1 @@
+Some manufacturers provide drivers that allow the control of multiple handsets.

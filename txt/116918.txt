@@ -1,0 +1,1 @@
+"We'll focus on the one-dimensional case, the proof in higher dimensions is similar."

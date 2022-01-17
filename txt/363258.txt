@@ -1,0 +1,1 @@
+In the geostatistics community Gaussian process regression is also known as Kriging.

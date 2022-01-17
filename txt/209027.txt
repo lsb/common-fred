@@ -1,0 +1,1 @@
+Code that handles such intercepted function calls, events or messages is called a hook.

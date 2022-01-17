@@ -1,0 +1,1 @@
+Frequency response requirements differ depending on the application.

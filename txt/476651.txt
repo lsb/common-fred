@@ -1,0 +1,1 @@
+Once a part of an enemy has taken sufficient damage, it can break off.

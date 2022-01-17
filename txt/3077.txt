@@ -1,0 +1,1 @@
+"""Hero, Hero"" also combine ""Winter"", ""Deep Freeze"" and ""Winter Retreat"" into one track."

@@ -1,0 +1,1 @@
+A float switch in the relay is used to initiate an alarm signal.

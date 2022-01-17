@@ -1,0 +1,1 @@
+All required reactive power is delivered from the generators of the power plant.

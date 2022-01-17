@@ -1,0 +1,1 @@
+School Departments serve a single town or city.

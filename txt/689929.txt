@@ -1,0 +1,1 @@
+Then he moved to Hewlett-Packard Labs, where he developed a module architecture for Squeak.

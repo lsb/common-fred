@@ -1,0 +1,1 @@
+"""Cent"" also refers to a coin worth one cent."

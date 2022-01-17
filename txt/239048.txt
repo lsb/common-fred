@@ -1,0 +1,1 @@
+Every player is placed in one of five classes according to their skill.

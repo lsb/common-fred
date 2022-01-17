@@ -1,0 +1,1 @@
+However, many types of computers still use their traditional scancodes to maintain backward compatibility.

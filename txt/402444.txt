@@ -1,0 +1,1 @@
+It passes over a pulley which has a pointer attached to it.

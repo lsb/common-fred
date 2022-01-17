@@ -1,0 +1,1 @@
+If the current is sufficiently small, the vortices are stationary, and the resistivity vanishes.

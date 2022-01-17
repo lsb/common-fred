@@ -1,0 +1,1 @@
+Vector G is useful for finding distance between arbitrary planes in the crystal.

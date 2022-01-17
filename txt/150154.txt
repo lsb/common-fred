@@ -1,0 +1,1 @@
+Afterwards, crash recovery simply ignores incomplete entries.

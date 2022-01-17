@@ -1,0 +1,1 @@
+Description: An interactive variational technique for image segmentation and visual tracking.

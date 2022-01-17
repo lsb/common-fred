@@ -1,0 +1,1 @@
+Voiced and voiceless fricatives are consistently not distinguished in the script.

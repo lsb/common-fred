@@ -1,0 +1,1 @@
+A solved game for most of its variations, with first-player win with perfect play.

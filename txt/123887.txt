@@ -1,0 +1,1 @@
+A corner kick is taken as soon as the ball is kicked and moves.

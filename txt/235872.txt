@@ -1,0 +1,1 @@
+Enemy vessels may be destroyed in space, or boarded for ground combat.

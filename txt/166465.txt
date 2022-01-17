@@ -1,0 +1,1 @@
+Another design problem was the increasing performance gap between the processor and main memory.

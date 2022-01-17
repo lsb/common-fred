@@ -1,0 +1,1 @@
+A text file contains human-readable characters.

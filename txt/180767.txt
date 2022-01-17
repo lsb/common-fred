@@ -1,0 +1,1 @@
+Bacteria control the production of pathogenicity factors via quorum sensing.

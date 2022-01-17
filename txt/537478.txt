@@ -1,0 +1,1 @@
+Solaris implements a separate set of functions for privilege bracketing.

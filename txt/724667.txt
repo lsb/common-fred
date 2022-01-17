@@ -1,0 +1,1 @@
+This allows the file to be decoded as either lossless or lossy.

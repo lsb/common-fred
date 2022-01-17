@@ -1,0 +1,1 @@
+"""Lactobacillus plantarum"" is the most common bacterium used in silage inoculants."

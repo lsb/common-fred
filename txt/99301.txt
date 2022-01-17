@@ -1,0 +1,1 @@
+"The range of a mortar is controlled by the number of propellant ""C-charges"" attached."

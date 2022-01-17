@@ -1,0 +1,1 @@
+Each level of difficulty for a particular element corresponds to a pre-determined base value.

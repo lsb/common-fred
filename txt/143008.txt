@@ -1,0 +1,1 @@
+Adblock Plus also supports a more-sophisticated syntax that gives fine-grain control over filters.

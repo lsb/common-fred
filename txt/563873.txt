@@ -1,0 +1,1 @@
+The FreeCell game has a constant number of cards.

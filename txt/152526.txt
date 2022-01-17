@@ -1,0 +1,1 @@
+All aspects of signal synthesis and manipulation are handled entirely by the plugin system.

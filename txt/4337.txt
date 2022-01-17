@@ -1,0 +1,1 @@
+"""Let's Take It to the Stage"" is a funk rock album."

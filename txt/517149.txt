@@ -1,0 +1,1 @@
+Several other messages are exchanged to indicate the status of the delivery attempt.

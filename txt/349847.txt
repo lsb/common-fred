@@ -1,0 +1,1 @@
+If the player cannot play a card, he must draw from the deck.

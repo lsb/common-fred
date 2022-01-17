@@ -1,0 +1,1 @@
+Higher-order Voronoi diagrams can be generated recursively.

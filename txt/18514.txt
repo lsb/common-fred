@@ -1,0 +1,1 @@
+"Authors often call it a ""narrowband assumption"", or a narrowband signal model."

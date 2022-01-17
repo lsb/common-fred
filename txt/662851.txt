@@ -1,0 +1,1 @@
+The series of cutpoints is determined by a pseudo-random sequence.

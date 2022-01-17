@@ -1,0 +1,1 @@
+"Because forecast errors are given, companies often carry an inventory buffer called ""safety stock""."

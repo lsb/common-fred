@@ -1,0 +1,1 @@
+Different encoded versions can be compared against each other using these scores.

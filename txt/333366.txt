@@ -1,0 +1,1 @@
+How any system is developed can be determined through a data flow diagram model.

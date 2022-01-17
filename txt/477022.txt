@@ -1,0 +1,1 @@
+Once the triangle is located, the larger hexagon may then be found.

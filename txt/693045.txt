@@ -1,0 +1,1 @@
+There are many trade-offs between supporting continuous commands and keeping performance high.

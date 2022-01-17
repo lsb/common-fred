@@ -1,0 +1,1 @@
+In cases where it is redundant, a peephole optimization would remove these instructions.

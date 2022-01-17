@@ -1,0 +1,1 @@
+Each room can be entered once.

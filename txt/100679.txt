@@ -1,0 +1,1 @@
+"The set of all non-generators forms a subgroup of ""G"", the Frattini subgroup."

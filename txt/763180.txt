@@ -1,0 +1,1 @@
+Unlike machine code, Short Code statements represented mathematical expressions in understandable form.

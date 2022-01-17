@@ -1,0 +1,1 @@
+It can also import video and photo files from a hard drive.

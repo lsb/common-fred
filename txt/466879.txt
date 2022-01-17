@@ -1,0 +1,1 @@
+No compression method is applied to the source data.

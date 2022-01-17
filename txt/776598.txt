@@ -1,0 +1,1 @@
+When it was designed, it was a high-performance pipelined processor with core memory.

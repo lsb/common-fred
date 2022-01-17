@@ -1,0 +1,1 @@
+The Provisioning Model uses the Policy Information Base as a repository of the policies.

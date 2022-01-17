@@ -1,0 +1,1 @@
+"""Stutter"" was written by Elastica's lead singer, Justine Frischmann."

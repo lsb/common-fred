@@ -1,0 +1,1 @@
+The screen scrolls automatically, only stopping to fight major enemies.

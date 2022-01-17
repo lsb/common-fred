@@ -1,0 +1,1 @@
+The Foundation Kit provides basic classes such as wrapper classes and data structure classes.

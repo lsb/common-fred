@@ -1,0 +1,1 @@
+Also, one needs to define the opacity and color of every voxel.

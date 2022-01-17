@@ -1,0 +1,1 @@
+"""Karaoke Revolution Presents: American Idol"" utilizes American Idol judges, commentary, and stages."

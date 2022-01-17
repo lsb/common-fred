@@ -1,0 +1,1 @@
+Besides the space trade-off, the different data structures also facilitate different operations.

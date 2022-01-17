@@ -1,0 +1,1 @@
+Indeed, every interval within this lattice is self-dual.

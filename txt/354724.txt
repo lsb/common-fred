@@ -1,0 +1,1 @@
+In addition, the hexagon is a hexiamond, so all polyhexes are also distinct polyiamonds.

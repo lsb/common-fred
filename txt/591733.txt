@@ -1,0 +1,1 @@
+The choice of Slack bus is entirely arbitrary, here bus is chosen.

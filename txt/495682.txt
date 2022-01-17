@@ -1,0 +1,1 @@
+Populations can change through three processes: fertility, mortality, and migration.

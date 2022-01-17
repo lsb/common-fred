@@ -1,0 +1,1 @@
+The scheduler selects the next process from the active array with highest priority.

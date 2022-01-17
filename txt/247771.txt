@@ -1,0 +1,1 @@
+For efficiency, a block should not be in the work list more than once.

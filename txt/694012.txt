@@ -1,0 +1,1 @@
+There are several advantages to using smoothed best response, both theoretical and empirical.

@@ -1,0 +1,1 @@
+The frame header is packed into big-endian dwords.

@@ -1,0 +1,1 @@
+This set of two values is also called the Boolean domain.

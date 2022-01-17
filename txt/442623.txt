@@ -1,0 +1,1 @@
+Many access control credentials unique serial numbers are programmed in sequential order during manufacturing.

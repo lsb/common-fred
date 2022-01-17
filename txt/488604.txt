@@ -1,0 +1,1 @@
+Particles which interact with each other are said to be coupled.

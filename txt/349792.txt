@@ -1,0 +1,1 @@
+If the killcount reaches a threshold, the team that reached it wins.

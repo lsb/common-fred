@@ -1,0 +1,1 @@
+Some failures are part of the normal wear-and-tear of components in a system.

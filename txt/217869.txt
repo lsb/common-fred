@@ -1,0 +1,1 @@
+Data is organized in columns and rows.

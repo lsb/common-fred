@@ -1,0 +1,1 @@
+Only spaces, tabs and linefeeds have meaning.

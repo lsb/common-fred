@@ -1,0 +1,1 @@
+Proof theory is the study of formal proofs in various logical deduction systems.

@@ -1,0 +1,1 @@
+This distribution appears, for example, in the Fourier Transform of the Sign function.

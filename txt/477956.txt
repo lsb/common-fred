@@ -1,0 +1,1 @@
+One may also apply boolean operations, including subtract, cut and connect.

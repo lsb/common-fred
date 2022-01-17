@@ -1,0 +1,1 @@
+They are also related to Heyting algebra semantics in intuitionistic logic.

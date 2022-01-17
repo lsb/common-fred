@@ -1,0 +1,1 @@
+In simple sounds consisting of one frequency, the pitch is equivalent to the frequency.

@@ -1,0 +1,1 @@
+A note value may be augmented by adding a dot after it.

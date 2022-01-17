@@ -1,0 +1,1 @@
+Formant synthesis does not use human speech samples at runtime.

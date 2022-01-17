@@ -1,0 +1,1 @@
+In some historical systems such as line printers this was implemented as overstrike.

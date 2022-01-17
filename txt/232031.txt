@@ -1,0 +1,1 @@
+Each vehicle is long, wide, using two segments and a middle cab.

@@ -1,0 +1,1 @@
+This situation occurs routinely as chromatographic components elute into a continuous ion source.

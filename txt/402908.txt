@@ -1,0 +1,1 @@
+It provides support for moving, resizing, and deleting windows, but does not support icons.

@@ -1,0 +1,1 @@
+The first responding node will be used as the point of negotiation.

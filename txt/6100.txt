@@ -1,0 +1,1 @@
+"""Quercus douglasii"" is not susceptible to the fungal disease known as sudden oak death."

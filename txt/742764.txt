@@ -1,0 +1,1 @@
+This update includes additional features to address accessibility concerns.

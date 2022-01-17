@@ -1,0 +1,1 @@
+The three neighboring samples must be already encoded samples.

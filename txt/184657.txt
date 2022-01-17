@@ -1,0 +1,1 @@
+Behavior diagrams emphasize what must happen in the system being modeled.

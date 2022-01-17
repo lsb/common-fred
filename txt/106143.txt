@@ -1,0 +1,1 @@
+"There are many algorithms to solve scrambled Rubik's Cubes."

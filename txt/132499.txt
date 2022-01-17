@@ -1,0 +1,1 @@
+A number of algorithms are designed for bandwidth minimization.

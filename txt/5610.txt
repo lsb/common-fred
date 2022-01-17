@@ -1,0 +1,1 @@
+"""P"" performs activity ""a"" at rate ""r"" before evolving to behave as component ""P""."

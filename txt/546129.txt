@@ -1,0 +1,1 @@
+Static timing analysis is often used to determine the maximum safe operating speed.

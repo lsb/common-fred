@@ -1,0 +1,1 @@
+Buildings, roads, crops, and residents are all added to the town automatically between seasons.

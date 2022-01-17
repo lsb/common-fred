@@ -1,0 +1,1 @@
+Note that Miller-Rabin pseudoprimes are called strong pseudoprimes.

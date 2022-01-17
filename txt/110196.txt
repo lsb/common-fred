@@ -1,0 +1,1 @@
+"This condition implies that the particle's speed is close to the speed of light."

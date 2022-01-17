@@ -1,0 +1,1 @@
+"Players may look at their own hands but not at opponents'."

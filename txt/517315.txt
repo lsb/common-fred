@@ -1,0 +1,1 @@
+Several properties of the trace function hold for any finite extension.

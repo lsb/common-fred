@@ -1,0 +1,1 @@
+As a normal form, it is useful in automated theorem proving.

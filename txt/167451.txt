@@ -1,0 +1,1 @@
+Another way to simplify the notation is to eliminate parenthesis by using Polish Notation.

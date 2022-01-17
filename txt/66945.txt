@@ -1,0 +1,1 @@
+"Newton-like methods with higher orders of convergence are the Householder's methods."

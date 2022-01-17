@@ -1,0 +1,1 @@
+A simple example is a system of dilute molecules diffusing in a homogeneous environment.

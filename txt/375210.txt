@@ -1,0 +1,1 @@
+It controls like your standard platform game: run, jump, crouch, and kill enemies.

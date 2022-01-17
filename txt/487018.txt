@@ -1,0 +1,1 @@
+P levels range from zero to five, increasing as the picture becomes more viewable.

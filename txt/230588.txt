@@ -1,0 +1,1 @@
+Each column can therefore be regarded as an independent multinomial distribution.

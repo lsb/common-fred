@@ -1,0 +1,1 @@
+"Applications are said to ""run on"" or ""run on top of"" the resulting platform."

@@ -1,0 +1,1 @@
+Such a machine has polynomially-many configurations, so log-space reductions are also polynomial-time reductions.

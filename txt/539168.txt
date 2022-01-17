@@ -1,0 +1,1 @@
+Some high-level language computer architectures include hardware support for real-time garbage collection.

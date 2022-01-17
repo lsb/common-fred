@@ -1,0 +1,1 @@
+It was not pulling a sign at the time of the crash.

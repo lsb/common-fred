@@ -1,0 +1,1 @@
+The rules are used for interpretation of the meaning of components in the structure.

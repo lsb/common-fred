@@ -1,0 +1,1 @@
+Operator-precedence parsers can be constructed for a large class of context-free grammars.

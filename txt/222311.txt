@@ -1,0 +1,1 @@
+Different interconnection modes may be used for carrying service layer signalling and media traffic.

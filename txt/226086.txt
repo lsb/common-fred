@@ -1,0 +1,1 @@
+Dud bombs have no sensor, so do not interact with the photons.

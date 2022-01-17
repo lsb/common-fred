@@ -1,0 +1,1 @@
+An inner product can be used to define a positive linear functional.

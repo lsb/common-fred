@@ -1,0 +1,1 @@
+The resource managed can be either material or informational.

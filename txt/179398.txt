@@ -1,0 +1,1 @@
+Attenuation can be caused by absorption, but also reflection, scattering, and other physical processes.

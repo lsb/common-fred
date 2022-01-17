@@ -1,0 +1,1 @@
+The concept does not require light-scripts, and is backwards compatible with existing video content.

@@ -1,0 +1,1 @@
+Other intensive properties are derived from those two variables.

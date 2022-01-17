@@ -1,0 +1,1 @@
+If all landmarks are destroyed, the game is lost.

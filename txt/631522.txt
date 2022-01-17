@@ -1,0 +1,1 @@
+The main improvement was the use of a dual gap head permitting write verify.

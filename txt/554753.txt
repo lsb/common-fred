@@ -1,0 +1,1 @@
+Thankfully the autonomous car detected the obstruction and avoided a collision.

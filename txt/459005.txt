@@ -1,0 +1,1 @@
+Motion parallax is a monocular depth cue.

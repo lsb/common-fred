@@ -1,0 +1,1 @@
+"In particular, if ""f"" is infinitely-often differentiable, then so is ""u""."

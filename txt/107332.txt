@@ -1,0 +1,1 @@
+"These affect the player's starting attributes, skills, and abilities."

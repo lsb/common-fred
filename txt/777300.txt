@@ -1,0 +1,1 @@
+When the leader duck dies, then a new leader must be chosen.

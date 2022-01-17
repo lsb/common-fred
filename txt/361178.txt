@@ -1,0 +1,1 @@
+In terms of game theory, it is a zero-sum, sequential game with perfect information.

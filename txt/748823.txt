@@ -1,0 +1,1 @@
+Thue terminates when lhs cannot be found in a resultant state.

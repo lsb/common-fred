@@ -1,0 +1,1 @@
+"See ""snapshot isolation"" for more details on this topic."

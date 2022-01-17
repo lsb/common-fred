@@ -1,0 +1,1 @@
+"In this diagram, the pink states have the 'exception', which protects the employee."

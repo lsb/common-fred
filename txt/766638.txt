@@ -1,0 +1,1 @@
+Verbs are conjugated for person and number of both the subject and the object.

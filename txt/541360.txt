@@ -1,0 +1,1 @@
+Some smaller decks of cards have infinite games, while others do not.

@@ -1,0 +1,1 @@
+WeatherBug consists of a mobile app reporting hyperlocal live weather data to consumer users.

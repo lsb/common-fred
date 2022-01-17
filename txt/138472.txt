@@ -1,0 +1,1 @@
+A waveguide is considered an unbalanced transmission line.

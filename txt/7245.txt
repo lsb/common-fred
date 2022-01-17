@@ -1,0 +1,1 @@
+"""Synonyms"": intermediate field, intermediate zone, transition zone."

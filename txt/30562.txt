@@ -1,0 +1,1 @@
+"For example, let ""A"" be an alternating automaton."

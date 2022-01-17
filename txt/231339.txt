@@ -1,0 +1,1 @@
+Each of theTownships also has a mayor and Council.

@@ -1,0 +1,1 @@
+"Therefore, the dimension of the row space of ""A"" is ""r""."

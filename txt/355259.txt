@@ -1,0 +1,1 @@
+In another design, each note had its own string.

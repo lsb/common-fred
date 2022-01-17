@@ -1,0 +1,1 @@
+This produced significant overhead when copying large amounts of data.

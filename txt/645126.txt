@@ -1,0 +1,1 @@
+The package manager cannot resolve circular dependencies.

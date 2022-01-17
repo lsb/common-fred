@@ -1,0 +1,1 @@
+Each signal travels from a transmitter to one or more receivers.

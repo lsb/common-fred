@@ -1,0 +1,1 @@
+The vehicle provides real-time WeatherBug observations and streams live video back to the station.

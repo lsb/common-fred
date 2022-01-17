@@ -1,0 +1,1 @@
+Ticket barriers control access to all platforms.

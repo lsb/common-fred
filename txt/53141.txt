@@ -1,0 +1,1 @@
+"It is a pseudo-random function that provides publicly verifiable proofs of its outputs' correctness."

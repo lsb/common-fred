@@ -1,0 +1,1 @@
+Every natural number except zero has a predecessor.

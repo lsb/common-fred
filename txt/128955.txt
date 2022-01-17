@@ -1,0 +1,1 @@
+A main application of pseudorandom generators lies in the de-randomization of computation that relies on randomness.

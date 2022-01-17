@@ -1,0 +1,1 @@
+Angles expressed in radians are dimensionless for the purposes of dimensional analysis.

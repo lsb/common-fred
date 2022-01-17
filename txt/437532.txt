@@ -1,0 +1,1 @@
+Locality preserving hashes are related to space-filling curves and locality-sensitive hashing.

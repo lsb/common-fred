@@ -1,0 +1,1 @@
+It only succeeds in getting the thrower automatically eliminated.

@@ -1,0 +1,1 @@
+Casting spells requires energy, which the game represents in the form of mana.

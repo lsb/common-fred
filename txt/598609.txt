@@ -1,0 +1,1 @@
+The converse is not true: most directed graphs are neither reflexive nor transitive.

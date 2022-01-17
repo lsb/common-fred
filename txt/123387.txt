@@ -1,0 +1,1 @@
+A code page represents a particular assignment of code point values to characters.

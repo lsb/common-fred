@@ -1,0 +1,1 @@
+For extra graphics capabilities, Intel recommends third-party chips like the Nvidia GoForce chip family.

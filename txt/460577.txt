@@ -1,0 +1,1 @@
+Multiple analytes with sufficiently different ionic mobilities will form multiple plateau zones.

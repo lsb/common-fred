@@ -1,0 +1,1 @@
+Files are integrated into a database.

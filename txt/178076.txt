@@ -1,0 +1,1 @@
+At the simplest, each color component is separately passed through the same algorithm.

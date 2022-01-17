@@ -1,0 +1,1 @@
+For example, getName might return a String.

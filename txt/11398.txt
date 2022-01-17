@@ -1,0 +1,1 @@
+"A session may operate in one of two modes: ""asynchronous mode"" and ""demand mode""."

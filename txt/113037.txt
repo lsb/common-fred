@@ -1,0 +1,1 @@
+"This will not work well under incandescent lighting, as incandescent bulbs don't significantly strobe."

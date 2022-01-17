@@ -1,0 +1,1 @@
+A simple centering without a truss is called a common centering.

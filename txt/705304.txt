@@ -1,0 +1,1 @@
+These elements can be sectors, transmission quadrupole, or time-of-flight.

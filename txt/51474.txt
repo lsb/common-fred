@@ -1,0 +1,1 @@
+"Instability is caused by ""excess"" gain, particularly in the presence of significant lag."

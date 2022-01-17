@@ -1,0 +1,1 @@
+Many laptop bioses have a setting for mouse button assignment.

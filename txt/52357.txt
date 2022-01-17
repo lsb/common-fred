@@ -1,0 +1,1 @@
+"It deals with software development as seen from the customer's point of view."

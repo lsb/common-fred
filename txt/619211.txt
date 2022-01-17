@@ -1,0 +1,1 @@
+The goal of this pricing scheme is to minimize traffic congestion within the lanes.

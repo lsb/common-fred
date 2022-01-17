@@ -1,0 +1,1 @@
+Both the integer and floating-point pipelines are six stages long.

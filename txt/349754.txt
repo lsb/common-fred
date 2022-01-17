@@ -1,0 +1,1 @@
+If the elements are lists themselves, then a general tree structure is obtained.

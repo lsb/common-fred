@@ -1,0 +1,1 @@
+Each column holds a maximum of four aliens.

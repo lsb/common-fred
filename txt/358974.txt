@@ -1,0 +1,1 @@
+In order to test the communication, the recorded messages were sent by radio from spaceship.

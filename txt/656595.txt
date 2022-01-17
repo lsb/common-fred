@@ -1,0 +1,1 @@
+The response options for a closed-ended question should be exhaustive and mutually exclusive.

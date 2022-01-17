@@ -1,0 +1,1 @@
+This allows for arbitrarily complex data structures to be encoded.

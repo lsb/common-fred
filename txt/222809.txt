@@ -1,0 +1,1 @@
+Directional Gyros on aircraft also have additional forty-five degree lubber lines.

@@ -1,0 +1,1 @@
+The Artin-Wedderburn theorem generalises this result, with the ascending chain condition.

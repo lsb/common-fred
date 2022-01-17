@@ -1,0 +1,1 @@
+Only then can the signaller allow another train to enter the single line section.

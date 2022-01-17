@@ -1,0 +1,1 @@
+The potential transmembrane portions of a protein can be detected by hydropathy analysis.

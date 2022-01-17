@@ -1,0 +1,1 @@
+And also let denote the maximum norm of an input vector.

@@ -1,0 +1,1 @@
+Temperature within the cell is maintained via electrical resistance.

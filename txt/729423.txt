@@ -1,0 +1,1 @@
+This fixes the representative vectors up to an overall scalar multiple.

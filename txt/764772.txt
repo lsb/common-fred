@@ -1,0 +1,1 @@
+Users also have the choice to strip audio streams, subtitles and chapters.

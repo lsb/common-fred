@@ -1,0 +1,1 @@
+Stretched octaves are caused by the physics of standing waves in a stretched wire.

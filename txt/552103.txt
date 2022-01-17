@@ -1,0 +1,1 @@
+Systems administrators can use storage blades where a requirement exists for additional local storage.

@@ -1,0 +1,1 @@
+Hard-core predicates give a way to construct a pseudorandom generator from any one-way permutation.

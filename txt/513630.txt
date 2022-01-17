@@ -1,0 +1,1 @@
+Security is based on user authentication.

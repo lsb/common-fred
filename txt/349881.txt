@@ -1,0 +1,1 @@
+If the ratio test is inconclusive, and the series may converge or diverge.

@@ -1,0 +1,1 @@
+Touching the knob of the door triggers this Bluetooth camera to take a snapshot.

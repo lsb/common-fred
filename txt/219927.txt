@@ -1,0 +1,1 @@
+Depending on their complexity, modern hardware devices can have many registers.

@@ -1,0 +1,1 @@
+This is dependent upon the network architecture that the network service provider wants.

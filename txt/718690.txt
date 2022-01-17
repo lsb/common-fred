@@ -1,0 +1,1 @@
+They may also be used for idle channel noise, nonlinear distortion, and amplitude-distortion measurements.

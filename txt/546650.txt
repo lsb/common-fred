@@ -1,0 +1,1 @@
+Stereognosis determines whether or not this tract is properly functioning.

@@ -1,0 +1,1 @@
+Taking the above data and plotting it yields the graph shown to the right.

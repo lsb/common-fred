@@ -1,0 +1,1 @@
+"Quantum's tape automation portfolio includes SuperLoader autoloaders and Scalar tape libraries."

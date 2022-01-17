@@ -1,0 +1,1 @@
+"""Railroad Magazine"" is no longer listed in the masthead of the combined publication."

@@ -1,0 +1,1 @@
+Hash functions are one-way functions with a number of mathematical requirements.

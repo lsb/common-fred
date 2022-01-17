@@ -1,0 +1,1 @@
+A printer which can zoom up to four times

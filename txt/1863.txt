@@ -1,0 +1,1 @@
+"""Discover Britain"" is published by the Chelsea Magazine Company."

@@ -1,0 +1,1 @@
+"With these constants, ""Q"" is given in kilojoules per kilogram."

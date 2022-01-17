@@ -1,0 +1,1 @@
+Each of the street in Sowcarpet has unique product availability.

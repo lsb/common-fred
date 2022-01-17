@@ -1,0 +1,1 @@
+Large stacks increase the value of suited connectors because of larger implied odds.

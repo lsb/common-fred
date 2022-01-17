@@ -1,0 +1,1 @@
+However, the singular radical of a Noetherian ring is always nilpotent.

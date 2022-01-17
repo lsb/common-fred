@@ -1,0 +1,1 @@
+If is not a square matrix, then the conditions and are not equivalent.

@@ -1,0 +1,1 @@
+It may be represented as binary, octal or symbolic notation.

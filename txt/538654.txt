@@ -1,0 +1,1 @@
+Some definitions class the snaphaunce as a sub-type of snaplock.

@@ -1,0 +1,1 @@
+The Marine Terminal consists of a control platform and a pumping platform.

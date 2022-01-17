@@ -1,0 +1,1 @@
+It downthrows to the east.

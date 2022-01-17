@@ -1,0 +1,1 @@
+It is also the sum of the totient function for the first ten integers.

@@ -1,0 +1,1 @@
+"""Strict foreclosure"" is an equitable right available in some states."

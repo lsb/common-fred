@@ -1,0 +1,1 @@
+Topologically, this is a depth first search algorithm.

@@ -1,0 +1,1 @@
+"This platform extension required no closures and didn't affect wheelchair ramp access."

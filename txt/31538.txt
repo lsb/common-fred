@@ -1,0 +1,1 @@
+"From a programmer's point of view, a windowing system implements graphical primitives."

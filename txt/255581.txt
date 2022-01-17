@@ -1,0 +1,1 @@
+Furthermore, larger buffers create more heat and use more die space.

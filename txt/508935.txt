@@ -1,0 +1,1 @@
+Roundcube is also used in the Kolab Now service which supports its further development.

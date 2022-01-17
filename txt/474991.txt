@@ -1,0 +1,1 @@
+On a torus, for example, it is possible to have a recurrent non-periodic orbit.

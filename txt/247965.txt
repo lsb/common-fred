@@ -1,0 +1,1 @@
+For example, every type inherits a method.

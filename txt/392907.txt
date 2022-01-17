@@ -1,0 +1,1 @@
+It is one of a family of stochastic neighbor embedding methods.

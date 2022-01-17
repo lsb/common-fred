@@ -1,0 +1,1 @@
+Unlike the octonions, the sedenions are not an alternative algebra.

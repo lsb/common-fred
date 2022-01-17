@@ -1,0 +1,1 @@
+Each journal creates its own process, but they have certain common characteristics in general.

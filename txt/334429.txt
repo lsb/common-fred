@@ -1,0 +1,1 @@
+However such languages may implement a subset of explicit string-specific functions as well.

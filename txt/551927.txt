@@ -1,0 +1,1 @@
+Symmetric polynomials are important to linear algebra, representation theory, and Galois theory.

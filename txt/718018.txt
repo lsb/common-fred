@@ -1,0 +1,1 @@
+They introduced a single protective measure that can help prevent unauthorized transfers: domain locking.

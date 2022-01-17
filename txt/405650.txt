@@ -1,0 +1,1 @@
+It used hardware recognition tools known from Knoppix.

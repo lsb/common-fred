@@ -1,0 +1,1 @@
+Channel architecture avoids this problem by using a separate, independent, low-cost processor.

@@ -1,0 +1,1 @@
+Some software allows redaction, removing content irreversibly for security.

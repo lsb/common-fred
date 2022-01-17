@@ -1,0 +1,1 @@
+"One example where a deque can be used is the ""A-Steal"" job scheduling algorithm."

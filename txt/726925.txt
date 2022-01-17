@@ -1,0 +1,1 @@
+This code requires five bits to be written for every four bits of data.

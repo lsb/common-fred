@@ -1,0 +1,1 @@
+It also supports caustics and physically correct simulation of global illumination employing photon maps.

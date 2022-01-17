@@ -1,0 +1,1 @@
+Some provide opaque data types that allow clients to hide implementation details.

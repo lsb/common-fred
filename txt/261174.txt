@@ -1,0 +1,1 @@
+Graphite bombs only work on power lines that are not insulated.

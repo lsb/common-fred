@@ -1,0 +1,1 @@
+Assume that balls travel with constant velocity.

@@ -1,0 +1,1 @@
+Dryden-developed Boom Amplitude and Direction Sensors recorded ground-level sonic boom signature data.

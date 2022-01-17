@@ -1,0 +1,1 @@
+It is designed to allow presentations to be easily created with web authoring tools.

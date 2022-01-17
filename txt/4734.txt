@@ -1,0 +1,1 @@
+"""Mein Enkel ist ein tüchtiger Bursche"", erzählte der Großvater stolz."

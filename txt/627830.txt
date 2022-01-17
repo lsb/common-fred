@@ -1,0 +1,1 @@
+The latter reduces unwanted Fresnel reflection of the rejected beam.

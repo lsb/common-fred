@@ -1,0 +1,1 @@
+"The list is ordered alphabetically by author's last name."

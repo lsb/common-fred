@@ -1,0 +1,1 @@
+"Originally, Apple actually released Squeak under a license called the ""Squeak License""."

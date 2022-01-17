@@ -1,0 +1,1 @@
+A go set is one easy way to assemble the equipment needed for gess.

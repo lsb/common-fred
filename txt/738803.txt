@@ -1,0 +1,1 @@
+This projection is conformal, preserving angles but not areas or lengths.

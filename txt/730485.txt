@@ -1,0 +1,1 @@
+This has put the responsibility for choosing the appropriate character codec on the client.

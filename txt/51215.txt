@@ -1,0 +1,1 @@
+"Incorrect answers no longer deducted points from a contestant's score."

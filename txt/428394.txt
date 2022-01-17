@@ -1,0 +1,1 @@
+Kriegspiel is sometimes used in chess problems.

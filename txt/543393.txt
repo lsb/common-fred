@@ -1,0 +1,1 @@
+Sorbet is a frozen treat made from fruit, syrup and ice.

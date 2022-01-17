@@ -1,0 +1,1 @@
+The choice of transmission parameters depends on signal robustness wanted and propagation conditions.

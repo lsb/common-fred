@@ -1,0 +1,1 @@
+"Then, the algorithm checks if the assignment makes the formula ""F"" true."

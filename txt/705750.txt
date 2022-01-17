@@ -1,0 +1,1 @@
+These functions are needed by some drivers to wait for hardware.

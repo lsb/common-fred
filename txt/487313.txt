@@ -1,0 +1,1 @@
+Pairwise-counting Condorcet methods minimize vote splitting effects.

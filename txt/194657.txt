@@ -1,0 +1,1 @@
+Broadcast regulators frequently manage the broadcast spectrum in order to minimize adjacent-channel interference.

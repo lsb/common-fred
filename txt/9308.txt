@@ -1,0 +1,1 @@
+"""Yin"" and ""yang"" are semantically complex words."

@@ -1,0 +1,1 @@
+Units entering an enemy zone of control must cease their movement for the round.

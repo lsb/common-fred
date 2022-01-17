@@ -1,0 +1,1 @@
+Frequently the background image would appear faint and washed out compared to the foreground.

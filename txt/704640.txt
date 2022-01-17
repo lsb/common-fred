@@ -1,0 +1,1 @@
+These classes are fighter, cleric, wizard and thief.

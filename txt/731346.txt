@@ -1,0 +1,1 @@
+This initial generation system is essentially a real-time four-channel video switcher.

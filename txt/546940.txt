@@ -1,0 +1,1 @@
+Stiffness is changed by switching the spring for one with a different spring rate.

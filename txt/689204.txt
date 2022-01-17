@@ -1,0 +1,1 @@
+Their sole purpose is to reduce accesses to the underlying slower storage.

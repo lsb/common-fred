@@ -1,0 +1,1 @@
+Rhythmbox also supports searching of music in the library.

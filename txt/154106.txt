@@ -1,0 +1,1 @@
+All other cities are on the municipality level and are part of a district.

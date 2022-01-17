@@ -1,0 +1,1 @@
+It is used in a proof of the Japanese theorem for concyclic polygons.

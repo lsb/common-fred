@@ -1,0 +1,1 @@
+This particular solution occurs if the configuration space of scalar fields contains non-contractible circles.

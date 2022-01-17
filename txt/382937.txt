@@ -1,0 +1,1 @@
+It is a very close reproduction of the arcade original, with minimal changes.

@@ -1,0 +1,1 @@
+This description is closely related to the Minimum norm solution to a linear system.

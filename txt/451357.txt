@@ -1,0 +1,1 @@
+Metadata providing information on definitions and methods are often published along with the data.

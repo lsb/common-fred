@@ -1,0 +1,1 @@
+A natural way to do this is by eigenvalue analysis of a matrix.

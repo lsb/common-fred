@@ -1,0 +1,1 @@
+This works by establishing some method of systematically converting the objects into numbers.

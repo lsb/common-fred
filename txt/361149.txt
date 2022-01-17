@@ -1,0 +1,1 @@
+In technical terms a self-signed certificate is one signed with its own private key.

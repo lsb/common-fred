@@ -1,0 +1,1 @@
+Miranda had a strong influence on the later Haskell programming language.

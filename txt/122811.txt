@@ -1,0 +1,1 @@
+A cascode circuit is very useful as a multiplying mixer circuit in superheterodyne receivers.

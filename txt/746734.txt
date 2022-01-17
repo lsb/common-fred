@@ -1,0 +1,1 @@
+Though boards are standard, go can be played on another size board.

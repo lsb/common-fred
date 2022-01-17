@@ -1,0 +1,1 @@
+"""Haikouella"" does not have bones or a movable jaw, but it otherwise resembles vertebrates."

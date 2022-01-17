@@ -1,0 +1,1 @@
+At terminal velocity, the drag force equals the gravitational force.

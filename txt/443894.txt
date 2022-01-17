@@ -1,0 +1,1 @@
+Many motherboards display a warning message when a disk drive is approaching failure.

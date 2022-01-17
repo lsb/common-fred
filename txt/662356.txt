@@ -1,0 +1,1 @@
+The security of the protocol comes from encoding the information in non-orthogonal states.

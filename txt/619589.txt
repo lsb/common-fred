@@ -1,0 +1,1 @@
+The gradient of the plank is increased gradually over time as the training progresses.

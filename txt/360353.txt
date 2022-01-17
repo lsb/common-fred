@@ -1,0 +1,1 @@
+In short, the simplified language introduced before is not gauge invariant.

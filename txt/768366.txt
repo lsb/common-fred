@@ -1,0 +1,1 @@
+Voting strategy under approval is guided by two competing features of approval voting.

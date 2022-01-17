@@ -1,0 +1,1 @@
+It includes tools for editing source code and structured text such as markup languages.

@@ -1,0 +1,1 @@
+A satisfiable theory is a theory that has a model.

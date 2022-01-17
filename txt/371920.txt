@@ -1,0 +1,1 @@
+It also includes a dedicated management unit for data fusion and reaction decision.

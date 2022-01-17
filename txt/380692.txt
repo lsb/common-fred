@@ -1,0 +1,1 @@
+It includes etalon polygons on which on-ground and remote information was compared.

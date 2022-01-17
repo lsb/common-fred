@@ -1,0 +1,1 @@
+For odd-numbered Data bits, Strobe is the same as Data.

@@ -1,0 +1,1 @@
+Maps are constructed from triangular wireframe colored tiles.

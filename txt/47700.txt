@@ -1,0 +1,1 @@
+"If ""V"" is finite-dimensional, then ""V"" has the same dimension as ""V""."

@@ -1,0 +1,1 @@
+Otherwise, variables not explicitly quantified are tacitly universally quantified.

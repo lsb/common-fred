@@ -1,0 +1,1 @@
+Cones can also be generalized to higher dimensions.

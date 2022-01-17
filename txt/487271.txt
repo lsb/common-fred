@@ -1,0 +1,1 @@
+Paint can also be mixed right on the canvas.

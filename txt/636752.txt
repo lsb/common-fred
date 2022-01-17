@@ -1,0 +1,1 @@
+The multipole expansion with angles is often combined with an expansion in radius.

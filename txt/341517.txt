@@ -1,0 +1,1 @@
+Hubs feature a list of clients or users connected to them.

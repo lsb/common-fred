@@ -1,0 +1,1 @@
+In order to avoid redundancy, UniParc stores each unique sequence only once.

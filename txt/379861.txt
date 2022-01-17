@@ -1,0 +1,1 @@
+It has since been adopted as a standard for Python web application development.

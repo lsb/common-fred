@@ -1,0 +1,1 @@
+"""Salmonella typhi"" and poliovirus also target this section of the intestine."

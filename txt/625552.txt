@@ -1,0 +1,1 @@
+The iterated logarithm accepts any positive real number and yields an integer.

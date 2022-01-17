@@ -1,0 +1,1 @@
+Induction yields another proof of the binomial theorem.

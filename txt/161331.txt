@@ -1,0 +1,1 @@
+An Ethernet network could collapse when too busy due to excessive collisions.

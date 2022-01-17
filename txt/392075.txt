@@ -1,0 +1,1 @@
+It is not well-suited to describing smoothness of solutions when the boundary is smooth.

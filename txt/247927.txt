@@ -1,0 +1,1 @@
+For example, assumptions can be used as premises in a logical argument.

@@ -1,0 +1,1 @@
+"""Doug"" was created by animator Jim Jinkins."

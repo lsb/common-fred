@@ -1,0 +1,1 @@
+Under Ricci flow manifolds with Euclidean geometry remain invariant.

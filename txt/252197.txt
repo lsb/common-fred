@@ -1,0 +1,1 @@
+Fragments from different streams may then be interleaved, and multiplexed over a single connection.

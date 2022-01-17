@@ -1,0 +1,1 @@
+In general, Taylor series need not be convergent at all.

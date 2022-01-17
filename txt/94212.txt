@@ -1,0 +1,1 @@
+"The infinite-dimensional analog of this statement is Mercer's theorem."

@@ -1,0 +1,1 @@
+Cumulative Abnormal Returns are usually calculated over small windows, often only days.

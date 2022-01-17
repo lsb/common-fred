@@ -1,0 +1,1 @@
+"""Eden"" contains one classical rock ballad, ""Dust in the Wind""."

@@ -1,0 +1,1 @@
+It does not restrict symbols and connectors from various categories from being placed together.

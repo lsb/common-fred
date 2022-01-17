@@ -1,0 +1,1 @@
+They are included as basket cells because they are interneurons that perform axo-somatic synapses.

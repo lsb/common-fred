@@ -1,0 +1,1 @@
+Co-channel interference may be controlled by various radio resource management schemes.

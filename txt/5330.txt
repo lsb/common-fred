@@ -1,0 +1,1 @@
+"""Note:"" Provinces no longer hold any legal status in Greece."

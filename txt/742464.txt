@@ -1,0 +1,1 @@
+This trap color is always darker than the darker of the two abutting colors.

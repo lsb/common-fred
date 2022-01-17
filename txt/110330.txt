@@ -1,0 +1,1 @@
+"This distance measures how far the shapes ""X"" and ""Y"" are from being isometric."

@@ -1,0 +1,1 @@
+The Roadtrain itself was a max weight model with distance work in mind.

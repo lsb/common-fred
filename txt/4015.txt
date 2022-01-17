@@ -1,0 +1,1 @@
+"""Jin"" also occurs in Japanese and Korean."

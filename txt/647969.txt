@@ -1,0 +1,1 @@
+The pieces can be rotated around all three axes, and moved horizontally and vertically.

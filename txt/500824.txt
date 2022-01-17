@@ -1,0 +1,1 @@
+QuickTime consists of two major subsystems: the Movie Toolbox and the Image Compression Manager.

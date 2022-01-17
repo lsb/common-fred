@@ -1,0 +1,1 @@
+Cairo uses hardware acceleration when available.

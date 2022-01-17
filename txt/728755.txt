@@ -1,0 +1,1 @@
+This ensures that the position will be able to cover the desired sector.

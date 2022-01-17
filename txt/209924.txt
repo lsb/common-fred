@@ -1,0 +1,1 @@
+Combinations can either be associative or sequential.

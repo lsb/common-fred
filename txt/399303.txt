@@ -1,0 +1,1 @@
+It is used for logic programming and for the formalization of programming language theory.

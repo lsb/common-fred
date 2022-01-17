@@ -1,0 +1,1 @@
+In a stable sort, the input order determines the sorted order in this case.

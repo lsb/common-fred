@@ -1,0 +1,1 @@
+Invariants are especially useful when reasoning about whether a computer program is correct.

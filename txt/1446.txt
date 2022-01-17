@@ -1,0 +1,1 @@
+"""Closed cycle"" means the working fluid is permanently contained within the thermodynamic system."

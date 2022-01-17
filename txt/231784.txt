@@ -1,0 +1,1 @@
+Each spell costs a certain number of magic points to cast.

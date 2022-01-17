@@ -1,0 +1,1 @@
+"In addition, the system stores condition data for each of a bridge's structural elements."

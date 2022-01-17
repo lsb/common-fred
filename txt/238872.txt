@@ -1,0 +1,1 @@
+Every conic surface is ruled and developable.

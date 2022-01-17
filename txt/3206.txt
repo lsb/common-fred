@@ -1,0 +1,1 @@
+"""Hunting the Heroes"" was a ""theme"" series."

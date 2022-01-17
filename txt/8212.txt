@@ -1,0 +1,1 @@
+"""The water"" denotes an entity, and ""one"" is a set entity partitive determiner."

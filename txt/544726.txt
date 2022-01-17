@@ -1,0 +1,1 @@
+Spells also have a brief casting time, during which Drake is vulnerable to attack.

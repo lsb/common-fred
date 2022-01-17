@@ -1,0 +1,1 @@
+To establish a transport connection, two protocols came into play.

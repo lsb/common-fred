@@ -1,0 +1,1 @@
+These commands can reference files, folders, namespaces, executables, or elements of the theme itself.

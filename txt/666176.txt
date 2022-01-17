@@ -1,0 +1,1 @@
+The software is focused on exploratory visual analytics, where users investigate and explore data.

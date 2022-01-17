@@ -1,0 +1,1 @@
+Meadow utilizes Netinstaller, similar to one used for Cygwin installation.

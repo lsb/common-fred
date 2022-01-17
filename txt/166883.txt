@@ -1,0 +1,1 @@
+Another method to fuse two measurements is to use the optimal Kalman filter.

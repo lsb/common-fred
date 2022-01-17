@@ -1,0 +1,1 @@
+If the surface gravity vanishes, then the Killing horizon is said to be degenerate.

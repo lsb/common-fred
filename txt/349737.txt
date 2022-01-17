@@ -1,0 +1,1 @@
+If the data contains errors, then the forecast result will be equally flawed.

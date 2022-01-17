@@ -1,0 +1,1 @@
+Global symmetries require conservation laws, but not forces, in physics.

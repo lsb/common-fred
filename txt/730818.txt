@@ -1,0 +1,1 @@
+This ideal is the nilradical of the ring.

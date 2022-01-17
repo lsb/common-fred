@@ -1,0 +1,1 @@
+Current is then injected into the system to maintain a constant, set voltage.

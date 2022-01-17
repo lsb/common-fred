@@ -1,0 +1,1 @@
+Furthermore, memory management units do not scan the store buffer, causing similar problems.

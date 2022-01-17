@@ -1,0 +1,1 @@
+"These formulas can also be written using Lagrange's notation."

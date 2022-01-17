@@ -1,0 +1,1 @@
+A collection of Lucida variants are installed by default with Java.

@@ -1,0 +1,1 @@
+The operation of a lock-in amplifier relies on the orthogonality of sinusoidal functions.

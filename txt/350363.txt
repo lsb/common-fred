@@ -1,0 +1,1 @@
+If κ is weakly compact, there is no existence of κ-Aronszajn tree.

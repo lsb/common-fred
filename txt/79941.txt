@@ -1,0 +1,1 @@
+"Sometimes variation of parameters itself is called Duhamel's principle and vice versa."

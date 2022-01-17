@@ -1,0 +1,1 @@
+The various types of activation, and how these are defined, are model-dependent.

@@ -1,0 +1,1 @@
+There will only be a first and final warning for throwing.

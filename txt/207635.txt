@@ -1,0 +1,1 @@
+Clan, tournament and ladder lobbies are also integrated for some games.

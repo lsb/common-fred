@@ -1,0 +1,1 @@
+It is used as part of Windows Sidebar.

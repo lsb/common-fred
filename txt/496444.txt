@@ -1,0 +1,1 @@
+Power line hum can be alleviated using a band-stop filter.

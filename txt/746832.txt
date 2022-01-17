@@ -1,0 +1,1 @@
+Though many variations are possible, the most common structure is the three-tiered application.

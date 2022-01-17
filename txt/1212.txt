@@ -1,0 +1,1 @@
+"""Canadian Mennonite"" is the official conference periodical."

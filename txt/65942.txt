@@ -1,0 +1,1 @@
+"Motif's source code is available on SourceForge."

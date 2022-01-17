@@ -1,0 +1,1 @@
+The fundamental object is called the Riemann curvature tensor.

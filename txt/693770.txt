@@ -1,0 +1,1 @@
+There are other interesting special cases of well-founded induction.

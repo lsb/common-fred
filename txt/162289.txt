@@ -1,0 +1,1 @@
+An ephemeris is usually only correct for a particular location on the Earth.

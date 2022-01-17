@@ -1,0 +1,1 @@
+Any management frame that is sent before key establishment is infeasible to protect.

@@ -1,0 +1,1 @@
+Software mixing is heavily integrated as part of a digital audio workstation.

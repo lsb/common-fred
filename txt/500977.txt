@@ -1,0 +1,1 @@
+Quota sampling is the non probability version of stratified sampling.

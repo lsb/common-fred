@@ -1,0 +1,1 @@
+"Debian "".deb"" archives use the common format."

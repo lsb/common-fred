@@ -1,0 +1,1 @@
+It is only used for functions and events, and is not a viewing gallery.

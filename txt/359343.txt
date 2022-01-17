@@ -1,0 +1,1 @@
+In particular, they are locally simply connected, locally path connected, and locally connected.

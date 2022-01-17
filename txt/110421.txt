@@ -1,0 +1,1 @@
+"This equation has nonsingular solutions only if ""n"" is a non-negative integer."

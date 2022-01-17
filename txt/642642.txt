@@ -1,0 +1,1 @@
+The only part that is non-reusable will be the frame.

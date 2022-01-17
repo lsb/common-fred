@@ -1,0 +1,1 @@
+Tolerance naturally generalizes from sequences of theories to trees of theories.

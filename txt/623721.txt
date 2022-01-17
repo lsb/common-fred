@@ -1,0 +1,1 @@
+The indicators were changed to a clear unit, and changed shape slightly.

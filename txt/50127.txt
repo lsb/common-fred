@@ -1,0 +1,1 @@
+"In some cases, a sample can be collected by devices that ""bite"" a sample."

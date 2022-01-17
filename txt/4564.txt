@@ -1,0 +1,1 @@
+"""Magic Kraut"" is the name of a song in the album ""Fresh"" by Teddybears."

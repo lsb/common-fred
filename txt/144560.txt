@@ -1,0 +1,1 @@
+Aerial photography, land cover data, and digital elevation models all provide coverage data.

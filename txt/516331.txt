@@ -1,0 +1,1 @@
+Several color encodings are possible in the serial digital interface.

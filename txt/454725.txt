@@ -1,0 +1,1 @@
+Moons inside the synchronous orbit radius of a planet will spiral into the planet.

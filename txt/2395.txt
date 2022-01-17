@@ -1,0 +1,1 @@
+"""Flare"" promotes itself as ""Canada's Fashion magazine""."

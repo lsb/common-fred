@@ -1,0 +1,1 @@
+Checklists are used in graphical user interfaces.

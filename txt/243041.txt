@@ -1,0 +1,1 @@
+Fielding percentage is calculated as chances accepted divided by total chances.

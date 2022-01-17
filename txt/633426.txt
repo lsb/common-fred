@@ -1,0 +1,1 @@
+The mathematical definitions of mixing are meant to capture the notion of physical mixing.

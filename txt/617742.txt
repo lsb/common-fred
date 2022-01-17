@@ -1,0 +1,1 @@
+The g of bipolar small-signal transistors varies widely, being proportional to the collector current.

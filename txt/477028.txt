@@ -1,0 +1,1 @@
+Once the user is authenticated as valid, his or her call receives special treatment.

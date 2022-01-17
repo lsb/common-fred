@@ -1,0 +1,1 @@
+Buildings require financial maintenance each turn, and can be destroyed.

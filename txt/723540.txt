@@ -1,0 +1,1 @@
+They would not be wrongly triggered by pre-flashes.

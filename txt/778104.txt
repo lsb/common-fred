@@ -1,0 +1,1 @@
+Where the surface intersects the edge the algorithm creates a vertex.

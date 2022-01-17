@@ -1,0 +1,1 @@
+Not all rows and columns of the grid need to be used.

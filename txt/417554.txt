@@ -1,0 +1,1 @@
+Its interior is topologically equivalent to a disk.

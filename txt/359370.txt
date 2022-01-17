@@ -1,0 +1,1 @@
+In past years, schematic diagrams with mostly discrete components were fairly readable.

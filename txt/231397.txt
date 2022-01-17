@@ -1,0 +1,1 @@
+Each of these preliminary concepts is a potential design choice.

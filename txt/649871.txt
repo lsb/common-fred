@@ -1,0 +1,1 @@
+The port will write a copy of the message to each listener.

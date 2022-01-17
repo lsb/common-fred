@@ -1,0 +1,1 @@
+This technique uses private void pointers to encapsulate object private data.

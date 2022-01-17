@@ -1,0 +1,1 @@
+There are many cases in which a structure will undergo periodic loading.

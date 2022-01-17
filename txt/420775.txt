@@ -1,0 +1,1 @@
+Jacobi fields give a natural generalization of this phenomenon to arbitrary Riemannian manifolds.

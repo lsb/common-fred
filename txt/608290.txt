@@ -1,0 +1,1 @@
+The estimate based on the rule-of-thumb bandwidth is significantly oversmoothed.

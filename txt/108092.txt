@@ -1,0 +1,1 @@
+"These windows might have ""properties"" such as their title, position and size."

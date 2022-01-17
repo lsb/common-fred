@@ -1,0 +1,1 @@
+Beams can provide a convenient and compact way to represent visibility.

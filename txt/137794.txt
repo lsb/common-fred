@@ -1,0 +1,1 @@
+A town may contain one or more villages.

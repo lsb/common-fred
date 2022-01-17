@@ -1,0 +1,1 @@
+By default, static forms does not require re-rendering.

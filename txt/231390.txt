@@ -1,0 +1,1 @@
+Each of these names denotes a class of basic symbols.

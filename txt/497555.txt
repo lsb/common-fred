@@ -1,0 +1,1 @@
+Previously, compatibility with RubyGems and Ruby varied.

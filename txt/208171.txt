@@ -1,0 +1,1 @@
+Cleavage sites consist of the sequences Arg-Lys, Lys-Arg, or Lys-Lys.

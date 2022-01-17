@@ -1,0 +1,1 @@
+"DirectDraw uses hardware acceleration if it is available on the client's computer."

@@ -1,0 +1,1 @@
+Spacing end distortion is the termination of marking pulses before the proper time.

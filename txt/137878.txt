@@ -1,0 +1,1 @@
+A tree can be rebalanced using rotations.

@@ -1,0 +1,1 @@
+For instance, every closed disk is compact whereas every open disk is not compact.

@@ -1,0 +1,1 @@
+Different counts in the same case may have different verdicts.

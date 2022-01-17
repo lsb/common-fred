@@ -1,0 +1,1 @@
+All manifolds homeomorphic to the ball are contractible, too.

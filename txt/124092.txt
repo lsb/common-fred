@@ -1,0 +1,1 @@
+A cross section of a polyhedron is a polygon.

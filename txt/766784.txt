@@ -1,0 +1,1 @@
+Vertical coarse scrolling is the easiest feature to exercise.

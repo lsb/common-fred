@@ -1,0 +1,1 @@
+Binomial coefficients can be computed explicitly in various ways.

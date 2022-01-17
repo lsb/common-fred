@@ -1,0 +1,1 @@
+By varying the sweep the wing can be optimised for the current flight speed.

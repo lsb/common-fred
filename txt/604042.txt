@@ -1,0 +1,1 @@
+The different actors in the model are in general not interdependent.

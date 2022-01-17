@@ -1,0 +1,1 @@
+This sensor are use in different application such as load cell.

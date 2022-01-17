@@ -1,0 +1,1 @@
+Impartial games can be analyzed using the Sprague-Grundy theorem.

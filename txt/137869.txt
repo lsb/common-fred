@@ -1,0 +1,1 @@
+A trapezoidal wing may be implemented for reduction of drag and radar signature.

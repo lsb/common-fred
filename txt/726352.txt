@@ -1,0 +1,1 @@
+This can receive target information from the battery or regimental command post.

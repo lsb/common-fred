@@ -1,0 +1,1 @@
+"""Pinkney"" is a corruption of ""Picquigny"", a village in Picardy."

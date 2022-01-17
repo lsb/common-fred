@@ -1,0 +1,1 @@
+This ensures that the system is always left in a consistent state.

@@ -1,0 +1,1 @@
+It concerns itself with the whole life-cycle for systems that implement aircraft functions.

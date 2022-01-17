@@ -1,0 +1,1 @@
+It is configurable with customizable key bindings, color schemes and interface layouts.

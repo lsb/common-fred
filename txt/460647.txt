@@ -1,0 +1,1 @@
+Multiple system emulator software such as Higan and Mednafen also include WonderSwan emulation.

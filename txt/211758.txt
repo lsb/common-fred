@@ -1,0 +1,1 @@
+Connectorized terminators are available with or without safety chains.

@@ -1,0 +1,1 @@
+Since both algorithms it uses are comparison sorts, it too is a comparison sort.

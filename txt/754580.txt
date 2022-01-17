@@ -1,0 +1,1 @@
+Too-general code can, however, become completely useless, leading to spaghetti code doing effectively nothing.

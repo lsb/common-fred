@@ -1,0 +1,1 @@
+A complex semisimple Lie group is an algebraic group.

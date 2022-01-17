@@ -1,0 +1,1 @@
+Training is now also carried out on ground-based simulators.

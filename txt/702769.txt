@@ -1,0 +1,1 @@
+Therefore, the graphs with bounded Hadwiger number are sparse graphs.

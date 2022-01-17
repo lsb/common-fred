@@ -1,0 +1,1 @@
+For example, say we have an Apple and Orange class inheriting from Fruit.

@@ -1,0 +1,1 @@
+Scientifically, it requires two parts: a disassembler and an assembler.

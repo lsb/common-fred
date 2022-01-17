@@ -1,0 +1,1 @@
+In many cases the original error can be avoided by error prevention techniques.

@@ -1,0 +1,1 @@
+This simplifies the analysis of unbalanced conditions of a polyphase system.

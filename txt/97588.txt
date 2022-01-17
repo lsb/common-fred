@@ -1,0 +1,1 @@
+"The onboard sounds can't be edited, layered or split, and playback is mono-timbral."

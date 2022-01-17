@@ -1,0 +1,1 @@
+Rexx is mostly free-form, though in some cases whitespace characters are concatenation operators.

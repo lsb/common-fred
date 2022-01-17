@@ -1,0 +1,1 @@
+Today, chromatic polynomials are one of the central objects of algebraic graph theory.

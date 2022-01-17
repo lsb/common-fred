@@ -1,0 +1,1 @@
+The language is used as an alternative to the AppleScript language.

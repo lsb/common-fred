@@ -1,0 +1,1 @@
+As cabin hooks must be activated manually, they are inappropriate for fire doors.

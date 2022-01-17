@@ -1,0 +1,1 @@
+"Alternatively checkpointing can be considered as ""migration to disk""."

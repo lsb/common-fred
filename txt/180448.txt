@@ -1,0 +1,1 @@
+B is typeless, or more precisely has one data type: the computer word.

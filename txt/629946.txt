@@ -1,0 +1,1 @@
+The local oscillator must produce a stable frequency with low harmonics.

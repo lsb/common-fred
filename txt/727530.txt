@@ -1,0 +1,1 @@
+This could cause problems for the shooter with repeated firing.

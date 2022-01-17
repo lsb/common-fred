@@ -1,0 +1,1 @@
+Six steps is the longest distance between any pair of participants.

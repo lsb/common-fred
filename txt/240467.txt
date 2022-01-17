@@ -1,0 +1,1 @@
+Express trains make only a small number of stops, instead of stopping locally.

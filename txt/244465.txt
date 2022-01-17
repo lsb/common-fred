@@ -1,0 +1,1 @@
+First, find the node R that contains the point to be removed.

@@ -1,0 +1,1 @@
+Files put in quarantine are no longer capable of infecting their hosting system.

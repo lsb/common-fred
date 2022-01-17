@@ -1,0 +1,1 @@
+The Propeller is a multicore system that can do real-time simultaneous multiprocessing.

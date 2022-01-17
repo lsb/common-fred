@@ -1,0 +1,1 @@
+Their Alignment Tool is a translation memory generator.

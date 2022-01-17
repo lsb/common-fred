@@ -1,0 +1,1 @@
+Every simple module is indecomposable.

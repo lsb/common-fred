@@ -1,0 +1,1 @@
+"""Xanthoria parietina"" is a very pollution-tolerant species."

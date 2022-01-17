@@ -1,0 +1,1 @@
+In statistics, and especially Bayesian statistics, the theorem is usually applied to real functions.

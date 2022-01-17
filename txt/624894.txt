@@ -1,0 +1,1 @@
+The internucleon potentials attempt to describe the properties of nucleon-nucleon interaction.

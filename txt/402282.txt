@@ -1,0 +1,1 @@
+It organizes products by similarity, end use, or material composition.

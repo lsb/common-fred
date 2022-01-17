@@ -1,0 +1,1 @@
+Any error-correcting code can be used for error detection.

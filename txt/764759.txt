@@ -1,0 +1,1 @@
+User documentation is considered to constitute a contract specifying what the software will do.

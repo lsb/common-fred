@@ -1,0 +1,1 @@
+Search trees are often used to implement an associative array.

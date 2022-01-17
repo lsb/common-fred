@@ -1,0 +1,1 @@
+An alternative to tunnel injection is the spin injection.

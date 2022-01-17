@@ -1,0 +1,1 @@
+It has a few basic functions to connect to the eye tracker, get position data, and activate the current gaze point.

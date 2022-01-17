@@ -1,0 +1,1 @@
+"""Mighty Bomb Jack"" got less favorable reviews than the original game."

@@ -1,0 +1,1 @@
+For example, a malicious attachment might masquerade as a benign linked Google doc.

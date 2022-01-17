@@ -1,0 +1,1 @@
+These dollies support only the camera, and the operator needs to move alongside.

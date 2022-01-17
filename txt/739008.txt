@@ -1,0 +1,1 @@
+This provides for highly efficient, but less penetrative, dielectric heating.

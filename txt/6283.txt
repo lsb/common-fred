@@ -1,0 +1,1 @@
+"""Riki-Baka"" is based on a personal experience of Hearn's."

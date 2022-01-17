@@ -1,0 +1,1 @@
+It is used to give height to a ball struck on the ground.

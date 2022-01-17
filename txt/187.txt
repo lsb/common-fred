@@ -1,0 +1,1 @@
+"""Actual"" is seen as an indexical term, and its reference depends on its context."

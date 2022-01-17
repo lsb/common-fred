@@ -1,0 +1,1 @@
+The corresponding concept in two-dimensional magic squares is a broken diagonal.

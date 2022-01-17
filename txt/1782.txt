@@ -1,0 +1,1 @@
+"""Depth of focus"" can have two slightly different meanings."

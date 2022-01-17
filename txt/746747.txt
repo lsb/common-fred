@@ -1,0 +1,1 @@
+Though closely related in definition, Lucas and Fibonacci numbers exhibit distinct properties.

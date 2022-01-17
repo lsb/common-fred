@@ -1,0 +1,1 @@
+Players could control the gun cursor with the control pad.

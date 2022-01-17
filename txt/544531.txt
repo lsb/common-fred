@@ -1,0 +1,1 @@
+Specifically, an intruder could discover an older nonce.

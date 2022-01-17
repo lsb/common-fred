@@ -1,0 +1,1 @@
+Voltage is a differential quantity, which appears between two points.

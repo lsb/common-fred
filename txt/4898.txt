@@ -1,0 +1,1 @@
+"""Monty's"" presence succeeded in confusing the Germans in regard to the invasion plans."

@@ -1,0 +1,1 @@
+A graphical model with many repeated subunits can be represented with plate notation.

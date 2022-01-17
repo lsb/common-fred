@@ -1,0 +1,1 @@
+An ordinal number is usually identified with the set of all smaller ordinal numbers.

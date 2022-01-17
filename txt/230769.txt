@@ -1,0 +1,1 @@
+Each eight-bit block is translated into a corresponding fourteen-bit codeword using a lookup table.

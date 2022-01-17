@@ -1,0 +1,1 @@
+Other norm functions may be reasonably used here instead of the sup-norm.

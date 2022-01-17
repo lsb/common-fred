@@ -1,0 +1,1 @@
+This support gradually became available in almost all Linux distributions.

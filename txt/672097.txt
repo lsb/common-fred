@@ -1,0 +1,1 @@
+The swm window manager introduced the virtual root window.

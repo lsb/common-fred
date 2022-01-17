@@ -1,0 +1,1 @@
+Inclusion of a patented algorithm meant significant licensing complications for implementors of the standard.

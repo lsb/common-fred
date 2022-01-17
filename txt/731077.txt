@@ -1,0 +1,1 @@
+This includes all weather and sports reports for weekdays and weekends.

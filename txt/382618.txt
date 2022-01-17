@@ -1,0 +1,1 @@
+It is a specific type of divide and conquer algorithm.

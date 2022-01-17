@@ -1,0 +1,1 @@
+"""Where's Willy"" is free, supported by users who pay a fee for extra features."

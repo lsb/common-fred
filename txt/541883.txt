@@ -1,0 +1,1 @@
+Some versions use telemetry to connect the electrodes to the voltmeter display device.

@@ -1,0 +1,1 @@
+A day value of zero is considered illegal by most programs.

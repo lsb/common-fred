@@ -1,0 +1,1 @@
+"""Decline"" represents the process of declining, a gradual sinking and wasting away."

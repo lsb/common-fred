@@ -1,0 +1,1 @@
+A fan is a collection of cones closed under taking intersections and faces.

@@ -1,0 +1,1 @@
+It runs natively on Unix-like operating systems as well as Microsoft Windows.

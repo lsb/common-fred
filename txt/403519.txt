@@ -1,0 +1,1 @@
+It requires forward flight to create the aerodynamic lift component.

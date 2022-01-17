@@ -1,0 +1,1 @@
+External functions are compiled separately and do not share declarations and variables.

@@ -1,0 +1,1 @@
+It should be used exclusively for internal processing and never for external data exchange.

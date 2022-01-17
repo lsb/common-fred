@@ -1,0 +1,1 @@
+"""Quake"" was also intended to feature ""Virtua Fighter"" influenced third-person melee combat."

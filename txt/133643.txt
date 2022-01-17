@@ -1,0 +1,1 @@
+A player who is not In Debt can draw cards from the discard pile.

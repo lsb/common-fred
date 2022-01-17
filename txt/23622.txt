@@ -1,0 +1,1 @@
+"Client-side JavaScript solution relies on the end-user's browser enforcing their own security."

@@ -1,0 +1,1 @@
+Therefore, the zone can be clipped against the portal boundaries to remove overdraw.

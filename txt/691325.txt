@@ -1,0 +1,1 @@
+There are also domain-specific languages with focus on specifying and checking architectural constraints.

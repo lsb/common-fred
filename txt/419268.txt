@@ -1,0 +1,1 @@
+Its solution is an instance of the general Campbell-Baker-Hausdorff formula in Lie group theory.

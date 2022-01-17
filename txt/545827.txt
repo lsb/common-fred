@@ -1,0 +1,1 @@
+Star forms have either regular star polygon faces or vertex figures or both.

@@ -1,0 +1,1 @@
+"Theorems in the system are terms of a special ""theorem"" abstract data type."

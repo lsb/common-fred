@@ -1,0 +1,1 @@
+In that case, one might want to implement the Destroyable interface.

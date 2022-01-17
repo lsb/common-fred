@@ -1,0 +1,1 @@
+The specifications focus on the continuous communication of data.

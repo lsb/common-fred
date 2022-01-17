@@ -1,0 +1,1 @@
+"It generalizes to ""n""-ary functions, where the proper term is ""multilinear""."

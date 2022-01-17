@@ -1,0 +1,1 @@
+To make it even faster, I only allow one-syllable numbers to be used in labels.

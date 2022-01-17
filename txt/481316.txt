@@ -1,0 +1,1 @@
+Optimizing these parameters generally gets more challenging as the frequency increases.

@@ -1,0 +1,1 @@
+This determines the way the book is cited in library catalogs and academic references.

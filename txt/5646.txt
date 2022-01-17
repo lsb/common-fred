@@ -1,0 +1,1 @@
+"""Panola"" is the Choctaw name for ""cotton""."

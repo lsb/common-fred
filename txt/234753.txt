@@ -1,0 +1,1 @@
+Elements of the braid group can be represented more concretely by matrices.

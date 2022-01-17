@@ -1,0 +1,1 @@
+This example is mutual single recursion, and could easily be replaced by iteration.

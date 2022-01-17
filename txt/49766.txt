@@ -1,0 +1,1 @@
+"In mathematics higher-order functions are also termed ""operators"" or ""functionals""."

@@ -1,0 +1,1 @@
+"""Hast"" is used to express existence while ""ast"" expresses predication."

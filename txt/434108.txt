@@ -1,0 +1,1 @@
+Levels contain multiple sections or rooms that are connected via doors or ladders.

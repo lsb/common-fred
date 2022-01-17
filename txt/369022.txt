@@ -1,0 +1,1 @@
+Integrals over real-space operators can be efficiently carried out using fast Fourier transforms.

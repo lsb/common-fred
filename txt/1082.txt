@@ -1,0 +1,1 @@
+"""Burnout"" received ""favorable"" reviews on all platforms according to video game review aggregator Metacritic."

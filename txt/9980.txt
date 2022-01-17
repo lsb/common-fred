@@ -1,0 +1,1 @@
+"A ""minimum vertex cover"" is a vertex cover of smallest possible size."

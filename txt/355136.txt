@@ -1,0 +1,1 @@
+In an elastic collision these magnitudes do not change.

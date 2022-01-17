@@ -1,0 +1,1 @@
+As it happens, the glass box is designed to demonstrate the phenomenon of backdraft.

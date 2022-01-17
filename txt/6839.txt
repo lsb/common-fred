@@ -1,0 +1,1 @@
+"""Sky Kid"" is a two-dimensional scrolling shooter game."

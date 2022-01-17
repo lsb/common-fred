@@ -1,0 +1,1 @@
+If the router detects a network unreachable, the timer is started.

@@ -1,0 +1,1 @@
+"For instance, ""Chicago is larger than Omaha"" is assertoric."

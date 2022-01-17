@@ -1,0 +1,1 @@
+Such interconnection is accomplished with network bridges and network switches.

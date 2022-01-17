@@ -1,0 +1,1 @@
+Hugs comes with a simple graphics library.

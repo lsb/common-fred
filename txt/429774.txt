@@ -1,0 +1,1 @@
+Languages that support existential types make use of existentially quantified type variables.

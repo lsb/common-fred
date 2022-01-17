@@ -1,0 +1,1 @@
+A disjunctive sequence is a sequence in which every finite string appears.

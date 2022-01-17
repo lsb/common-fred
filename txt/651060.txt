@@ -1,0 +1,1 @@
+The primary purpose of Rabbit-skin glue is to stretch the canvas.

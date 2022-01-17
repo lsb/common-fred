@@ -1,0 +1,1 @@
+"""Brown versus Board"" was a landmark ruling, but difficult to implement."

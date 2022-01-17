@@ -1,0 +1,1 @@
+"""Rebel Strike"" features two multiplayer modes: Co-op and Versus."

@@ -1,0 +1,1 @@
+"All messages in the database are accessed by opening the ""Received"" view."

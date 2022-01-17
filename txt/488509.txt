@@ -1,0 +1,1 @@
+Partial harvests remove uniformly sized individuals with seine nets or gill nets.

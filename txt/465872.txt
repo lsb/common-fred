@@ -1,0 +1,1 @@
+Next the absolute deviation between each data point and the average are determined.

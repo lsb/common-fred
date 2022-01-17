@@ -1,0 +1,1 @@
+X-ray tube output is defined for this purpose.

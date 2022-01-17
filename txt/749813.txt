@@ -1,0 +1,1 @@
+Thus, the trust center maintains both the network key and provides point-to-point security.

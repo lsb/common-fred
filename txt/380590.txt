@@ -1,0 +1,1 @@
+It included web page rendering on objects and customizable avatars.

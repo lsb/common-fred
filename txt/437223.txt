@@ -1,0 +1,1 @@
+Loads are carried by beams and piers, built on a grid system.

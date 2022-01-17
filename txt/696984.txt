@@ -1,0 +1,1 @@
+There is a menu which has four options, open, get, go, and hit.

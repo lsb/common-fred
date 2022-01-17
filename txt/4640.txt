@@ -1,0 +1,1 @@
+"""Mariner of the Seas"" is in the second generation of ""Voyager""-class vessels."

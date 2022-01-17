@@ -1,0 +1,1 @@
+All machines in a network shared the root directory as well.

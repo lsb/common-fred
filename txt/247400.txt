@@ -1,0 +1,1 @@
+For a solenoid the Hall probe is placed in the center.

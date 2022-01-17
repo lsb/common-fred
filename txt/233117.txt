@@ -1,0 +1,1 @@
+Echo cancellation techniques allow full-duplex operation on the line.

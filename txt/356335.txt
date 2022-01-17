@@ -1,0 +1,1 @@
+In electrical engineering this is often referred to as node elimination or Kron reduction.

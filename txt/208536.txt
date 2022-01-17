@@ -1,0 +1,1 @@
+Closed stations are shown in normal font.

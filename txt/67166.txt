@@ -1,0 +1,1 @@
+"No detections were reported via data link from ""Glasgow""."

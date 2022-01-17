@@ -1,0 +1,1 @@
+Initial attempts did not work well: there were bonding issues and air pockets.

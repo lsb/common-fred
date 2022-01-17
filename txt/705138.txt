@@ -1,0 +1,1 @@
+These different coordinates and corresponding basis vectors represent the same position vector.

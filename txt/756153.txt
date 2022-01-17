@@ -1,0 +1,1 @@
+Transmission energy is taken from the transmitter, and induces electrical power in the wire.

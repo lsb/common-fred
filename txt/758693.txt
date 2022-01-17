@@ -1,0 +1,1 @@
+Two fonts that support the other characters are Junicode and Tehuti.

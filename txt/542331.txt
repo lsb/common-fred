@@ -1,0 +1,1 @@
+Sometimes a digital automatic gain control circuit is implemented in the demodulator.

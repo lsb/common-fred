@@ -1,0 +1,1 @@
+Additionally some encodings create artifacts which could be misleading to any automatic analyser.

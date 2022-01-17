@@ -1,0 +1,1 @@
+This includes Rental Guarantee, Price Guarantee and an Ex-Rental Guarantee.

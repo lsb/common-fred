@@ -1,0 +1,1 @@
+It is able to stream media over computer networks and to transcode multimedia files.

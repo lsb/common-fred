@@ -1,0 +1,1 @@
+Messages are stored in a queue attached to each process.

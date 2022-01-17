@@ -1,0 +1,1 @@
+Boost lag is reduced as turbo impeller inertia is compensated for.

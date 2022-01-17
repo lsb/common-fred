@@ -1,0 +1,1 @@
+"""Primary atypical pneumonia"" is called ""primary"" because it develops independently of other diseases."

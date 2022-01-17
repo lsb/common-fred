@@ -1,0 +1,1 @@
+"""Setting"" is the physical and social environment."

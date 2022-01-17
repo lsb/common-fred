@@ -1,0 +1,1 @@
+There are local boats which are used for movement from one location to another.

@@ -1,0 +1,1 @@
+Bigram frequency is one approach to statistical language identification.

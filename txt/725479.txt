@@ -1,0 +1,1 @@
+This avoids questionable measurements based on the use of blank media, or muting circuits.

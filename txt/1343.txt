@@ -1,0 +1,1 @@
+"""Chicken Rice War"" is loosely based on William Shakespeare's ""Romeo and Juliet""."

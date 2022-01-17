@@ -1,0 +1,1 @@
+Board dimensions, markings, and rules of play are modeled to simulate standard football.

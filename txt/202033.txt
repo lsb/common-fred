@@ -1,0 +1,1 @@
+Canvas provides tools for creating and editing vector and raster graphics.

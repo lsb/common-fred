@@ -1,0 +1,1 @@
+This allows the load to be powered at all times without any interruption.

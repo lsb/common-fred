@@ -1,0 +1,1 @@
+Validation machines in stations or on board vehicles time stamp the ticket.

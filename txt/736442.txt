@@ -1,0 +1,1 @@
+This means that their dual polyhedra will have all quadrilateral faces.

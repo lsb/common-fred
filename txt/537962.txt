@@ -1,0 +1,1 @@
+Some applications have an internal copy history feature.

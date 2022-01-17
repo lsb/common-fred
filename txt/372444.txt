@@ -1,0 +1,1 @@
+It also refers specifically to the server program which is part of the project.

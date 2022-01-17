@@ -1,0 +1,1 @@
+"""Lula Strip Poker"" is a strip poker game where the player challenges Lula."

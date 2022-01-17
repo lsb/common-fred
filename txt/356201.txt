@@ -1,0 +1,1 @@
+In each chart, the plaques are dimensional submanifolds.

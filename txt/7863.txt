@@ -1,0 +1,1 @@
+"""The New York Times"" wrote, ""It is astonishing what intelligent wit can accomplish""."

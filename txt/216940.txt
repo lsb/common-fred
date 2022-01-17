@@ -1,0 +1,1 @@
+D bindings are available for many popular C libraries.

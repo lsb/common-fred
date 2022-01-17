@@ -1,0 +1,1 @@
+The streaming portal uses the MPEG-Four video codec.

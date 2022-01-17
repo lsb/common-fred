@@ -1,0 +1,1 @@
+In automated software testing, this is also called the oracle problem.

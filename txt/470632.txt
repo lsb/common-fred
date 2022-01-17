@@ -1,0 +1,1 @@
+Note that a clone generally contains operations of various arities.

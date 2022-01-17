@@ -1,0 +1,1 @@
+"A protein's primary structure refers to its amino acid sequence."

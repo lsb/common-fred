@@ -1,0 +1,1 @@
+In the absence of parentheses, certain precedence rules determine the order of operations.

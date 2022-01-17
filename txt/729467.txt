@@ -1,0 +1,1 @@
+This follows from the fact that nilradical is the intersection of all prime ideals.

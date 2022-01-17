@@ -1,0 +1,1 @@
+"""Interpreters"" are the individuals who embody historical figures at living history sites."

@@ -1,0 +1,1 @@
+Exit numbering increases as one travels clockwise.

@@ -1,0 +1,1 @@
+Each type is judged by its effect on an enemy unit.

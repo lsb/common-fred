@@ -1,0 +1,1 @@
+This also permits the use of a remote power supply.

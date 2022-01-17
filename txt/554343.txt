@@ -1,0 +1,1 @@
+Termination of local search can be based on a time bound.

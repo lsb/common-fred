@@ -1,0 +1,1 @@
+Command responsibility is one means to distinguish between the two.

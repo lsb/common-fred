@@ -1,0 +1,1 @@
+It now displays more of its collections than before.

@@ -1,0 +1,1 @@
+"""The Bright Side"" is a newspaper serving Powder Springs and several other small cities."

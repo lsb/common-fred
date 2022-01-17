@@ -1,0 +1,1 @@
+Many opto-triacs come with zero cross circuits built in.

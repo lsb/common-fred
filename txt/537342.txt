@@ -1,0 +1,1 @@
+Soft sectoring is used for track alignment.

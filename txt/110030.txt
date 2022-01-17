@@ -1,0 +1,1 @@
+"This bound is sharp; equality is attained when all vectors in ""S"" are equal."

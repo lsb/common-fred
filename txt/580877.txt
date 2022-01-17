@@ -1,0 +1,1 @@
+The application of digital control can readily be understood in the use of feedback.

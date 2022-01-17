@@ -1,0 +1,1 @@
+Movement and team management between battles are done through a map interface.

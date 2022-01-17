@@ -1,0 +1,1 @@
+Main memory can hold only a limited number of pages at a time.

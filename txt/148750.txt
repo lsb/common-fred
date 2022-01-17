@@ -1,0 +1,1 @@
+After the leading sign, digits consisted of a seven-segment display plus decimal point.

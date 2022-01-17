@@ -1,0 +1,1 @@
+A price index is calculated relative to a base year.

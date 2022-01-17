@@ -1,0 +1,1 @@
+The example can be easily generalized in other dimensions.

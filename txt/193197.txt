@@ -1,0 +1,1 @@
+Boundary layer flow over a wing surface begins as a smooth laminar flow.

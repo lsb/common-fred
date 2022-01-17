@@ -1,0 +1,1 @@
+"A group code's value indicates what type of data element follows."

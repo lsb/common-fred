@@ -1,0 +1,1 @@
+Using the above technique, cyclic numbers can be found in other numeric bases.

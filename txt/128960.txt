@@ -1,0 +1,1 @@
+A main method of solving elementary functional equations is substitution.

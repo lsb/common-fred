@@ -1,0 +1,1 @@
+Functions performed include window definition, window control, and monitoring of keyboard and mouse input.

@@ -1,0 +1,1 @@
+"These tables are called ""factless fact tables"", or ""junction tables""."

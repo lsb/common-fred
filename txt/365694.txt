@@ -1,0 +1,1 @@
+In this simple example we have Alice and Bob and a banker.

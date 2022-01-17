@@ -1,0 +1,1 @@
+Blocks are named uniquely and have no overlap.

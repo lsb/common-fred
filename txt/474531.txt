@@ -1,0 +1,1 @@
+Older variable-width encodings are typically not as well designed, since the ranges may overlap.

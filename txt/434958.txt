@@ -1,0 +1,1 @@
+Like Lua, the primary data structure in GameMonkey Script is the table.

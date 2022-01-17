@@ -1,0 +1,1 @@
+"""Showtime"" received critical acclaim from music critics."

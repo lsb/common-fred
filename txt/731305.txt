@@ -1,0 +1,1 @@
+This information allows the handsets to identify the network and gain access to it.

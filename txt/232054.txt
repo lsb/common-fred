@@ -1,0 +1,1 @@
+Each visual area contains a full representation of visual space.

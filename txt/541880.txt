@@ -1,0 +1,1 @@
+Some versions of the model assume overtopping of some species by others.

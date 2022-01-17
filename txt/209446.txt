@@ -1,0 +1,1 @@
+Collections of such objects are called domains.

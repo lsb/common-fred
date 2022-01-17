@@ -1,0 +1,1 @@
+"If ""k"" is irrational, then it is not closed and has infinite length."

@@ -1,0 +1,1 @@
+Petty cash imprest system allows only the replenishment of the spend made.

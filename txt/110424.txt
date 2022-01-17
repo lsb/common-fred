@@ -1,0 +1,1 @@
+"This equation reflects the assumption that the flow is ""uni-directional""."

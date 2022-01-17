@@ -1,0 +1,1 @@
+"""Amagiri"" was hit and retired."

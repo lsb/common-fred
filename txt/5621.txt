@@ -1,0 +1,1 @@
+"""Pac-Pix"" was developed and published by Namco."

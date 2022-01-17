@@ -1,0 +1,1 @@
+A person may be a disqualified person for more than one organization.

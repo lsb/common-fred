@@ -1,0 +1,1 @@
+Players navigate each set in order with a limited number of lives and continues.

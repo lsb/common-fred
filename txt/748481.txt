@@ -1,0 +1,1 @@
+Through this communication, the system also controls the battery charge rate.

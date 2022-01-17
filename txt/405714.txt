@@ -1,0 +1,1 @@
+It uses a standard Athena Connector port supported only by some new accessories.

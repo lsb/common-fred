@@ -1,0 +1,1 @@
+This reaction is inhibited for dilute gases.

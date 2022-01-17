@@ -1,0 +1,1 @@
+They then typed in the ciphertext and out came the plaintext.

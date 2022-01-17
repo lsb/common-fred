@@ -1,0 +1,1 @@
+Only after the first teammate is done flipping successfully can the next person proceed.

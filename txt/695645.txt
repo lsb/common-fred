@@ -1,0 +1,1 @@
+There are various equivalent ways of defining the tangent spaces of a manifold.

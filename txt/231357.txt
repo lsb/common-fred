@@ -1,0 +1,1 @@
+Each of these bifurcation points is a period-doubling bifurcation.

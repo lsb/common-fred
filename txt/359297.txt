@@ -1,0 +1,1 @@
+In particular, it is not susceptible to a meet-in-the-middle attack.

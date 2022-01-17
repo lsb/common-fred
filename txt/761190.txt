@@ -1,0 +1,1 @@
+Typically the first track is a data track while the rest are audio tracks.

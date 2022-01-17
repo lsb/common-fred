@@ -1,0 +1,1 @@
+Multiple keys, overlapping keys and key compression within the hash tables are supported.

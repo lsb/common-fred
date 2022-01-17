@@ -1,0 +1,1 @@
+Supermatrices of compatible dimensions can be added or multiplied just as for ordinary matrices.

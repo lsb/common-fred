@@ -1,0 +1,1 @@
+Large sets of ammunition can only be collected by being shot from their enclosure.

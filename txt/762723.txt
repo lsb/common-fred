@@ -1,0 +1,1 @@
+Unintentional detonation when deflagration is desired is a problem in some devices.

@@ -1,0 +1,1 @@
+Common control is also known as indirect control or register control.

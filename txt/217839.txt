@@ -1,0 +1,1 @@
+Data could thus be passed safely from program to program.

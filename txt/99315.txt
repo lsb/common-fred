@@ -1,0 +1,1 @@
+"The rate of change of ""u"" is proportional to the ""curvature"" of ""u""."

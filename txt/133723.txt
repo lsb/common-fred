@@ -1,0 +1,1 @@
+A polydisc is an example of logarithmically convex Reinhardt domain.

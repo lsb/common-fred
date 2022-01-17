@@ -1,0 +1,1 @@
+In most non-strict languages the non-strictness extends to data constructors.

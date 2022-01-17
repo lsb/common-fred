@@ -1,0 +1,1 @@
+Common Communications Services defined the methods by which hetrogeneous systems communicated.

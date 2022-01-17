@@ -1,0 +1,1 @@
+"This cannot be preserved under an isolated ""L"" or ""R"" rotation."

@@ -1,0 +1,1 @@
+A probability measure is sought on this space, invariant under the symmetry group.

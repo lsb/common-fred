@@ -1,0 +1,1 @@
+A simple answer is to sample the continuous Gaussian, yielding the sampled Gaussian kernel.

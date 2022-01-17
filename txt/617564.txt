@@ -1,0 +1,1 @@
+The function itself and its first derivative are both continuous.

@@ -1,0 +1,1 @@
+Consumers could search for artists and listen through a separate browser window.

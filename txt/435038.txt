@@ -1,0 +1,1 @@
+Like a true Unix, Coherent was able to multitask and support multiple users.

@@ -1,0 +1,1 @@
+The type of shirt included in the set determines the name.

@@ -1,0 +1,1 @@
+Each light unit consists of one or more light sources, red filters and lenses.

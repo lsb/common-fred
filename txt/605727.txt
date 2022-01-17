@@ -1,0 +1,1 @@
+The drivers stopped themselves rather than being directed to stop.

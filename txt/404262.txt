@@ -1,0 +1,1 @@
+It should have either beveled or rounded corners, and barriers on all sides.

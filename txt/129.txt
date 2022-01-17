@@ -1,0 +1,1 @@
+"""A. sexdens"" follows the basic body plan of ants fairly closely."

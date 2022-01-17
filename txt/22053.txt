@@ -1,0 +1,1 @@
+"By convention the word ""bot"" is included in the name of the agent."

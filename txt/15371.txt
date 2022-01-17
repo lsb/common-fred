@@ -1,0 +1,1 @@
+"An alternative alt attribute value would be ""The Danish flag""."

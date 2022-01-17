@@ -1,0 +1,1 @@
+Active networking places computation within packets traveling through the network.

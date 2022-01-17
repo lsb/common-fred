@@ -1,0 +1,1 @@
+Every pixel but the first is replaced by the difference to its left neighbor.

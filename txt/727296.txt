@@ -1,0 +1,1 @@
+This conjecture was first proved by for elliptic curves with complex multiplication.

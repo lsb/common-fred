@@ -1,0 +1,1 @@
+Servo controlled motion systems employ linear encoder so as to provide accurate, high-speed movement.

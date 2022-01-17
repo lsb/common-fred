@@ -1,0 +1,1 @@
+By convention in Japan, killer sudoku cages do not include duplicate numbers.

@@ -1,0 +1,1 @@
+It implemented one of the earliest-known systems for persistent objects.

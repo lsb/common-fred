@@ -1,0 +1,1 @@
+While elegant, in the simplest implementation this solution is not type-safe.

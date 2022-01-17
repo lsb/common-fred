@@ -1,0 +1,1 @@
+"""Valid time"" was coined by Richard T. Snodgrass and his doctoral student."

@@ -1,0 +1,1 @@
+There are no literal variables or quantifiers in the sense of first-order logic.

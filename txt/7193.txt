@@ -1,0 +1,1 @@
+"""Sunwapta"" is a Stoney language word meaning ""turbulent river."

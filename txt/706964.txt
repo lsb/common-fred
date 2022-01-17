@@ -1,0 +1,1 @@
+These monitors use touching of the screen as an input method.

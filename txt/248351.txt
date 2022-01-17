@@ -1,0 +1,1 @@
+For greater security, Free Haven periodically moves the location of shares between nodes.

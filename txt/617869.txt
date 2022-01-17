@@ -1,0 +1,1 @@
+The game consists of exhibition games and tournament games.

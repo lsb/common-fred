@@ -1,0 +1,1 @@
+Certain tables restrict doubling down and splitting, and do not allow doubles after splits.

@@ -1,0 +1,1 @@
+This is used in time value of money calculations.

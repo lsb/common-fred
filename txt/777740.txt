@@ -1,0 +1,1 @@
+When using a ruler, initially use the smallest mark as the first estimated digit.

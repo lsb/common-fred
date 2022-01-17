@@ -1,0 +1,1 @@
+Offline data authentication is a cryptographic check to validate the card using public-key cryptography.

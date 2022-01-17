@@ -1,0 +1,1 @@
+Each station performs one or more operations until a finished part is made.

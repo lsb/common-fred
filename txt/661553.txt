@@ -1,0 +1,1 @@
+The search board is actually two identical boards separated by a divider.

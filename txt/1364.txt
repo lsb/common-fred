@@ -1,0 +1,1 @@
+"""Chinois"" is a loanword from the French adjective meaning Chinese."

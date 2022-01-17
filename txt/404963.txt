@@ -1,0 +1,1 @@
+It supports only full-duplex, transmitting in both directions simultaneously.

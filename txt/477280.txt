@@ -1,0 +1,1 @@
+One button pops up a message when pressed, the other quits the example.

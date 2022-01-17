@@ -1,0 +1,1 @@
+Wally can carry two items in a first in, first out arrangement.

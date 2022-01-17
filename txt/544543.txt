@@ -1,0 +1,1 @@
+Specifically, it is a barrier option of the Down and Out type.

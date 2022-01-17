@@ -1,0 +1,1 @@
+Orthogonal Latin squares have been known to predate Euler.

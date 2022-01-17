@@ -1,0 +1,1 @@
+This ensures correct alignment of the projectile and the cartridge case.

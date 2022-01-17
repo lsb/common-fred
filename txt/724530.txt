@@ -1,0 +1,1 @@
+This allowed users to learn with actual live applications in a non-destructive way.

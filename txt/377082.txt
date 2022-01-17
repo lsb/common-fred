@@ -1,0 +1,1 @@
+It focuses on the scientific applications of computers for automating laboratory and instrument operations.

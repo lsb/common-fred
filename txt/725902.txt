@@ -1,0 +1,1 @@
+This bridge was built for single traffic, it is now controlled by traffic lights.

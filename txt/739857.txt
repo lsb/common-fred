@@ -1,0 +1,1 @@
+This results in lower computational cost compared to using separate encryption and authentication functions.

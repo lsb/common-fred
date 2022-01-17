@@ -1,0 +1,1 @@
+"""Opera"" windows were added to the sail panels."

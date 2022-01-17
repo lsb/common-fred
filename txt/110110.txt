@@ -1,0 +1,1 @@
+"This causes the electron beam to ""bunch up"", known technically as ""velocity modulation""."

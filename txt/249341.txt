@@ -1,0 +1,1 @@
+For simplicity, the example ignores compounding interest.

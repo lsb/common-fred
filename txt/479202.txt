@@ -1,0 +1,1 @@
+One sided primitive rings are both semiprimitive rings and prime rings.

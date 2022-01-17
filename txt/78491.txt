@@ -1,0 +1,1 @@
+"Simultaneous declarations are commonly done by the ""chips in hand"" method."

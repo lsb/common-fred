@@ -1,0 +1,1 @@
+Also, freeing Teensies and defeating enemies gives the player points.

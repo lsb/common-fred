@@ -1,0 +1,1 @@
+Advertisements are rarely hosted by the same web server as the actual content.

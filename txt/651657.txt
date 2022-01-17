@@ -1,0 +1,1 @@
+The process is continued until the required number of random gradients are obtained.

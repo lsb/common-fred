@@ -1,0 +1,1 @@
+At this point, the load resistance and internal resistance are equal.

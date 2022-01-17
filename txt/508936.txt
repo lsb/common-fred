@@ -1,0 +1,1 @@
+Rounded binary form is sometimes referred to as small ternary form.

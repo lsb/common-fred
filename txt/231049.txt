@@ -1,0 +1,1 @@
+Each item bought is placed at a specific place on the playground.

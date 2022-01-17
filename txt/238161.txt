@@ -1,0 +1,1 @@
+Events which were not championship rounds are indicated by a pink background.

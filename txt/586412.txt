@@ -1,0 +1,1 @@
+The book is directed to programmers who want to improve their code reading abilities.

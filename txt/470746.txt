@@ -1,0 +1,1 @@
+Note that this is the energy per bit, not the energy per information bit.

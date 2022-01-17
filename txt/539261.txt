@@ -1,0 +1,1 @@
+Some inexpensive consumer editing programs achieve de-interlacing by deleting one of the fields.

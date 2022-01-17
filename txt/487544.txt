@@ -1,0 +1,1 @@
+Pan and scan cuts out as much as half of the image.

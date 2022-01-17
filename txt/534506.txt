@@ -1,0 +1,1 @@
+Sitecore now takes responsibility for developing, selling, and supporting the Commerce Server product.

@@ -1,0 +1,1 @@
+"A 'C' battery measures length and diameter."

@@ -1,0 +1,1 @@
+The wire protocol may be either text-based or a binary protocol.

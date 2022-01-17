@@ -1,0 +1,1 @@
+Permittivity as a function of frequency can take on real or complex values.

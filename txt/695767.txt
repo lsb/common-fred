@@ -1,0 +1,1 @@
+There are, however, typical functions which are found in many computer vision systems.

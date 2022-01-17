@@ -1,0 +1,1 @@
+This particular option is a lossy data compression method.

@@ -1,0 +1,1 @@
+Reading the memory took place via a secondary effect caused by the writing operation.

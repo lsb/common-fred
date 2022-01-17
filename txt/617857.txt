@@ -1,0 +1,1 @@
+The game can also be set to pause automatically at certain times.

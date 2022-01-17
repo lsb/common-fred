@@ -1,0 +1,1 @@
+"""Mytilopsis"" is typically found in brackish water, unlike ""Dreissena"", which inhabits fresh water."

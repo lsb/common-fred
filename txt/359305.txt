@@ -1,0 +1,1 @@
+In particular, many Banach spaces lack a notion analogous to an orthonormal basis.

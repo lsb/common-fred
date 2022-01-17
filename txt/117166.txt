@@ -1,0 +1,1 @@
+"Web developers shouldn't embed scripts directly from jQuery.com since it enables a third party to track all users."

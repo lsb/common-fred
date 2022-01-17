@@ -1,0 +1,1 @@
+There are also articles describing single clinician deployments and a free clinic deployment.

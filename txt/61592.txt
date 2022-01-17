@@ -1,0 +1,1 @@
+"Let ""R"" be a ring, and let ""M"" be a left ""R""-module."

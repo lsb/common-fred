@@ -1,0 +1,1 @@
+A verse history function was added along with a dictionary lookup feature for Bibles.

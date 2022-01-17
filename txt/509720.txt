@@ -1,0 +1,1 @@
+Rust sporulates on affected plant parts.

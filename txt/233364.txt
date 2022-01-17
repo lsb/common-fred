@@ -1,0 +1,1 @@
+Edge devices also provide connections into carrier and service provider networks.

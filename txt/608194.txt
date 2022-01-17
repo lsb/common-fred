@@ -1,0 +1,1 @@
+The ergodic hypothesis is often assumed in the statistical analysis of computational physics.

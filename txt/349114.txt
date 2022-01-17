@@ -1,0 +1,1 @@
+If a player can win the trick then they must do so.

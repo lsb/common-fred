@@ -1,0 +1,1 @@
+The sync services are utilized by several applications including Address Book, iCal, Mail.

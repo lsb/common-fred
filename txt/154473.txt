@@ -1,0 +1,1 @@
+All safety-related portions of the system are seismically qualified and contain redundant divisions.

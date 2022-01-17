@@ -1,0 +1,1 @@
+This allows for mechanical power, torque, and speed to be transmitted across axles.

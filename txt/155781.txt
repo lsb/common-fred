@@ -1,0 +1,1 @@
+All these three standards define both full-duplex and half-duplex communication.

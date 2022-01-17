@@ -1,0 +1,1 @@
+"""Willand"" is a major part of Lower Culm electoral ward."

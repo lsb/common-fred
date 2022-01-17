@@ -1,0 +1,1 @@
+Doctors can access easily person information, test results, and previous prescriptions.

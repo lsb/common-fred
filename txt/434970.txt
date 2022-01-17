@@ -1,0 +1,1 @@
+Like N-gram models, smoothing techniques are necessary in parameter estimation.

@@ -1,0 +1,1 @@
+Furthermore, it cannot always estimate the altitude of an aircraft.

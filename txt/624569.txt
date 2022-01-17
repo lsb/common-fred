@@ -1,0 +1,1 @@
+The interdomain linker between the oxygenase and reductase domains contains a calmodulin-binding sequence.

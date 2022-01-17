@@ -1,0 +1,1 @@
+Traditionally objects were created to be used and not just to be placed.

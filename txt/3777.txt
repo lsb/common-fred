@@ -1,0 +1,1 @@
+"""Interactive installation"" is a sub-category of installation art."

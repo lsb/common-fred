@@ -1,0 +1,1 @@
+You can also execute sequences of commands, even waiting for particular elements to appear in the page.

@@ -1,0 +1,1 @@
+Disk scanners share a major limitation with the Farnsworth image dissector.

@@ -1,0 +1,1 @@
+Stroustrup style is a named indentation style available in the editor Emacs.

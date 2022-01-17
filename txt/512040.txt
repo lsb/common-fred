@@ -1,0 +1,1 @@
+ScatterChat is an encrypted instant messaging client based on Gaim.

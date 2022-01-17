@@ -1,0 +1,1 @@
+This includes rapid starts, stops, turns, and changes in skating direction.

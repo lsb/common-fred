@@ -1,0 +1,1 @@
+Physicists often need the magnetization to calculate the moment of a ferromagnet.

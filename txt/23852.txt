@@ -1,0 +1,1 @@
+"Collision with these enemies destroys them but drains a portion of the player's health."

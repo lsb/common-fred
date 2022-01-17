@@ -1,0 +1,1 @@
+Some computer languages provide built-in or library support for merging sorted collections.

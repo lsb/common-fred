@@ -1,0 +1,1 @@
+Harmonic current in the neutral may become very large if non-linear loads are connected.

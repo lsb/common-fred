@@ -1,0 +1,1 @@
+Each listening program receives a copy of matching messages.

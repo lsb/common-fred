@@ -1,0 +1,1 @@
+Both give a maximum-length sequence.

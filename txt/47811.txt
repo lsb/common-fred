@@ -1,0 +1,1 @@
+"If no decision was made when time ran out, it counted as ""Ignore""."

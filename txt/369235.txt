@@ -1,0 +1,1 @@
+Interlaced and non-interlaced output modes are supported, as is a hardware text cursor.

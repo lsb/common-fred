@@ -1,0 +1,1 @@
+Hailstone size is typically correspondent to the size of an object for comparative purposes.

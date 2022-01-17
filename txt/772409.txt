@@ -1,0 +1,1 @@
+Web browsers typically display the top of the document for an empty fragment.

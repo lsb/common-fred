@@ -1,0 +1,1 @@
+One of the uses of Skolemization is automated theorem proving.

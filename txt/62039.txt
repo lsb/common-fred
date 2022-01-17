@@ -1,0 +1,1 @@
+"Like some other platformers, bumping into them kills the player's character."

@@ -1,0 +1,1 @@
+It does not take account of time dilation.

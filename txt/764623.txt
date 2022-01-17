@@ -1,0 +1,1 @@
+Use an external message queue if multiple tasks are to wait for messages.

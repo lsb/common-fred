@@ -1,0 +1,1 @@
+Piconet range varies according to the class of the Bluetooth device.

@@ -1,0 +1,1 @@
+If the functions are linearly dependent then all generalized Wronskians vanish.

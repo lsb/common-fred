@@ -1,0 +1,1 @@
+In these examples, the database table has two columns, A and B.

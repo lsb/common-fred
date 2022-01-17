@@ -1,0 +1,1 @@
+It helps bind the wicket better, making it a harder surface eventually.

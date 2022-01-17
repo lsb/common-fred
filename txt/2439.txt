@@ -1,0 +1,1 @@
+"""For further discussion, please refer to Rational pricing""."

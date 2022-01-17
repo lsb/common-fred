@@ -1,0 +1,1 @@
+In optics, modulation transfer function indicates the capability of optical contrast transmission.

@@ -1,0 +1,1 @@
+Next, install an extension that makes it possible to add custom Python commands.

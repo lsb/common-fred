@@ -1,0 +1,1 @@
+Typically the transmitter multiplexes all the channels into a single pulse-position modulation radio signal.

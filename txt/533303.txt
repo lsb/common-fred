@@ -1,0 +1,1 @@
+Since media files can be gigabytes in size, this is a potentially disk-intensive process.

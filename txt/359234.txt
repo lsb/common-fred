@@ -1,0 +1,1 @@
+In partial offload, the main system stack controls all connections to the host.

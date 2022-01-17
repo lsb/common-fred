@@ -1,0 +1,1 @@
+However, it is possible for preferences not to be representable by a utility function.

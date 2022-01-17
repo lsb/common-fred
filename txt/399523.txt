@@ -1,0 +1,1 @@
+It is user-sponsored, open-source software, released under the Python License.

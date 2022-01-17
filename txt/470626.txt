@@ -1,0 +1,1 @@
+Note that Bob always votes in favor of the outcome that wins the election.

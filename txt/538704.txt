@@ -1,0 +1,1 @@
+Some digital devices support a form of three-state logic on their outputs only.

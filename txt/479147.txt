@@ -1,0 +1,1 @@
+One requirement though is to retain telephone numbers for some customers.

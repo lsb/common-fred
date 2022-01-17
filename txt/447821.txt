@@ -1,0 +1,1 @@
+Mathematically, this requires a stiffness matrix to have full rank.

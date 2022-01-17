@@ -1,0 +1,1 @@
+Used along with box-drawing characters are block elements, shade characters, and terminal graphic characters.

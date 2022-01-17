@@ -1,0 +1,1 @@
+Group chunks, like their simpler counterparts, contain a length element.

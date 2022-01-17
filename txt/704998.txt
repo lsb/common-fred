@@ -1,0 +1,1 @@
+These data standards are meant to allow healthcare organizations to easily share clinical information.

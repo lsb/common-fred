@@ -1,0 +1,1 @@
+Ground speed radar can measure it directly.

@@ -1,0 +1,1 @@
+It is an example of a dynamical system that exhibits chaotic behavior.

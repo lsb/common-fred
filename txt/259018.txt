@@ -1,0 +1,1 @@
+Given the slow printer interfaces used at that time, this greatly reduced print times.

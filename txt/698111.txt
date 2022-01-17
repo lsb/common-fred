@@ -1,0 +1,1 @@
+There is also an interaction between prey with periodic cycles and predators.

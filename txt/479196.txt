@@ -1,0 +1,1 @@
+One should then see a window with, for example, a rectangle drawn in it.

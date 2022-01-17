@@ -1,0 +1,1 @@
+In addition, they require no tree balancing and no hashing algorithm is used.

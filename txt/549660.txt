@@ -1,0 +1,1 @@
+Such cases should no longer arise with the implementation of the directive.

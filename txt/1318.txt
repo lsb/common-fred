@@ -1,0 +1,1 @@
+"""Chase"" visited Spain, Morocco, Ireland, and France."

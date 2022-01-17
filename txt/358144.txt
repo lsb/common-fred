@@ -1,0 +1,1 @@
+In low-level programming, busy-waits may actually be desirable.

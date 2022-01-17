@@ -1,0 +1,1 @@
+Using such calls generally produces the simplest, most efficient, fair, and race-free result.

@@ -1,0 +1,1 @@
+Typically, this is an exhaustive search of a particular key space.

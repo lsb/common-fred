@@ -1,0 +1,1 @@
+Doubling the perceived loudness doubles the sone value.

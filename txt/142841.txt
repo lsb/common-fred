@@ -1,0 +1,1 @@
+AdaTron uses the fact that the corresponding quadratic optimization problem is convex.

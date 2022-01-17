@@ -1,0 +1,1 @@
+"""Golden Sun"" also features an optional battling mode accessible from the menu screen."

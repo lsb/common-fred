@@ -1,0 +1,1 @@
+Typically a device driver, linked to the operating system, controls the host adapter itself.

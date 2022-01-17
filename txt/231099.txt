@@ -1,0 +1,1 @@
+Each list describes the set of neighbors of a vertex in the graph.

@@ -1,0 +1,1 @@
+"Thus, the Tate module encodes all the ""p""-power torsion of ""A""."

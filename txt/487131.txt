@@ -1,0 +1,1 @@
+Packet writing can be used both with once-writeable media and rewriteable media.

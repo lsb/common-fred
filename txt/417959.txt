@@ -1,0 +1,1 @@
+Its main goal is to provide professional yet simple and intuitive pattern-based drum programming.

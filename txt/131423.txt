@@ -1,0 +1,1 @@
+A menu is a list of titles, from which the user may pick one.

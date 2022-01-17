@@ -1,0 +1,1 @@
+The working fluid properties are essential for the full description of thermodynamic systems.

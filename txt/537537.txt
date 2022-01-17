@@ -1,0 +1,1 @@
+Solid arrows point from the acquiring bank to the acquired one.

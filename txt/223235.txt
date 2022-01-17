@@ -1,0 +1,1 @@
+Distributed computing projects are inherently parallel by design.

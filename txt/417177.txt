@@ -1,0 +1,1 @@
+Its fuel capacity allows the aircraft to travel unrefueled.

@@ -1,0 +1,1 @@
+A formal language is a language that is defined by a formal system.

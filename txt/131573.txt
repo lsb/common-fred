@@ -1,0 +1,1 @@
+A model which recognizes differences among agents is called a heterogeneous agent model.
