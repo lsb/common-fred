@@ -1,0 +1,1 @@
+"""Kujawiak"" sank before a successful tow could be achieved."

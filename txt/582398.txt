@@ -1,0 +1,1 @@
+The article introduces a very fast, small, and shallow feed-forward network which is trained end-to-end.

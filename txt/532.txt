@@ -1,0 +1,1 @@
+"""Aquidneck"" is derived from the Narragansett name for the island ""aquidnet""."

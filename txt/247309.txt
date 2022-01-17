@@ -1,0 +1,1 @@
+For a manifold, this coincides with the dimension mentioned above.

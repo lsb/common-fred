@@ -1,0 +1,1 @@
+"Each department's capital is the same as its name."

@@ -1,0 +1,1 @@
+"When a function breaks this rule, it is often said to contain ""magic""."

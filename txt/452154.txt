@@ -1,0 +1,1 @@
+Middleware allows data contained in one database to be accessed through another.

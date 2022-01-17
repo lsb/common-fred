@@ -1,0 +1,1 @@
+Each new release adds support for newer processors and chipsets.

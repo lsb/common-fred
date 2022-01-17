@@ -1,0 +1,1 @@
+When testing metals, indentation hardness correlates linearly with tensile strength.

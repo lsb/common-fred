@@ -1,0 +1,1 @@
+In this version, players who are tagged remain in jail indefinitely.

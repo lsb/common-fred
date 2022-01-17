@@ -1,0 +1,1 @@
+"There are twelve different angles for the camera, including ""bullet-camera"" and freely moved camera."

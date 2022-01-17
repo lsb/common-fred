@@ -1,0 +1,1 @@
+To allow this, a module must bear the same name as its file name.

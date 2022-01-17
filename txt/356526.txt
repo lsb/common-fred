@@ -1,0 +1,1 @@
+In fact, assignment statements are never referentially transparent.

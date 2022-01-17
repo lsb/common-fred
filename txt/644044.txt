@@ -1,0 +1,1 @@
+The original spark-gap transmitters used for radio signalling could only transmit Morse code messages.

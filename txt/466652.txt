@@ -1,0 +1,1 @@
+Nmap can adapt to network conditions including latency and congestion during a scan.

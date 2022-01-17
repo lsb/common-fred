@@ -1,0 +1,1 @@
+"In this context, ""multi-dimensional"" refers to the representation of financial data in spreadsheet format."

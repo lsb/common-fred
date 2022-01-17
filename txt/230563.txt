@@ -1,0 +1,1 @@
+Each city is linked by touching city limits or suburbs.

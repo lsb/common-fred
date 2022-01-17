@@ -1,0 +1,1 @@
+Code reuse results in dependency on the component being reused.

@@ -1,0 +1,1 @@
+Naval combat now features a new, much more dynamic table.

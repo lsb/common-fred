@@ -1,0 +1,1 @@
+Cuts represent actions that remove other solid contexts such as fills, deposits, and walls.

@@ -1,0 +1,1 @@
+"For a morphism ""f"", the following properties are true."

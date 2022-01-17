@@ -1,0 +1,1 @@
+Clients do not have any direct access to the underlying storage.

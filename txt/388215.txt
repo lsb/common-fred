@@ -1,0 +1,1 @@
+It is heavy, hard, and fine grained but not durable.

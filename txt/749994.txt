@@ -1,0 +1,1 @@
+Tickets executed by multiple airlines may have different rules.

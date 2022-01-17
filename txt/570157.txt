@@ -1,0 +1,1 @@
+The Option key can also provide access to dead key functionality.

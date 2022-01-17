@@ -1,0 +1,1 @@
+The initial pattern of cells constitutes the first generation of automata in the simulation.

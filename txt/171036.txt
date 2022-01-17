@@ -1,0 +1,1 @@
+As a first example, note that the -theory of a point are the integers.

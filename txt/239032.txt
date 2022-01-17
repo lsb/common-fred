@@ -1,0 +1,1 @@
+Every partial equivalence relation is a difunctional relation, but the converse does not hold.

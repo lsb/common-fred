@@ -1,0 +1,1 @@
+The filesystem offers a directory containing deleted files for recovery.

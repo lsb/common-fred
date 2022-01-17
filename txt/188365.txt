@@ -1,0 +1,1 @@
+Blocking reduces the overhead and speeds up the handling of the data-stream.

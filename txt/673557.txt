@@ -1,0 +1,1 @@
+The ten different block types vary in durability and points value.

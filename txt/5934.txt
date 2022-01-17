@@ -1,0 +1,1 @@
+"""Postal"" received mixed reviews from critics."

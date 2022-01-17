@@ -1,0 +1,1 @@
+Every location onscreen is at a particular line and column.

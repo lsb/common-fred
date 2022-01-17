@@ -1,0 +1,1 @@
+It is defined as the inverse of the absolute risk reduction.

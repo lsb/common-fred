@@ -1,0 +1,1 @@
+Each dorm contains beds, dressers, desks, and chairs.

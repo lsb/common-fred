@@ -1,0 +1,1 @@
+There is a closely related argument from algebraic topology, using the Lefschetz fixed-point theorem.

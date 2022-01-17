@@ -1,0 +1,1 @@
+Selenium WebDriver provides a powerful but simple API to control webpages.

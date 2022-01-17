@@ -1,0 +1,1 @@
+"The line is described in the ""Gambit Guide"" as ""ambitious""."

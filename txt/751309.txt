@@ -1,0 +1,1 @@
+To make it possible, both target and missile trackers have to be active.

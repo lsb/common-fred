@@ -1,0 +1,1 @@
+"A ""crossfade"" is when lighting levels are gradually altered from one setting to another."

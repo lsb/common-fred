@@ -1,0 +1,1 @@
+Each record consists of seven fields separated by colons.

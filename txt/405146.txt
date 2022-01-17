@@ -1,0 +1,1 @@
+It tests positive for the oxidase test.

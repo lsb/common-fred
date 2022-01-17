@@ -1,0 +1,1 @@
+"""Space Invaders"" has been remade on numerous platforms and spawned many sequels."

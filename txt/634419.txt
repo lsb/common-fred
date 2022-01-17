@@ -1,0 +1,1 @@
+The microsimulation can either be dynamic or static.

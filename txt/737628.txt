@@ -1,0 +1,1 @@
+This overhead is hopefully amortized as translated code sequences are executed multiple times.

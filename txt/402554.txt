@@ -1,0 +1,1 @@
+It plays the album tracks in reverse order of their original release.

@@ -1,0 +1,1 @@
+Some systems can never be made fail safe, as continuous availability is needed.

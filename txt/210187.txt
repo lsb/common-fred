@@ -1,0 +1,1 @@
+Commands get confused with each other, latency increases, and your grammars become giant disorganized blobs.

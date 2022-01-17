@@ -1,0 +1,1 @@
+By contrast, in the direction normal to the curve, the function has a singularity.

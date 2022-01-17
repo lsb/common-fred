@@ -1,0 +1,1 @@
+This has been documented in the man pages for Sun Solaris as follows.

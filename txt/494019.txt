@@ -1,0 +1,1 @@
+Players can choose from one of four options: Fight, Bag, Switch, and Run.

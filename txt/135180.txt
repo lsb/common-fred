@@ -1,0 +1,1 @@
+A secret knowledge is required to apply the inverse cipher to the ciphertext.

@@ -1,0 +1,1 @@
+Both support automatic baseline alignment for inline equations.

@@ -1,0 +1,1 @@
+This search function searches all of the newsgroups on the Shemes news service.

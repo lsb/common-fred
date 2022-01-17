@@ -1,0 +1,1 @@
+"""Mofa"" is a contraction of ""Motor-Fahrrad"", German for ""moped""."

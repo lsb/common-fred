@@ -1,0 +1,1 @@
+It is satisfied when all sub-goals are satisfied.

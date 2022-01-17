@@ -1,0 +1,1 @@
+In swarm robotics, self-organization is used to produce emergent behavior.

@@ -1,0 +1,1 @@
+However, if both biased-exponent floating-point numbers are negative, then the ordering must be reversed.

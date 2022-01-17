@@ -1,0 +1,1 @@
+Application layer firewalls are generally slower than stateful inspection.

@@ -1,0 +1,1 @@
+If the differintegral is initialized properly, then the hoped-for composition law holds.

@@ -1,0 +1,1 @@
+An identifier bound to an object is said to reference that object.

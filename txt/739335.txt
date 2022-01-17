@@ -1,0 +1,1 @@
+This reference file can be imported as the video track in Soundtrack.

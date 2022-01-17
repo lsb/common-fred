@@ -1,0 +1,1 @@
+Further applications of partial order reduction involve automated planning.

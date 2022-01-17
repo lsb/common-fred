@@ -1,0 +1,1 @@
+Using a delay line creates an unlimited series of equally spaced notches and peaks.

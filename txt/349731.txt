@@ -1,0 +1,1 @@
+If the cubic degenerates and gets a cusp then only one inflection remains.

@@ -1,0 +1,1 @@
+It can be exported to the iCalendar or vCalendar formats as well.

@@ -1,0 +1,1 @@
+Users of Google Cloud can import their data into Google Cloud Storage through sneakernet.

@@ -1,0 +1,1 @@
+Most terraforming tools are disabled after the city is named and founded.

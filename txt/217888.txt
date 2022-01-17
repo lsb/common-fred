@@ -1,0 +1,1 @@
+Data such as mileage and fuel consumption are gathered into a global statistics scheme.

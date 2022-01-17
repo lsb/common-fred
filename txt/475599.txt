@@ -1,0 +1,1 @@
+On some digital pink-noise generators the crest factor can be specified.

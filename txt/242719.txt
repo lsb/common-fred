@@ -1,0 +1,1 @@
+Ferroelectric materials are required by symmetry considerations to be also piezoelectric and pyroelectric.

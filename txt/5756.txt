@@ -1,0 +1,1 @@
+"""Peter"" is now rendered ""Cephas"" when the Greek merely transliterates the Hebrew name."

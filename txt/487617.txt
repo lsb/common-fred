@@ -1,0 +1,1 @@
+Pango-processed text will appear similar under different operating systems.

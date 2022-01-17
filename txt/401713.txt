@@ -1,0 +1,1 @@
+It now more often marks a long vowel.

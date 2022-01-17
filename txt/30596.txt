@@ -1,0 +1,1 @@
+"For example, they may set it to 'Do nothing', 'restart', 'shutdown', or 'stand by'."

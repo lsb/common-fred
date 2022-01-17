@@ -1,0 +1,1 @@
+The file system supports dynamic expansion and distribution of both data and metadata areas.

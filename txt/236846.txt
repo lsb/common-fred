@@ -1,0 +1,1 @@
+Eruptions will be effusive if the magma has a low ascent velocity.

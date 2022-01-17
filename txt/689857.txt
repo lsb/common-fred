@@ -1,0 +1,1 @@
+Then go ahead and bind these functions to voice commands and try them out.

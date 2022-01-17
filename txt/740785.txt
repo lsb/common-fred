@@ -1,0 +1,1 @@
+This slows down reloading of the pistol.

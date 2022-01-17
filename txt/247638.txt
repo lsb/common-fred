@@ -1,0 +1,1 @@
+For certain vertex operator algebras, these Poisson algebras are finite-dimensional.

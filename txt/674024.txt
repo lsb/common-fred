@@ -1,0 +1,1 @@
+The term was preserved, but it was assigned a value of zero in order to discard it.

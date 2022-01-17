@@ -1,0 +1,1 @@
+The Jack point is not awarded if no player held the Jack of trumps.

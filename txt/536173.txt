@@ -1,0 +1,1 @@
+Snapstream provides heuristic commercial detection and program recompression.

@@ -1,0 +1,1 @@
+There are various other mathematical concepts that can be used to represent complete lattices.

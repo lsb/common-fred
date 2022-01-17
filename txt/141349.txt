@@ -1,0 +1,1 @@
+Access to data stored on disks is a central feature of all operating systems.

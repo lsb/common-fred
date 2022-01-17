@@ -1,0 +1,1 @@
+For Copperhead to function, the target must be illuminated with a laser designator.

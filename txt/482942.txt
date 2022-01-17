@@ -1,0 +1,1 @@
+Other compositing window managers such as Compiz also use compositing.

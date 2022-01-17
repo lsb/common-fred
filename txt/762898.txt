@@ -1,0 +1,1 @@
+Universal codes are also useful when Huffman codes are inconvenient.

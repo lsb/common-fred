@@ -1,0 +1,1 @@
+It can be chosen smaller consistently, but extreme values can make the model nonperturbative.

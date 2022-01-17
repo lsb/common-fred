@@ -1,0 +1,1 @@
+"In 'straight', the score remains the same and cannot be pushed."

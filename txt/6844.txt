@@ -1,0 +1,1 @@
+"""Slaver Lords"" derive their power from the psychic energy of other beings."

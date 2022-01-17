@@ -1,0 +1,1 @@
+"""The Barnyards of Delgaty"" is a Scottish Bothy ballad."

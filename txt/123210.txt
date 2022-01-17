@@ -1,0 +1,1 @@
+A chunk of code is regularly organized using modules or namespaces into layers.

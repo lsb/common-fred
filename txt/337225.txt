@@ -1,0 +1,1 @@
+However, it is easy to check that all localizations are modular.

@@ -1,0 +1,1 @@
+It tricks the listener to reset the password for a well known database user.

@@ -1,0 +1,1 @@
+Every self-synchronizing code is a prefix code, but not all prefix codes are self-synchronizing.

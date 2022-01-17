@@ -1,0 +1,1 @@
+Then, of course, the monoalphabetic ciphertexts that result must be cryptanalyzed.

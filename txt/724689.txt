@@ -1,0 +1,1 @@
+This allows the rail operators to collect fares based on this information.

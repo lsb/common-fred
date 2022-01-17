@@ -1,0 +1,1 @@
+Interpolation from accurate data is also more accurate than the affinity laws.

@@ -1,0 +1,1 @@
+"Ballots that record neither a ""yes"" nor a ""no"" on the proposition are ignored."

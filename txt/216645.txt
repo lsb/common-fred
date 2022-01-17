@@ -1,0 +1,1 @@
+Custom cables then linked these sideband signals between the card and the motherboard.

@@ -1,0 +1,1 @@
+The notational conventions for sequences normally apply to nets as well.

@@ -1,0 +1,1 @@
+The Mobile Information Device Profile is a profile designed for cell phones.

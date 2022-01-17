@@ -1,0 +1,1 @@
+The application determines how low this value should be.

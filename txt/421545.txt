@@ -1,0 +1,1 @@
+Java Desktop System is available for Solaris and was once available for Linux.

@@ -1,0 +1,1 @@
+"""Boot Hill"" focused on gunfighting rather than role-playing."

@@ -1,0 +1,1 @@
+Items can be collected and every important encounter is stored in a memory log.

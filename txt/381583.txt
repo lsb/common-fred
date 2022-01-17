@@ -1,0 +1,1 @@
+It is a gdb based utility for debugging kernel core files.

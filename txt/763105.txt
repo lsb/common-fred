@@ -1,0 +1,1 @@
+Unlike clients in a client-server or client-queue-client network, peers communicate with each other directly.

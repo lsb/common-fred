@@ -1,0 +1,1 @@
+There are various methods of classifying these tensors, some of which use tensor invariants.

@@ -1,0 +1,1 @@
+A separate signal conditioner is required when none is built into the readout.

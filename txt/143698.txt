@@ -1,0 +1,1 @@
+Additionally, it returns heights for the bars for the applet to show.

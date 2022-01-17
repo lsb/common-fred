@@ -1,0 +1,1 @@
+For infinitesimal deformations and rotations, the Cauchy and Piola-Kirchhoff tensors are identical.

@@ -1,0 +1,1 @@
+"""Closer"" employs a horn section to subtle effect."

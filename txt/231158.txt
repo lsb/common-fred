@@ -1,0 +1,1 @@
+Each memento represents a notable resource of each nation.

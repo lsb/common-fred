@@ -1,0 +1,1 @@
+"Consider for instance the Banach space ""l"" of all bounded real sequences."

@@ -1,0 +1,1 @@
+They are only approximation fallbacks but do not map exactly the intended character.

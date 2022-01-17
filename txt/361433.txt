@@ -1,0 +1,1 @@
+In the Black-Scholes model, prices are assumed to follow the geometric Brownian motion.

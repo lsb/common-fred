@@ -1,0 +1,1 @@
+Additionally, transitions between regular hosts have often been bridged by stand-ins.

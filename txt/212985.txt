@@ -1,0 +1,1 @@
+Conversely, collisions that occur at low relative speeds may also join two asteroids.

@@ -1,0 +1,1 @@
+It did cause a usually visibly imperceptible loss of quality when doing heavy blending.

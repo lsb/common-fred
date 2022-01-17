@@ -1,0 +1,1 @@
+"""The Hope"" is organized by the nonprofit Desert Classic Charities."

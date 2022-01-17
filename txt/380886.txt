@@ -1,0 +1,1 @@
+It incorporates a programming language and an environment for application development.

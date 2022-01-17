@@ -1,0 +1,1 @@
+Mutt relies on external tools for composing and filtering messages.

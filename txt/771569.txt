@@ -1,0 +1,1 @@
+We neglect friction and also the rotation of the Earth about the Sun.

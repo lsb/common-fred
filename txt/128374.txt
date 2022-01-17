@@ -1,0 +1,1 @@
+A limitation is that scheduled calls and conference calls cannot be free.

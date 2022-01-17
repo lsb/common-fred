@@ -1,0 +1,1 @@
+"""Ethnologue"" distinguishes three Kam varieties as separate but closely related languages."

@@ -1,0 +1,1 @@
+Software testing is a trade-off between budget, time and quality.

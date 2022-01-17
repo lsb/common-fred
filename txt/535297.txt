@@ -1,0 +1,1 @@
+Slice definition files are used as input to the stub generating process.

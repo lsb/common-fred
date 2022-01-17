@@ -1,0 +1,1 @@
+Many statistical packages include routines for carrying out the Mantel test.

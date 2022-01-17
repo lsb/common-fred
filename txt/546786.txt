@@ -1,0 +1,1 @@
+Stevens developed this attack in a project called HashClash, implementing a differential path attack.

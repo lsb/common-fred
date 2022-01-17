@@ -1,0 +1,1 @@
+Similarly, the last word is always the broadcast word.

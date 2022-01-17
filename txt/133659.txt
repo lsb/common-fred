@@ -1,0 +1,1 @@
+A pluggable macro architecture allows for even more extensibility and flexibility.

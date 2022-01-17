@@ -1,0 +1,1 @@
+Subadditivity is an essential property of some particular cost functions.

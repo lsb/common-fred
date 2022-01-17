@@ -1,0 +1,1 @@
+It uses models to root out logical inconsistency.

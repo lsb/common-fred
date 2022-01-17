@@ -1,0 +1,1 @@
+They are rated either in relative turns or Kv.

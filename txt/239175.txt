@@ -1,0 +1,1 @@
+Every window is represented by a scaled screenshot of its own.

@@ -1,0 +1,1 @@
+Point and figure charting does not plot price against time as time-based charts do.

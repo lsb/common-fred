@@ -1,0 +1,1 @@
+Polyglot persistence is similar, but about databases.

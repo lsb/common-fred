@@ -1,0 +1,1 @@
+"""Arctotis"" is native to dry stony slopes in southern Africa."

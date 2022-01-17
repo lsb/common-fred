@@ -1,0 +1,1 @@
+The pod is completely self-contained.

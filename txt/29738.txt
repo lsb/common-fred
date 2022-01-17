@@ -1,0 +1,1 @@
+"Finally, the game is over when only one column touches the field's upper edge."

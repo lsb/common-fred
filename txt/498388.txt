@@ -1,0 +1,1 @@
+Priority inversion can also reduce the perceived performance of the system.

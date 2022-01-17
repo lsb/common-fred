@@ -1,0 +1,1 @@
+If is not an integer, then is not nonagonal.

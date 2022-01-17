@@ -1,0 +1,1 @@
+Devices also include power management functions such as link quality and energy detection.

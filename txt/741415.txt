@@ -1,0 +1,1 @@
+This strategy thus reduces the line-side inventory buffer.

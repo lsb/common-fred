@@ -1,0 +1,1 @@
+In web browsers, the viewport is the visible portion of the entire document.

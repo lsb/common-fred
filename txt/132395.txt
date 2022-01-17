@@ -1,0 +1,1 @@
+A nonuniform feed rate can lead to a kerf of varying thickness.

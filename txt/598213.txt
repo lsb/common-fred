@@ -1,0 +1,1 @@
+The constraint solver is used to constrain window behavior.

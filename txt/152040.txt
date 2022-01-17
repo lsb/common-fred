@@ -1,0 +1,1 @@
+Algebraic block codes are typically hard-decoded using algebraic decoders.

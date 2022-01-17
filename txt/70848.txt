@@ -1,0 +1,1 @@
+"Pascal's triangle can be extended to negative row numbers."

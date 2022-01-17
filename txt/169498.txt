@@ -1,0 +1,1 @@
+Arial in TrueType format was included in this project.

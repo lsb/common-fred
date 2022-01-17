@@ -1,0 +1,1 @@
+If the language uses the attribute syntax the syntax may look like this.

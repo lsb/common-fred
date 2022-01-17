@@ -1,0 +1,1 @@
+It is normally rendered fullwidth and with a glyph appropriate to the writing direction.

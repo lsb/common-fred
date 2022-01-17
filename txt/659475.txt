@@ -1,0 +1,1 @@
+The rules on eligible receivers only apply to forward passes.

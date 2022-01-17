@@ -1,0 +1,1 @@
+If not, when did it change from a heap to a non-heap?

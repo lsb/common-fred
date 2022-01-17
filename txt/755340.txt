@@ -1,0 +1,1 @@
+Track runners wave to spectators during a race.

@@ -1,0 +1,1 @@
+ArtRage can import some Photoshop filters, but not all.

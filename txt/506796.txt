@@ -1,0 +1,1 @@
+Right trapezoids are used in the trapezoidal rule for estimating areas under a curve.

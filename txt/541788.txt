@@ -1,0 +1,1 @@
+Some transmission schemes such as frequency modulation use even more bandwidth.

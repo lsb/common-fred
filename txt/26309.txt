@@ -1,0 +1,1 @@
+"Disk blocks allocated to nodes of the tree are ""formatted internal blocks""."

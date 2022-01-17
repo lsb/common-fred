@@ -1,0 +1,1 @@
+By varying this voltage a variable persistence is obtained.

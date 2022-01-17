@@ -1,0 +1,1 @@
+"""Murray"" is a direct transliteration of how Scottish people pronounce the word ""Moray""."

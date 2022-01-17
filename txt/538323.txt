@@ -1,0 +1,1 @@
+Some cells require remote manipulation.

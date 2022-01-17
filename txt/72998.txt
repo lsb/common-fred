@@ -1,0 +1,1 @@
+"Receivers can start decoding after they have received slightly more than ""k"" encoded symbols."

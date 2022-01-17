@@ -1,0 +1,1 @@
+For each buyer of a futures contract there must be a seller.

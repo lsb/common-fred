@@ -1,0 +1,1 @@
+This leads to problems in converting from and to a gamma colorspace.

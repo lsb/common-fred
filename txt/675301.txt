@@ -1,0 +1,1 @@
+The time target will be the in-game time at the first attempt.

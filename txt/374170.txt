@@ -1,0 +1,1 @@
+It causes a drag force to be exerted on the body.

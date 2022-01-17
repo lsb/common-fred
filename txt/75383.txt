@@ -1,0 +1,1 @@
+"Separable potentials are interactions that do not preserve a particle's location."

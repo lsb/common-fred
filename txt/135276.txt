@@ -1,0 +1,1 @@
+A separate carrier signal carries information in each channel.

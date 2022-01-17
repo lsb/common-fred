@@ -1,0 +1,1 @@
+Sections may in turn be divided into subsections.

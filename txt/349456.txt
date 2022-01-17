@@ -1,0 +1,1 @@
+If no seeding is used, the tournament is called a random knockout tournament.

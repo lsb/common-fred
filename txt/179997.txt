@@ -1,0 +1,1 @@
+Automatic and custom palette creation are supported, however no timing adjustment is possible.

@@ -1,0 +1,1 @@
+Analogue circuits are typically harder to design, requiring more skill than comparable digital systems.

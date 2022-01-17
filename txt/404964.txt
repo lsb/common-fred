@@ -1,0 +1,1 @@
+It supports rapid application development based on ready-to-use design patterns, metadata-driven and visual tools.

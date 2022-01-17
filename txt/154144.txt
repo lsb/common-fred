@@ -1,0 +1,1 @@
+All other processors had to hold off memory accesses until the cycle was complete.

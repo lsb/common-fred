@@ -1,0 +1,1 @@
+Note that the above configurations were those supported by Sun Microsystems.

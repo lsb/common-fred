@@ -1,0 +1,1 @@
+A series is conditionally convergent if it converges but does not converge absolutely.

@@ -1,0 +1,1 @@
+The first player to lose all his or her points loses.

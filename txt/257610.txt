@@ -1,0 +1,1 @@
+Geometrically, the two Laurent series may have non-overlapping annuli of convergence.

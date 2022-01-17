@@ -1,0 +1,1 @@
+"Let ""n"" be a composite integer with prime factor ""p""."

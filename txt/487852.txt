@@ -1,0 +1,1 @@
+Parametric models are by far the most commonly used statistical models.

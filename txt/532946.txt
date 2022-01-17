@@ -1,0 +1,1 @@
+Simple regression analysis is the most common example of a proper linear model.

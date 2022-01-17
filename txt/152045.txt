@@ -1,0 +1,1 @@
+Algebras of Hecke operators are called Hecke algebras, and are commutative rings.

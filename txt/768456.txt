@@ -1,0 +1,1 @@
+W. T. Tutte conjectured that every snark has the Petersen graph as a minor.

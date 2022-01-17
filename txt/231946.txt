@@ -1,0 +1,1 @@
+Each thread has its own copy of the thread-local storage table.

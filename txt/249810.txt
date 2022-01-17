@@ -1,0 +1,1 @@
+For the normal distribution, these contours are ellipses.

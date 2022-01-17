@@ -1,0 +1,1 @@
+Messages are sent from transmitter A to receiver B.

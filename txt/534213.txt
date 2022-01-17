@@ -1,0 +1,1 @@
+Single node systems use a comparable mechanism called a watchdog timer.

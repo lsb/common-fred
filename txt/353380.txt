@@ -1,0 +1,1 @@
+In a metrizable space, any closed set is a G set.

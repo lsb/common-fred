@@ -1,0 +1,1 @@
+"""Milonga Lunfarda"" by Edmundo Rivero is an instructive and entertaining primer on lunfardo usage."

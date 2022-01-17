@@ -1,0 +1,1 @@
+Conflicting routes must be controlled by interlocked signals to prevent collisions.

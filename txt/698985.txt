@@ -1,0 +1,1 @@
+There is no exact analog of the mean value theorem for vector-valued functions.

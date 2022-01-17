@@ -1,0 +1,1 @@
+It states that every finitely generated projective module over a polynomial ring is free.

@@ -1,0 +1,1 @@
+"""Arizona"", ""California"", ""Oklahoma"", and ""West Virginia"" were sunk during the attack."

@@ -1,0 +1,1 @@
+There are also useful concepts of regular monomorphism, strong monomorphism, and extremal monomorphism.

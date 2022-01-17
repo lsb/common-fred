@@ -1,0 +1,1 @@
+"Dinobreaker transforms by calling it with the appended phrase 'libertize'."

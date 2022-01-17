@@ -1,0 +1,1 @@
+By combining keys, diagonal movement and shooting can be achieved.

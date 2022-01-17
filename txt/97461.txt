@@ -1,0 +1,1 @@
+"The number of factors of ""b"" is given using its prime factorization."

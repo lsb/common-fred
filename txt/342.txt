@@ -1,0 +1,1 @@
+"""Allium neapolitanum"" seems to have beta-adrenergic antagonist properties."

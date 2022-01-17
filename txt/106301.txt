@@ -1,0 +1,1 @@
+"There are two mechanisms that Microsoft uses for locking: ""pessimistic locking"", and ""optimistic locking""."

@@ -1,0 +1,1 @@
+This phenomenon occurs during phase separation and is described by the Cahn-Hilliard equation.

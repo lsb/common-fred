@@ -1,0 +1,1 @@
+In particular, all fields of characteristic zero and all finite fields are perfect.

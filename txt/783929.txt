@@ -1,0 +1,1 @@
+Within a topographic map there can sometimes be finer levels of spatial structure.

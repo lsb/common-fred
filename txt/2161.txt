@@ -1,0 +1,1 @@
+"""Envoy"" is the annual newsletter of Queen Elizabeth College."

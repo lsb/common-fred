@@ -1,0 +1,1 @@
+For a Weierstrass point it contains at least one higher number.

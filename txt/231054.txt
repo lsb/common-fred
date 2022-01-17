@@ -1,0 +1,1 @@
+Each janus is placed between a rook and a knight.

@@ -1,0 +1,1 @@
+Extended characters are a later addition to the standard and their decoding is optional.

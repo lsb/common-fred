@@ -1,0 +1,1 @@
+"""Weld studs"" are used in stud welding systems."

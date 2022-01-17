@@ -1,0 +1,1 @@
+Sandwich testing is an approach to combine top down testing with bottom up testing.

@@ -1,0 +1,1 @@
+Through a series of selections, a score and rank is computed.

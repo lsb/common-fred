@@ -1,0 +1,1 @@
+The result is a saw-tooth behavior that represents the probe for bandwidth.

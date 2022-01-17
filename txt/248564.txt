@@ -1,0 +1,1 @@
+For instance, in the three-dimensional example illustrated above, the boundary is a two-dimensional surface.

@@ -1,0 +1,1 @@
+It manipulates timing, amplitude and frequency response to produce a binaural image.

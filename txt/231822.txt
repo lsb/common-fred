@@ -1,0 +1,1 @@
+Each step consists of a single letter substitution.

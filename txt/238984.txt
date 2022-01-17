@@ -1,0 +1,1 @@
+Every maximally symmetric space has constant curvature.

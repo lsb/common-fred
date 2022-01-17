@@ -1,0 +1,1 @@
+"""Kurier"" is based in Vienna."

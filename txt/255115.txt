@@ -1,0 +1,1 @@
+Furrows move left and right to maintain a constant altitude, which reduces runoff.

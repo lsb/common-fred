@@ -1,0 +1,1 @@
+The pen tool creates precise paths that can be manipulated using anchor points.

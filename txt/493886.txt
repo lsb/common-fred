@@ -1,0 +1,1 @@
+Play proceeds clockwise and new cards are drawn after cards are played.

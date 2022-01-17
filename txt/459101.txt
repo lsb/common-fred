@@ -1,0 +1,1 @@
+Mould components are often designed with materials of various coefficients of thermal expansion.

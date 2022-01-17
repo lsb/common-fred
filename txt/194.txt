@@ -1,0 +1,1 @@
+"""Add-on"" can refer to anything that extends the functions of a Mozilla application."

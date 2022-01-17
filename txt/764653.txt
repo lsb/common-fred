@@ -1,0 +1,1 @@
+Use of a monitoring program can detect these even without a storage protect key.

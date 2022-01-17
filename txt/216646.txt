@@ -1,0 +1,1 @@
+Custom cars are distinct from cars in stock condition.

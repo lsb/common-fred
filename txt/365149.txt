@@ -1,0 +1,1 @@
+In this case quantum determinant can be defined.

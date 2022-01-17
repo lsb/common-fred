@@ -1,0 +1,1 @@
+Sometimes, function prologue and epilogue contain also buffer overflow protection code.

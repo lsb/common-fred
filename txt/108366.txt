@@ -1,0 +1,1 @@
+"They are implemented in the format of ""Gilbert multiplier cells"" in integrated circuits."

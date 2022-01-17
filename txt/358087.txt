@@ -1,0 +1,1 @@
+In layouts using three rails, the middle rail is shared by both cars.

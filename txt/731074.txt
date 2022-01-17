@@ -1,0 +1,1 @@
+This includes all directed smooth curves.

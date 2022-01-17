@@ -1,0 +1,1 @@
+Each inode on the filesystem has two glocks associated with it.

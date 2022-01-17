@@ -1,0 +1,1 @@
+If there exists an isomorphism between two groups, then the groups are called isomorphic.

@@ -1,0 +1,1 @@
+Thus, the concept of the Hausdorff measure generalizes counting, length, and area.

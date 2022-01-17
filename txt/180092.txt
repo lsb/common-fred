@@ -1,0 +1,1 @@
+Availability is the probability that a navigation system meets the accuracy and integrity requirements.

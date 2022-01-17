@@ -1,0 +1,1 @@
+This approach does not fit the traditional Relational Data Model.

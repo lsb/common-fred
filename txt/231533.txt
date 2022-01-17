@@ -1,0 +1,1 @@
+Each player has two vital stats, a health bar and an Ichikoro Gauge.

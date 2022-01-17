@@ -1,0 +1,1 @@
+Pair programming is a good way to notice bugs you might otherwise have missed.

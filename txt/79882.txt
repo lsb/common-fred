@@ -1,0 +1,1 @@
+"Sometimes 'adl is confused with equality."

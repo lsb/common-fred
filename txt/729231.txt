@@ -1,0 +1,1 @@
+This feature has a higher albedo than the surrounding terrain.

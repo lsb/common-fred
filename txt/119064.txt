@@ -1,0 +1,1 @@
+"With each time step ""t"" a data vector randomly chosen from ""P"" is presented."

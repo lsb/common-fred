@@ -1,0 +1,1 @@
+Symfony has a low performance overhead used with a bytecode cache.

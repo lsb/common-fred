@@ -1,0 +1,1 @@
+This takes the next number in the original series.

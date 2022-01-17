@@ -1,0 +1,1 @@
+How this is performed depends on which external electron acceptor is available.

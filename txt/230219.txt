@@ -1,0 +1,1 @@
+Dynamic arrays are a common example when teaching amortized analysis.

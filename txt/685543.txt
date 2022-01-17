@@ -1,0 +1,1 @@
+The wheels move continuously, not in steps.

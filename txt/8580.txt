@@ -1,0 +1,1 @@
+"""Turns"" refers to the winding number of an electrical conductor comprising an inductor."

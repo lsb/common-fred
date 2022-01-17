@@ -1,0 +1,1 @@
+One version involves only eliminating strictly dominated strategies.

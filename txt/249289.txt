@@ -1,0 +1,1 @@
+For several operations, type checking and dispatching was done in hardware at runtime.

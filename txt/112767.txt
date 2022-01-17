@@ -1,0 +1,1 @@
+"This was expected to retrieve Japan's fortunes in one fell swoop."

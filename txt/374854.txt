@@ -1,0 +1,1 @@
+It contained several technical changes and enhancements and is not backward compatible.

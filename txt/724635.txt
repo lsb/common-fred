@@ -1,0 +1,1 @@
+This allows reconstitution of the original stereo carrier, and hence the stereo signal.

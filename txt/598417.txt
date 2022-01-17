@@ -1,0 +1,1 @@
+The continuous current ion chamber instrument can easily measure dose but cannot measure counts.

@@ -1,0 +1,1 @@
+Under some circumstances there can be specific restrictions on undefined behavior.

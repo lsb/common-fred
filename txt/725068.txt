@@ -1,0 +1,1 @@
+This architectural type has a simple rectangular volume of one floor with a flat roof.

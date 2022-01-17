@@ -1,0 +1,1 @@
+The same definition works for undirected graphs, directed graphs, and even multigraphs.

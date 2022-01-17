@@ -1,0 +1,1 @@
+Pitch targets are normally calculated on a logarithmic scale.

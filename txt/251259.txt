@@ -1,0 +1,1 @@
+Forum provides a goal-directed interpretation of all of linear logic.

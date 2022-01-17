@@ -1,0 +1,1 @@
+"For example, ""A"" is called diagonalizable if it is similar to a diagonal matrix."

@@ -1,0 +1,1 @@
+In general relativity, the gravitational potential is replaced by the metric tensor.

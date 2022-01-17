@@ -1,0 +1,1 @@
+The power supply should be regulated, as voltage spikes can permanently damage the unit.

@@ -1,0 +1,1 @@
+It can also guide the user to a particular object from its database.

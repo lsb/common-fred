@@ -1,0 +1,1 @@
+This usage implies an integral taken over some function space.

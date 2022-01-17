@@ -1,0 +1,1 @@
+A package holds a variety of elements that define a workflow.

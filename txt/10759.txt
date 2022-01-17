@@ -1,0 +1,1 @@
+"A linear-space solution to this problem is offered by Hirschberg's algorithm."

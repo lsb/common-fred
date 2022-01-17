@@ -1,0 +1,1 @@
+The knot sum of oriented knots is commutative and associative.

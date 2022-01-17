@@ -1,0 +1,1 @@
+Newer versions of Kermit included scripting language and automation of commands.

@@ -1,0 +1,1 @@
+As above, this usage should be discouraged due to the ease of collision attacks.

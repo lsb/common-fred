@@ -1,0 +1,1 @@
+"One ""session"" may contain one or more tracks of the same or different types."

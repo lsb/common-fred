@@ -1,0 +1,1 @@
+Fares depend on the direct train service and the distance travelled.

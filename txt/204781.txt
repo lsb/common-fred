@@ -1,0 +1,1 @@
+Changes to the tempo are indicated by changing the speed of the beat.

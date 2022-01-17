@@ -1,0 +1,1 @@
+Peer names are published and resolved within a specified scope.

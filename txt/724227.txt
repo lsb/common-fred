@@ -1,0 +1,1 @@
+This addition can prevent attacks even if the initial state is compromised.

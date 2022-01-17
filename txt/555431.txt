@@ -1,0 +1,1 @@
+That is, information is inevitably lost in transit from source to observation.

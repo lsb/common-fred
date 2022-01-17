@@ -1,0 +1,1 @@
+We will now examine the normal ordering of bosonic creation and annihilation operator products.

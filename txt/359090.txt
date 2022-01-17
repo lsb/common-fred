@@ -1,0 +1,1 @@
+In other words those are the distributions of waiting time in a Bernoulli process.

@@ -1,0 +1,1 @@
+One-digit primes, meaning any prime below the radix, are always trivially permutable.

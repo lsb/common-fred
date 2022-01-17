@@ -1,0 +1,1 @@
+Money is treated as a form of asset for storing wealth.

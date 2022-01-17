@@ -1,0 +1,1 @@
+In this protocol, each system monitors the wire, listening for traffic.

@@ -1,0 +1,1 @@
+"""Talkman Euro"" is available in two versions."

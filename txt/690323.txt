@@ -1,0 +1,1 @@
+Then there are three basic constructions in universal algebra: homomorphic image, subalgebra, and product.

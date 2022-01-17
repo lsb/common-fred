@@ -1,0 +1,1 @@
+Stirling numbers of second kind are integers.

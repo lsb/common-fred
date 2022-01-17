@@ -1,0 +1,1 @@
+But if we use the edge, it will cut smoothly.

@@ -1,0 +1,1 @@
+Inner classes may not have static variables or methods, except for compile-time constant variables.

@@ -1,0 +1,1 @@
+The site provides an excerpt from each review and hyperlinks to its source.

@@ -1,0 +1,1 @@
+"Chain mesh partitions were provided for the ""inner"" and ""outer"" spectator viewing areas."

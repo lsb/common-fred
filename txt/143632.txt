@@ -1,0 +1,1 @@
+Additionally, groups of eight bytes are often separated by a hyphen.

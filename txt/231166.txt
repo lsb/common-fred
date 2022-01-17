@@ -1,0 +1,1 @@
+Each microprocessor family differs in clock frequency, primary and secondary cache capacity.

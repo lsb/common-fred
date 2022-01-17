@@ -1,0 +1,1 @@
+"We can even apply Little's Law to the counter itself."

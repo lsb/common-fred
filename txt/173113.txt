@@ -1,0 +1,1 @@
+As no further rule can be applied, the computation halts here.

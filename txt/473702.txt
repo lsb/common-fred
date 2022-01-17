@@ -1,0 +1,1 @@
+Often one-forms are described locally, particularly in local coordinates.

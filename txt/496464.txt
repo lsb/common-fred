@@ -1,0 +1,1 @@
+Power supply chips are also considered to be analog chips.

@@ -1,0 +1,1 @@
+"Modules with ""finite"" length share many important properties with finite-dimensional vector spaces."

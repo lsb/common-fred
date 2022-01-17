@@ -1,0 +1,1 @@
+For low thrust systems, typically electrical propulsion systems, this approximation is less accurate.

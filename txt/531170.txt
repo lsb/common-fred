@@ -1,0 +1,1 @@
+Shortlex ordering is also called radix, length-lexicographic, military, or genealogical ordering.

@@ -1,0 +1,1 @@
+For power conservation, a node may set up a specific wake up pattern.

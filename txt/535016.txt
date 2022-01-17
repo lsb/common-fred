@@ -1,0 +1,1 @@
+Ski trail difficulty is measured by percent slope, not degree angle.

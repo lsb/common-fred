@@ -1,0 +1,1 @@
+As the cable moved between two antenna feeds, it would couple signal into both.

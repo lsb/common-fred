@@ -1,0 +1,1 @@
+It is also a basic component of the R-tree method of spatial indexing.

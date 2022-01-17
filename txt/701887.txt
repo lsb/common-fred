@@ -1,0 +1,1 @@
+There were, however, no major overhauls of the core architecture.

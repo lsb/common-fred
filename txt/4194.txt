@@ -1,0 +1,1 @@
+"""Koudelka"" is the precursor to Sacnoth's ""Shadow Hearts"" series."

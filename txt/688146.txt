@@ -1,0 +1,1 @@
+Their global dimension coincides with the Krull dimension, whose definition is module-theoretic.

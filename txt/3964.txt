@@ -1,0 +1,1 @@
+"""Jack"" was the first submarine to win the trophy."

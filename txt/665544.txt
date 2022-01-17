@@ -1,0 +1,1 @@
+The size of the Airy disk determines the laser intensity at the focus.

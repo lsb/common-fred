@@ -1,0 +1,1 @@
+Every polyiamond corresponds to a polyhex, as illustrated at right.

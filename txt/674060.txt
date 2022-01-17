@@ -1,0 +1,1 @@
+The terminal was designed to allow future expansion.

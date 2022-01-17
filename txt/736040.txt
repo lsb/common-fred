@@ -1,0 +1,1 @@
+This makes these elliptical orbits useful for communications satellites.

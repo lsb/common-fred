@@ -1,0 +1,1 @@
+It adopts a layered CdI-like structure with hydrogen-bonds between the layers.

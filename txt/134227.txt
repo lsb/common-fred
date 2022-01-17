@@ -1,0 +1,1 @@
+A quotient and localization of an Artinian ring is Artinian.

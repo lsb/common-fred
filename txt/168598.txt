@@ -1,0 +1,1 @@
+Applications requiring less throughput can simply use fewer lines.

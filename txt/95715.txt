@@ -1,0 +1,1 @@
+"The microsite's main landing page can have its own domain name or subdomain."

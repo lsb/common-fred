@@ -1,0 +1,1 @@
+Unlike the imperative operations, these functions have no side effects.

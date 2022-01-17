@@ -1,0 +1,1 @@
+After much public outcry, Microsoft elected to disable the new key verification engine.

@@ -1,0 +1,1 @@
+The six different Petrov types are distinguished by which of the Weyl scalars vanish.

@@ -1,0 +1,1 @@
+It follows that any functor which fails to preserve some limit is not representable.

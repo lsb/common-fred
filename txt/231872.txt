@@ -1,0 +1,1 @@
+Each such lookup takes constant time in the worst case.

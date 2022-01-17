@@ -1,0 +1,1 @@
+This allows the algorithm to fit the maximum-margin hyperplane in a transformed feature space.

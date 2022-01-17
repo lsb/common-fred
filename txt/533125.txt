@@ -1,0 +1,1 @@
+Since all population numbers must be positive, the first two quasispecies are not legitimate.

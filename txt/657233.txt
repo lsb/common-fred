@@ -1,0 +1,1 @@
+The resulting integrated circuit runs off a single power supply voltage.

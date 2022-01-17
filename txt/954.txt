@@ -1,0 +1,1 @@
+"""Bolo""'s networking support allows up to sixteen players to join a single game."

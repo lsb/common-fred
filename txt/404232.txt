@@ -1,0 +1,1 @@
+It should be lightweight, have low coefficient of thermal expansion, high modulus and stiffness.

@@ -1,0 +1,1 @@
+For consistency across sources, dates of birth and death are useful.

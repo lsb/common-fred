@@ -1,0 +1,1 @@
+"""Poste Restante"" mail can also be held for collection by people travelling."

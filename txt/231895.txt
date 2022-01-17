@@ -1,0 +1,1 @@
+Each tablet includes an option to switch orientation for left- or right-handed users.

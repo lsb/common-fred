@@ -1,0 +1,1 @@
+Normal heights are thus dependent upon the reference ellipsoid chosen.

@@ -1,0 +1,1 @@
+It includes their duration, names, damages, and death totals.

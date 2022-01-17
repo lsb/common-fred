@@ -1,0 +1,1 @@
+If one end is fixed, the other will move in a linear trajectory.

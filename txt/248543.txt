@@ -1,0 +1,1 @@
+For instance, a symbol object can have a dedicated slot for its global value.

@@ -1,0 +1,1 @@
+It is usually a system call, implemented in the kernel.

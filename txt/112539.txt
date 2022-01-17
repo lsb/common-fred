@@ -1,0 +1,1 @@
+"This version was stripped down for a more minimal ""concert"" presentation and heavily rewritten."

@@ -1,0 +1,1 @@
+For more detailed descriptions of each Mode see the Playfield Graphics Modes section.

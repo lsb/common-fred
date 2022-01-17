@@ -1,0 +1,1 @@
+"They are ideal only for problems which have 'optimal substructure'."

@@ -1,0 +1,1 @@
+The program, in such model, operates by changing its state using successive assignment statements.

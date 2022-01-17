@@ -1,0 +1,1 @@
+"""Day of the Fight"" is the first credit on composer Gerald Fried's resume."

@@ -1,0 +1,1 @@
+A flashing block can be used as a wildcard on any colour.

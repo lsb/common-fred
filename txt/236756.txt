@@ -1,0 +1,1 @@
+Erlang is a computer language originally built by Ericsson for fault-tolerant telephone switches.

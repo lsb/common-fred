@@ -1,0 +1,1 @@
+A shape model of Nausikaa has been constructed, also based on the lightcurve data.

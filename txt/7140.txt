@@ -1,0 +1,1 @@
+"""Streptococcus"" infections cause similar symptoms to nonspecific vulvovaginitis and are treated with amoxicillin."

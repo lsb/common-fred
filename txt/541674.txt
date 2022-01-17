@@ -1,0 +1,1 @@
+Some telephone systems only permit one third-party connection at a time.

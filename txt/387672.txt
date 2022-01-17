@@ -1,0 +1,1 @@
+It is formally expressed in terms of first-order logic.

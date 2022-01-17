@@ -1,0 +1,1 @@
+Interceptors must be told the altitude to climb to before making an intercept.

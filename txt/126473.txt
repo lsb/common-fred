@@ -1,0 +1,1 @@
+A goal connector is used when one need to link several goals.

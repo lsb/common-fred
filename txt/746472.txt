@@ -1,0 +1,1 @@
+Those points were replaced, in the third image, by interpolating the points around them.

@@ -1,0 +1,1 @@
+A perfect cuboid is an Euler brick whose space diagonal is also an integer.

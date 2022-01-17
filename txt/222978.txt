@@ -1,0 +1,1 @@
+Discrete maps usually take the form of iterated functions.

@@ -1,0 +1,1 @@
+In some categories, one can also speak of morphisms of the category being embeddings.

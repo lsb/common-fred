@@ -1,0 +1,1 @@
+The device supports video playback and has an image viewer.

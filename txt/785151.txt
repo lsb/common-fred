@@ -1,0 +1,1 @@
+Word-initial and word-final or do not occur.

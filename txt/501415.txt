@@ -1,0 +1,1 @@
+Rail Runner trains operate in a push-pull configuration, with the locomotive always facing south.

@@ -1,0 +1,1 @@
+This allows for downstream navigation of vessels up to Panamax kind.

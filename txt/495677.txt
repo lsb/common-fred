@@ -1,0 +1,1 @@
+Population pyramid often contains continuous stacked-histogram bars.

@@ -1,0 +1,1 @@
+Pseudorandom binary sequences can be generated using linear feedback shift registers.

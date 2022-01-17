@@ -1,0 +1,1 @@
+Another interesting feature was the subdivision of some of the components into dynamic-link libraries.

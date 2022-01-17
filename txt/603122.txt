@@ -1,0 +1,1 @@
+The delete character is strictly a control character, not a graphic character.

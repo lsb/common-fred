@@ -1,0 +1,1 @@
+"Items and spells may be employed through hotkeys, ""quick slots"", or a radial menu."

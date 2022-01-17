@@ -1,0 +1,1 @@
+"It extended the benchmarks with an up-to-date problem size ""Class C""."

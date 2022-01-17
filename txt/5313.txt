@@ -1,0 +1,1 @@
+"""Note: Both of these formulas assume the north-clockwise convention."

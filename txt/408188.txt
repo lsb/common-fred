@@ -1,0 +1,1 @@
+It was developed by Niels Provos and runs on various Unix-like operating systems.

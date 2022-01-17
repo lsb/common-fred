@@ -1,0 +1,1 @@
+Programs for reading documents may not be required to read the external subset.

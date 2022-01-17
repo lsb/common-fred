@@ -1,0 +1,1 @@
+Weatherzone also provides solutions for displaying weather on websites.

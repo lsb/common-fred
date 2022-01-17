@@ -1,0 +1,1 @@
+Operator-assisted calls can be more expensive than direct dial calls.

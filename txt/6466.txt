@@ -1,0 +1,1 @@
+"""Salmonella enterica"" can be subdivided into six subspecies."

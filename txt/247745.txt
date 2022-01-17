@@ -1,0 +1,1 @@
+For each object, you need to decouple its function from its form.

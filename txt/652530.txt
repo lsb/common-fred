@@ -1,0 +1,1 @@
+The project works on the basis of multiple workstations running from a single unit.

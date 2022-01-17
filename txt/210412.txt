@@ -1,0 +1,1 @@
+Common examples of square-free elements include square-free integers and square-free polynomials.

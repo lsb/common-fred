@@ -1,0 +1,1 @@
+Because of the op amp, these circuits are sometimes called gain-boosted current mirrors.

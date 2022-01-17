@@ -1,0 +1,1 @@
+Sampling from this distribution depends on how much is truncated.

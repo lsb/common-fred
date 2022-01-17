@@ -1,0 +1,1 @@
+An illustration program allows spline knots to be adjusted for a close fit.

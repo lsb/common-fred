@@ -1,0 +1,1 @@
+However, coroutines are more flexible and generally more efficient.

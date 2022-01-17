@@ -1,0 +1,1 @@
+A yadu should contain a reference to a season.

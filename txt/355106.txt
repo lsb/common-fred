@@ -1,0 +1,1 @@
+In an active data dictionary constraints may be placed upon the underlying data.

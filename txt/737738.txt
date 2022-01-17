@@ -1,0 +1,1 @@
+This particular counterexample shows that second-countability does not follow from first-countability.

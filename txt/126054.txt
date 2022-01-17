@@ -1,0 +1,1 @@
+A functional based system approaches all user interface actions as interfaces for functions.

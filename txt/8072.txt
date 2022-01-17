@@ -1,0 +1,1 @@
+"""The Toxic Avenger"" received mixed to positive reviews from critics."

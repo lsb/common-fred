@@ -1,0 +1,1 @@
+In multitrack mode, the individual clips can be arranged in layers on the timeline.

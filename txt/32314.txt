@@ -1,0 +1,1 @@
+"Getter Poseidon's operator uses Poseidon, the yellow machine."

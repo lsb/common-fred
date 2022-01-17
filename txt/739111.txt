@@ -1,0 +1,1 @@
+This quintic is in Bring-Jerrard normal form.

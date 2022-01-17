@@ -1,0 +1,1 @@
+This deforms the manifold into round pieces with strands running between them.

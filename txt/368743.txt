@@ -1,0 +1,1 @@
+Instead, pointers to static functions have to be used.

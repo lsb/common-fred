@@ -1,0 +1,1 @@
+In order to protect the cliffs from undercutting, their gradient was also reduced artificially.

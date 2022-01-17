@@ -1,0 +1,1 @@
+Fractional values are indicated by a separator, which can vary in different locations.

@@ -1,0 +1,1 @@
+"The decoding process uses the ""exclusive or"" operation to retrieve the encoded message."

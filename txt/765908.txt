@@ -1,0 +1,1 @@
+Various application-specific integrated circuit related to video and audio compression and decompression do exist.

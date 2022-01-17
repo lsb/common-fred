@@ -1,0 +1,1 @@
+Line printers printed characters, letters and numbers line by line.

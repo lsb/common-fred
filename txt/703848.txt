@@ -1,0 +1,1 @@
+These are the areas identified by the first two digits of the postal codes.

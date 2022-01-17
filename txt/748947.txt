@@ -1,0 +1,1 @@
+Thus a slippage failure of a slip-critical connection is not necessarily a catastrophic failure.

@@ -1,0 +1,1 @@
+So, when the two component images are superimposed, the original image appears.

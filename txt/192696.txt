@@ -1,0 +1,1 @@
+Both the sender and receiver must agree on how the circuit will be used.

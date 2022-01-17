@@ -1,0 +1,1 @@
+"The game functions as a visual novel-style ""additional episode""."

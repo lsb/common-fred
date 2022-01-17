@@ -1,0 +1,1 @@
+"An elementary probabilistic proof of the theorem can be found at Buffon's noodle."

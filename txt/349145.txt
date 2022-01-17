@@ -1,0 +1,1 @@
+If a transitive relation is also total, it is a total preorder.

@@ -1,0 +1,1 @@
+Goemai is a predominantly isolating language with the subject-verb-object constituent order.

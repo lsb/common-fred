@@ -1,0 +1,1 @@
+"As a subset of ""X"", ""Y"" also has a subspace topology."

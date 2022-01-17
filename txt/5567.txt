@@ -1,0 +1,1 @@
+"""Oscillatoria"" forms long filaments of cells which can break into fragments called hormogonia."

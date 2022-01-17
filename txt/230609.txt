@@ -1,0 +1,1 @@
+Each comparator connects two wires.

@@ -1,0 +1,1 @@
+If the computer lost power, it would immediately start up when power was restored.

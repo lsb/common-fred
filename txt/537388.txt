@@ -1,0 +1,1 @@
+Software such as DictUnifier can be used to add more dictionaries to the application.

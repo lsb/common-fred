@@ -1,0 +1,1 @@
+"A player who captures the opponent's king wins the game."

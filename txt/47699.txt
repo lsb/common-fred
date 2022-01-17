@@ -1,0 +1,1 @@
+"If ""V"" is finite-dimensional then one can identify ""V"" with its double dual ""V""."

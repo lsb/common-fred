@@ -1,0 +1,1 @@
+Shops smaller than the limit are not affected.

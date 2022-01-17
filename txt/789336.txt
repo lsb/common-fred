@@ -1,0 +1,1 @@
+Zener zap is frequently employed in mixed-signal circuits for trimming values of analog components.

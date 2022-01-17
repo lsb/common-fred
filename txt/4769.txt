@@ -1,0 +1,1 @@
+"""Mertensia"" was named after the German botanist, Franz Carl Mertens."

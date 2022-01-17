@@ -1,0 +1,1 @@
+As the shapes get smaller and smaller, the sum approaches the Riemann integral.

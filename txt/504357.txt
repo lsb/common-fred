@@ -1,0 +1,1 @@
+Relative to a fixed time coordinate, disturbances have a finite propagation speed.

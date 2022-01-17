@@ -1,0 +1,1 @@
+A node failure or cable break might isolate every node attached to the ring.

@@ -1,0 +1,1 @@
+Furthermore, the complement of a Jordan arc in the plane is connected.

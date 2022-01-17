@@ -1,0 +1,1 @@
+Installation of Solaris is not necessary for an individual to use the system.

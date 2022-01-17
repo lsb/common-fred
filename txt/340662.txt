@@ -1,0 +1,1 @@
+However, they may contain cycles, particularly in the field of graph rewriting.

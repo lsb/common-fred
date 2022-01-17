@@ -1,0 +1,1 @@
+These two mechanisms working together are responsible for the Warburg effect.

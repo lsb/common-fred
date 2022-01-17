@@ -1,0 +1,1 @@
+"The operator will then transfer the call to the appropriate service's own call-taker."

@@ -1,0 +1,1 @@
+"Includes any nations listed on Rugby League Planet's 'nations menu'"

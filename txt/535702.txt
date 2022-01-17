@@ -1,0 +1,1 @@
+Smaller systems may only be required to handle part of the process.

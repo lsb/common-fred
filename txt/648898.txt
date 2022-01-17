@@ -1,0 +1,1 @@
+The player deals four cards from the deck.

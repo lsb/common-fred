@@ -1,0 +1,1 @@
+The primary design concerns are settlement and bearing capacity.

@@ -1,0 +1,1 @@
+"The Newton polygon gives an effective, algorithmic approach to calculating ""d""."

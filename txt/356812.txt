@@ -1,0 +1,1 @@
+In general any pairing function can be used to solve this problem.

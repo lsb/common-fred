@@ -1,0 +1,1 @@
+It is known that not all visibility graphs induce a simple polygon.

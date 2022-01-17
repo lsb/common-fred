@@ -1,0 +1,1 @@
+Both scenarios result in a single, equal price per homogeneous good in all locations.

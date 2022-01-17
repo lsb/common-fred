@@ -1,0 +1,1 @@
+"The ports that are not ""edge-ports"" can be peer-to-peer or shared ports."

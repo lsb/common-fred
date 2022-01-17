@@ -1,0 +1,1 @@
+The service allows users to store user’s favorite on web servers.

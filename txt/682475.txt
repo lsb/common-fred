@@ -1,0 +1,1 @@
+The variable ratio of the autotransformer compensates for the voltage drop along the line.

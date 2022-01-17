@@ -1,0 +1,1 @@
+Windows System Restore is not compatible with restore points made by third party applications.

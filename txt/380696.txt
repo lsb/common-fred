@@ -1,0 +1,1 @@
+It includes facilities to access message transports, message stores, and directories.

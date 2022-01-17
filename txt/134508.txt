@@ -1,0 +1,1 @@
+A regulator such as a thermostat is an example of a feedback controller.

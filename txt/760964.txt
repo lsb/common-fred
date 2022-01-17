@@ -1,0 +1,1 @@
+Two-way communication involves feedback from the receiver to the sender.

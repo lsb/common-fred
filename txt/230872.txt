@@ -1,0 +1,1 @@
+Each filter consists of a coil and a capacitor switched in row.

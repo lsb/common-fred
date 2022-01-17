@@ -1,0 +1,1 @@
+Indeed, most primes should have this property, and hence they are called ordinary.

@@ -1,0 +1,1 @@
+"Let ""E"" be an elliptic curve defined over the rationals numbers without complex multiplication."

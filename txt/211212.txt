@@ -1,0 +1,1 @@
+Computers often set their time from an internet atomic clock source.

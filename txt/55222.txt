@@ -1,0 +1,1 @@
+"It scans the text to extract meaningful ""tokens"", such as words, numbers, and strings."

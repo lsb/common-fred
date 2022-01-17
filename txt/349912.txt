@@ -1,0 +1,1 @@
+If the signals are processed digitally, the frequency-domain convolution becomes circular convolution.

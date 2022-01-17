@@ -1,0 +1,1 @@
+It runs under Mac, Windows, and Unix platforms.

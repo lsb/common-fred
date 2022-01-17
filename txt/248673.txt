@@ -1,0 +1,1 @@
+For low power transmitters, inverted-L and T antennas are used.

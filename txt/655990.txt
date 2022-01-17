@@ -1,0 +1,1 @@
+The remaining value is then popped and stored in the first local.

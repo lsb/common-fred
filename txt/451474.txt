@@ -1,0 +1,1 @@
+Methods for the prediction of bacterial localization predictors, and their accuracy, have been reviewed.

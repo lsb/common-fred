@@ -1,0 +1,1 @@
+His Ph.D. thesis was on developing an automated protocol for communication between parallel processors.

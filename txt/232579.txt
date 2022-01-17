@@ -1,0 +1,1 @@
+Early notification that a diver is missing allows early starting of the search process.

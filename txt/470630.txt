@@ -1,0 +1,1 @@
+Note that Lie groups do not come equipped with a metric.

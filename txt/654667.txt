@@ -1,0 +1,1 @@
+The receiver simply performs the inverse operation of the transmitter.

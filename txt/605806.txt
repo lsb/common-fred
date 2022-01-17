@@ -1,0 +1,1 @@
+The dual edge lengths are different due to the polar reciprocation.

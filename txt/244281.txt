@@ -1,0 +1,1 @@
+Firmware should be open-source so that the code can be checked and verified.

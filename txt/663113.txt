@@ -1,0 +1,1 @@
+The server uses this information to determine which website to show the user.

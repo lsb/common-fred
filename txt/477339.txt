@@ -1,0 +1,1 @@
+One can treat a blueprint object much as a class in other object-oriented languages.

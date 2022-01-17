@@ -1,0 +1,1 @@
+The data may be booleans, numbers, characters, or other data structures.

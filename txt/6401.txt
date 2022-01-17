@@ -1,0 +1,1 @@
+"""Ruff and Reddy"" also eschewed lavish, detailed background art for simple, colorful illustrations."

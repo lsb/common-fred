@@ -1,0 +1,1 @@
+Webcasting usually consists of providing non-interactive linear streams or events.

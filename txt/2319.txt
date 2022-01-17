@@ -1,0 +1,1 @@
+"""Fast Eddie"" is probably a reference to Lynch's ""Lost Highway"" character Mr. Eddie."

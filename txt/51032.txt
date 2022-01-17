@@ -1,0 +1,1 @@
+"In this model, neither the ""publisher"" nor the subscriber knows about each other."

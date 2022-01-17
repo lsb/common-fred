@@ -1,0 +1,1 @@
+A symbol table is a look-up between symbol names and their addresses in memory.

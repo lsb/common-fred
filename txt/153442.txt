@@ -1,0 +1,1 @@
+All map areas are in turn split into sixteen map sheets.

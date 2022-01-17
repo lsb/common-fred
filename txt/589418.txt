@@ -1,0 +1,1 @@
+The car can simulate either an automatic or manual transmission.

@@ -1,0 +1,1 @@
+It also allows for keyword searches within the whole text.

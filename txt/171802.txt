@@ -1,0 +1,1 @@
+As a result, tape drives have very slow average seek times to data.

@@ -1,0 +1,1 @@
+Berry also uses bootsplash, giving it a graphical startup.

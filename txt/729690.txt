@@ -1,0 +1,1 @@
+This functor is faithful, and therefore Ord is a concrete category.

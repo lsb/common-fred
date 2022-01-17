@@ -1,0 +1,1 @@
+Occasionally the maze will include letters that are not part of the answer.

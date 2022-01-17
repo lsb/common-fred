@@ -1,0 +1,1 @@
+"""McDonald"" shares the same pattern of distribution."

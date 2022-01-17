@@ -1,0 +1,1 @@
+"""Roystonea"" leaves consist of a sheathing leaf base, a petiole, and a rachis."

@@ -1,0 +1,1 @@
+In most Windows environments, the key combination brings up the system properties.

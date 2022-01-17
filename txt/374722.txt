@@ -1,0 +1,1 @@
+It consists of telephony and data tightly coupled on packet-based switched multimedia networks.

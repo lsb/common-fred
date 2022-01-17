@@ -1,0 +1,1 @@
+The mathematical formalisation of the Bernoulli trial is known as the Bernoulli process.

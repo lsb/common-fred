@@ -1,0 +1,1 @@
+A joystick could also be connected to the Joyboard if necessary.

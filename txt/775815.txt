@@ -1,0 +1,1 @@
+When a line is stuck it is called a fault.

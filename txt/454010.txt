@@ -1,0 +1,1 @@
+Modes are like missions and quests of the other two tables.

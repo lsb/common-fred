@@ -1,0 +1,1 @@
+A contraction mapping has at most one fixed point.

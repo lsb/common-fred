@@ -1,0 +1,1 @@
+"It can be constructed as the intersection of all balanced sets containing ""S""."

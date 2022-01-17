@@ -1,0 +1,1 @@
+As the player navigates the level, they must react to the event to continue.

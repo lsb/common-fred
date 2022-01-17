@@ -1,0 +1,1 @@
+This allows one to keep browsers across separate computers synchronized.

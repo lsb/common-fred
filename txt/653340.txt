@@ -1,0 +1,1 @@
+The purpose of the barriers is to block their upstream migration to reduce reproduction.

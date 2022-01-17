@@ -1,0 +1,1 @@
+Hence it can hardly improve the performance of a hardware cache coherence system.

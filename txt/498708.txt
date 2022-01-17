@@ -1,0 +1,1 @@
+Processes run over time and have a continuous effect on numeric values.

@@ -1,0 +1,1 @@
+"Hellman adapted it from Burt Blechman's novel How Much?"

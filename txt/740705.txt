@@ -1,0 +1,1 @@
+This single score is obtained in the form of probability.

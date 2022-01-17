@@ -1,0 +1,1 @@
+This is achieved by storing all the variations of tides at numerous locations.

@@ -1,0 +1,1 @@
+Enemies can also release coins when destroyed, worth some points.

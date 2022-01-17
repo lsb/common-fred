@@ -1,0 +1,1 @@
+For SmarTrip, pass rules are different from CharmCard.

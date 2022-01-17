@@ -1,0 +1,1 @@
+"""The Guardian"" calls it the only children's book award winner selected by peers."

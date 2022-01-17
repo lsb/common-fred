@@ -1,0 +1,1 @@
+This allows for good recognition accuracy with low cost off-the-shelf components.

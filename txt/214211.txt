@@ -1,0 +1,1 @@
+Coupling can be divided into three categories: two-way coupled, one-way coupled, and hybrid.

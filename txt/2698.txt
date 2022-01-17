@@ -1,0 +1,1 @@
+"""Global Frequency"" has been at various stages of adaptation since its publication."

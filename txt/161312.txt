@@ -1,0 +1,1 @@
+An Ehrhart-type reciprocity theorem will also hold for such a counting function.

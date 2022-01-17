@@ -1,0 +1,1 @@
+The prototype is, arguably, the Steiner tree problem in graphs.

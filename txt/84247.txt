@@ -1,0 +1,1 @@
+"The Aster Platform is Teradata's analytic technology, acquired from Aster Data Systems."

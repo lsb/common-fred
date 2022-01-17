@@ -1,0 +1,1 @@
+Like BitTorrent, Avalanche splits the file to be distributed into small blocks.

@@ -1,0 +1,1 @@
+Some performed astronomical calculations for calendars, others ballistic tables for the military.

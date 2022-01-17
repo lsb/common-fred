@@ -1,0 +1,1 @@
+This approach does not require running a compression or encryption utility manually.

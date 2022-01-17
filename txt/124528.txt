@@ -1,0 +1,1 @@
+A directly applied index means that the interest rate changes exactly with the index.

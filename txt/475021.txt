@@ -1,0 +1,1 @@
+On any computer system, the internal code is the native encoding being used.

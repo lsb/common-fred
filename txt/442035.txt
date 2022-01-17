@@ -1,0 +1,1 @@
+Mandarax has an expressive and simple domain-specific language to define relationships through derivation rules.

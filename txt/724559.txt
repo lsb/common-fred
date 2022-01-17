@@ -1,0 +1,1 @@
+This allows design and layout to be carried out in parallel with content revisions.

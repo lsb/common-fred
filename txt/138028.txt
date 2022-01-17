@@ -1,0 +1,1 @@
+A typical online form is non-modal.

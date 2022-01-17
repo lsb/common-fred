@@ -1,0 +1,1 @@
+Telemeters are the physical devices used in telemetry.

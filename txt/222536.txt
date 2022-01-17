@@ -1,0 +1,1 @@
+Digital zoom use the center area of the optical image to enlarge the image.

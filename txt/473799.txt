@@ -1,0 +1,1 @@
+Often though, various tricks are employed to reduce the amount of memory required.

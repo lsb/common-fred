@@ -1,0 +1,1 @@
+"""Sonoma"" was assigned to this squadron."

@@ -1,0 +1,1 @@
+It can be used to add motion blur or image stabilization effects to footage.

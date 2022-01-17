@@ -1,0 +1,1 @@
+"In particular, Cartan geometries no longer have a well-defined action of ""G"" on them."

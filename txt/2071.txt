@@ -1,0 +1,1 @@
+"""Eiffel Tower"" bows taper sharply, but smoothly, to a very narrow outer tip."

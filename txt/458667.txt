@@ -1,0 +1,1 @@
+Most statistical software packages used in clinical chemistry offer Deming regression.

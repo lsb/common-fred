@@ -1,0 +1,1 @@
+This has led to the ActiveX-based architecture being criticized for being fault-prone.

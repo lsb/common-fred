@@ -1,0 +1,1 @@
+The prototype camera was a technical exercise, not intended for production.

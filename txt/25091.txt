@@ -1,0 +1,1 @@
+"Cyclic controls are used to change a helicopter's roll and pitch."

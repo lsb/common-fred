@@ -1,0 +1,1 @@
+Players create a party of four adventurers, choosing the gender and class of each.

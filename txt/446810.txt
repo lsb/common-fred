@@ -1,0 +1,1 @@
+Markup languages also place restrictions on where character references can occur.

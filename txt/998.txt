@@ -1,0 +1,1 @@
+"""Bramble's"" area of responsibility included eastern Lake Erie, southern Lake Huron and Saginaw Bay."

@@ -1,0 +1,1 @@
+"""Alu"" elements do not encode for protein products."

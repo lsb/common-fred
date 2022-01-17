@@ -1,0 +1,1 @@
+Simple two-body problems, for example, can be solved analytically.

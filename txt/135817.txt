@@ -1,0 +1,1 @@
+A simple transposition and substitution cipher used for broadcasting navigation warnings.

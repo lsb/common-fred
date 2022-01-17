@@ -1,0 +1,1 @@
+"The gun couldn't be used because it was missing the lock."

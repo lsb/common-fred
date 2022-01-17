@@ -1,0 +1,1 @@
+Only eight masters are supported, although there can be an unlimited number of slaves.

@@ -1,0 +1,1 @@
+For example having a generic point is a criterion to be an irreducible set.

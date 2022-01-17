@@ -1,0 +1,1 @@
+This phenomenon causes searches for keys within the cluster to be longer.

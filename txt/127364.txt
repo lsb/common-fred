@@ -1,0 +1,1 @@
+A half-open file is exploited by the player with no pawns on it.

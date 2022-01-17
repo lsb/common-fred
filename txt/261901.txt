@@ -1,0 +1,1 @@
+Grid-based algorithms comprise one approximate solution technique.

@@ -1,0 +1,1 @@
+Some are fully configurable; some are pre-configured, usually as low-pass filters.

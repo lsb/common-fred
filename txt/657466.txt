@@ -1,0 +1,1 @@
+The return value must always be examined and an error specific action taken.

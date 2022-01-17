@@ -1,0 +1,1 @@
+"Hilbert's syzygy theorem is now considered to be an early result of homological algebra."

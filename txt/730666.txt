@@ -1,0 +1,1 @@
+This heuristic can fail under some circumstances, especially without fast modern communication speeds.

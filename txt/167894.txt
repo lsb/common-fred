@@ -1,0 +1,1 @@
+Any definition which is universally unsatisfied is useless; hence the restriction.

@@ -1,0 +1,1 @@
+Additionally, programmers are freed from implementing optimized code.

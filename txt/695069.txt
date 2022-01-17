@@ -1,0 +1,1 @@
+There are two controls, which move the player to the left and the right.

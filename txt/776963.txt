@@ -1,0 +1,1 @@
+When sorting items, the sort order no longer remains consistently Ascending or Descending.

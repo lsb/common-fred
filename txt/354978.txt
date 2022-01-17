@@ -1,0 +1,1 @@
+In algebraic geometry, spectral sequences are usually constructed from filtrations of cochain complexes.

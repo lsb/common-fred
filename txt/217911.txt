@@ -1,0 +1,1 @@
+Dataphor is broadly divided into two components: the Dataphor Server, and the Dataphor Frontend.

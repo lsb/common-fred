@@ -1,0 +1,1 @@
+Mediation functions can be shared among network elements, mediation devices, and network operation centers.

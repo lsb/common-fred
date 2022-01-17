@@ -1,0 +1,1 @@
+The operator manually steers the missile by means of a small joystick.

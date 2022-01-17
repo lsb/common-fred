@@ -1,0 +1,1 @@
+New flight control components can be created in the same manner.

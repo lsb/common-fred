@@ -1,0 +1,1 @@
+A camera cut changes the perspective from which a scene is portrayed.

@@ -1,0 +1,1 @@
+Vim script is mostly written in an imperative programming style.

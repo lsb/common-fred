@@ -1,0 +1,1 @@
+Flasque sheaves are soft and acyclic.

@@ -1,0 +1,1 @@
+RealPlayer is included to play sound audio files and streamed audio and video.

@@ -1,0 +1,1 @@
+For special linear groups, one obtains projective duality.

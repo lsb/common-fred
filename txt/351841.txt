@@ -1,0 +1,1 @@
+In Graphology slant can refer to either upstroke or downstroke values.

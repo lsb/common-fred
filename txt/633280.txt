@@ -1,0 +1,1 @@
+The master can send a selection command, then the address of a particular device.

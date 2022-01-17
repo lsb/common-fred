@@ -1,0 +1,1 @@
+The alpha channel is normally used as an opacity channel.

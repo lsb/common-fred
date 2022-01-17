@@ -1,0 +1,1 @@
+Singers either each hold a microphone or sing with area microphones.

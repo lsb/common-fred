@@ -1,0 +1,1 @@
+Velocity-based algorithms are a common approach for saccade detection in eye tracking.

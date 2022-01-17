@@ -1,0 +1,1 @@
+Evidence of security against linear cryptanalysis is usually expected of new cipher designs.

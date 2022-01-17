@@ -1,0 +1,1 @@
+Players maneuvered soldiers, ships, and gennies on a board representing the solar system.

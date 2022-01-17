@@ -1,0 +1,1 @@
+The reverse link has both open loop and closed loop power control.

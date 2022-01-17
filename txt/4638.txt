@@ -1,0 +1,1 @@
+"""Marie Claire"" was founded by Jean Prouvost and Marcelle Auclair."

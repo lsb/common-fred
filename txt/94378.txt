@@ -1,0 +1,1 @@
+"The invariants may be expressed in terms of Jacobi's theta functions."

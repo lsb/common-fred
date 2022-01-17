@@ -1,0 +1,1 @@
+Units out of supply have their combat rating halved.

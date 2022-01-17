@@ -1,0 +1,1 @@
+No transposed pair of vertices is an edge in the graph.

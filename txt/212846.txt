@@ -1,0 +1,1 @@
+Control and raising also differ in how they behave with idiomatic expressions.

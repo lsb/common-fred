@@ -1,0 +1,1 @@
+A word can contain only one phonetically long vowel, but numerous unstressed short vowels.

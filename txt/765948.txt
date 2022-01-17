@@ -1,0 +1,1 @@
+Various companies have attempted to claim patents for syslog implementations.

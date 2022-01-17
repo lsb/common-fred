@@ -1,0 +1,1 @@
+The later a performance defect is detected, the higher the cost of remediation.

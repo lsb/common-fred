@@ -1,0 +1,1 @@
+This way, the content of the selection survives the client having copied it.

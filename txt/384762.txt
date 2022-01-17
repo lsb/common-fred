@@ -1,0 +1,1 @@
+It is always rounded in favor of the test sample.

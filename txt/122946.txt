@@ -1,0 +1,1 @@
+A change from one significant condition to another is called a signal transition.

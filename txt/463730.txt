@@ -1,0 +1,1 @@
+NegaScout calls the zero-window searches recursively.

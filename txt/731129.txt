@@ -1,0 +1,1 @@
+This includes obtaining spectrum access critical for all Air Force core functions.

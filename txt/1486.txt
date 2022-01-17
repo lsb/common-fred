@@ -1,0 +1,1 @@
+"""Colour"" refers to all other colours."

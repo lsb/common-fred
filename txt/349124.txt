@@ -1,0 +1,1 @@
+If a processor stopped running, another processor would detect it and initiate a recovery.

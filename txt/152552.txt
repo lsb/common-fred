@@ -1,0 +1,1 @@
+All beacons are located by doppler triangulation to confirm the location.

@@ -1,0 +1,1 @@
+"Perl's package uses ""NaN"" for the result of strings that don't represent valid integers."

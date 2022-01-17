@@ -1,0 +1,1 @@
+Fluid particles are subject only to pressure and their own weight.

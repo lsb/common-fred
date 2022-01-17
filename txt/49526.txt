@@ -1,0 +1,1 @@
+"In general, however, the ""h""-vector of a simplicial complex is not even necessarily positive."

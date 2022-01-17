@@ -1,0 +1,1 @@
+"Upon spotting its target, it says the target's name out loud and attacks."

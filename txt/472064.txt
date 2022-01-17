@@ -1,0 +1,1 @@
+Numbers in this system are represented by combinations of letters from the Latin alphabet.

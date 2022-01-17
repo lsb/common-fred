@@ -1,0 +1,1 @@
+Transistor-transistor logic uses bipolar transistors to form its integrated circuits.

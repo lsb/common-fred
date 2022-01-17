@@ -1,0 +1,1 @@
+Invoices, receipts, and reports can also be produced by the back-office system.

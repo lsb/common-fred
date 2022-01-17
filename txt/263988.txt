@@ -1,0 +1,1 @@
+Handoffs are already supported under the preexisting standard.

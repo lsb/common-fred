@@ -1,0 +1,1 @@
+This causes a potential drop along the length of the device.

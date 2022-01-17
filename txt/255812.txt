@@ -1,0 +1,1 @@
+Fuzzy electronics is fuzzy logic implemented on dedicated hardware.

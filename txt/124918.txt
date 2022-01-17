@@ -1,0 +1,1 @@
+A dynamically inconsistent game is subgame imperfect.

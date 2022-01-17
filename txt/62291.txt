@@ -1,0 +1,1 @@
+"Live is composed of two 'views' - the arrangement view and the session view."

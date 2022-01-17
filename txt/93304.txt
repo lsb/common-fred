@@ -1,0 +1,1 @@
+"The game can be played as either the ""Heroside"" or the ""Darkside""."

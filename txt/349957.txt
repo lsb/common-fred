@@ -1,0 +1,1 @@
+If the vessel is on an incorrect course, the lights will not align.

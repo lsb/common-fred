@@ -1,0 +1,1 @@
+All Euclidean spaces are affine, but there are affine spaces that are non-Euclidean.

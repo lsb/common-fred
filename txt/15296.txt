@@ -1,0 +1,1 @@
+"An ""attribute"" is simply a name-value pair."

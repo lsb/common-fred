@@ -1,0 +1,1 @@
+"""Furoshiki"" are often decorated with traditional designs or by shibori."

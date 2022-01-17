@@ -1,0 +1,1 @@
+"""Scoopula"" is a registered trademark owned by Thermo Fisher Scientific."

@@ -1,0 +1,1 @@
+A network system has multiple sources of supply operating in parallel.

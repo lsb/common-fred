@@ -1,0 +1,1 @@
+Many Unix-like systems include a program called dhclient to handle this dynamic configuration.

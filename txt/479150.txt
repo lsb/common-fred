@@ -1,0 +1,1 @@
+One resource management technique is resource leveling.

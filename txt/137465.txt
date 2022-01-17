@@ -1,0 +1,1 @@
+A thermoelectric device creates voltage when there is a different temperature on each side.

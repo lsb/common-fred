@@ -1,0 +1,1 @@
+This situation was resolved with the introduction of Unicode.

@@ -1,0 +1,1 @@
+"""Wizball"" is a scrolling shooter inspired by ""Gradius"" with an additional collection dynamic."

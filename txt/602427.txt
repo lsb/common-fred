@@ -1,0 +1,1 @@
+The data submitted via this segment includes the arrest date, type and offense code.

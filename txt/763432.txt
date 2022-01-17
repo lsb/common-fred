@@ -1,0 +1,1 @@
+Unlike the single player mode, each match is a best-of-three-falls match.

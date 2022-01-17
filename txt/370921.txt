@@ -1,0 +1,1 @@
+It allowed users to create public chat rooms, send private messages, and use emoticons.

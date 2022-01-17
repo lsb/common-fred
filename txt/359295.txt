@@ -1,0 +1,1 @@
+In particular, it is always a subgraph of the given graph.

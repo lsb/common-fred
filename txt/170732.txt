@@ -1,0 +1,1 @@
+As a block compression algorithm, it compresses and decompresses blocks of data.

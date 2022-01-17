@@ -1,0 +1,1 @@
+When no direction is specified, east is positive and west is negative.

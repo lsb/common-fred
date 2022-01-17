@@ -1,0 +1,1 @@
+Many procedural programming languages and databases make the closed-world assumption.

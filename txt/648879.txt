@@ -1,0 +1,1 @@
+The player controls Cytron either with a joystick or a mouse.

@@ -1,0 +1,1 @@
+Corruption can occur within Active Directory.

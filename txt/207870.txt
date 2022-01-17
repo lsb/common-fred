@@ -1,0 +1,1 @@
+Class size, time, task, and content are scaled down to provide optimal training environments.

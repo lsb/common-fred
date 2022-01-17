@@ -1,0 +1,1 @@
+Nearly all topological spaces normally studied in mathematics are T spaces.

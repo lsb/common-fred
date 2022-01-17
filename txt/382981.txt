@@ -1,0 +1,1 @@
+It is a very-high level language that supports prototyping.

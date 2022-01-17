@@ -1,0 +1,1 @@
+Some such differential equations admit explicit power series solutions, despite their non-linearity.

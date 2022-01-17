@@ -1,0 +1,1 @@
+Nutch originated with Doug Cutting, creator of both Lucene and Hadoop, and Mike Cafarella.

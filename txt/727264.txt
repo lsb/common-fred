@@ -1,0 +1,1 @@
+This configuration file tells the modem the download and upload caps it should enforce.

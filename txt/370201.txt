@@ -1,0 +1,1 @@
+Is it possible to detect whether a bomb is a non-dud without detonating it?

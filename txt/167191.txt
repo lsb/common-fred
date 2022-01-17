@@ -1,0 +1,1 @@
+Another simple type of controller is a proportional controller.

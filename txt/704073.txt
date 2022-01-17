@@ -1,0 +1,1 @@
+These assumptions cause no loss of generality.

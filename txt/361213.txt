@@ -1,0 +1,1 @@
+In testing, none of the software techniques were effective for sanitizing individual files.

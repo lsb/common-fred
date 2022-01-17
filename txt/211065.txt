@@ -1,0 +1,1 @@
+Components with wire leads are generally used on through-hole boards.

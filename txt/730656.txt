@@ -1,0 +1,1 @@
+This helps to retain the dynamic range of the system.

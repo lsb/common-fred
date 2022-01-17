@@ -1,0 +1,1 @@
+"""Have a Nice Day"" has mostly received mixed reviews by music critics."

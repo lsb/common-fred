@@ -1,0 +1,1 @@
+Examples include the four-vertex path graph and five-vertex cycle graph.

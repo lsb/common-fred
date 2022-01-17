@@ -1,0 +1,1 @@
+Yet another measure of fractal dimension is the correlation dimension.

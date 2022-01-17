@@ -1,0 +1,1 @@
+However one problem of cloud service provisioning is that it is not instantaneous.

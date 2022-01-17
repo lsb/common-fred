@@ -1,0 +1,1 @@
+"""Bifurcariopsis"" reproduces by means of conceptacles; it produces tetraspores and dispores and carpospores."

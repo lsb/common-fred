@@ -1,0 +1,1 @@
+The application then downloads the files in the background.

@@ -1,0 +1,1 @@
+It is also a strictly non-palindromic number and a happy number.

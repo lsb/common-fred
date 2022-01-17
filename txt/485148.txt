@@ -1,0 +1,1 @@
+Others reflect the status of the machine after arithmetic or bit manipulation instructions.

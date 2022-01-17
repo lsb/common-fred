@@ -1,0 +1,1 @@
+If you increase the distance between the microphones, you effectively decrease the pickup angle.

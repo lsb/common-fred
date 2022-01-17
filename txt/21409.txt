@@ -1,0 +1,1 @@
+"Busybox would see that its ""name"" is ""ls"" and act like the ""ls"" program."

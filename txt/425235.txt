@@ -1,0 +1,1 @@
+Kana to kanji conversion is done via the arrow and other keys.

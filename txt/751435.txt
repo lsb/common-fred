@@ -1,0 +1,1 @@
+To prevent players from staying a ghost, they have a timed ghost life.

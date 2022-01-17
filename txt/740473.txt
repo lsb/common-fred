@@ -1,0 +1,1 @@
+This service does not operate on Sundays or public holidays.

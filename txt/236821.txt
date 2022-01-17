@@ -1,0 +1,1 @@
+Error Reporter has even been known to crash while reporting errors.

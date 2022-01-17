@@ -1,0 +1,1 @@
+A-class asteroids are tinted red in hue, with a moderate albedo.

@@ -1,0 +1,1 @@
+There are generally two forms of media access control: distributed and centralized.

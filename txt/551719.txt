@@ -1,0 +1,1 @@
+Swimmers swim in a clockwise direction on a rectangular course.

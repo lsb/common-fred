@@ -1,0 +1,1 @@
+Astronauts can control the robot from both inside and outside the space station.

@@ -1,0 +1,1 @@
+For example, buttons are a type of object, and come in standard styles.

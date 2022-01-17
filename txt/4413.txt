@@ -1,0 +1,1 @@
+"""Little Boxes"" was inspired visually by the houses of Daly City, California."

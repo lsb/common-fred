@@ -1,0 +1,1 @@
+Programs written in Gallina have the weak normalization property - they always terminate.

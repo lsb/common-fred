@@ -1,0 +1,1 @@
+Smart pointers prevent most situations of memory leaks by making the memory deallocation automatic.

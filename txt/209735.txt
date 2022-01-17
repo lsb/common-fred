@@ -1,0 +1,1 @@
+Color Field painting actually encompasses three separate but related generations of painters.

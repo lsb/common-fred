@@ -1,0 +1,1 @@
+As such they are an important concept for the design of database schema.

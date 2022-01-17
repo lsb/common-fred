@@ -1,0 +1,1 @@
+Aspell will also do its best to respect the current locale setting.

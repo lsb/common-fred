@@ -1,0 +1,1 @@
+"In particular, max-pooling is often structured via Fukushima's convolutional architecture."

@@ -1,0 +1,1 @@
+In traditional logic there is more than one contrapositive inferred from each original statement.

@@ -1,0 +1,1 @@
+However, good algorithms exist which balance performance with quality of compiled code.

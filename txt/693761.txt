@@ -1,0 +1,1 @@
+There are other concerns about syntax, e.g., the absence of a namespace.

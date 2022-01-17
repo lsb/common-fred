@@ -1,0 +1,1 @@
+"Projects distributing both usually don't have the generated files in their revision control systems."

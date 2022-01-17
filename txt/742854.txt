@@ -1,0 +1,1 @@
+This variant also helps protect against information leakage and traffic analysis.

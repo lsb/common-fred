@@ -1,0 +1,1 @@
+Some implementations will also not display any text inside drawing objects.

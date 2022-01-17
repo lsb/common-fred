@@ -1,0 +1,1 @@
+Multilevel page tables are also referred to as hierarchical page tables.

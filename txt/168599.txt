@@ -1,0 +1,1 @@
+Applications such as Pinball take advantage of this to accelerate performance.

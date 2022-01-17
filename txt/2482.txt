@@ -1,0 +1,1 @@
+"""Frank Knox"" was built at Bath, Maine."

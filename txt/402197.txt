@@ -1,0 +1,1 @@
+It operates in both clockwise and anti-clockwise direction.

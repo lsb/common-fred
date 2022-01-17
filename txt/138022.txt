@@ -1,0 +1,1 @@
+A typical host or end-user network is connected to just one network.

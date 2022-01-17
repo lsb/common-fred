@@ -1,0 +1,1 @@
+Users can install the plugins via Plugin Manager.

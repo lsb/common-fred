@@ -1,0 +1,1 @@
+For every integer n, the flat space R admits an almost complex structure.

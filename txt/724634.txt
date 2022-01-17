@@ -1,0 +1,1 @@
+This allows reasonably efficient analysis to any depth which is chosen.

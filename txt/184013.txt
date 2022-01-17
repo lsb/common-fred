@@ -1,0 +1,1 @@
+Before collapse, the wave function may be any square-integrable function.

@@ -1,0 +1,1 @@
+"""Pelecinus polyturator"" is parthenogenic; females do not require fertilization by males to reproduce."

@@ -1,0 +1,1 @@
+Scoping is another technique that helps keep procedures modular.

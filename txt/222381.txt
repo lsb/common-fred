@@ -1,0 +1,1 @@
+Different software implementations of spider offer alternative scoring rules.

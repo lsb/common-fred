@@ -1,0 +1,1 @@
+"Often the rating system will be a module of a larger ""Billing System"" architecture."

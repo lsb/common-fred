@@ -1,0 +1,1 @@
+Parallel systems always have a well-built communication system.

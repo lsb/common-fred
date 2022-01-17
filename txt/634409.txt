@@ -1,0 +1,1 @@
+The microcode, stored in flash memory, is modifiable using a gcc-based toolchain.

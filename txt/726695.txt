@@ -1,0 +1,1 @@
+This changes the nature of the relationship between terminal voltages and current.

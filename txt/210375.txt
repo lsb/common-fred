@@ -1,0 +1,1 @@
+Common areas of application do not require positive probits.

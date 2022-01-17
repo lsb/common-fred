@@ -1,0 +1,1 @@
+Stackers and reclaimers were originally manually controlled, with no means of remote control.

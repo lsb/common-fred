@@ -1,0 +1,1 @@
+It was the first commercial package to feature Inverse kinematics for character animation.

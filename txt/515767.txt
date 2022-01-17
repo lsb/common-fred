@@ -1,0 +1,1 @@
+Sets of central moments can be defined for both univariate and multivariate distributions.

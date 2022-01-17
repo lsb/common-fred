@@ -1,0 +1,1 @@
+"""Neutral salts"" are those salts that are neither acidic nor basic."

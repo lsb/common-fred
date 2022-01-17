@@ -1,0 +1,1 @@
+"Therefore, the example premise above, ""all dogs are mammals"" becomes ""all non-mammals are non-dogs."

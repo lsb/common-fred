@@ -1,0 +1,1 @@
+A linear system can be viewed as a single equation with a vector-valued variable.

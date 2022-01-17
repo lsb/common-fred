@@ -1,0 +1,1 @@
+Only Sun customers with paid support contracts have access to updates for production releases.

@@ -1,0 +1,1 @@
+I think a sequential model can solve this problem.

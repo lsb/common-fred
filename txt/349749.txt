@@ -1,0 +1,1 @@
+If the discovered attack is a check, it is called a discovered check.

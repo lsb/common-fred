@@ -1,0 +1,1 @@
+When encoding, the input frame is scanned pixel-wise in raster-scan order and processed line-wise.

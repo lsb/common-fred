@@ -1,0 +1,1 @@
+Quotient spaces of locally compact Hausdorff spaces are compactly generated.

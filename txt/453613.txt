@@ -1,0 +1,1 @@
+Mixed-signal oscilloscopes combine the functionality of a digital storage oscilloscope with a logic analyzer.

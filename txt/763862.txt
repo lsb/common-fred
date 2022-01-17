@@ -1,0 +1,1 @@
+Up to size and orientation, a pair can be represented by their quotient.

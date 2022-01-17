@@ -1,0 +1,1 @@
+The inner structure of the game is actually an agent-based artificial life program.

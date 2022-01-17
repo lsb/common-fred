@@ -1,0 +1,1 @@
+Hamilton quaternions can be used to replace many matrices, but not to represent view frustums.

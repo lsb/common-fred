@@ -1,0 +1,1 @@
+Conditions under which this inversion is valid are given in the Mellin inversion theorem.

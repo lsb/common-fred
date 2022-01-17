@@ -1,0 +1,1 @@
+Besides the virus scanning and cleaning functionality it only featured heuristic analysis.

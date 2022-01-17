@@ -1,0 +1,1 @@
+Add-ons are never allowed to be installed behind the back of the user.

@@ -1,0 +1,1 @@
+Network nodes typically had one address and could have many names.

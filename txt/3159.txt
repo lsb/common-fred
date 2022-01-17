@@ -1,0 +1,1 @@
+"""Honolulu"" also has an annual dining awards called the Hale Aina Awards."

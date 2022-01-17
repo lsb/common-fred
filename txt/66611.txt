@@ -1,0 +1,1 @@
+"Nearly all sequential logic today is ""clocked"" or ""synchronous"" logic."

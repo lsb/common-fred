@@ -1,0 +1,1 @@
+"In its original form, Fitts's law is meant to apply only to one-dimensional tasks."

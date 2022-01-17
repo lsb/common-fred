@@ -1,0 +1,1 @@
+It consists of a synchronous motor driving a set of heavy-duty electrical contacts.

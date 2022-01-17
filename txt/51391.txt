@@ -1,0 +1,1 @@
+"Initial ""ieung"" in hangul is not written in Korean Braille."

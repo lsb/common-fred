@@ -1,0 +1,1 @@
+When enabled, it allowed users to record mouse and keyboard input as macros.

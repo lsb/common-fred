@@ -1,0 +1,1 @@
+For example, the pad could be derived from the total length of the message.

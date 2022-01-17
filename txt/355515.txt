@@ -1,0 +1,1 @@
+In both cases the execution workload is the same.

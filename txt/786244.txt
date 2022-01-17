@@ -1,0 +1,1 @@
+Yards gained from the receiving play are credited to the player as receiving yards.

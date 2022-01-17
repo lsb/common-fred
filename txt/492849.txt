@@ -1,0 +1,1 @@
+Pieces may not overlap or cover other pieces.

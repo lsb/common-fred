@@ -1,0 +1,1 @@
+Wins are highlighted in green, while losses are highlighted in red.

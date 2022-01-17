@@ -1,0 +1,1 @@
+It provides several rendering operations and also does alpha blending.

@@ -1,0 +1,1 @@
+Clubs retain first round scores and goal difference.

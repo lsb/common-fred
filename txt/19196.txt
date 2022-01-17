@@ -1,0 +1,1 @@
+"Because of the properties of jets under function composition, ""G"" is a Lie group."

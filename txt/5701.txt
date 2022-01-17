@@ -1,0 +1,1 @@
+"""Payback"" was well received at the box office."

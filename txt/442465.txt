@@ -1,0 +1,1 @@
+Many Contiki systems are severely power-constrained.

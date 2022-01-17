@@ -1,0 +1,1 @@
+The diode design has some design trade-offs.

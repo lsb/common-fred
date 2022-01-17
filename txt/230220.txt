@@ -1,0 +1,1 @@
+Dynamic bots, dynamically learn the levels and maps as they play.

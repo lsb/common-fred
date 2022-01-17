@@ -1,0 +1,1 @@
+"Mesh networks can relay messages using either a ""flooding"" technique or a ""routing"" technique."

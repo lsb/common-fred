@@ -1,0 +1,1 @@
+Compatibility is considered higher priority than performance.

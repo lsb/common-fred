@@ -1,0 +1,1 @@
+Reeds and Sloane offer an extension to handle a ring.

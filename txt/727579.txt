@@ -1,0 +1,1 @@
+This coupling provides detailed insight into the connectivity of atoms in a molecule.

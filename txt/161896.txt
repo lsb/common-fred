@@ -1,0 +1,1 @@
+An assignable bender can be used to control pitch or filter frequency.

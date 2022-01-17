@@ -1,0 +1,1 @@
+A conditional knockout allows gene deletion in a tissue or time specific manner.

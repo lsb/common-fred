@@ -1,0 +1,1 @@
+Double-clicking is made redundant by this system and is ignored.

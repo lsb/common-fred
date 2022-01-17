@@ -1,0 +1,1 @@
+This much is a fragment of a typical locally Euclidean topological group.

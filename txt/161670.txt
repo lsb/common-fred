@@ -1,0 +1,1 @@
+An alternative to double or quad pumping is to make the link self-clocking.

@@ -1,0 +1,1 @@
+"The ""smooth curve"" feature of charts in Microsoft Excel also uses this algorithm."

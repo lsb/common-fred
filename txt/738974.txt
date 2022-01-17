@@ -1,0 +1,1 @@
+This provided the first open architecture for a multi-server chassis.

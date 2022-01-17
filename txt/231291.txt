@@ -1,0 +1,1 @@
+Each of the keys has three positions: back, normal and forward.

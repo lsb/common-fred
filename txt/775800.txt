@@ -1,0 +1,1 @@
+When a device exceeds its permitted power consumption, there will be a leakage current.

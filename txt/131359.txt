@@ -1,0 +1,1 @@
+A member can reserve and use a Zipcar in any Zipcar city.

@@ -1,0 +1,1 @@
+These incorporate the existing texture, rather than painting it over.

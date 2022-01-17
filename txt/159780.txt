@@ -1,0 +1,1 @@
+Altitude can be determined based on the measurement of atmospheric pressure.

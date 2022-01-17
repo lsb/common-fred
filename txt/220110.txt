@@ -1,0 +1,1 @@
+Descend a level whenever the upcoming width would be too large.

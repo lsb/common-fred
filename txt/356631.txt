@@ -1,0 +1,1 @@
+In fact, the set of weird numbers has positive asymptotic density.

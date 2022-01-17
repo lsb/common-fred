@@ -1,0 +1,1 @@
+The player revives their stamina during the round interval by pressing the button rapidly.

@@ -1,0 +1,1 @@
+A simple cubic unit cell has a single cubic void in the center.

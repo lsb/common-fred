@@ -1,0 +1,1 @@
+Image file formats are standardized means of organizing and storing digital images.

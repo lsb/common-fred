@@ -1,0 +1,1 @@
+It easily multiplies by seed.

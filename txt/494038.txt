@@ -1,0 +1,1 @@
+Players cannot construct cities on marshes, and cannot improve volcanoes in any way.

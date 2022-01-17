@@ -1,0 +1,1 @@
+"Grammatically, one cannot infer ""all mortals are men"" from ""All men are mortal""."

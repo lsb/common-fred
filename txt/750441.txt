@@ -1,0 +1,1 @@
+TinyFugue, or tf, was primarily written for Unix-like operating systems.

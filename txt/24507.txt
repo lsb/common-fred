@@ -1,0 +1,1 @@
+"Cosines and sines of the angles are denoted ""c"" and ""s"", respectively."

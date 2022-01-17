@@ -1,0 +1,1 @@
+A range search searches for ranges of parameters.

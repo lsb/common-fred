@@ -1,0 +1,1 @@
+"""Broadband"" is a relative term, understood according to its context."

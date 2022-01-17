@@ -1,0 +1,1 @@
+Older integrated graphics chipsets lacked hardware transform and lighting, but newer ones include it.

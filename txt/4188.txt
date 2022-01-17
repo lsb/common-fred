@@ -1,0 +1,1 @@
+"""Kootenai"" is thought to be a word meaning ""water people"" in an Algonquian language."

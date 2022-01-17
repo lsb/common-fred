@@ -1,0 +1,1 @@
+This, however, increases the required trigger current or adds latency due to capacitor charging.

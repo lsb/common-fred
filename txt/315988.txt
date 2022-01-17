@@ -1,0 +1,1 @@
+Hence the described hash function is typically the preferred one in the Rabin-Karp algorithm.

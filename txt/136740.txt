@@ -1,0 +1,1 @@
+A standard example of an isolating language is Chinese.

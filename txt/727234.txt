@@ -1,0 +1,1 @@
+This condition is also the one for Corner detection.

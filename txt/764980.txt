@@ -1,0 +1,1 @@
+Using this method means that the structure of the document must be strictly hierarchical.

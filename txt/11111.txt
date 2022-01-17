@@ -1,0 +1,1 @@
+"A passing loop is located at ""Radoppio"" halt."

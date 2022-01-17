@@ -1,0 +1,1 @@
+Smart sensing will perform pre-set sensor action.

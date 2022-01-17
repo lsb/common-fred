@@ -1,0 +1,1 @@
+It performs better for hypervalent compounds than other semiempirical methods.

@@ -1,0 +1,1 @@
+Distributed data stores typically use an error detection and correction technique.

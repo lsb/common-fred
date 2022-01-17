@@ -1,0 +1,1 @@
+"""Space Invaders"" was the platform's killer app, quadrupling the system's sales."

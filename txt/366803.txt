@@ -1,0 +1,1 @@
+Indeed, these architectures were designed to rely on compiler writers for adequate performance.

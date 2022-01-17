@@ -1,0 +1,1 @@
+Besides these versions, Scripture had support for bookmarks, footnotes, and a fast search engine.

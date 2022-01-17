@@ -1,0 +1,1 @@
+Each player will have his own deck of cards representing that team.

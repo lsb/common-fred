@@ -1,0 +1,1 @@
+"A database of Windows applications is maintained on the CodeWeavers' website."

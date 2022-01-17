@@ -1,0 +1,1 @@
+Once that customer disconnects, that pair becomes usable at any of the terminals.

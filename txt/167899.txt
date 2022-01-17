@@ -1,0 +1,1 @@
+Any disk change with Amiga formatted disks will invert this behaviour.

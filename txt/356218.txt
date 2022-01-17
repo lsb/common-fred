@@ -1,0 +1,1 @@
+In each pairing, each voter will choose the city physically closest to their location.

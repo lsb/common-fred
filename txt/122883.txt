@@ -1,0 +1,1 @@
+A centered square prime is a centered square number that is prime.

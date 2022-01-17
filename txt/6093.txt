@@ -1,0 +1,1 @@
+"""Quaternion algebra"" here means something more general than the algebra of Hamilton quaternions."

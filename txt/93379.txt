@@ -1,0 +1,1 @@
+"The game uses a modified version of the three-weapon configuration from ""Shattered Soldier""."

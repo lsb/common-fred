@@ -1,0 +1,1 @@
+Enterprise Objects provides tools and frameworks for object-relational mapping.

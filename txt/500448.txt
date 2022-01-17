@@ -1,0 +1,1 @@
+PyPy was initially a research and development-oriented project.

@@ -1,0 +1,1 @@
+Shooting a corpse causes it to regress back to its initial death phase.

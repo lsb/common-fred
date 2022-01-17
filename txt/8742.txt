@@ -1,0 +1,1 @@
+"""Verlan"" generally retains the pronunciation of the original syllables."

@@ -1,0 +1,1 @@
+Rooms consist of one bedroom, a living room, bathroom and kitchen.

@@ -1,0 +1,1 @@
+This enables the station to handle large numbers of people.

@@ -1,0 +1,1 @@
+Occasionally one image will become exclusively visible and the other image invisible.

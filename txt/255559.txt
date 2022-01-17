@@ -1,0 +1,1 @@
+Furthermore, it adds a noise reduction mechanism.

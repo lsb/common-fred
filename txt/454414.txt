@@ -1,0 +1,1 @@
+Monkey testing is usually implemented as random, automated unit tests.

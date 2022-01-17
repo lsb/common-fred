@@ -1,0 +1,1 @@
+The database does not reveal the actual passwords or keylogged data.

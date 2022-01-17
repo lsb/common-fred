@@ -1,0 +1,1 @@
+This provides an efficient way to communicate many different plays with minimal memorization.

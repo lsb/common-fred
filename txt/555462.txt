@@ -1,0 +1,1 @@
+That is, the Cauchy-Riemann equations are the conditions for a function to be conformal.

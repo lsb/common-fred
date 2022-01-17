@@ -1,0 +1,1 @@
+System resources were represented as objects and protected through capabilities.

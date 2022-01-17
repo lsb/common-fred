@@ -1,0 +1,1 @@
+Usually this database resides in a web-based application or in client-side software.

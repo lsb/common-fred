@@ -1,0 +1,1 @@
+Communicating parties must have the same key before they can achieve secure communication.

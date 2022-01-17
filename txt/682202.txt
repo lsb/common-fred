@@ -1,0 +1,1 @@
+The use of exported variables and record fields can be restricted to read-only access.

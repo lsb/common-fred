@@ -1,0 +1,1 @@
+"""Nick of Time"" received negative reviews from critics."

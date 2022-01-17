@@ -1,0 +1,1 @@
+Business models for Telidon services were poorly developed.

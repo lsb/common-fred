@@ -1,0 +1,1 @@
+Where number is an integer number to indicate the time period in seconds.

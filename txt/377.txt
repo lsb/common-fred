@@ -1,0 +1,1 @@
+"""Amazing Heroes""' first editor was Michael Catron, Fantagraphics' head of promotion and circulation."

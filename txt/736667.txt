@@ -1,0 +1,1 @@
+This method is often used to solve the cube in a fewest-moves solution.

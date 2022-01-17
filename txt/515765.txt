@@ -1,0 +1,1 @@
+Setoids are studied especially in proof theory and in type-theoretic foundations of mathematics.

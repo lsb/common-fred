@@ -1,0 +1,1 @@
+In speech processing, keyword spotting deals with the identification of keywords in utterances.

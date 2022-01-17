@@ -1,0 +1,1 @@
+Also, breaking up a big project into smaller components can be beneficial.

@@ -1,0 +1,1 @@
+Generally, lawful Interception implementation is similar to the implementation of conference call.

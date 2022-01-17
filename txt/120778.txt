@@ -1,0 +1,1 @@
+A Cartesian product is bipartite if and only if each of its factors is.

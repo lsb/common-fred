@@ -1,0 +1,1 @@
+This antenna combination resonates at a slightly lower frequency than the original element.

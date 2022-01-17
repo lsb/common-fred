@@ -1,0 +1,1 @@
+The binomial transform is another linear transformation of a still more general type.

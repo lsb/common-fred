@@ -1,0 +1,1 @@
+Most parallel primitives are related to process synchronization, communication or task partitioning.

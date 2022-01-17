@@ -1,0 +1,1 @@
+He developed the Prototype Verification System, which is a theorem prover.

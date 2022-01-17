@@ -1,0 +1,1 @@
+If included in a regression, it can improve the fit of the model.

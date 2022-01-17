@@ -1,0 +1,1 @@
+The subspace topology has the following characteristic property.

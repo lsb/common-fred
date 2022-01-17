@@ -1,0 +1,1 @@
+Analysis of multiple loci will result in a genotype.

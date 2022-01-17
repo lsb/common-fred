@@ -1,0 +1,1 @@
+"""Taboo"" was marketed as a party game that multiple adults could enjoy simultaneously."

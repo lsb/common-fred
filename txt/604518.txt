@@ -1,0 +1,1 @@
+The distance between any of the points and the centre is called the radius.

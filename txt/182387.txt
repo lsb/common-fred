@@ -1,0 +1,1 @@
+Basic tools of econophysics are probabilistic and statistical methods often taken from statistical physics.

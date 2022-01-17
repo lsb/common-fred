@@ -1,0 +1,1 @@
+For example, the Dirichlet function is even, but is nowhere continuous.

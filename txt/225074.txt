@@ -1,0 +1,1 @@
+Double hashing can also require more computation than other forms of probing.

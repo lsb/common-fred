@@ -1,0 +1,1 @@
+Armies consist of military units such as spearmen, cavalry and archers.

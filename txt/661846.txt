@@ -1,0 +1,1 @@
+The second difference is the size of the locations the player can travel to.

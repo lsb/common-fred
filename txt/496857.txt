@@ -1,0 +1,1 @@
+Preferably, the user should be protected from the network operational details.

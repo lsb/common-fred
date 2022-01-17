@@ -1,0 +1,1 @@
+This is calculated by dividing the total number of votes cast by two.

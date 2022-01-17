@@ -1,0 +1,1 @@
+Also, some directional antennas have very narrow, sharp nulls.

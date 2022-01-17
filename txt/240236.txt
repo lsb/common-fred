@@ -1,0 +1,1 @@
+Exif is supported by almost all camera manufacturers.

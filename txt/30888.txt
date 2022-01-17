@@ -1,0 +1,1 @@
+"For the trivial self-pairs, the equation reduces to the degree being equal to ""k""."

@@ -1,0 +1,1 @@
+A cache line contains a value, and it can be read or written.

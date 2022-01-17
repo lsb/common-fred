@@ -1,0 +1,1 @@
+There is the following uniqueness theorem for an ideal having a primary decomposition.

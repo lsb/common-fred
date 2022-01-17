@@ -1,0 +1,1 @@
+Internet routers are typically built using line cards connected with a switch.

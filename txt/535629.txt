@@ -1,0 +1,1 @@
+Small-C is a retargetable compiler.

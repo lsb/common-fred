@@ -1,0 +1,1 @@
+"A cardinal B-spline has a constant separation, ""h"", between knots."

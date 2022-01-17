@@ -1,0 +1,1 @@
+For cosmological problems, a coordinate chart may be quite large.

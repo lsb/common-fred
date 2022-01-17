@@ -1,0 +1,1 @@
+Each recovery file must be the size of the largest input file.

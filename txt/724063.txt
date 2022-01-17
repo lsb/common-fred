@@ -1,0 +1,1 @@
+This Vertigo was modified to be joystick-controlled and given an automatic transmission.

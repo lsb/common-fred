@@ -1,0 +1,1 @@
+"The bar matched the colors of the unit's flash."

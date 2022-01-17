@@ -1,0 +1,1 @@
+This was a first-person-perspective graphical adventure game, with commands entered textually.

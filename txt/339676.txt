@@ -1,0 +1,1 @@
+However, the problem may be solved in polynomial time for trees of bounded degree.

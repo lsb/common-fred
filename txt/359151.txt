@@ -1,0 +1,1 @@
+In other words, the values that the noise can take on are Gaussian-distributed.

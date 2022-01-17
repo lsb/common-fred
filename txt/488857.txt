@@ -1,0 +1,1 @@
+Pascal is not an expression-oriented language.

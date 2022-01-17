@@ -1,0 +1,1 @@
+A communication strip on the chart lists frequencies in the order they are used.

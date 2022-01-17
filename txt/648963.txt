@@ -1,0 +1,1 @@
+The player must unscramble the word and select the proper item from their inventory.

@@ -1,0 +1,1 @@
+"""Affine group scheme"" is the concept dual to a type of Hopf algebra."

@@ -1,0 +1,1 @@
+Speed decreased slightly, but handling improved.

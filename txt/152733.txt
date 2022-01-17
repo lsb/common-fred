@@ -1,0 +1,1 @@
+All composite numbers have at least three divisors.

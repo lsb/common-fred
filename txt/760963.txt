@@ -1,0 +1,1 @@
+Two-wave sources are perfectly coherent if they have a constant phase difference and the same frequency.

@@ -1,0 +1,1 @@
+Register windows are not the only way to improve register performance.

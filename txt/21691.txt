@@ -1,0 +1,1 @@
+"But it's much harder when working with someone else's code or library."

@@ -1,0 +1,1 @@
+The service categories are characterised as being real-time or non-real-time.

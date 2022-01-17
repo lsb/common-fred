@@ -1,0 +1,1 @@
+"A ""spacing"" rule specifies the minimum distance between two adjacent objects."

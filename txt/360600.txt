@@ -1,0 +1,1 @@
+In some cases, the servos may skip tracks or get stuck.

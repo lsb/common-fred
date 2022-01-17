@@ -1,0 +1,1 @@
+Branch prediction and speculative execution is supported.

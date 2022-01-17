@@ -1,0 +1,1 @@
+It may alternatively be defined as the intersection of finitely many half-spaces.

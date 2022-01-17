@@ -1,0 +1,1 @@
+For example, a waterfall will appear blurred and fuzzy.

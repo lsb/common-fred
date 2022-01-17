@@ -1,0 +1,1 @@
+In a functional integral the domain of integration is a space of functions.

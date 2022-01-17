@@ -1,0 +1,1 @@
+Essentially, the two types of vertices can be distinguished by their neighbors of neighbors.

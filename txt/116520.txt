@@ -1,0 +1,1 @@
+"Warnsdorf's rule is a heuristic for finding a knight's tour."

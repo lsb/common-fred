@@ -1,0 +1,1 @@
+"Each shuttle's Flow Director was supported by a Vehicle Manager for the same spacecraft."

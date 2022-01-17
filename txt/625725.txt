@@ -1,0 +1,1 @@
+The joystick accelerates, decelerates, moves up, and moves down.

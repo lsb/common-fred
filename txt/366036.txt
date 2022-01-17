@@ -1,0 +1,1 @@
+In topology, zero sets are defined with respect to continuous functions.

@@ -1,0 +1,1 @@
+The built-in solid-state distortion channel gives a somewhat harsh sound, and is best bypassed.

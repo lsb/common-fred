@@ -1,0 +1,1 @@
+Cartan connections describe the geometry of manifolds modelled on homogeneous spaces.

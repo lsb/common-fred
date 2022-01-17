@@ -1,0 +1,1 @@
+This process provides identification, protection, and automatic consecutive numbering of the images.

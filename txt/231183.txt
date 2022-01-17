@@ -1,0 +1,1 @@
+Each mode is characterized by one or several frequencies, according the modal variable field.

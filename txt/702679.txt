@@ -1,0 +1,1 @@
+Therefore, only positive examples are used and the search is bottom-up.

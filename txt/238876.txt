@@ -1,0 +1,1 @@
+Every constant function is locally constant.

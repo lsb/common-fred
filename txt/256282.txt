@@ -1,0 +1,1 @@
+Gamma coding is a building block in the Elias delta code.

@@ -1,0 +1,1 @@
+It is strictly defined for elliptic, parabolic, and hyperbolic orbits.

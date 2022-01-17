@@ -1,0 +1,1 @@
+At the same time, Hoard has strict bounds on fragmentation.

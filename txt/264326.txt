@@ -1,0 +1,1 @@
+Hardware encryption chip and presumably receiver serial number was used to encrypt the recording.

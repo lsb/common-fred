@@ -1,0 +1,1 @@
+This program succeeds Imaging for Windows.

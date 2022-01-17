@@ -1,0 +1,1 @@
+"""Star"" is set on the old Somerset and Dorset line between Bath and Bournemouth."

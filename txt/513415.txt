@@ -1,0 +1,1 @@
+Second, the frame number with the page offset gives the actual address.

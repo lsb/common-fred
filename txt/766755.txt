@@ -1,0 +1,1 @@
+Verse two uses the same structure as verse one, with an additional two lines.

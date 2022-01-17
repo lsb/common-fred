@@ -1,0 +1,1 @@
+When neighboring switches are owned by different operators, they are known as interconnect points.

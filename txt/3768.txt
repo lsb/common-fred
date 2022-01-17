@@ -1,0 +1,1 @@
+"""Inola"" is a Cherokee word meaning ""Black Fox."

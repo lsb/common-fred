@@ -1,0 +1,1 @@
+Each mission has primary, secondary, and hidden bonus objectives.

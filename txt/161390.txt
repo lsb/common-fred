@@ -1,0 +1,1 @@
+An X-Macro is a header file.

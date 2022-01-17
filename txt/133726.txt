@@ -1,0 +1,1 @@
+A polyhedron that has positive volume has vertices that are not all coplanar.

@@ -1,0 +1,1 @@
+On-chip debugging solutions are heavy users of such internal scan chains.

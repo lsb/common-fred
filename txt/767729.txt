@@ -1,0 +1,1 @@
+Virtual memory systems usually include protected memory, but this is not always the case.

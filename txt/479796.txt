@@ -1,0 +1,1 @@
+Only Newtonian mechanics are simulated, not taking relativistic effects into account.

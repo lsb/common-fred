@@ -1,0 +1,1 @@
+They also are conserved quantities, so long as the system is isolated.

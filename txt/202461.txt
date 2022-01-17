@@ -1,0 +1,1 @@
+Cards on the tableau cannot be built on each other.

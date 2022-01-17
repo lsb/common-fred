@@ -1,0 +1,1 @@
+"Deutsch's algorithm is a special case of the general Deutsch-Jozsa algorithm."

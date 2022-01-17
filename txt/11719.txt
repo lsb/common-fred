@@ -1,0 +1,1 @@
+"A univariate special case can be found in Welch's t-test."

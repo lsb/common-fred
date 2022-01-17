@@ -1,0 +1,1 @@
+One internal disk drive and several backplane slots were sacrificed in this conversion.

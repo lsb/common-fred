@@ -1,0 +1,1 @@
+The derivation process of the grammar is simulated in a leftmost way.

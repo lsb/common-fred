@@ -1,0 +1,1 @@
+It can be shown that no two-parameter coordinate system can avoid such degeneracy.

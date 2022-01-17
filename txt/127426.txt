@@ -1,0 +1,1 @@
+A head-driven phrase structure grammar might parse this sentence differently.

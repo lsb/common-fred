@@ -1,0 +1,1 @@
+"""The Veteran's Story"" is a book written by Ada Christine Lightsey."

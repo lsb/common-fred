@@ -1,0 +1,1 @@
+Some models provide recorded music for the user.

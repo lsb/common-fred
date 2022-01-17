@@ -1,0 +1,1 @@
+However, this pumping does not produce a population inversion as in conventional lasers.

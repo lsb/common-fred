@@ -1,0 +1,1 @@
+A botanical name consists of at most three parts.

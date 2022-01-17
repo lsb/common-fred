@@ -1,0 +1,1 @@
+It is possible for the game to end in a draw.

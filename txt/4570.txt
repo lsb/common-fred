@@ -1,0 +1,1 @@
+"""Magical Girl Pretty Sammy"" is an example that was adapted into a manga series."

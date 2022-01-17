@@ -1,0 +1,1 @@
+"Under Suber's initial ruleset, rules are divided into two types: mutable and immutable."

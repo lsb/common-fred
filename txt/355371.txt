@@ -1,0 +1,1 @@
+In aspect-oriented programming a set of join points is called a pointcut.

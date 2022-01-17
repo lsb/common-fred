@@ -1,0 +1,1 @@
+By mathematical arguments, the maximum must lie between the two minima.

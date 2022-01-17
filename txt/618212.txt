@@ -1,0 +1,1 @@
+The game utilizes an uncommon overhead view of the court.

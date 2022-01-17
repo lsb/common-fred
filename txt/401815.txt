@@ -1,0 +1,1 @@
+It occurs for example when a call is made to a roaming cell phone.

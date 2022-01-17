@@ -1,0 +1,1 @@
+Play-by-email multiplayer games use email to communicate between computers.

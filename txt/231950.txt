@@ -1,0 +1,1 @@
+Each time a process runs, it is an instance of some program.

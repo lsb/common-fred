@@ -1,0 +1,1 @@
+This version of PictoChat also vocalized roman characters and kana when they are input.

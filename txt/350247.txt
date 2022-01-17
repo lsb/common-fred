@@ -1,0 +1,1 @@
+If you encrypt your hard drive you need to remember your password for decryption.

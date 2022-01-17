@@ -1,0 +1,1 @@
+Then a ring is simply an algebra over the commutative semiring Z of integers.

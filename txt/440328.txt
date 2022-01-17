@@ -1,0 +1,1 @@
+Macro processors are often embedded in other programs, such as assemblers and compilers.

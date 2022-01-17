@@ -1,0 +1,1 @@
+Transmission also seeds, that is, it will automatically share downloaded content.

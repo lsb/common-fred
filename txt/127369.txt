@@ -1,0 +1,1 @@
+A hammerbeam roof can have a single, double or false hammerbeam truss.

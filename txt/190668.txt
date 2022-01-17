@@ -1,0 +1,1 @@
+Both and are algebraic groups, because the condition that a matrix be orthogonal, i.e.

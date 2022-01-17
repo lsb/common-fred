@@ -1,0 +1,1 @@
+An example of an argument that depends on the law of excluded middle follows.

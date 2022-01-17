@@ -1,0 +1,1 @@
+The disk diffuses the weight of the tower more evenly over the bottom.

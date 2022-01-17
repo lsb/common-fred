@@ -1,0 +1,1 @@
+This choice for this length scale makes formulas simpler.

@@ -1,0 +1,1 @@
+Words may not begin with vowels.

@@ -1,0 +1,1 @@
+"""Tom studies grammar"" - ""Tom"" is the subject and ""grammar"" is the object."

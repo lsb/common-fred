@@ -1,0 +1,1 @@
+"""Loverboy""'s hook is built around a sample of ""Candy"", by Cameo."

@@ -1,0 +1,1 @@
+Duty cycle is commonly expressed as a percentage or a ratio.

@@ -1,0 +1,1 @@
+Any saturated model is also homogeneous.

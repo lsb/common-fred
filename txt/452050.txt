@@ -1,0 +1,1 @@
+Microsoft recommends BitLocker as replacement.

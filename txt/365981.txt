@@ -1,0 +1,1 @@
+In time series analysis, the shift operator is called the lag operator.

@@ -1,0 +1,1 @@
+The windmill is fully functional, and is capable of grinding grain.

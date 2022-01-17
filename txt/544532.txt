@@ -1,0 +1,1 @@
+Specifically, both Julian Dates and the Gregorian calendar are used.

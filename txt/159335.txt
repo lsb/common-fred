@@ -1,0 +1,1 @@
+Although multicast was planned, it was never developed.

@@ -1,0 +1,1 @@
+Dry weight further excludes the weight of all consumables, such as fuel and oils.

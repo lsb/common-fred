@@ -1,0 +1,1 @@
+Since picture and sound are usually recorded separately, the editor must synchronize them.

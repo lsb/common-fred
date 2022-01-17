@@ -1,0 +1,1 @@
+Each word must be terminated by a different termination symbol or word.

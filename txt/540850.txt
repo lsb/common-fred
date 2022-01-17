@@ -1,0 +1,1 @@
+Some performance at longer key sizes is becoming increasingly important.

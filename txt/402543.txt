@@ -1,0 +1,1 @@
+It plays a recording identifying the carrier handling long distance and international calls.

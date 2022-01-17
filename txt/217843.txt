@@ -1,0 +1,1 @@
+Data erasure is term that refers to software-based methods of preventing file undeletion.

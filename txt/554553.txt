@@ -1,0 +1,1 @@
+Tetrahedral numbers can be modelled by stacking spheres.

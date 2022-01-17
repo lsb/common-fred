@@ -1,0 +1,1 @@
+Used to designate the lowest level of virtualization or the absence of virtualization.

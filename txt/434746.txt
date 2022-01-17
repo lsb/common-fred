@@ -1,0 +1,1 @@
+Lifetime limits are much more restrictive than consecutive limits.

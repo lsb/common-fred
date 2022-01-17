@@ -1,0 +1,1 @@
+However, this no longer works when S-Video signals are used.

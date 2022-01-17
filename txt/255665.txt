@@ -1,0 +1,1 @@
+Furthermore, the length of the resulting code stream gets measured.

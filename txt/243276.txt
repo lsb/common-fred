@@ -1,0 +1,1 @@
+Files may be deleted one-by-one, or a whole directory tree may be deleted.

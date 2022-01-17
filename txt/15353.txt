@@ -1,0 +1,1 @@
+"An additional signal can enable a ""Ghost Cancellation"" feature."

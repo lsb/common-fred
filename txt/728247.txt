@@ -1,0 +1,1 @@
+This distance is a metric on the collection of all finite sets.

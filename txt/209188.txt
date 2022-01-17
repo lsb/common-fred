@@ -1,0 +1,1 @@
+Coincidence events can be grouped into projection images, called sinograms.

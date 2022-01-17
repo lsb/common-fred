@@ -1,0 +1,1 @@
+Magnetic-hydraulic breakers incorporate a hydraulic time delay feature using a viscous fluid.

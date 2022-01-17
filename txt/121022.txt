@@ -1,0 +1,1 @@
+A Klein bottle is homeomorphic to the connected sum of two projective planes.

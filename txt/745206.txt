@@ -1,0 +1,1 @@
+This will cause a darkening or brightening of the image.

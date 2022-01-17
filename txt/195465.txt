@@ -1,0 +1,1 @@
+Bucket sort is a generalization of pigeonhole sort.

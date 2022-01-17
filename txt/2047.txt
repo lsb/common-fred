@@ -1,0 +1,1 @@
+"""Echinococcus"" eggs contain an embryo that is called an oncosphere or hexcanth."

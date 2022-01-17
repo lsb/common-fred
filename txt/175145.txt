@@ -1,0 +1,1 @@
+Associated with the screen resolution and refresh rate is a display adapter.

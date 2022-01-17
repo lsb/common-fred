@@ -1,0 +1,1 @@
+"""It's the same swing every time"", former teammate Lance Berkman once said."

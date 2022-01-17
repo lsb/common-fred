@@ -1,0 +1,1 @@
+Each power has a score rated in terms of a particular attribute.

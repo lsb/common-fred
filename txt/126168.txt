@@ -1,0 +1,1 @@
+A generalization is the k-common substring problem.

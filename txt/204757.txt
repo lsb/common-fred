@@ -1,0 +1,1 @@
+Changes in sales volume influence the outcome of the days sales outstanding calculation.

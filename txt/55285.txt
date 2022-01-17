@@ -1,0 +1,1 @@
+"It specifies various ""objects"" allowing out the algorithm to operate in a proper way."

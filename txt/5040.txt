@@ -1,0 +1,1 @@
+"""MythBusters"" concluded that using a thermal lance for safe-cracking is plausible, but impractical."

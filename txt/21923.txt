@@ -1,0 +1,1 @@
+"But while ed's commands are line-oriented, sam's are selection-oriented."

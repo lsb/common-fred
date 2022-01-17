@@ -1,0 +1,1 @@
+"""Samira"" is the feminine spelling."

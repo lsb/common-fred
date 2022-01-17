@@ -1,0 +1,1 @@
+Crawl budget is an estimation of how often a website is updated.

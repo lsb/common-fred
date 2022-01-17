@@ -1,0 +1,1 @@
+"If Wieferich number ""n"" is prime, then it is a Wieferich prime."

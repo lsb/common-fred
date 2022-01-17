@@ -1,0 +1,1 @@
+It is equivalent to, and sometimes called, the z-transform of the probability mass function.

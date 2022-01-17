@@ -1,0 +1,1 @@
+Each faction also has its own home planet and capital ship type.

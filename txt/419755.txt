@@ -1,0 +1,1 @@
+Its uses range from corpora exploration to the development of fully functional automatic analysers.

@@ -1,0 +1,1 @@
+Given two distinct points, there is a unique double line through them.

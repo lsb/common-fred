@@ -1,0 +1,1 @@
+When reformatting output, pretty-printing is expected to be idempotent.

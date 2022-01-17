@@ -1,0 +1,1 @@
+Risk reversal means simultaneously buying a call option and selling a put option.

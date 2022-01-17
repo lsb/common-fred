@@ -1,0 +1,1 @@
+"""Graduation"" received widely positive reviews from critics."

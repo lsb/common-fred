@@ -1,0 +1,1 @@
+The second bridge carries southbound traffic, with the original bridge carrying northbound traffic only.

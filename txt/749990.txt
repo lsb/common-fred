@@ -1,0 +1,1 @@
+Tickets are valid for all service, restricted by time and fare zones.

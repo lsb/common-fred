@@ -1,0 +1,1 @@
+The shape extension allows defining two independent shapes for these two regions.

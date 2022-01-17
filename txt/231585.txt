@@ -1,0 +1,1 @@
+Each programming language has its own rules on how types can be converted.

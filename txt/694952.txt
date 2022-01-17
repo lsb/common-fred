@@ -1,0 +1,1 @@
+There are trade-offs between increasing either the temperature or exposure time.

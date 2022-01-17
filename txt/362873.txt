@@ -1,0 +1,1 @@
+In the expression above, the enthalpic response is described as a linear Hookian spring.

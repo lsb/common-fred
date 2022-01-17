@@ -1,0 +1,1 @@
+It is a discrete version of the Duffing equation.

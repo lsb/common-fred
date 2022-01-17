@@ -1,0 +1,1 @@
+The double-click timing delay can usually be configured by the user.

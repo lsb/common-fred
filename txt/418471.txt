@@ -1,0 +1,1 @@
+Its observation probabilities are computed as a product of pixel probabilities.

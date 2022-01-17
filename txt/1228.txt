@@ -1,0 +1,1 @@
+"""Car Wheels on a Gravel Road"" received widespread acclaim from critics."

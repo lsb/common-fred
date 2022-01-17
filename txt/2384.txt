@@ -1,0 +1,1 @@
+"""Fishing"" is allowed, by paid permit, on Pen Ponds from mid-June to mid-March."

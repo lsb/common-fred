@@ -1,0 +1,1 @@
+Input from the telescope is fed to the processor via a fiber optic cable.

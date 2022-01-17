@@ -1,0 +1,1 @@
+Only wrestlers with at least seven eliminations are shown.

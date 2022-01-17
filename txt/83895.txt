@@ -1,0 +1,1 @@
+"The ""q""-exponential is a deformation of the exponential function using the real parameter ""q""."

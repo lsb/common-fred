@@ -1,0 +1,1 @@
+Before the critical radius is reached any added insulation increases heat transfer.

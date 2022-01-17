@@ -1,0 +1,1 @@
+A certificate authority can issue multiple certificates in the form of a tree structure.

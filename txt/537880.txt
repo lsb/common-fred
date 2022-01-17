@@ -1,0 +1,1 @@
+Some advanced knowledge is required to apply this fix to programs not already patched.

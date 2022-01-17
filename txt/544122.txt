@@ -1,0 +1,1 @@
+Spammers send fake visits to Google Analytics, often without ever accessing the affected site.

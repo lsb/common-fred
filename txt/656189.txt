@@ -1,0 +1,1 @@
+The repolarization phase usually returns the membrane potential back to the resting membrane potential.

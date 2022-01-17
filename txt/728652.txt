@@ -1,0 +1,1 @@
+This enables the following features: persistence, multiple windows, and session sharing.

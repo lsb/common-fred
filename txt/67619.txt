@@ -1,0 +1,1 @@
+"Notation used in this discussion is as in Flannery's original paper."

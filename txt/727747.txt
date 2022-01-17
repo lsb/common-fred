@@ -1,0 +1,1 @@
+This curve can be used to calculate enthalpies of transitions.

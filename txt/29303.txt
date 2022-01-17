@@ -1,0 +1,1 @@
+"Exponential moving averages highlight recent changes in a stock's price."

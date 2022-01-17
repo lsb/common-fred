@@ -1,0 +1,1 @@
+"The ""server"" is the computer that will perform the authentication."

@@ -1,0 +1,1 @@
+"""Pollack"" received a depth charge attack and was lightly damaged."

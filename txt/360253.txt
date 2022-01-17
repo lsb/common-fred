@@ -1,0 +1,1 @@
+In robotics terms, not all paths in the task space are holonomic.

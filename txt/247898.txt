@@ -1,0 +1,1 @@
+For example, a team might divide their developers between the front-end and the back-end.

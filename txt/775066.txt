@@ -1,0 +1,1 @@
+What would the expectation value of the mutual information be?

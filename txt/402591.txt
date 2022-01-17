@@ -1,0 +1,1 @@
+It predominantly methylates hemimethylated CpG di-nucleotides in the mammalian genome.

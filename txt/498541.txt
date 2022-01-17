@@ -1,0 +1,1 @@
+Privilege escalation means a user receives privileges they are not entitled to.

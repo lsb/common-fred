@@ -1,0 +1,1 @@
+A common use of tablespaces is to optimize performance.

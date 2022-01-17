@@ -1,0 +1,1 @@
+Every non-empty well-ordered set has a least element.

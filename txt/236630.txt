@@ -1,0 +1,1 @@
+Eratosthenes proposed a simple algorithm for finding prime numbers.

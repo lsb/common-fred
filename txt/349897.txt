@@ -1,0 +1,1 @@
+If the runner missed all three, the gate automatically opened after five seconds.

@@ -1,0 +1,1 @@
+Komi is an agglutinative language and adheres to a subject-object-verb order.

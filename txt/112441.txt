@@ -1,0 +1,1 @@
+"This trait gives the turtle one of its other common names, ""stinker""."

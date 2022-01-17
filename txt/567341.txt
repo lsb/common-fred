@@ -1,0 +1,1 @@
+The Lebesgue outer measure on R is an example of a Borel regular measure.

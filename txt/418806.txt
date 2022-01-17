@@ -1,0 +1,1 @@
+Its primary use is for distribution of the Python project software.

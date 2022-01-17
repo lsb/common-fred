@@ -1,0 +1,1 @@
+A tree is accepted if every branch can be gone through this way.

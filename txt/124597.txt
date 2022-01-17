@@ -1,0 +1,1 @@
+A distributed memory computer consists of a collection of independent computers, called nodes.

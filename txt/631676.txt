@@ -1,0 +1,1 @@
+The main parameters are the gap opening penalty, and the gap extension penalty.

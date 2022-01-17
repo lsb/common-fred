@@ -1,0 +1,1 @@
+"""Teve Guia""'s main competitors are ""Artistas"", ""Estrella"", ""Estrellita"", and ""Vea""."

@@ -1,0 +1,1 @@
+Glauber is based in two procedures: Form-Class and Determine-Quantifier.

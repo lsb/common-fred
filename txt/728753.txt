@@ -1,0 +1,1 @@
+This ensures that expansion rate precisely matches the energy density.

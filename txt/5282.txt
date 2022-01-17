@@ -1,0 +1,1 @@
+"""Norwegian Spirit"" is the first ship of this design."

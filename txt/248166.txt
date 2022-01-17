@@ -1,0 +1,1 @@
+For example, the jQuery JavaScript library is included in Ruby on Rails.

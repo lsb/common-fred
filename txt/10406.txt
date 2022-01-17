@@ -1,0 +1,1 @@
+"A derivation starts with an initial tree, combining via either ""substitution"" or ""adjunction""."

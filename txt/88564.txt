@@ -1,0 +1,1 @@
+"The bar of the ""A"" consists of a line of four stars."

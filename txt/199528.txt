@@ -1,0 +1,1 @@
+By default, TimesTen operates in non-durable commit mode.

@@ -1,0 +1,1 @@
+"As an 'A' route concurrent with its parents, this segment is not posted."

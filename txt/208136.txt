@@ -1,0 +1,1 @@
+Clearing clusters with bonus stars causes nearby locked pieces to become unlocked.

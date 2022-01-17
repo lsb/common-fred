@@ -1,0 +1,1 @@
+The class of Ulam numbers is closed under the cardinal successor operation.

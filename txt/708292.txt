@@ -1,0 +1,1 @@
+These simple ciphers and examples are easy to crack, even without plaintext-ciphertext pairs.

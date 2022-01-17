@@ -1,0 +1,1 @@
+A Slim Devices plugin for Logitech Media Server is available.

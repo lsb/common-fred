@@ -1,0 +1,1 @@
+If the progress bar depletes completely, the player is given a Game Over.

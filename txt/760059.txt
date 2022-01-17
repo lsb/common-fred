@@ -1,0 +1,1 @@
+Two programs were allowed on each tape: primary and alternate.

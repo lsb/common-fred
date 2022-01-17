@@ -1,0 +1,1 @@
+Multiple cells can be configured to communicate and share resources with each other.

@@ -1,0 +1,1 @@
+This difference is large for highly mobile users and small cell sizes.

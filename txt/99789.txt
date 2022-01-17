@@ -1,0 +1,1 @@
+"The ring ""S"" used above is just a completion of this Hopf algebra."

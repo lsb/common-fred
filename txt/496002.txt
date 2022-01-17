@@ -1,0 +1,1 @@
+Position and time of arrival are recorded for each detected photon.

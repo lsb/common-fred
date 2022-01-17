@@ -1,0 +1,1 @@
+"A measurement system is considered ""valid"" if it is both ""accurate"" and ""precise""."

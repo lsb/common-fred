@@ -1,0 +1,1 @@
+"Since the spheromak's magnetic confinement is self-generated, no external magnet coils are required."

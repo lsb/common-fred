@@ -1,0 +1,1 @@
+These often arise when discretising one-dimensional problems.

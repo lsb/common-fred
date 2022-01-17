@@ -1,0 +1,1 @@
+They usually cannot beat the performance of hardware-only solutions for symmetric key operations.

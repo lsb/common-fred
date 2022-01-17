@@ -1,0 +1,1 @@
+"""Fire Emblem Gaiden"" is a tactical role-playing game set on the continent of Valentia."

@@ -1,0 +1,1 @@
+"Gameplay is generally resolved through a series of ""scenes""."

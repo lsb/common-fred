@@ -1,0 +1,1 @@
+It could also interpolate, or morph, between two different shapes.

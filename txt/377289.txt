@@ -1,0 +1,1 @@
+It further allowed recovery from some intermittent-style software failures.

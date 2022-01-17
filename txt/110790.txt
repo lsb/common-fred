@@ -1,0 +1,1 @@
+"This introduces ambiguities and doesn't work well for all clickable elements."

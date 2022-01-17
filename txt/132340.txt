@@ -1,0 +1,1 @@
+A news studio might have multiple cameras and few camera movements.

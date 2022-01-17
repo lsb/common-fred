@@ -1,0 +1,1 @@
+That can be determined by evaluating the quadratic term of a divided difference formula.

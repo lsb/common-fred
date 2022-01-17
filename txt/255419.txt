@@ -1,0 +1,1 @@
+Further, it does not incorporate mean reversion.

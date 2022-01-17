@@ -1,0 +1,1 @@
+The axiom of power set appears in most axiomatizations of set theory.

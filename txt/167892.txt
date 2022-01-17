@@ -1,0 +1,1 @@
+Any decent editor can show you line numbers and let you jump to a specific line.

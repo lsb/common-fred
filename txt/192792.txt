@@ -1,0 +1,1 @@
+Both typed and untyped pointers are also supported, along with typecasting.

@@ -1,0 +1,1 @@
+"Typically, only the object's own methods can directly inspect or manipulate its fields."

@@ -1,0 +1,1 @@
+If a list of files is provided, both individual file and total statistics follow.

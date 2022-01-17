@@ -1,0 +1,1 @@
+Additionally it sends out sea weather reports as radioteletype and faxes.

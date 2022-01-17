@@ -1,0 +1,1 @@
+In the case of cdecl, the function name is merely prefixed by an underscore.

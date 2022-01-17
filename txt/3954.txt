@@ -1,0 +1,1 @@
+"""Itchy and Scratchy in Miniature Golf Madness"" is a side-scrolling action game."

@@ -1,0 +1,1 @@
+"""Kamchadal"" is the name given to the original inhabitants of the Kamchatka Peninsula."

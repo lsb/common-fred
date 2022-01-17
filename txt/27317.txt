@@ -1,0 +1,1 @@
+"During combat, the player gives battle orders with menu's for each character in turn."

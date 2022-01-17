@@ -1,0 +1,1 @@
+The player must fight it while avoiding being eaten.

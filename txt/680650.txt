@@ -1,0 +1,1 @@
+The two types of signs are static and dynamic.

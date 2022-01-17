@@ -1,0 +1,1 @@
+PhpGedView previously had an integration module for Joomla which has since been discontinued.

@@ -1,0 +1,1 @@
+Guards in a list of cases are typically parallel.

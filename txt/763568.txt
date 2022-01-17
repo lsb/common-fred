@@ -1,0 +1,1 @@
+Unstructured and semi-structured data have different meanings depending on their context.

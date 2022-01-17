@@ -1,0 +1,1 @@
+Synthesizing the addresses of Actors is usually modeled using mapping.

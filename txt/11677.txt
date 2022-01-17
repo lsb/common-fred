@@ -1,0 +1,1 @@
+"A thrust vector control unit fitted to the rocket motor increases the missile's agility."

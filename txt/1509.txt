@@ -1,0 +1,1 @@
+"""Common One"" was not well received by critics."

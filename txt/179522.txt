@@ -1,0 +1,1 @@
+Audacious is the default audio player in Lubuntu and in Ubuntu Studio.

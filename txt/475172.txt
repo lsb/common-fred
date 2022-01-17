@@ -1,0 +1,1 @@
+On every iteration, nodes inform all neighboring nodes of the new edge data.

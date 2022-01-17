@@ -1,0 +1,1 @@
+The individual heuristics are weighted according to their importance.

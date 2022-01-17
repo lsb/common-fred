@@ -1,0 +1,1 @@
+"Lamport's research contributions have laid the foundations of the theory of distributed systems."

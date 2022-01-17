@@ -1,0 +1,1 @@
+Today, nearly every finite element solver available is based on the direct stiffness method.

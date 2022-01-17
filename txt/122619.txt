@@ -1,0 +1,1 @@
+A bus service connects with the station.

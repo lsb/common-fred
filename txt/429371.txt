@@ -1,0 +1,1 @@
+Lambda-style programming builds a new program from the result-value by lambda-abstracting the value variables.

@@ -1,0 +1,1 @@
+When operating at a high bandwidth, signal integrity limitations constrain the clock frequency.

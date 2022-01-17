@@ -1,0 +1,1 @@
+The player who first achieves his personal victory conditions wins the game.

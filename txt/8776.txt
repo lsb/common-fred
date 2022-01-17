@@ -1,0 +1,1 @@
+"""Vigo"" was built by Fairfield Shipbuilding and Engineering Company of Govan."

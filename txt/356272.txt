@@ -1,0 +1,1 @@
+In early production, ferrite core memory was used.

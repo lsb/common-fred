@@ -1,0 +1,1 @@
+Appenders use Layouts to format log entries.

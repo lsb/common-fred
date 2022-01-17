@@ -1,0 +1,1 @@
+Some of these can be smoothly modeled in Euclidean space, and others cannot.

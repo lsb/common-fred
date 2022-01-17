@@ -1,0 +1,1 @@
+By varying the offset time, different levels of quality of service can be provided.

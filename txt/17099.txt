@@ -1,0 +1,1 @@
+"As a counterexample, take ""f"" to be the indicator function of some equidistributed sequence."

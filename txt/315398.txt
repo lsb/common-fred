@@ -1,0 +1,1 @@
+Heavily-traded stocks are given smaller tick sizes.

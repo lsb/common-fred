@@ -1,0 +1,1 @@
+Thus the size of the altered code is the same as the original code.

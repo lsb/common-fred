@@ -1,0 +1,1 @@
+A meta-compiler written from scratch in E, can compile itself, supports multiple targets.

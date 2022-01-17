@@ -1,0 +1,1 @@
+Examples include enclosed gear drives operating at low speeds and open gearing.

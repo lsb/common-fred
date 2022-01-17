@@ -1,0 +1,1 @@
+Controller boards are embedded with firmware to manage the thermal printer mechanisms.

@@ -1,0 +1,1 @@
+Naturally, there is also the ubiquitous tradeoff of speed versus quality of estimation.

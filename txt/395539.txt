@@ -1,0 +1,1 @@
+It is similar to the product of sums form used in circuit theory.

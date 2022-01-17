@@ -1,0 +1,1 @@
+SpaceWire supports highly fault-tolerant networks and systems, which is one reason for its popularity.

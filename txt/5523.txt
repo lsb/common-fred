@@ -1,0 +1,1 @@
+"""Onegin"" was the company's first ever production to be performed in Russian."

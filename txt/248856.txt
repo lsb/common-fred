@@ -1,0 +1,1 @@
+For monthly cooling and heating degree days, assuming a normal distribution is usually warranted.

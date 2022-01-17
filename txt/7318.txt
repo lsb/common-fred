@@ -1,0 +1,1 @@
+"""Teleoceras"" is the most common fossil in the Ashfall Fossil Beds of Nebraska."

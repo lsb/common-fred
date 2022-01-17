@@ -1,0 +1,1 @@
+Ares also uses hashlinks for its chatrooms and its direct chat tool.

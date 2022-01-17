@@ -1,0 +1,1 @@
+Imprecise movement can cause a dragging when the user just wants to select.

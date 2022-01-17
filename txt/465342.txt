@@ -1,0 +1,1 @@
+New features included Bluetooth, voice recording, and video capture with sound.

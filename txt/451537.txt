@@ -1,0 +1,1 @@
+MetroLink uses a proof-of-payment system.

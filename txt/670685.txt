@@ -1,0 +1,1 @@
+The strong host model provides better security.

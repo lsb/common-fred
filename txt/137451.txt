@@ -1,0 +1,1 @@
+A theme can be large enough to be a plot component.

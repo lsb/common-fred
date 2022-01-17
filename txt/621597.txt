@@ -1,0 +1,1 @@
+The higher the score, the higher the probability that the message is spam.

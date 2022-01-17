@@ -1,0 +1,1 @@
+For example, a homomorphism of topological groups is often required to be continuous.

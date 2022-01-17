@@ -1,0 +1,1 @@
+"An important property of a lock is its ""granularity""."

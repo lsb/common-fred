@@ -1,0 +1,1 @@
+Each shared taxi route has its own schedule.

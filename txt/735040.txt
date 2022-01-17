@@ -1,0 +1,1 @@
+This leads to the agent and object being in the same case.

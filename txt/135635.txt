@@ -1,0 +1,1 @@
+A similar approach, the quasi-Monte Carlo method, uses low-discrepancy sequences.

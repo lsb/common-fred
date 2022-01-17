@@ -1,0 +1,1 @@
+"""Frindle"" was Clements's first novel."

@@ -1,0 +1,1 @@
+These include Kemeny-Young and ranked pairs, but not Schulze.

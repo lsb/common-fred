@@ -1,0 +1,1 @@
+In almost all applications, locally compact spaces are indeed also Hausdorff.

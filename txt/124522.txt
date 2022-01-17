@@ -1,0 +1,1 @@
+A direct sum of finite cyclic groups is periodic.

@@ -1,0 +1,1 @@
+Windows services, on the other hand, are started by Service Control Manager.

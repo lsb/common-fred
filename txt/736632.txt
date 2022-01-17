@@ -1,0 +1,1 @@
+This method allows applications to be described in terms of their overall purposes.

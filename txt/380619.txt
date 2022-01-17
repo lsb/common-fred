@@ -1,0 +1,1 @@
+It includes a crossfade editor and beat detection.

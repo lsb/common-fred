@@ -1,0 +1,1 @@
+It is possible for two players to play simultaneously, each controlling two soldiers.

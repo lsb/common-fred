@@ -1,0 +1,1 @@
+Each column represents a certain speed, measured in knots.

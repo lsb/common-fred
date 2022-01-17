@@ -1,0 +1,1 @@
+Field equations underlie wave equations, because periodically changing fields generate waves.

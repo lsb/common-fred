@@ -1,0 +1,1 @@
+It is used to represent diagrams of digital integrated circuits.

@@ -1,0 +1,1 @@
+Modern programmers use a dedicated integrated circuit for the pin drivers.

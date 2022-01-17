@@ -1,0 +1,1 @@
+The equation for Brownian motion above is a special case.

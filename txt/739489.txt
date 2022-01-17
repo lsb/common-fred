@@ -1,0 +1,1 @@
+This remains true as long as the relaxation times remain constant.

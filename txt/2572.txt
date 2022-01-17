@@ -1,0 +1,1 @@
+"""Galeola"" is of biological interest because of its exclusive myco-heterotrophic nature and its seeds."

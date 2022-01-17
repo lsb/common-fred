@@ -1,0 +1,1 @@
+Slackware packages may be used to substitute Zenwalk packages where necessary.

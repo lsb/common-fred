@@ -1,0 +1,1 @@
+In many cases, monitor mode support is not properly implemented by the vendor.

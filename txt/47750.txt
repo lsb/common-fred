@@ -1,0 +1,1 @@
+"If an enemy's Disc is destroyed, the replacement is always a regular Disc."

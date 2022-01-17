@@ -1,0 +1,1 @@
+"""Pickle in the middle"" derives from the game of baseball."

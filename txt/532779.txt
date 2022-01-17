@@ -1,0 +1,1 @@
+Similarly, the sphere and the plane are locally equivalent.

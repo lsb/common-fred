@@ -1,0 +1,1 @@
+The compiler could create tighter and faster code than its competition.

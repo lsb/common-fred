@@ -1,0 +1,1 @@
+"""Your Disco Needs You"" received critical acclaim from most music critics."

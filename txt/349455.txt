@@ -1,0 +1,1 @@
+If no parameter is given, then the calendar of the current year is displayed.

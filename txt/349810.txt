@@ -1,0 +1,1 @@
+If the mass is shallow with a virtually bed-parallel free-surface, then can be disregarded.

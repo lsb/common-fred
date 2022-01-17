@@ -1,0 +1,1 @@
+Most codecs are implemented as libraries which interface to one or more multimedia players.

@@ -1,0 +1,1 @@
+"It is read ""x-hat"" or ""x-roof"", where ""x"" represents the character under the hat."

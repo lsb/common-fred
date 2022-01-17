@@ -1,0 +1,1 @@
+Use the following simple patterns: flat grammars, one grammar per file, one file per application.

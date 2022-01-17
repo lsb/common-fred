@@ -1,0 +1,1 @@
+The most common equation used to calculate major head losses is the Darcy-Weisbach equation.

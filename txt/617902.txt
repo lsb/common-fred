@@ -1,0 +1,1 @@
+The game ends when the player runs out of bullets.

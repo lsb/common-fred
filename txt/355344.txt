@@ -1,0 +1,1 @@
+In arbitrary projections, both area and shape vary across the map.

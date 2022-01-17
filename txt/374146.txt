@@ -1,0 +1,1 @@
+It carries information about packet size, channel, and its number in sequence.

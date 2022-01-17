@@ -1,0 +1,1 @@
+"A different of one extra 'header' byte is what causes this write incompatibility."

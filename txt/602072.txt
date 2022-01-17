@@ -1,0 +1,1 @@
+The cursor would then reappear at the top of the next column.

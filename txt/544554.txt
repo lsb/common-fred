@@ -1,0 +1,1 @@
+Specifically, the harmonic oscillator potential is equal in both states.

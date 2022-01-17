@@ -1,0 +1,1 @@
+Rarely, an airport will have Mandatory Frequency Area rules, but no ground station.

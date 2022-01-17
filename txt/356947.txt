@@ -1,0 +1,1 @@
+In general, the yield strength increases with strain rate and decreases with temperature.

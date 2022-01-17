@@ -1,0 +1,1 @@
+The periodic errors of the screw were accounted for.

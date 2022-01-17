@@ -1,0 +1,1 @@
+It is most visible on point light sources because of their small visual angle.

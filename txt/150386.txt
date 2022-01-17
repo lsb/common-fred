@@ -1,0 +1,1 @@
+Again, loosely speaking, second order derivatives are related to curvature.

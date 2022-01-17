@@ -1,0 +1,1 @@
+Elevation and azimuth control is achieved by electro-hydraulic power drives.

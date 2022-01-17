@@ -1,0 +1,1 @@
+Every device connected to a computer system is a resource.

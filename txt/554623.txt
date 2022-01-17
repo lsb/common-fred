@@ -1,0 +1,1 @@
+Text mining is also being applied in stock returns prediction.

@@ -1,0 +1,1 @@
+The tag specified one of three index registers.

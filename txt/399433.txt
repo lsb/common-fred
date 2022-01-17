@@ -1,0 +1,1 @@
+It is used primarily for automated testing, but it will work perfectly for our needs, with a few tweaks.

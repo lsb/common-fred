@@ -1,0 +1,1 @@
+"A character's Wound points are equal to their Constitution score."

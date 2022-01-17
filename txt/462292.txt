@@ -1,0 +1,1 @@
+Naming of the class was somewhat erratic.

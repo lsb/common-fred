@@ -1,0 +1,1 @@
+"""Doomsday Machine"" received mixed reviews by critics."

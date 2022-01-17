@@ -1,0 +1,1 @@
+A scale connects the model with its counterpart in the real world.

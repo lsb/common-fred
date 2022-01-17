@@ -1,0 +1,1 @@
+If the fingerprints match, there is in theory, no man in the middle.

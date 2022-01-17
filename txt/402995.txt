@@ -1,0 +1,1 @@
+It ran as a single process with a small footprint.

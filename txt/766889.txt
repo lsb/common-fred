@@ -1,0 +1,1 @@
+Very generally, most of communications can be divided into connection-oriented, and connectionless.

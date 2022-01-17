@@ -1,0 +1,1 @@
+A backslash inside a tag value is represented by two adjacent backslashes.

@@ -1,0 +1,1 @@
+Grades reflect the current progress that students have made within a unit of study.

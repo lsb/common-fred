@@ -1,0 +1,1 @@
+This would cause irregular shapes of some rooms and creates dead corners.

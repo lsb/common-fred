@@ -1,0 +1,1 @@
+This allows code, tests, and documentation to evolve together.

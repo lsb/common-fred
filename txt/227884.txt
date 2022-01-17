@@ -1,0 +1,1 @@
+During rewrites, the gate oxide in the floating-gate transistors gradually accumulates trapped electrons.

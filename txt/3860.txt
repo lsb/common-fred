@@ -1,0 +1,1 @@
+"""It shall wait here,"" said Ricardo."

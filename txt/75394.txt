@@ -1,0 +1,1 @@
+"Sequences of instructions are translated from the ""source"" to the ""target"" instruction set."

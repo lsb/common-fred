@@ -1,0 +1,1 @@
+It was originally intended for use in Unix-like platforms such as Linux.

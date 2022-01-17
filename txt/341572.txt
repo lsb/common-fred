@@ -1,0 +1,1 @@
+Huffman coding is the most known algorithm for deriving prefix codes.

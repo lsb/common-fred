@@ -1,0 +1,1 @@
+This ordering is called the lexicographic depth-first search ordering.

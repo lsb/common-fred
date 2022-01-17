@@ -1,0 +1,1 @@
+Battles consist of moving static icons around a grid.

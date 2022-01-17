@@ -1,0 +1,1 @@
+The site allows registered users to create professional profiles and connect with each other.

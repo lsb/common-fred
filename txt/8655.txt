@@ -1,0 +1,1 @@
+"""United States of Whatever"" was solely written by Liam Lynch."

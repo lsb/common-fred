@@ -1,0 +1,1 @@
+Mercury is based on the logic programming language Prolog.

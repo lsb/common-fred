@@ -1,0 +1,1 @@
+The player can choose what suit is trump, or choose to play No Trump.

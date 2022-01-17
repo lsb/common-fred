@@ -1,0 +1,1 @@
+Internally, the North Island region is further subdivided into two sub-divisions: Upper and Lower.

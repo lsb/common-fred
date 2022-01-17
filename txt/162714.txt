@@ -1,0 +1,1 @@
+An important example of a totally disconnected space is the Cantor set.

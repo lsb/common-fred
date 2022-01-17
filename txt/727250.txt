@@ -1,0 +1,1 @@
+This condition simplifies the calculation but can lead to some difficulties.

@@ -1,0 +1,1 @@
+Limiting is a type of dynamic range compression.

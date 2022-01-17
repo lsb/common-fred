@@ -1,0 +1,1 @@
+Infinitesimals have long been in use by mathematicians for non-rigorous arguments in calculus.

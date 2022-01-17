@@ -1,0 +1,1 @@
+Adaptive modulation is particularly important with such a noisy channel as electrical wiring.

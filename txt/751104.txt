@@ -1,0 +1,1 @@
+To first order, an amplifying device has a fixed gain-bandwidth product.

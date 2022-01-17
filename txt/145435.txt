@@ -1,0 +1,1 @@
+After an order is chosen, the basis can be considered an ordered basis.

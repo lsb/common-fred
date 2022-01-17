@@ -1,0 +1,1 @@
+The variable resistor is adjusted until the galvanometer reads zero.

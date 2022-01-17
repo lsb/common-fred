@@ -1,0 +1,1 @@
+This environment is known today in the Mac world as Cocoa.

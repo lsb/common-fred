@@ -1,0 +1,1 @@
+Interrupt rate limiting must be carefully configured for optimum results.

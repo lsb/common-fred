@@ -1,0 +1,1 @@
+Normal distributions are symmetrical, bell-shaped distributions that are useful in describing real-world data.

@@ -1,0 +1,1 @@
+"The ""use, but no modify"" license of these files counts as non-free."

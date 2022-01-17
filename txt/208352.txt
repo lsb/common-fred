@@ -1,0 +1,1 @@
+Climbers should find the best route possible up the slope.

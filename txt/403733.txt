@@ -1,0 +1,1 @@
+It runs on the physical hardware, and creates the virtual machine environment.

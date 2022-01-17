@@ -1,0 +1,1 @@
+Blended Threats are combination of worms, trojan, virus, and other kinds of malware.

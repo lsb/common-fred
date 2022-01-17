@@ -1,0 +1,1 @@
+Candidate plaintext can then be inserted in an attempt to uncover the ciphertext matrices.

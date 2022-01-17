@@ -1,0 +1,1 @@
+The minimum Java version and implemented specification versions remain unchanged.

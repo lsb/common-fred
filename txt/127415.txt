@@ -1,0 +1,1 @@
+A hash value can be used to uniquely identify secret information.

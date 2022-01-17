@@ -1,0 +1,1 @@
+It replaces an earlier facility, dnotify, which had similar goals.

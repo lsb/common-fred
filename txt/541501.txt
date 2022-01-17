@@ -1,0 +1,1 @@
+Some specifications provide conventions for avoiding delimiter collision, others do not.

@@ -1,0 +1,1 @@
+"The terms ""supersingular"" or ""singular"" do not mean that the variety has singularites."

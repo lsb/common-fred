@@ -1,0 +1,1 @@
+QuickTime Animation uses run-length encoding and conditional replenishment for compression.

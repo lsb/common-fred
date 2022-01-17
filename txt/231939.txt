@@ -1,0 +1,1 @@
+Each telephone was connected to the exchange via one wire pair, the local loop.

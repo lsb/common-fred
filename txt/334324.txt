@@ -1,0 +1,1 @@
+However its syntax and matching abilities differs significantly from ones of ordinary regular expressions.

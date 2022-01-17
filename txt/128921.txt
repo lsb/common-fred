@@ -1,0 +1,1 @@
+A lower value indicates a higher degree of turbulence.

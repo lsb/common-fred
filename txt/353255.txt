@@ -1,0 +1,1 @@
+In a boost converter, the output voltage is always higher than the input voltage.

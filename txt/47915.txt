@@ -1,0 +1,1 @@
+"If two monomorphisms represent the same subobject of ""A"", then their domains are isomorphic."

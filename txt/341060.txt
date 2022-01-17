@@ -1,0 +1,1 @@
+However, this standard only specifies handling of text-based fields.

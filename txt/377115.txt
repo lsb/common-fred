@@ -1,0 +1,1 @@
+It follows that every finite subgroup of a Hausdorff group is discrete.

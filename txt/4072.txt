@@ -1,0 +1,1 @@
+"""Kafka's Dick"" by Alan Bennett, was rewritten by Bennett for performance at the Etcetera."

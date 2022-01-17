@@ -1,0 +1,1 @@
+Maemo is a modified version of Debian.

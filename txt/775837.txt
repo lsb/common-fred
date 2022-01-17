@@ -1,0 +1,1 @@
+When a program supports plug-ins, it enables customization.

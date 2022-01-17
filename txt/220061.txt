@@ -1,0 +1,1 @@
+Derivative algebras provide an algebraic abstraction of the derived set operator in topology.

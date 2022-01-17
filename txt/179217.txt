@@ -1,0 +1,1 @@
+Atmosphere is not modeled and all planetary surfaces are treated as flat spheres.

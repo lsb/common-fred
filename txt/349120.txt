@@ -1,0 +1,1 @@
+If a player stops on their own character space, they gain five Coins.

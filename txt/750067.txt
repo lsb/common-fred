@@ -1,0 +1,1 @@
+Ties based on co-occurrence can then be used to construct semantic networks.

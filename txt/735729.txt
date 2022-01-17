@@ -1,0 +1,1 @@
+This lower complexity, however, bears the cost of marginally reduced speech quality.

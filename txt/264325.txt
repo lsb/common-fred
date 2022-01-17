@@ -1,0 +1,1 @@
+Hardware compatibility layers involve tools that allow hardware emulation.

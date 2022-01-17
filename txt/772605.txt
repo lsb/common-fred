@@ -1,0 +1,1 @@
+Weight varies with fuel burn and changes of payload.

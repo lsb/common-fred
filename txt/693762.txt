@@ -1,0 +1,1 @@
+There are other constructions to handle cases that are awkward in purely structured programming.

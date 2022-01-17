@@ -1,0 +1,1 @@
+The latter algorithms are required for transcendental trigonometric constants, however.

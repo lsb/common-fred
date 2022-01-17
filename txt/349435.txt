@@ -1,0 +1,1 @@
+If multiple bonus applies, only the highest one counts.

@@ -1,0 +1,1 @@
+Divided differences is a recursive division process.

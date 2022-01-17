@@ -1,0 +1,1 @@
+Vickrey auctions are much studied in economic literature but uncommon in practice.

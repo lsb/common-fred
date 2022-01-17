@@ -1,0 +1,1 @@
+Similarly, two boundaries of a single manifold can be glued together.

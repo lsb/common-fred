@@ -1,0 +1,1 @@
+Players, upon completion of their first stage, are prompted to enter a character name.

@@ -1,0 +1,1 @@
+Key design parameters for audio power amplifiers are frequency response, gain, noise, and distortion.

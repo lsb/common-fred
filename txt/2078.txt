@@ -1,0 +1,1 @@
+"""Elachistodon westermanni"" exclusively feeds on bird eggs that lack embryonic growth."

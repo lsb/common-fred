@@ -1,0 +1,1 @@
+In this case, the logical address may be referred to as a virtual address.

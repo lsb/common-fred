@@ -1,0 +1,1 @@
+It describes the frequency difference between adjacent allocations in a frequency plan.

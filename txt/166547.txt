@@ -1,0 +1,1 @@
+Another example of a weighted mean is the weighted harmonic mean.

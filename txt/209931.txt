@@ -1,0 +1,1 @@
+Combinatorics is commonly employed to study percolation thresholds.

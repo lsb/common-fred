@@ -1,0 +1,1 @@
+Modern wireless services have latency comparable to other terrestrial broadband networks.

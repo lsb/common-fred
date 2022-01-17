@@ -1,0 +1,1 @@
+In an arbitrary topological space, comparing the sizes of neighborhoods may not be possible.

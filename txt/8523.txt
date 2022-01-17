@@ -1,0 +1,1 @@
+"""Tribulus"" species are perennial, but some grow as annuals in colder climates."

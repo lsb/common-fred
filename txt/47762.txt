@@ -1,0 +1,1 @@
+"If equality holds true in this estimate, ""R"" is called a regular local ring."

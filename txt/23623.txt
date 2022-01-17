@@ -1,0 +1,1 @@
+"Clients are not allowed to send data without the master's invitation."

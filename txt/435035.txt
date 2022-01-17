@@ -1,0 +1,1 @@
+Like a square wave, the triangle wave contains only odd harmonics, demonstrating odd symmetry.

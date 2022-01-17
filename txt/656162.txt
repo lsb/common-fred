@@ -1,0 +1,1 @@
+The repeat rate control was used for adjusting the repeat times of the echoes.

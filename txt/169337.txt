@@ -1,0 +1,1 @@
+Area cartograms may be contiguous or noncontiguous.

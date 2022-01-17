@@ -1,0 +1,1 @@
+The players alternate rolling the dice and, if possible, moving.

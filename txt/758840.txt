@@ -1,0 +1,1 @@
+Two hand controls are used to select new displays and to refine targeting information.

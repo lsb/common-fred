@@ -1,0 +1,1 @@
+In optics, AoA is considered from the perspective of interferometry.

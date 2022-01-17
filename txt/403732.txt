@@ -1,0 +1,1 @@
+It runs on the major desktop platforms and some of the mobile platforms.

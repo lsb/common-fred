@@ -1,0 +1,1 @@
+Preference lists are reduced as algorithm proceeds.

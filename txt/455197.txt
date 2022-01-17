@@ -1,0 +1,1 @@
+More precisely, the images of open sets in the Zariski topology are again open.

@@ -1,0 +1,1 @@
+Prova is derived from Mandarax, a Java-based inference system developed by Jens Dietrich.

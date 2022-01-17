@@ -1,0 +1,1 @@
+Worst case query and delete complexity are thus identical to the R-Tree.

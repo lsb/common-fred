@@ -1,0 +1,1 @@
+"When a party member attacks, his or her ""Boost Gauge"" increases."

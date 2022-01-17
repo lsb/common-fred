@@ -1,0 +1,1 @@
+Being-taller-than is a relation between the two structures.

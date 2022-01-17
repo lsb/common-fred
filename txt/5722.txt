@@ -1,0 +1,1 @@
+"""People"" magazine reported that the breakup was caused by career demands."

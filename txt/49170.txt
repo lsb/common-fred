@@ -1,0 +1,1 @@
+"In addition, prototype implementations of Saffron are optimized for Clairvoyante's PenTile patterns."

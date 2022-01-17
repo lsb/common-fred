@@ -1,0 +1,1 @@
+The player directly controls Arran from a third person perspective.

@@ -1,0 +1,1 @@
+Beyond that point, the bullet lost velocity very quickly.

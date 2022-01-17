@@ -1,0 +1,1 @@
+This equation can be estimated using ordinary least squares.

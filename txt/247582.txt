@@ -1,0 +1,1 @@
+For any model of computation there exist simple analogs of the busy beaver.

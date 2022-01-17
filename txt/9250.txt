@@ -1,0 +1,1 @@
+"""Yearly Meeting"" is usually the name given to the annual gathering of British Quakers."

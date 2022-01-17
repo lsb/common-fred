@@ -1,0 +1,1 @@
+A Garden of Eden is defined to be a configuration with zero predecessors.

@@ -1,0 +1,1 @@
+The operators involved are the same as linear filters.

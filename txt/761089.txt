@@ -1,0 +1,1 @@
+Typical examples include operation below the maximum power rating, current rating, or voltage rating.

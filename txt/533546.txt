@@ -1,0 +1,1 @@
+Since the quadratic form is a scalar, so is its expectation.

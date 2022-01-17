@@ -1,0 +1,1 @@
+By developing in iterations, software projects can limit effort wasted to a single iteration.

@@ -1,0 +1,1 @@
+This created greater resiliency for the hammer.

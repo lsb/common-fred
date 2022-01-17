@@ -1,0 +1,1 @@
+In most cases, helical antennas are mounted over a ground plane.

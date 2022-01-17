@@ -1,0 +1,1 @@
+"Maxwell's equations can be written in the form of a wave equation with sources."

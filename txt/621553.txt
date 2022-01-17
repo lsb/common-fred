@@ -1,0 +1,1 @@
+The high-gain antenna is flat to prevent heat from building up in it.

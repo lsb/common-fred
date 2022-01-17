@@ -1,0 +1,1 @@
+This also allows users to better test and compare software.

@@ -1,0 +1,1 @@
+The aim is to determine whether a claim is well founded.
